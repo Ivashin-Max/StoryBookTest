@@ -1,0 +1,221 @@
+{
+  "leadText": {
+    "title": "Special Account",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "Services"
+        },
+        {
+          "text": "For suppliers",
+          "href": "/services/service-suppliers"
+        },
+        {
+          "text": "Special Account",
+          "href": "/services-specAccount"
+        }
+      ]
+    }
+  },
+  "bannerSlide": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/banner/spec375.jpg",
+          "sources": [
+            {
+              "src": "/images/banner/spec.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/banner/spec768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "A favorable offer for procurement participants from the partner banks",
+        "text": [
+          "Open a special account in the partner bank of ETP TEK-Torg and get up to 9.05% on the balance for three months"
+        ],
+        "modal": [
+          {
+            "title": "Submit a Request",
+            "id": "ServicesFormWithTitle"
+          }
+        ]
+      }
+    ]
+  },
+  "bannerText": {
+    "title": "Why do you need a special account?",
+    "text": [
+      "From October 1, 2018, funds intended to secure applications are deposited into special accounts opened in the authorized banks.",
+      "After October 1, 2018, suppliers use a special account to deposit funds to secure applications for participation in open procedures at any of the 8 authorized sites."
+    ]
+  },
+  "example2": {
+    "title": "List of venues:",
+    "items": [
+      "The electronic trading platform TEK-Torg",
+      "Sberbank - Automated trading system",
+      "Agency for the State Order of the Republic of Tatarstan",
+      "The electronic trading platform GazpromBank",
+      "The electronic trading platform Russian Auction House",
+      "National electronic platform",
+      "Unified electronic trading platform",
+      "Electronic platform of Russia RTS-tender"
+    ]
+  },
+  "customerCardSlid": {
+    "title": "List of authorized banks (approved by the Government of the Russian Federation No. 1451-r dated July 13, 2018):",
+    "items": [
+      {
+        "title": "Sber",
+        "image": "/images/index/customers-slider/sber.png"
+      },
+      {
+        "title": "VTB",
+        "image": "/images/index/customers-slider/vtb.png"
+      },
+      {
+        "title": "Gazprom",
+        "image": "/images/index/customers-slider/gazprom.png"
+      },
+      {
+        "title": "Rosselhoz",
+        "image": "/images/index/customers-slider/rosselhoz.png"
+      },
+      {
+        "title": "Alfa",
+        "image": "/images/index/customers-slider/alfa.png"
+      },
+      {
+        "title": "Msk",
+        "image": "/images/index/customers-slider/mk.png"
+      },
+      {
+        "title": "Otkritie",
+        "image": "/images/index/customers-slider/otkrytie.png"
+      },
+      {
+        "title": "Raiffesen BANK",
+        "image": "/images/index/customers-slider/raiffeisen.png"
+      },
+      {
+        "title": "RosBank",
+        "image": "/images/index/customers-slider/rosbank.png"
+      },
+      {
+        "title": "All-Russian Regional Development Bank",
+        "image": "/images/index/customers-slider/razvitie.png"
+      },
+      {
+        "title": "Promsvyazbank",
+        "image": "/images/index/customers-slider/promsvyaz.png"
+      },
+      {
+        "title": "Bank Russia",
+        "image": "/images/index/customers-slider/rossia.png"
+      },
+      {
+        "title": "Bank SPB",
+        "image": "/images/index/customers-slider/spb.png"
+      },
+      {
+        "title": "Sovkombank",
+        "image": "/images/index/customers-slider/sovkom.png"
+      },
+      {
+        "title": "RNKB",
+        "image": "/images/index/customers-slider/rnkb.png"
+      },
+      {
+        "title": "RosEuroBank",
+        "image": "/images/index/customers-slider/roseuro.png"
+      },
+      {
+        "title": "OTP",
+        "image": "/images/index/customers-slider/otp.png"
+      },
+      {
+        "title": "UniCredit",
+        "image": "/images/index/customers-slider/uni.png"
+      }
+    ]
+  },
+  "example3": {
+    "wrapper": {
+      "name": "Terms of account service"
+    },
+    "cards": {
+      "cardsBottom": [
+        {
+          "head": {
+            "number": "0",
+            "text": "rub"
+          },
+          "items": [
+            {
+              "text": "The client opens a special account of the procurement participant. Within 3 months from the date of opening of the special account, the Bank pays an interest on the actual balance on the special account at a floating rate of Ruonia*0.85. As of 30.05.2022, the rate is 9.05%*. At the end of the promotion period, % on the balance on the special account of the procurement participant will be accrued in accordance with the rates in the tariff plan."
+            }
+          ]
+        },
+        {
+          "head": {
+            "number": "9,05%",
+            "text": "Up to"
+          },
+          "items": [
+            {
+              "text": "To the balance of funds on the account<br/>Quick opening of a special account and free service"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "three": {
+    "title": "How do I open a special account?",
+    "items": [
+      {
+        "text": "Submit a request<br/><br/>Filling in all the fields is a prerequisite for opening an account, and do not forget to check the correctness of the data."
+      },
+      {
+        "text": "Get confirmation<br/><br/>As soon as the bank account is opened, our employee will contact you and inform you about it."
+      },
+      {
+        "text": "Participate in tenders<br/><br/>You can enjoy all the advantages of a special bank account and participate in tenders in accordance with 44-FZ."
+      }
+    ]
+  },
+  "bannerSlider": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Any questions?<br>We will help!",
+        "modal": [
+          {
+            "title": "Ask a question",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

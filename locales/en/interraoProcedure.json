@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Procurement procedures",
+                    "href": "/inter_rao/procedures"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": "/inter_rao/procedures"
+    },
+    "purchasesSlider": {
+        "title": "Similar procedures in&nbsp;other sections"
+    }
+}

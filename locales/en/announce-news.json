@@ -1,0 +1,24 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "About company",
+                    "href": "/about"
+                },
+                {
+                    "text": "News"
+                },
+                {
+                    "text": "Purchase announcements",
+                    "href":"/news-announce"
+                }
+            ]
+        },
+        "title": "Purchase announcements"
+    }
+}

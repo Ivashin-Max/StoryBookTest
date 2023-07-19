@@ -1,0 +1,49 @@
+{
+    "lead": {
+        "title": "Open requests",
+        "description": "<p>Open requests are the search for innovative, technical, and organizational solutions and ideas.</p>",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "The single window (one-stop shop)",
+                    "href": "/rosneft/edinoe_okno"
+                },
+                {
+                    "text": "Open requests",
+                    "href": "/rosneft/edinoe_okno/otkrytye_zaprosy"
+                }
+            ]
+        }
+    },
+    "banner": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/edinoe-okno/otkritie-zaprosi/banner-mobile.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/otkritie-zaprosi/banner-lg.jpeg",
+                            "breakpoint": 1280
+                        },
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/otkritie-zaprosi/banner-sm.jpg",
+                            "breakpoint": 768
+                        }
+                    ]
+                },
+                "title": ""
+            }
+        ]
+    }
+}

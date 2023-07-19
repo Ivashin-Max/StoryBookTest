@@ -1,0 +1,62 @@
+{
+  "sidebar": {
+    "header": {
+      "logo": "feedback",
+      "logoText": "Государственные закупки",
+      "description": "Электронная торговая площадка ТЭК-Торг<br>Секция Государственных закупок по 44-ФЗ",
+      "href": "#"
+    },
+    "menu": [
+      {
+        "text": "Каталог",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Процедуры реализации",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Тарифы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Документы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Продавцам",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Центр поддержки",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Услуги и сервисы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      }
+    ],
+    "banner": {
+      "title": "Цифровой помощник",
+      "image": "/images/blocks/sidebar/bg1.jpg",
+      "link": {
+        "text": "",
+        "href": "#"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "marketFullEn",
+            "description": "The electronic trading platform TEK-Torg<br> Section of small and urgent purchases",
+            "href": "/market"
+        },
+        "menu": [
+            {
+                "text": "Procurement Procedures",
+                "href": "/market/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Tariffs",
+                "href": "/market/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Documents",
+                "href": "/market/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Support Center",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "For Customers",
+                        "href": "/market/customers/help"
+                    },
+                    {
+                        "text": "For Suppliers",
+                        "href": "/market/suppliers/help"
+                    }
+                ]
+            },
+            {
+                "text": "Services",
+                "href": "/market/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

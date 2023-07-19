@@ -1,0 +1,156 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Import substitution",
+                    "href": "/rosneft/importozameshchenie"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Import substitution",
+        "description": "Rosneft OC PJSC has been implementing a Program of Localization and Import Substitution of Machinery and Technologies since 2015"
+    },
+    "infoBlockWithIcons": {
+        "sideCard": {
+            "picture": {
+                "src": "/images/infoBlockWithIcons/923.jpg",
+                "sources": [
+                    {
+                        "src": "/images/infoBlockWithIcons/923.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        },
+        "content": [
+            {
+                "text": "Development of Rosneft as a high-tech oil and gas company through the use of promising import-substituting technologies and products",
+                "iconName": "documentChecked"
+            },
+            {
+                "text": "Ensuring the technologically stable position of Rosneft in the petroleum products market by increasing the share of Russian products",
+                "iconName": "documentPencil"
+            },
+            {
+                "text": "Development of infrastructure for the implementation of projects in the field of exploration, production, processing and transportation of oil and gas through the localization of production",
+                "iconName": "bag"
+            }
+        ]
+    },
+    "infoList": {
+        "title": "Company's actions to achieve the Program Objectives:",
+        "items": [
+            {
+                "title": "Investments",
+                "text": "On a regular basis, it invests in its own import-substituting technologies and production (within the framework of the targeted innovative projects implementation)"
+            },
+            {
+                "title": "Cooperation",
+                "text": "Rosneft cooperates with the leading equipment manufacturers for the oil and gas industry"
+            },
+            {
+                "title": "Conducting tests",
+                "text": "Providing pilot testing of new equipment/technologies at the Company's sites"
+            },
+            {
+                "title": "Interaction",
+                "text": "Interacting with federal agencies on import substitution and localization."
+            },
+            {
+                "title": "Attraction<br> of companies",
+                "text": "Attracting the Companies of the Rosneft&rsquo;s Engineering Cluster Group as a priority site for manufacturing pilot batches and further equipment production"
+            },
+            {
+                "title": "Stimulation<br> of import substitution",
+                "text": "Stimulating import substitution within the framework of Rosneft procurement activities"
+            }
+        ]
+    },
+    "document": [
+        {
+            "nid": "1",
+            "title": "Minpromtorg list of product.docx",
+            "section": "",
+            "group": "Priority areas for import substitution<br> and localization of goods and services",
+            "file": "/documents/rosneft/importozameshchenie/%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9C%D0%B8%D0%BD%D0%BF%D1%80%D0%BE%D0%BC%D1%82%D0%BE%D1%80%D0%B3.docx",
+            "type": "docx",
+            "size": "48.0 КБ",
+            "date": "2021-06-30T19:59:00+03:00",
+            "statusName": "Действующий"
+        }
+    ],
+    "infoCardsWithLinks": {
+        "title": "Priority areas for import substitution and localization of goods and services",
+        "cards": {
+            "allLinks": true,
+            "sideCard": {
+                "title": "Products in the development stage",
+                "href": "/rosneft/edinoe_okno",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/infoCards/2_13_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_13_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_13_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Pilot tests at the Rosneft site",
+                    "href": "/rosneft/importozameshchenie/op_ispytaniya",
+                    "iconName": "signature",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Ready for mass production",
+                    "href": "/rosneft/importozameshchenie/serijnoe_proizaodstvo",
+                    "iconName": "file",
+                    "targetBlank": false
+                }
+            ]
+        }
+    },
+    "subjectCards": {
+        "cards": [
+            {
+                "title": "Rosneft regularly interacts with the territorial entities of the Russian Federation on import substitution and localization issues",
+                "items": [
+                    {
+                        "text": "Rosneft regularly interacts with the territorial entities of the Russian Federation on import substitution and localization issues. The company works with regional manufacturers of equipment and materials, implementing the Company's Localization and Import Substitution Program"
+                    }
+                ]
+            },
+            {
+                "head": {
+                    "number": "31",
+                    "text": "Territorial entities<br> of the Russian Federation"
+                },
+                "items": [
+                    {
+                        "text": "Participate in the Localization and Import Substitution Program of the Company"
+                    }
+                ]
+            }
+        ]
+    }
+}

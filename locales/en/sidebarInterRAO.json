@@ -1,0 +1,54 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "interRAOFullEn",
+            "description": "The electronic trading platform TEK-Torg<br> Section Procurement procedures of Inter RAO",
+            "href": "/inter_rao"
+        },
+        "menu": [
+            {
+                "text": "Procurement Procedures",
+                "href": "/inter_rao/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "For suppliers",
+                "href": "/inter_rao/ekosreda",
+                "id": "ecoEnvironment",
+                "subLinks": []
+            },
+            {
+                "text": "Tariffs",
+                "href": "/inter_rao/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Documents",
+                "href": "/inter_rao/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Support Center",
+                "href": "/inter_rao/help",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Services",
+                "href": "/inter_rao/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Partnership Program",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Partnership Program with SMEs",
+                    "href": "/inter_rao/partners"
+                }
+            ]
+        }
+    },
+    "stepsStatic": {
+        "title": "How to join<br> the Partnership Program",
+        "items": [
+            {
+                "text": "Register on the ETP TEK-Torg in the Inter RAO section"
+            },
+            {
+                "text": "After registration, log in to the ETP TEK-Torg in the Inter RAO section"
+            },
+            {
+                "text": "Apply to join the partnership program"
+            }
+        ]
+    },
+    "document": {
+        "title": "Download a brief instruction",
+        "type": "PDF",
+        "size": "1.37 MB",
+        "file": "/documents/inter-rao/partnership-program/partners_ru.pdf"
+    },
+    "tableTitle": "Register of Small and medium-sized businesses that have joined the Partnership Program",
+    "searchMessage": "Nothing found for your request",
+    "searchTitle": "Register of Small and medium-sized businesses that have joined the Partnership Program",
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter the company name",
+            "submitText": "Search"
+        }
+    }
+}

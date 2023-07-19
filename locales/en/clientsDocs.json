@@ -1,0 +1,119 @@
+{
+    "leadImg": {
+        "title": "Documents",
+        "background": {
+            "src": "/images/pages/documents/client-documents-lead-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/documents/client-documents-lead.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/documents/client-documents-lead-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "For clients"
+            },
+            {
+                "text": "Documents",
+                "href": "/clients/documents"
+            }
+        ]
+    },
+    "maindocs": {
+        "title": "General documents",
+        "iconName": "generalDocs"
+    },
+    "spoilerHeader": {
+        "title": "Procurement Procedures of Rosneft",
+        "iconName": "rosneft"
+    },
+    "head44fz": {
+        "title": "Government procurement",
+        "iconName": "44fz"
+    },
+    "headinterRao": {
+        "title": "Procurement procedures of Inter RAO",
+        "iconName": "interRAO"
+    },
+    "head223fz": {
+        "title": "223-FZ and Commercial Procurement",
+        "iconName": "fz223icon"
+    },
+    "headMarket": {
+        "title": "Market",
+        "iconName": "market"
+    },
+    "headSale": {
+        "title": "Sale of property",
+        "iconName": "sale"
+    },
+    "headUvs": {
+        "title": "Sale of petroleum products",
+        "iconName": "rosneft"
+    },
+    "headArchive": {
+        "title": "Archive",
+        "iconName": "files2"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                        "text": "Enroll",
+                        "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                        "text": "More",
+                        "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "companyFullEn",
+            "description": "The electronic trading platform TEK-Torg",
+            "href": "/about"
+        },
+        "menu": [
+            {
+                "text": "About TEK Torg",
+                "href": "/about",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "Careers",
+                "href": "/vacancy",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "Contacts and details",
+                "href": "/contacts",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "News",
+                "id": "",
+                "subLinks": [
+                    {
+                        "text": "Press center",
+                        "href": "/news-press"
+                    },
+                    {
+                        "text": "Mass media about us",
+                        "href": "/news-media"
+                    },
+                    {
+                        "text": "Important news",
+                        "href": "/news-important"
+                    },
+                    {
+                        "text": "Procurement announcements",
+                        "href": "/news-announce"
+                    }
+                ]
+            },
+            {
+                "text": "Partners",
+                "href": "/partners",
+                "id": "",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "(Online) Market",
+            "image": "/images/headerWidgets/aboutCompany.jpg",
+            "link": {
+                "href": "/market"
+            },
+            "textColor": "black"
+        }
+    }
+}

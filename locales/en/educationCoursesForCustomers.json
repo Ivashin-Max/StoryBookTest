@@ -1,0 +1,28 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Events and Courses<br> for Customers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Training"
+                },
+                {
+                    "text": "Events and Courses"
+                },
+                {
+                    "text": "Customers",
+                    "href": "/education/courses-customer"
+                }
+            ]
+        }
+    },
+    "tags": ["Events", "Courses"],
+    "calendar": {
+        "text": "Upcoming events"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "О компании",
+                    "href":"/about"
+                },
+                {
+                    "text": "Новости"
+                },
+                {
+                    "text": "Важные новости",
+                    "href":"/news-important"
+                }
+            ]
+        },
+        "title": "Важные новости"
+    }
+}

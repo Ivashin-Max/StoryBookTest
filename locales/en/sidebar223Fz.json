@@ -1,0 +1,68 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "fz223En",
+            "description": "The electronic trading platform TEK-Torg<br> Section 223-FZ and Commercial procurement",
+            "href": "/223-fz"
+        },
+        "menu": [
+            {
+                "text": "Procurement Procedures",
+                "href": "/223-fz/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Documents",
+                "href": "/223-fz/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Tariffs",
+                "href": "/223-fz/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Support Center",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "For Customers",
+                        "href": "/223-fz/help-customers"
+                    },
+                    {
+                        "text": "For Suppliers",
+                        "href": "/223-fz/help-suppliers"
+                    }
+                ]
+            },
+            {
+                "text": "Services",
+                "id": "services",
+                "subLinks": [
+                    {
+                        "text": "For 223-FZ customers",
+                        "href": "/223-fz/service-customers-223-fz"
+                    },
+                    {
+                        "text": "For commercial customers",
+                        "href": "/223-fz/service-customers"
+                    },
+                    {
+                        "text": "For Suppliers",
+                        "href": "/223-fz/service-suppliers"
+                    }
+                ]
+            }
+        ],
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

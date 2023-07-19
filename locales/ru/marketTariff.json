@@ -1,0 +1,98 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Тарифы",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Интернет-магазин",
+                    "href": "/market"
+                },
+                {
+                    "text": "Тарифы",
+                    "href": "/market/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "title": "Для заказчиков",
+            "section": "market",
+            "description": "<p>Размещение неограниченного количества заказов</p>",
+            "price": "Бесплатно"
+        },
+        {
+            "nid": "2",
+            "section": "market",
+            "title": "Для поставщиков",
+            "description": "<p>Возможность участия в неограниченном количестве закупочных процедур</p>",
+            "price": "1% с НДС",
+            "price_comment": "но не менее 100 руб. от стоимости заказа"
+        }
+    ],
+    "document": {
+        "title": "Скачать тарифный план",
+        "type": "DOCX",
+        "size": "42.5 КБ",
+        "file": "/documents/tariffs/market/Тариф Интернет-магазин с 13 марта 2023.pdf"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Индивидуальная консультация",
+                "text": "С экспертами закупочной отрасли",
+                "links": [
+                    {
+                    "text": "Записаться",
+                    "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Цифровой помощник",
+                "text": "Полезные сервисы и услуги для заказчика 223-ФЗ",
+                "links": [
+                    {
+                    "text": "Посмотреть",
+                    "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

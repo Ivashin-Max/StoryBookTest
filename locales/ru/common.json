@@ -1,0 +1,697 @@
+{
+    "menu": [
+        {
+            "text": "Торговые секции",
+            "id": "tradeSections",
+            "subLinks": [
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Государственные закупки",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Закупки ПАО «Интер РАО»",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Интернет-магазин",
+                    "href": "/market"
+                },
+                {
+                    "text": "Продажа имущества",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Реализация углеводородного сырья",
+                    "href": "/tenders"
+                }
+            ]
+        },
+        {
+            "text": "Клиентам",
+            "id": "clients",
+            "subLinks": [
+                {
+                    "text": "Документы для работы на площадке",
+                    "href": "/clients/documents"
+                },
+                {
+                    "text": "Тарифы",
+                    "href": "/clients/tariff"
+                },
+                {
+                    "text": "Центр поддержки",
+                    "subLinks": [
+                        {
+                            "text": "Заказчикам/Продавцам",
+                            "href": "/clients/support-customers"
+                        },
+                        {
+                            "text": "Поставщикам/Покупателям",
+                            "href": "/clients/support-suppliers"
+                        }
+                    ]
+                },
+                {
+                    "text": "Заказать бухгалтерские документы",
+                    "href": "/clients/accounting-docs"
+                },
+                {
+                    "text": "Наши заказчики",
+                    "href": "/clients/organizations"
+                }
+            ]
+        },
+        {
+            "text": "Услуги и сервисы",
+            "id": "services",
+            "subLinks": [
+                {
+                    "text": "Заказчикам 223-ФЗ",
+                    "href": "/services/customers-223-fz"
+                },
+                {
+                    "text": "Коммерческим заказчикам",
+                    "href": "/services/customers"
+                },
+                {
+                    "text": "Поставщикам",
+                    "href": "/services/service-suppliers"
+                },
+                {
+                    "text": "Покупателям имущества",
+                    "href": "/services/service-property-buyers"
+                }
+            ]
+        },
+        {
+            "text": "Банковская гарантия",
+            "href": "/services/service-suppliers/bg"
+        },
+        {
+            "text": "Обучение",
+            "id": "Education",
+            "subLinks": [
+                {
+                    "text": "Учебный центр",
+                    "href": "/education"
+                },
+                {
+                    "text": "Обучающие мероприятия",
+                    "subLinks": [
+                        {
+                            "text": "Заказчикам",
+                            "href": "/education/courses-customer"
+                        },
+                        {
+                            "text": "Поставщикам",
+                            "href": "/education/courses-supplier"
+                        }
+                    ]
+                },
+                {
+                    "text": "Видеоматериалы",
+                    "subLinks": [
+                        {
+                            "text": "Заказчикам",
+                            "href": "/education/video-customer"
+                        },
+                        {
+                            "text": "Поставщикам",
+                            "href": "/education/video-supplier"
+                        }
+                    ]
+                },
+                {
+                    "text": "Статьи экспертов",
+                    "subLinks": [
+                        {
+                            "text": "Заказчикам",
+                            "href": "/education/expert-articles"
+                        },
+                        {
+                            "text": "Поставщикам",
+                            "href": "/education/expert-articles-supliers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "О компании",
+            "id": "aboutCompany",
+            "subLinks": [
+                {
+                    "text": "О ТЭК-Торг",
+                    "href": "/about"
+                },
+                {
+                    "text": "Работа у нас",
+                    "href": "/vacancy"
+                },
+                {
+                    "text": "Контакты и реквизиты",
+                    "href": "/contacts"
+                },
+                {
+                    "text": "Новости",
+                    "subLinks": [
+                        {
+                            "text": "Пресс-центр",
+                            "href": "/news-press"
+                        },
+                        {
+                            "text": "СМИ о нас",
+                            "href": "/news-media"
+                        },
+                        {
+                            "text": "Важные новости",
+                            "href": "/news-important"
+                        },
+                        {
+                            "text": "Анонсы закупок",
+                            "href": "/news-announce"
+                        }
+                    ]
+                },
+                {
+                    "text": "Партнеры",
+                    "href": "/partners"
+                }
+            ]
+        }
+    ],
+    "footer": {
+        "phones": [
+            {
+                "href": "+74957348118",
+                "text": "+7 495 734-81-18"
+            },
+            {
+                "href": "+74997058118",
+                "text": "+7 499 705-81-18"
+            }
+        ],
+        "docs": [
+            {
+                "href": "/documents/Презентация ЭТП ТЭК-Торг.pdf",
+                "text": "Скачать презентацию",
+                "target": "_blank"
+            }
+        ],
+        "socials": [
+            {
+                "href": "https://vk.com/etptektorg",
+                "name": "vk",
+                "text": "Вконтакте. ЭТП ТЭК-Торг"
+            },
+            {
+                "href": "https://vk.com/tektorg_sale",
+                "name": "vk",
+                "text": "Вконтакте.  «Продажа имущества»"
+            },
+            {
+                "href": "https://vk.com/zakupo4naya",
+                "name": "vk",
+                "text": "Вконтакте. «Закупочная»"
+            },
+            {
+                "href": "https://t.me/etp_tektorg",
+                "name": "telegram",
+                "text": "Телеграм. ЭТП ТЭК-Торг"
+            },
+            {
+                "href": "https://www.youtube.com/channel/UCeLnNU7xlGjp_0nVaDBUWOg",
+                "name": "youtube",
+                "text": "YouTube. ЭТП ТЭК-Торг"
+            }
+        ],
+        "purchases": [
+            {
+                "href": "/clients/organizations",
+                "text": "Наши заказчики"
+            },
+            {
+                "href": "/subscription",
+                "text": "Подписаться на закупки",
+                "type": "button"
+            }
+        ],
+        "techSupport": {
+            "remoteSupport": {
+                "title": "Удаленная техподдержка",
+                "links": [
+                    {
+                        "href": "/documents/remote_desktop.exe",
+                        "text": "RemoteDesktop",
+                        "download": true
+                    }
+                ]
+            },
+            "support": {
+                "title": "Поддержка",
+                "modalBtns": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    },
+                    {
+                        "title": "Обратный звонок",
+                        "id": "callBackForm"
+                    }
+                ]
+            }
+        },
+        "label": "ЭТП ТЭК-Торг. Все права защищены."
+    },
+    "cursesCards": {
+        "type": "Курс"
+    },
+    "more": "Подробнее",
+    "expand": "Развернуть",
+    "collapse": "Свернуть",
+    "seeMap": "Смотреть на карте",
+    "articles": "Статьи",
+    "login": "Войти",
+    "modalEnter": {
+        "title": "Вход или регистрация",
+        "description": "Выберите секцию площадки, на&nbsp;которую хотите зайти:",
+        "sections": [
+            {
+                "iconName": "lcabinet",
+                "title": "Единый личный кабинет",
+                "href": "https://lk.tektorg.ru/#auth"
+            },
+            {
+                "iconName": "rosneft2",
+                "title": "Закупки ПАО «НК «Роснефть»",
+                "href": "https://rn.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "44fz",
+                "title": "Государственные закупки",
+                "href": "https://44.tektorg.ru/authentication/login"
+            },
+            {
+                "iconName": "interRAO",
+                "title": "Закупки ПАО «Интер РАО»",
+                "href": " https://irao.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "fz223icon",
+                "title": "223-ФЗ и Коммерческие закупки",
+                "href": " https://zakupki.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "market",
+                "title": "Интернет-магазин",
+                "href": "https://kim.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "sale",
+                "title": "Продажа имущества",
+                "href": "https://sale.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "rosneft2",
+                "title": "Реализация углеводородного сырья",
+                "href": "https://tender.tektorg.ru/#auth/login"
+            }
+        ]
+    },
+    "print": "Версия для печати",
+    "free": "бесплатно",
+    "videos": "видео",
+    "program": "Программа",
+    "city": "Город",
+    "experience": "Опыт работы",
+    "sendResume": "Отправить резюме",
+    "btnSearch": "Найти",
+    "ParticipateInAuctions": "Участвовать в торгах",
+    "OrderConsultation": "Заказать консультацию",
+    "callBackForm": {
+        "title": "Обратный звонок",
+        "description": "Центр поддержки — поможем найти ответы на ваши вопросы по работе на ЭТП, от настройки ПК до подписания договора. Мы делаем закупки доступнее"
+    },
+    "askQuestionForm": {
+        "title": "Задать вопрос",
+        "description": "Центр поддержки — поможем найти ответы на ваши вопросы по работе на ЭТП, от настройки ПК до подписания договора. Мы делаем закупки доступнее"
+    },
+    "marketCenter": {
+        "description": "Маркетингового центра"
+    },
+    "manageDogovors": {
+        "description": "Управления договорами"
+    },
+    "nsi": {
+        "description": "Нормализация нормативного справочника информации (НСИ)"
+    },
+    "takeSurveyForm": {
+        "title": "Пройти опрос",
+        "items": [
+            {
+                "question": "Размещаете ли вы свои закупки на площадке ТЭК-Торг?",
+                "answers": [
+                    {
+                        "title": "Да, размещаю",
+                        "value": "yes"
+                    },
+                    {
+                        "title": "Нет, не размещаю",
+                        "value": "no"
+                    }
+                ]
+            },
+            {
+                "question": "Какой из критериев является для вас определяющим при выборе площадки для проведения закупочных процедур?",
+                "answers": [
+                    {
+                        "title": "Удобный и понятный интерфейс",
+                        "value": "intuitive interface"
+                    },
+                    {
+                        "title": "Большое количество различных сервисов, облегчающих работу",
+                        "value": "facilitating work"
+                    },
+                    {
+                        "title": "Наличие персонального менеджера для решения любых задач",
+                        "value": "personal manager"
+                    }
+                ]
+            },
+            {
+                "question": "Обращаетесь ли вы за экспертными консультациями по вопросам проведения закупок?",
+                "answers": [
+                    {
+                        "title": "Нет, консультации не нужны",
+                        "value": "no, consultations are not needed"
+                    },
+                    {
+                        "title": "Нет, не имею возможности",
+                        "value": "no, I don't have the opportunity"
+                    },
+                    {
+                        "title": "Да, пользуюсь (обращаюсь на площадку)",
+                        "value": "yes, (contacting the site)"
+                    },
+                    {
+                        "title": "Да, пользуюсь (сторонние сервисы)",
+                        "value": "yes, (third-party services)"
+                    }
+                ]
+            },
+            {
+                "question": "Известно ли вам об акции «ТЭК-Бокс»?",
+                "answers": [
+                    {
+                        "title": "Да",
+                        "value": "yes"
+                    },
+                    {
+                        "title": "Нет",
+                        "value": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    "simpleTitleForm": "Заполните поля",
+    "formTitles": {
+        "titleContacts": "Контактные данные",
+        "titleSubscribe": "Параметры подписки"
+    },
+    "inputs": {
+        "name": "ФИО",
+        "name2": "Фамилия Имя Отчество",
+        "name3": "Фамилия Имя Отчество",
+        "mail": "Email",
+        "mail2": "E-mail",
+        "mail3": "Email",
+        "mail4": "Email (могут быть указаны несколько, через запятую)",
+        "phone": "Телефон",
+        "phone2": "Контактный телефон",
+        "phone3": "Контактный телефон (могут быть указаны несколько, через запятую)",
+        "message": "Сообщение",
+        "messageText": "Текст сообщения",
+        "messageOffer": "Кратко опишите свое предложение",
+        "messageComment": "Ваш комментарий",
+        "messageAdditional": "Внесите списком данные дополнительных контактных лиц",
+        "messageAdditionalObj": {
+            "title": "Внесите списком данные дополнительных ",
+            "speakers": "спикеров",
+            "webinarResponisble": "ответственных за проведение вебинара"
+        },
+        "messageWebinarTheme": "Например, Решения для обеспечения выполнения ФЗ №187: «О безопасности критической информационной инфраструктуры РФ». Системы однонаправленной передачи данных",
+        "messageCompetitiveAdvantages": "Конкурентные преимущества продукции/технического решения. Опишите своими словами",
+        "messageCompetitiveAdvantages2": "На каких объектах ТЭК внедрено. Какие результаты. Контактные данные заказчика. Опишите своими словами",
+        "messageDescribe": "Опишите своими словами",
+        "OtherInput": "Укажите иной вид деятельности",
+        "file": "Прикрепить файл",
+        "file2": "Прикрепите заполненную заявку",
+        "file3": "Прикрепите заполненный файл",
+        "file4": "Прикрепите прайс-лист",
+        "file5": "Приложите файлы, содержащие описание инновационных, технических и организационных решений и идей",
+        "file6": "Приложите файлы, содержащие описание предлагаемых товаров, работ, услуг",
+        "filesDescr": "Прикрепите один или несколько файлов, общий объем прикрепленных файлов не должен превышать 20 МБ”",
+        "inn": "ИНН компании",
+        "inn2": "ИНН",
+        "inn3": "ИНН организации",
+        "personalAccount": "Лицевой счет",
+        "educationThemeProgram": "Необходимая тема/программа обучения",
+        "companyName": "Наименование компании",
+        "companyName2": "Название компании",
+        "organizationName": "Наименование организации",
+        "organizationName2": "Название организации",
+        "calendarPlaceholder": "дд.мм.гггг",
+        "regionOfActivity": "Регион деятельности",
+        "kindOfActivity": "Вид деятельности",
+        "kindOfActivityOther": "Укажите иной вид деятельности",
+        "kindOfExpertise": "Выберите вид экспертизы",
+        "activitySpecialization": "Специализация деятельности",
+        "companyRepresentative": "Представитель компании (ФИО)",
+        "companyRepresentativePosition": "Должность контактного лица, ответственного за участие в закупках",
+        "region": "Регион",
+        "region2": "Укажите регион",
+        "city": "Город",
+        "innKPP": "ИНН-КПП",
+        "innKPP2": "КПП организации",
+        "contactFace": "Контактное лицо",
+        "contactFace2": "ФИО контактного лица, ответственного за участие в закупках",
+        "yoursOrganisation": "Ваша организация",
+        "topic": "Тема",
+        "topicLesson": "Выберите тему",
+        "topicLessonEp": "Выберите удостоверяющий центр",
+        "topicLessonDescr": "Или укажите в сообщении нужную",
+        "site": "Сайт в сети Интернет",
+        "site2": "Ссылка на ресурс (http://example.com)",
+        "site3": "Дополнительные ссылки",
+        "userType": "Тип пользователя",
+        "codsOKPD2": "Коды по ОКПД2",
+        "OKPD2Spoiler": "Код классификатора ОКПД2 (для лота)",
+        "tradingSection": "Торговая секция",
+        "staffCount": "Численность персонала",
+        "averageAnnualTurnover": "Среднегодовой оборот организации (млн руб.) ",
+        "yes": "Да",
+        "no": "Нет",
+        "selectOfferRaoPlaceholder": "В чем состоит предложение для компаний Группы «Интер РАО»?",
+        "selectAuditoryPlaceholder": "Целевая аудитория",
+        "selectActivityPlaceholder": "Направления деятельности",
+        "searchOKPD2": "Введите наименование товара, работы, услуги или код ОКВЭД2 ",
+        "categoryProp": "Введите категорию имущества",
+        "innovationDirection": "Направление инновационного развития",
+        "optionsEmptyMessage": "больше нет вариантов"
+    },
+    "confirm": {
+        "text": "Ознакомлен с ",
+        "link": {
+            "href": "/documents/tektorg_private_data_policy.pdf",
+            "text": "Мерами по обеспечению безопасности персональных данных"
+        }
+    },
+    "confirm2": {
+        "text": "Мы ознакомлены с ",
+        "link": {
+            "href": "http://www.interrao.ru/upload/doc/Politika_po_protivodejstviu_moshennichestv_i_kor.pdf",
+            "text": "Политикой по противодействию мошенничеству и коррупции Группы «Интер РАО"
+        }
+    },
+    "confirm3": {
+        "text": "Мы ознакомлены с ",
+        "link": {
+            "href": "https://www.interrao.ru/upload/doc/Politica_AMK_2018_11.pdf",
+            "text": "Политикой антимонопольного Комплаенса Группы «Интер РАО»"
+        }
+    },
+    "confirm4": {
+        "text": "Мы согласны с принимаемыми в Группе «Интер РАО» мерами, направленными на предупреждение и противодействие коррупции, и проинформированы о том, что за информационную безопасность сервиса «Единое презентационное окно» компании Группы «Интер РАО» ответственности не несут"
+    },
+    "confirm5": {
+        "text": "Нажимая на кнопку, вы соглашаетесь с ",
+        "link": {
+            "href": "https://www.tektorg.ru/sites/default/files/documents/tektorg_private_data_policy.pdf",
+            "text": "политикой конфиденциальности"
+        }
+    },
+    "regions": {
+        "murmansk": "Мурманская область",
+        "karelia": "Республика Карелия",
+        "arhangelsk": "Архангельская область",
+        "nenetsk": "Ненецкий автономный округ",
+        "komi": "Республика Коми",
+        "kirov": "Кировская область",
+        "perm": "Пермский край",
+        "khantyMansiysk": "Ханты-Мансийский автономный округ",
+        "sverdlovsk": "Свердловская область",
+        "kurgan": "Курганская область",
+        "tyumen": "Тюменская область",
+        "omsk": "Омская область",
+        "tomsk": "Томская область",
+        "novosibirsk": "Новосибирская область",
+        "altaiRegion": "Алтайский край",
+        "kemerovo": "Кемеровская область",
+        "khakassia": "Республика Хакасия",
+        "krasnoyarsk": "Красноярский край",
+        "tyva": "Республика Тыва",
+        "irkutsk": "Иркутская область",
+        "yakutia": "Республика Саха (Якутия)",
+        "magadan": "Магаданская область",
+        "khabarovsk": "Хабаровский край",
+        "primorsky": "Приморский край"
+    },
+    "send": "Отправить",
+    "design": "Подключить",
+    "addTariff": "Подключить тариф",
+    "section": "секции",
+    "rosneft": "Закупки ПАО «НК «Роснефть",
+    "44-fz": "Государственные закупки",
+    "223-fz": "223-ФЗ и Коммерческие закупки",
+    "inter_rao": "Закупки ПАО «Интер РАО»",
+    "market": "Интернет-магазин",
+    "sale": "Продажа имущества",
+    "tenders": "Реализация углеводородного сырья",
+    "register": "Зарегистрироваться",
+    "contactManager": "Связаться c менеджером",
+    "cardPayment": "Оплатить по карте",
+    "next": "Далее",
+    "prev": "Назад",
+    "revertForm": "Вернуться в начало формы",
+    "sendSubscribe": "Подписаться",
+    "subscribeNewsTitle": "Подписаться на новости",
+    "requiredMessage": "Обязательное поле",
+    "requiredTopicLessonSelectMessage": "Обязательно выберите тему или укажите нужную в сообщении",
+    "requiredTopicLessonMessage": "Укажите нужную тему и/или оставьте комментарий",
+    "maxLength": "Максимально допустимое количество символов",
+    "minLength": "Минимально допустимое количество символов",
+    "minMaxInn": "Допустимое количество символов 6-20",
+    "allowedCountMessage": "Допустимое количество символов",
+    "wrongFormat": "Неправильный формат",
+    "wrongMail": "Неверный формат почты",
+    "wrongPhone": "Неверно указан телефон",
+    "maxSize": "Превышен максимальный размер файла",
+    "maxCountFiles": "Максимальное допустимое количество файлов - 5",
+    "wrongSymbols": "Не допустимые символы",
+    "successMessageSubscribe": "Подписка оформлена",
+    "successMessageCommon": "Форма отправлена успешно",
+    "successMessageCommon2": "Спасибо за уделенное время на заполнение анкеты подрядчика СМР",
+    "successMessageApplication": "Заявка принята.",
+    "resend": "Повторить отправку",
+    "failedMessage": "Что-то пошло не так, попробуйте позже",
+    "AlreadyRegistredCommon": "Вы уже зарегистрированы",
+    "sendErrorMessage": "Есть не правильно заполненные поля",
+    "errorMessage": "По вашему запросу ничего не найдено",
+    "upcomingEvents": "Ближайшие мероприятия",
+    "viewAll": "Смотреть все",
+    "loadMore": "Показать еще",
+    "category": "Категория",
+    "deleteAll": "Удалить все",
+    "tradeSectionsAllTitle": "Все секции",
+    "articleLikeTooltip": "Статья была полезна",
+    "articleDislikeTooltip": "Статья бесполезна",
+    "ServicesForm": {
+        "title": "`${}`",
+        "title2": "Заказать услугу",
+        "tariffTitle": "Подключить тариф",
+        "organizationName": "Наименование организации",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "timezone": "по местному времени заказчика",
+    "yes": "Да",
+    "no": "Нет",
+    "apply": "Подать заявку",
+    "from": "с",
+    "to": "по",
+    "daysFromContractSign": "дней с момента подписания контракта",
+    "menuText": "Меню",
+    "completed": "Завершено",
+    "audience": {
+        "supplier": "Поставщикам",
+        "customer": "Заказчикам",
+        "not_specified": "Поставщикам и Заказчикам"
+    },
+    "eventType": {
+        "course": "Курс",
+        "seminar": "Семинар",
+        "webinar": "Вебинар",
+        "online_conference": "Онлайн-конференция",
+        "conference": "Конференция",
+        "supplier_day": "День поставщика"
+    },
+    "registerModal": {
+        "text": "Зарегистрироваться",
+        "scrollToSelector": "#applicationForm3"
+    },
+    "registerCourseModal": {
+        "text": "Зарегистрироваться",
+        "scrollToSelector": "#courseForm"
+    },
+    "certificateBtn": "Именной сертификат",
+    "timeout": "Превышено время ожидания ответа от сервера",
+    "formSuccessAlert": {
+        "title": "Информация успешно отправлена!"
+    },
+    "formSuccessAlert2": {
+        "title": "Ваша заявка успешно отправлена!",
+        "description": "<p>Данные будут предоставлены в течение 5 календарных дней</p>"
+    },
+    "formSuccessAlert3": {
+        "title": "Ваша заявка успешно отправлена!",
+        "description": " "
+    },
+    "formSuccessAlert4": {
+        "title": "Информация успешно отправлена",
+        "description": " "
+    },
+    "formSuccessAlert5": {
+        "title": "Подписка оформлена!"
+    },
+    "formErrorAlert": {
+        "title": "Не удалось отправить форму",
+        "description": "<p>Попробуйте отправить форму повторно или обратитесь в службу клиентской поддержки</p>"
+    },
+    "alreadyRegistredAlert": {
+        "title": "Вы уже зарегистрированы"
+    }
+}

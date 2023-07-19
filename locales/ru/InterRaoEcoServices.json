@@ -1,0 +1,205 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «Интер РАО»",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Система взаимодействия с поставщиками"
+                }
+            ]
+        },
+        "title": "Система взаимодействия с поставщиками"
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/interRaoEcosreda/energy-global-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/interRaoEcosreda/energy-global.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/interRaoEcosreda/energy-global-768.jpg",
+                            "breakpoint": "768"
+                        },
+                        {
+                            "src": "/images/pages/interRaoEcosreda/energy-global-680.jpg",
+                            "breakpoint": "520"
+                        }
+                    ]
+                },
+                "title": "Energy Global Hub",
+                "text": "Актуальные потребности, развитие поставщиков, поиск инновационных и цифровых идей",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "https://energyhub.tektorg.ru/",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerText2": {
+        "text": [
+            "Это реализация на&nbsp;единой онлайн платформе решения потребностей всех сторон процесса закупок и&nbsp;смежных сфер, создание единого поля взаимодействия.",
+            "ЭТП, как многофункциональная система, самая очевидная онлайн платформа для получения сервисов и&nbsp;поддержки для всех участников закупочного процесса. Сервисы оценки компаний, участие в&nbsp;корпоративных программах поддержки поставщиков призваны упростить доступ поставщиков к&nbsp;закупкам, расширить круг участников, а&nbsp;также позволить использовать новейшие разработки и&nbsp;технические решения в&nbsp;производственной деятельности компаний Группы &laquo;Интер РАО&raquo;."
+        ]
+    },
+    "cardsSection": {
+        "colorSection": "orange2",
+        "title": "Перечень сервисов",
+        "cards": [
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/poisk_zakupki"
+                },
+                "title": "Предварительный поиск закупок",
+                "iconName": "search",
+                "bgColor": "orange2",
+                "textColor": "white"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/poisk_tekhnicheskogo_zadaniya"
+                },
+                "title": "Предварительный поиск технического задания",
+                "iconName": "PreTZ",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/audit"
+                },
+                "title": "Предварительный аудит соответствия",
+                "text": "Предварительное проведение экспертизы на соответствие требованиям Заказчика без участия в закупке",
+                "iconName": "list"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/poisk_partnyorov_dlya_kollektivnogo_uchastiya"
+                },
+                "title": "Поиск партнеров для коллективного участия",
+                "iconName": "Msp",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/accreditation"
+                },
+                "title": "Аккредитация",
+                "iconName": "documentChecked"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/education"
+                },
+                "title": "Обучение",
+                "iconName": "signature"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/service/bg"
+                },
+                "title": "Финансовые услуги",
+                "iconName": "factoring"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/proverka_partnyorov"
+                },
+                "title": "Предварительная проверка партнеров",
+                "iconName": "checkMark3"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/partners"
+                },
+                "title": "Программа партнерства с субъектами МСП",
+                "iconName": "case2"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/zayavit_ob_importozameschenii"
+                },
+                "title": "Заявить об импортозамещении ",
+                "iconName": "documentFile",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/programma_vyraschivaniya"
+                },
+                "title": "Программа выращивания ",
+                "iconName": "Stonks",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "https://energy-fund.ru/fond-innovatsiy/",
+                    "isForeign": true
+                },
+                "title": "Окно инноваций",
+                "iconName": "innovation"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/e-signature"
+                },
+                "title": "ЭЦП",
+                "iconName": "blank"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/edo"
+                },
+                "title": "Электронный документооборот",
+                "iconName": "feedback"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/tkp"
+                },
+                "title": "Предоставление ТКП",
+                "iconName": "Tkp",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/edinoe_prezentatsionnoe_okno_tekhnologiy"
+                },
+                "title": "Единое презентационное окно технологий",
+                "text": "Провести презентацию продукции и/или технического решения",
+                "iconName": "EdinoeOkno"
+            }
+        ]
+    }
+}

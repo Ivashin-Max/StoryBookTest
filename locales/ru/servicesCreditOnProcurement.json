@@ -1,0 +1,96 @@
+{
+  "leadText": {
+    "title": "Кредит на&nbsp;участие в&nbsp;закупках",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Услуги и сервисы"
+        },
+        {
+          "text": "Поставщикам",
+          "href": "/services/service-suppliers"
+        },
+        {
+          "text": "Кредит на участие в закупках",
+          "href": "/services-bankGuarantee"
+        }
+      ]
+    },
+    "description": "44-ФЗ, 223-ФЗ и&nbsp;615-ПП. Решение за&nbsp;1&nbsp;час.<br/>Тендерный заем&nbsp;&mdash; услуга, с&nbsp;помощью которой вы&nbsp;можете максимально быстро получить средства для обеспечения участия в&nbsp;тендере и&nbsp;не&nbsp;извлекать нужную сумму из&nbsp;оборота компании.",
+    "rectLink": {
+      "text": "Получить финансирование",
+      "id": "ServicesFormWithTitle"
+    }
+  },
+  "infoBlocks": {
+    "sideCard": {
+      "title": "Ключевые преимущества ТЭК-Торг в&nbsp;получении продукта",
+      "bg": "blue"
+    },
+    "content": [
+      {
+        "text": "Решение о&nbsp;предоставлении займа принимается за&nbsp;1&nbsp;час: минимальный пакет документов",
+        "iconName": "checkMark2"
+      },
+      {
+        "text": "Не&nbsp;нужно открывать расчетный счет",
+        "iconName": "file"
+      },
+      {
+        "text": "Оформление без личного присутствия",
+        "iconName": "checkMark"
+      },
+      {
+        "text": "Перечисление средств на&nbsp;площадку в&nbsp;тот&nbsp;же день",
+        "iconName": "rocket"
+      }
+    ]
+  },
+  "five": {
+    "title": "Как это работает?",
+    "items": [
+      {
+        "text": "Заполните заявку. Укажите ИНН и&nbsp;ссылку на&nbsp;аукцион"
+      },
+      {
+        "text": "Получите предварительное решение"
+      },
+      {
+        "text": "Подпишите договоры займа ЭЦП"
+      },
+      {
+        "text": "Получите заем"
+      }
+    ]
+  },
+  "bannerSlide": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Есть вопросы?<br>Мы поможем!",
+        "modal": [
+          {
+            "title": "Задать вопрос",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

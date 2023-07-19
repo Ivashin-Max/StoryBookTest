@@ -1,0 +1,81 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "For clients"
+                },
+                {
+                    "text": "Our customers",
+                    "href": "/clients/organizations"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": ""
+    },
+    "purchasesSlider": {
+        "title": "Similar procedures in&nbsp;other sections"
+    },
+    "bannerSliderFirst": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/44-fz/procedures/bannerSlider/tender-support-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/44-fz/procedures/bannerSlider/tender-support.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/44-fz/procedures/bannerSlider/tender-support-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Bank guarantees",
+                "text": "Guarantees according to&nbsp;customer's form.<br>All operations online.<br>Project guarantee in&nbsp;30 minutes.<br>Discount&nbsp;25%",
+                "links": [
+                    {
+                        "text": "Get",
+                        "href": "/44-fz/service/bg"
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerSliderSecond": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/44-fz/procedures/bannerSlider/financial-services-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/44-fz/procedures/bannerSlider/financial-services.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/44-fz/procedures/bannerSlider/financial-services-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Financial services<br>for procurement participants",
+                "text": "Bank guarantees. Lending. Factoring.<br>All operations online.<br>Personal manager 24/7<br>Discount&nbsp;50%",
+                "links": [
+                    {
+                        "text": "Get",
+                        "href": "https://fin.tektorg.ru",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    }
+}

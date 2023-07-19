@@ -1,0 +1,360 @@
+{
+    "leadImg": {
+        "title": "General information",
+        "textColor": "white",
+        "backgroundColor": "blue",
+        "background": {
+            "src": "/images/pages/about-company/lead/lead-sm.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/about-company/lead/lead-lg.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/about-company/lead/lead-md.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "About company"
+            },
+            {
+                "text": "General information"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "JSC “TEK-Torg” today",
+        "text": [
+            "It&nbsp;is&nbsp;a&nbsp;high-tech modern electronic platform that meets the highest international safety and fault tolerance requirements.",
+            "TEK-Torg JSC provides customers with the opportunity to&nbsp;conduct all necessary types of&nbsp;electronic procurement. The ETP has the ability to&nbsp;integrate with major ERP and SRM systems and allows to&nbsp;flexibly customize business processes to&nbsp;customer requirements.",
+            "TEK-Torg JSC uses the accumulated experience in&nbsp;procurement of&nbsp;the corporate sector and successfully implements it&nbsp;in&nbsp;public procurement."
+        ]
+    },
+    "bannerText2": {
+        "title": "Company mission",
+        "background": {
+            "src": "/images/pages/gov-procurement/bannerText/5-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/gov-procurement/bannerText/5.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "text": [
+            "The main task of&nbsp;TEK-Torg is&nbsp;to&nbsp;provide procurement organizers and suppliers with a&nbsp;convenient, modern, high-quality and low-cost interaction tool.",
+            "The ETP professional team is&nbsp;constantly working on&nbsp;improving technologies that allow translating the entire procurement process into electronic format, creating an&nbsp;intuitive interface, developing additional services and a&nbsp;24-hour support system."
+        ]
+    },
+    "indicatorsCards": {
+        "wrapper": {
+            "name": "Our achievements"
+        },
+        "content": {
+            "cards": {
+                "cardsBottom": [
+                    {
+                        "head": {
+                            "number": "883&nbsp;000",
+                            "text": "suppliers"
+                        },
+                        "items": [
+                            {
+                                "text": "Are registered and participate in&nbsp;the biddings on&nbsp;the ETP TEK-Torg"
+                            }
+                        ],
+                        "image": "/images/pages/about-company/cards/5.png"
+                    },
+                    {
+                        "head": {
+                            "number": "20,35",
+                            "text": "trillion rubles"
+                        },
+                        "items": [
+                            {
+                                "text": "Total volume of published procurements since 2015"
+                            }
+                        ]
+                    },
+                    {
+                        "head": {
+                            "number": "350",
+                            "text": "events"
+                        },
+                        "items": [
+                            {
+                                "text": "Including conferences, seminars, and webinars attended by more than 50,000 attendees"
+                            }
+                        ]
+                    },
+                    {
+                        "head": {
+                            "number": "441&nbsp;074",
+                            "text": "procedures"
+                        },
+                        "items": [
+                            {
+                                "text": "Were published on&nbsp;the ETP, that is&nbsp;39% more<br>than a&nbsp;year earlier"
+                            }
+                        ],
+                        "image": "/images/blocks/statistics/5.jpg"
+                    },
+                    {
+                        "head": {
+                            "number": "&gt;7&nbsp;000",
+                            "text": "organizers"
+                        },
+                        "items": [
+                            {
+                                "text": "Work on&nbsp;the ETP TEK-Torg, among which are leading Russian companies in&nbsp;the financial sector, fuel and energy complex, metallurgy, transport, telecommunications and other industries."
+                            }
+                        ]
+                    },
+                    {
+                        "head": {
+                            "number": "7",
+                            "text": "sections"
+                        },
+                        "items": [
+                            {
+                                "text": "Including the largest Russian companies&nbsp;&mdash; Rosneft OC&nbsp;PJSC, Russian Railways JSC, Inter RAO PJSC, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "bannerText3": {
+        "title": "Participation of&nbsp;small and medium enterprises in&nbsp;procedures",
+        "text": [
+            "Corporation SME and TEK-Torg JSC concluded an&nbsp;agreement on&nbsp;long-term cooperation. TEK-Torg JSC became one of&nbsp;the first electronic trading platforms, in&nbsp;cooperation with which Corporation SME implements a&nbsp;range of&nbsp;measures to&nbsp;expand the participation of&nbsp;small and medium-sized companies in&nbsp;the procurement of&nbsp;major federal and regional customers.",
+            "Among such events are the organization of&nbsp;training seminars for entrepreneurs in&nbsp;the constituent entities of&nbsp;the Russian Federation, informing SME entities registered on&nbsp;the electronic trading platform of&nbsp;TEK-Torg JSC about measures taken to&nbsp;support small and medium-sized companies, as&nbsp;well as&nbsp;the integration of&nbsp;information systems and data exchange for systematization and dissemination of&nbsp;best practices to&nbsp;support SMEs in&nbsp;the regions."
+        ]
+    },
+    "documents": {
+        "tabs": ["Licenses", "Certificate of&nbsp;Compliance", "Passport of&nbsp;the EDM operator", "Commendations"],
+        "licenses": [
+            {
+                "nid": "1",
+                "title": "Лицензия на оказание телематических услуг связи",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/licenses/ЛИЦЕНЗИЯ Телематика.jpg",
+                "type": "JPG",
+                "size": "299.76 КБ"
+            },
+            {
+                "nid": "2",
+                "title": "Лицензия ФСБ",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/licenses/Лицензия ФСБ.jpg",
+                "type": "JPG",
+                "size": "3.83 МБ"
+            },
+            {
+                "nid": "3",
+                "title": "Лицензия на деятельность по технической защите конфиденциальной информации",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/licenses/fstek.jpg",
+                "type": "JPG",
+                "size": "1.65 МБ"
+            }
+        ],
+        "certificate": [
+            {
+                "nid": "1",
+                "title": "Аттестат соответствия",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/certificate/Аттестат 28072021_0.pdf",
+                "type": "PDF",
+                "size": "202.81 КБ"
+            }
+        ],
+        "edo": [
+            {
+                "nid": "1",
+                "title": "Паспорт оператора ЭДО",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/edo/passport_edo_norm.jpg",
+                "type": "JPG",
+                "size": "589 КБ"
+            }
+        ],
+        "gratitudes": [
+            {
+                "nid": "1",
+                "title": "Диплом RAEX Аналитика &laquo;Наивысший уровень качества услуг в области проведения корпоративных закупок&raquo;",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/RAEX Аналитика 1.pdf",
+                "type": "PDF",
+                "size": "130 КБ"
+            },
+            {
+                "nid": "2",
+                "title": "Диплом RAEX Аналитика &laquo;Наивысший уровень информационной безопасности&raquo;",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/RAEX Аналитика 2.pdf",
+                "type": "PDF",
+                "size": "131 КБ"
+            },
+            {
+                "nid": "3",
+                "title": "Диплом RAEX Аналитика &laquo;Техническая стабильность и скорость работы ЭТП&raquo;",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/RAEX Аналитика 3.pdf",
+                "type": "PDF",
+                "size": "126 КБ"
+            },
+            {
+                "nid": "4",
+                "title": "Диплом RAEX Аналитика &laquo;Наивысший уровень качества услуг в области проведения корпоративных закупок&raquo;",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/RAEX Аналитика 2022.1.pdf",
+                "type": "PDF",
+                "size": "120 КБ"
+            },
+            {
+                "nid": "5",
+                "title": "Диплом RAEX Аналитика &laquo;Лучшие результаты в обеспечении конкуренции при проведении закупок&raquo;",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/RAEX Аналитика 2022.pdf",
+                "type": "PDF",
+                "size": "120 КБ"
+            },
+            {
+                "nid": "6",
+                "title": "Диплом Время инноваций 2018",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/Время инноваций 2018.pdf",
+                "type": "PDF",
+                "size": "114 КБ"
+            },
+            {
+                "nid": "7",
+                "title": "Диплом Эксперт РА",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/Эксперт РА.pdf",
+                "type": "PDF",
+                "size": "88 КБ"
+            },
+            {
+                "nid": "8",
+                "title": "Благодарность Сытин ГД",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/Благодарность Сытин ГД.pdf",
+                "type": "PDF",
+                "size": "76 КБ"
+            },
+            {
+                "nid": "9",
+                "title": "Благодарственное письмо Коми",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/Благодарственное письмо Коми.pdf",
+                "type": "PDF",
+                "size": "134 КБ"
+            },
+            {
+                "nid": "10",
+                "title": "Благодарственное письмо Новочебоксарск",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/Благодарственное письмо Новочебоксарск.pdf",
+                "type": "PDF",
+                "size": "222 КБ"
+            },
+            {
+                "nid": "11",
+                "title": "Благодарственное письмо",
+                "section": "",
+                "group": "",
+                "file": "/documents/about-company/gratitudes/ВХ № 127-12 от 14.12.2018г_normal.jpg",
+                "type": "JPG",
+                "size": "443.53 КБ"
+            }
+        ]
+    },
+    "slider": {
+        "title": "The seven sections of&nbsp;the ETP",
+        "items": [
+            {
+                "title": "Procurement procedures of&nbsp;Rosneft",
+                "image": "/images/sections-slider/rosneft.png",
+                "link": {
+                    "text": "Go&nbsp;to&nbsp;the Section",
+                    "href": "/rosneft"
+                }
+            },
+            {
+                "title": "Government procurement",
+                "image": "/images/sections-slider/44-fz.png",
+                "link": {
+                    "text": "Go&nbsp;to&nbsp;the Section",
+                    "href": "/44-fz"
+                }
+            },
+            {
+                "title": "Procurement procedures&nbsp;of Inter RAO",
+                "image": "/images/sections-slider/inter-rao.png",
+                "link": {
+                    "text": "Go&nbsp;to&nbsp;the Section",
+                    "href": "/inter_rao"
+                }
+            },
+            {
+                "title": "223-FZ and Commercial Procurement",
+                "image": "/images/sections-slider/223-fz.jpg",
+                "link": {
+                    "text": "Go&nbsp;to&nbsp;the Section",
+                    "href": "/223-fz"
+                }
+            },
+            {
+                "title": "Sale of&nbsp;petroleum products",
+                "image": "/images/sections-slider/rosneft.png",
+                "link": {
+                    "text": "Go&nbsp;to&nbsp;the Section",
+                    "href": "/tenders"
+                }
+            },
+            {
+                "title": "Market",
+                "image": "/images/sections-slider/market.jpg",
+                "link": {
+                    "text": "Go&nbsp;to&nbsp;the Section",
+                    "href": "/market"
+                }
+            },
+            {
+                "title": "Sale of property",
+                "image": "/images/sections-slider/sale.jpg",
+                "link": {
+                    "text": "Go&nbsp;to&nbsp;the Section",
+                    "href": "/sale"
+                }
+            }
+        ]
+    }
+}

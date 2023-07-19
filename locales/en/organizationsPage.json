@@ -1,0 +1,116 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "For clients"
+                },
+                {
+                    "text": "Our customers"
+                }
+            ]
+        },
+        "title": "Our customers"
+    },
+
+    "customerGrid": {
+        "items": [
+
+            {
+                "title": "АО «Оборонэнерго»",
+                "image": "/images/organizators/oboronenergo.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/oboronenergo"
+                }
+            },
+
+            {
+                "title": "ОАО «РЖД»",
+                "image": "/images/organizators/rgd.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/rzd"
+                }
+            },
+            {
+                "title": "СПб ГКУ «Управление заказчика»",
+                "image": "/images/organizators/upravlenie.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/upravlenie_zakazchika"
+                }
+            },
+            {
+                "title": "Первая Портовая Компания (Группа ППК)",
+                "image": "/images/organizators/ppk.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/portone"
+                }
+            },
+            {
+                "title": "ГУП «Петербургский метрополитен»",
+                "image": "/images/organizators/metro.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/metro_spb"
+                }
+            },
+            {
+                "title": "АО «Спецнефтетранс»",
+                "image": "/images/organizators/CNT.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/sntrans"
+                }
+            },
+            {
+                "title": "АО «Силовые машины»",
+                "image": "/images/organizators/silovie.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/silovyi_machine"
+                }
+            },
+            {
+                "title": "ФГУП «Росморпорт»",
+                "image": "/images/organizators/RosMorPort.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/rosmorport"
+                }
+            },
+            {
+                "title": "ТЭК Мосэнерго",
+                "image": "/images/organizators/mossenergo.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/mosenergo"
+                }
+            },
+            {
+                "title": "En+ Group",
+                "image": "/images/organizators/enplusgroup.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/enplusgroup"
+                }
+            }
+        ]
+    },
+
+    "search": {
+        "title": "Search by procedure",
+        "placeholder": "Enter the name",
+        "submitText": "Find",
+        "emptyMessage": "По вашему запросу ничего не найдено"
+    },
+    "table": {
+        "title": "List of customers"
+    }
+}

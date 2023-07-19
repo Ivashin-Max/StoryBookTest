@@ -1,0 +1,114 @@
+{
+    "leadText": {
+        "title": "Press center",
+        "breadcrumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "About company"
+            },
+            {
+                "text": "News"
+            },
+            {
+                "text": "Press center"
+            }
+        ]
+    },
+    "subscribeForm": {
+        "title": "Subscribe to&nbsp;our newsletter",
+        "text": "We&nbsp;are committed to&nbsp;developing partnerships. If&nbsp;you want to&nbsp;become a&nbsp;partner of&nbsp;TEK-Torg JSC or&nbsp;post information on&nbsp;the site, send your application",
+        "confirmMessage": "By&nbsp;submitting the form, you agree to&nbsp;<a href='/documents/tektorg_private_data_policy.pdf' target='_blank' rel='noreferrer'>the privacy policy<a>",
+        "picture": {
+            "src": "/images/forms/subscribe/375.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/subscribe/1920.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/subscribe/375.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "social": {
+        "title": "Follow our news on&nbsp;social media",
+        "socials": [
+            {
+                "href": "https://vk.com/etptektorg",
+                "name": "vk",
+                "text": "Vkontakte. TEK-Torg",
+                "targetBlank": true
+            },
+            {
+                "href": "https://vk.com/tektorg_sale",
+                "name": "vk",
+                "text": "Vkontakte. TEK-Torg, the 'Sale of property' section",
+                "targetBlank": true
+            },
+            {
+                "href": "https://vk.com/zakupo4naya",
+                "name": "vk",
+                "text": "Vkontakte. Community of&nbsp;223-FZ customers 'Zakupochnaya'",
+                "targetBlank": true
+            },
+            {
+                "href": "https://t.me/etp_tektorg",
+                "name": "telegram",
+                "text": "Telegram",
+                "targetBlank": true
+            },
+            {
+                "href": "https://www.youtube.com/channel/UCeLnNU7xlGjp_0nVaDBUWOg",
+                "name": "youtube",
+                "text": "YouTube",
+                "targetBlank": true
+            }
+        ]
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter a keyword or news",
+            "submitText": "Search"
+        },
+        "errorMessage": "No results"
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "Relevance",
+                "property": "actual"
+            },
+            {
+                "name": "High procedure price",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "Low procedure price",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "New",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Old",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Block view",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Table view",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

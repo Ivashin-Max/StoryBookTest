@@ -1,0 +1,51 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main ",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "The single window for technologies presentation"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "The single window for technologies presentation"
+    },
+    "bannerText": {
+        "title": "",
+        "text": [
+            "We&nbsp;propose to&nbsp;use a&nbsp;new functional service&nbsp;&mdash; The single window for technologies presentation. It&nbsp;includes the opportunity for potential suppliers to&nbsp;present their products and&nbsp;/ or&nbsp;technical solutions to&nbsp;a&nbsp;wide range of&nbsp;technical specialists of&nbsp;the Inter RAO Group companies without sending official requests, incl.&nbsp;by&nbsp;sending a&nbsp;presentation or&nbsp;hosting a&nbsp;webinar."
+        ]
+    },
+    "pictureBlock": {
+        "picture": {
+            "src": "/images/pages/inter_rao/okno_tekhnologiy/picture.jpeg"
+        }
+    },
+    "steps": {
+        "title": "Steps to get the service",
+        "items": [
+            {
+                "text": "Fill out the application form on&nbsp;the service page"
+            },
+            {
+                "text": "Choose a&nbsp;convenient way of&nbsp;presenting your products to&nbsp;a&nbsp;wide range of&nbsp;technical specialists of&nbsp;the Inter RAO Group companies"
+            }
+        ]
+    },
+    "tags": ["Send a presentation", "Application for holding a webinar"]
+}

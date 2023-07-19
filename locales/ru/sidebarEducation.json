@@ -1,0 +1,84 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "educationFull",
+            "description": "Электронная торговая площадка ТЭК-Торг <br> Обучение эффективной работе с&nbsp;закупками",
+            "href": "/education"
+        },
+        "menu": [
+            {
+                "text": "Учебный центр",
+                "href": "/education",
+                "id": "trainingCenter",
+                "subLinks": []
+            },
+            {
+                "text": "Мероприятия и курсы",
+                "id": "courses",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам",
+                        "href": "/education/courses-customer"
+                    },
+                    {
+                        "text": "Поставщикам",
+                        "href": "/education/courses-supplier"
+                    }
+                ]
+            },
+            {
+                "text": "Видеоматериалы",
+                "id": "videos",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам",
+                        "href": "/education/video-customer"
+                    },
+                    {
+                        "text": "Поставщикам",
+                        "href": "/education/video-supplier"
+                    }
+                ]
+            },
+            {
+                "text": "Статьи экспертов",
+                "id": "articles",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам",
+                        "href": "/education/expert-articles"
+                    },
+                    {
+                        "text": "Поставщикам",
+                        "href": "/education/expert-articles-supliers"
+                    }
+                ]
+            }
+        ],
+        "banner": [
+            {
+                "title": "Смотреть",
+                "image": "/images/headerWidgets/education.jpeg",
+                "link": {
+                    "href": "https://ako-goszakaz.ru",
+                    "isForeign": true
+                }
+            },
+            {
+                "title": "Календарь отраслевых мероприятий",
+                "image": "/images/headerWidgets/education.jpg",
+                "link": {
+                    "href": "https://event.tektorg.ru/calendar",
+                    "isForeign": true
+                }
+            },
+            {
+                "title": "Персональная консультация с опытными экспертами",
+                "image": "/images/headerWidgets/services-icwe.png",
+                "link": {
+                    "href": "/services/service-suppliers/icwe"
+                }
+            }
+        ]
+    }
+}

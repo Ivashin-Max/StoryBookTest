@@ -1,0 +1,194 @@
+{
+    "leadImg": {
+        "title": "Секция закупок<br>ПАО &laquo;НК&nbsp;&laquo;Роснефть&raquo;",
+        "background": {
+            "src": "/images/blocks/leadImg/lead-mobile.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/leadImg/lead.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/leadImg/lead-tablet.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Торговые секции"
+            },
+            {
+                "text": "Закупки ПАО «НК «Роснефть»"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "ПАО НК&nbsp;&laquo;Роснефть&raquo;&nbsp;&mdash; лидер российской нефтяной отрасли, крупнейшая нефтяная компания в&nbsp;мире*",
+        "text": [
+            "В Секции проведено более 195 тыс. закупок Компании на сумму более 4,82 трлн руб.<br>По номенклатуре в Секции представлен весь перечень потребности в товарах и услугах, среди которой вы найдете заказ по своему профилю деятельности.",
+            "*По&nbsp;объемам добычи среди публичных компаний с&nbsp;листингом на&nbsp;западных фондовых биржах"
+        ],
+        "links": [
+            {
+                "text": "На сайт организатора",
+                "href": "https://www.rosneft.ru",
+                "isForeign": "true"
+            }
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Поиск",
+        "rectLink": {
+            "text": "Подписаться на закупки",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "link": {
+            "text": "Расширенный поиск",
+            "href": "/rosneft/procedures"
+        }
+    },
+    "purchasesSlider": {
+        "title": "Закупочные процедуры и&nbsp;запросы (Т)КП",
+        "link": {
+            "text": "Смотреть все",
+            "href": "#"
+        }
+    },
+    "servicesCardsInner": {
+        "name": "Услуги",
+        "content": {
+            "sideCard": {
+                "title": "Быстрый старт",
+                "text": " Участие в закупке в течение 2 часов",
+                "href": "/rosneft/service/tariff",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/services/5-1-1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/services/5-1-1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/services/5-1-1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "iconName": "rocket"
+            },
+            "cards": [
+                {
+                    "title": "Электронная подпись",
+                    "href": "/rosneft/service/e-signature",
+                    "iconName": "blank",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Банковская/независимая гарантия за 15 минут",
+                    "href": "/rosneft/service/bg",
+                    "iconName": "rocket",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Ускоренный доступ. Зачисление денежных средств в течение 2 часов",
+                    "href": "/rosneft/service/134",
+                    "iconName": "checkbox",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Кредитная программа для участников закупок",
+                    "href": "/rosneft/service/credit-on-contract",
+                    "iconName": "case",
+                    "targetBlank": false
+                }
+            ]
+        }
+    },
+    "educationInner": {
+        "wrapper": {
+            "name": "Обучение",
+            "links": [
+                {
+                    "text": "Смотреть все",
+                    "href": "/education"
+                }
+            ]
+        }
+    },
+    "bannerSlider1": {
+        "textColor": "black",
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/bannerSlider/slide-1-mobile.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-1.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-1-tablet.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Закупки Роснефть",
+                "text": "АО&nbsp;&laquo;ТЭК-Торг&raquo; и&nbsp;ПАО &laquo;НК&nbsp;&laquo;Роснефть&raquo; разработали мобильное приложение для оперативной работы с&nbsp;закупочными процедурами Компании",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "/news-press/4321",
+                        "isForeign": false
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/bannerSlider/slide-2-mobile.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-2.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-2-tablet.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Международное<br>сотрудничество",
+                "text": "С&nbsp;целью расширения международного сотрудничества на&nbsp;ЭТП ТЭК-Торг создан специальный раздел для иностранных поставщиков",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "/rosneft/suppliers-foreign",
+                        "isForeign": false
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerSlider": {
+        "links": [
+            {
+                "text": "Начать обучение",
+                "href": "/education"
+            }
+        ]
+    }
+}

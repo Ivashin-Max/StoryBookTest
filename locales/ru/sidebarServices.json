@@ -1,0 +1,42 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "servicesFull",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Удобные инструменты для работы с закупками",
+            "href": "/services/customers-223-fz"
+        },
+        "menu": [
+            {
+                "text": "Заказчикам 223-ФЗ",
+                "href": "/services/customers-223-fz",
+                "id": "customers",
+                "subLinks": []
+            },
+            {
+                "text": "Коммерческим заказчикам",
+                "href": "/services/customers",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "Поставщикам",
+                "href": "/services/service-suppliers",
+                "id": "suppliers",
+                "subLinks": []
+            },
+            {
+                "text": "Покупателям имущества",
+                "href": "/services/service-property-buyers",
+                "id": "buyers",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

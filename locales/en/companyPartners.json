@@ -1,0 +1,112 @@
+{
+  "leadText": {
+    "title": "Partners of TEK-Torg",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "About company"
+        },
+        {
+          "text": "Partners of TEK-Torg"
+        }
+      ]
+    }
+  },
+  "contentSpoiler": [
+    {
+      "title": "Saint Petersburg International Mercantile Exchange",
+      "iconName": "spb2",
+      "description": {
+        "title": "Saint-Petersburg International Mercantile Exchange (SPIMEX) is the largest commodity exchange in Russia. SPIMEX organizes trading on markets of oil products, oil, gas, on market of timber and building materials, and offers derivatives contracts.",
+        "text": "PIMEX spot market of petroleum products offers all the main categories of petroleum products with wide-range network of delivery points and single standards of operation for all participants. SPIMEX futures market offers non-deliverable futures contracts for market price indices of petroleum products and deliverable futures contracts for petroleum products.",
+        "link": {
+          "href": "https://spimex.com",
+          "text": "spimex.com"
+        }
+      }
+    },
+    {
+      "title": "Rosneft Oil Company PJSC",
+      "iconName": "rosneft",
+      "description": {
+        "title": "Rosneft OC PJSC is the leader of the Russian oil industry and the largest publicly traded oil company in the world. The Company's core activities include hydrocarbon prospecting and exploration, production of oil, gas and gas condensate, implementation of offshore field development projects, refining, sales of oil, gas and refined products in Russia and abroad.",
+        "link": {
+          "href": "https://www.rosneft.ru/",
+          "text": "rosneft.ru"
+        }
+      }
+    },
+    {
+      "title": "Inter RAO PJSC",
+      "iconName": "interRAO",
+      "description": {
+        "title": "Inter RAO PJSC is the Russian energy company that manages assets in Russia, as well as in Europe and the CIS countries. Inter RAO operates in the following business segments: generation and supply of electric and heat energy, international power trading, engineering and construction of power facilities. Also, Inter RAO controls a number of foreign energy companies, including thermal and hydro power plants, power grid companies and power trading companies.",
+        "link": {
+          "href": "https://www.interrao.ru ",
+          "text": "interrao.ru"
+        }
+      }
+    },
+    {
+      "title": "Russian Railways JSC",
+      "iconName": "rzd",
+      "description": {
+        "title": "Russian Railways JSC is the Russian state vertically integrated company, owner of the common use infrastructure and large part of rolling stock. The most important operator of Russian railway system.",
+        "link": {
+          "href": "https://www.rzd.ru",
+          "text": "rzd.ru"
+        }
+      }
+    },
+    {
+      "title": "Corporation SME",
+      "iconName": "commercialPurchases2",
+      "description": {
+        "title": "SME Corporation acts as the institute of development in the segment of small and medium entrepreneurship in order to coordinate the support to small and medium entrepreneurship entities (SME).",
+        "link": {
+          "href": "https://corpmsp.ru",
+          "text": "corpmsp.ru"
+        }
+      }
+    },
+    {
+      "title": "Zarubezhneft JSC",
+      "iconName": "piece2",
+      "description": {
+        "title": "Zarubezhneft JSC is the steadily developing Russian oil-and-gas company of strategic importance, that acts for state interests.",
+        "link": {
+          "href": "https://www.nestro.ru",
+          "text": "nestro.ru"
+        }
+      }
+    },
+    {
+      "title": "Union “Surgut Chamber of Commerce and Industry”",
+      "iconName": "print2",
+      "description": {
+        "title": "Union “Surgut Chamber of Commerce and Industry” is the association of businessmen, manufacturers, representatives of small, medium and large enterprises of Surgut and Surgutsky district (more than 200 Chamber members).",
+        "text": "The Chamber is an intermediary between government and business. Through the Union “Surgut Chamber of Commerce and Industry” business community can send the ideas, comments and suggestions on development of living in the town and district, of doing business, submit drafts of regulatory enactments to municipal and district legislators.",
+        "link": {
+          "href": "https://www.tppsurgut.ru",
+          "text": "tppsurgut.ru "
+        }
+      }
+    },
+    {
+      "title": "Port One JSC (PPK Group)",
+      "iconName": "market2",
+      "description": {
+        "title": "The enterprises of the PPK Group are among the top ten Russian stevedoring companies and maintain a stable long-term partnership with the largest Russian and international cargo owners.",
+        "text": "The Group's universal and specialized marine terminals are located in the ports of the Baltic and Azov-Black Sea basins and transship all types of cargo, providing customers with high-quality service and efficient logistics solutions.<br>The company has many years of practice and unique competencies in the processing of ferrous metals of a wide range, manage one of the most modern container terminals in the Big Port of St. Petersburg, the only independent grain terminal of the Russian Federation in the port of Tuapse and complexes for transshipment of oil, bulk and ro-ro cargo.",
+        "link": {
+          "href": "https://www.port.one",
+          "text": "port.one"
+        }
+      }
+    }
+  ]
+}

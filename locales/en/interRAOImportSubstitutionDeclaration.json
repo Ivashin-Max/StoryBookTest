@@ -1,0 +1,113 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Submit Import Substitution",
+        "description": "Send information about import-substituting products by&nbsp;filling out the form and participate in&nbsp;procurement procedures of&nbsp;the Inter RAO Group companies",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Submit Import Substitution"
+                }
+            ]
+        }
+    },
+    "document": [
+        {
+            "nid": "1",
+            "title": "The list of foreign products",
+            "section": "",
+            "group": "The list of&nbsp;foreign products which are prioritized for import substitution and recommended for development in&nbsp;production by&nbsp;Russian companies has been approved (the list is&nbsp;updated annually):",
+            "file": "/documents/inter-rao/import-substitution-declaration/Перечень иностранной продукции 2023.xlsm",
+            "type": "XLSX",
+            "size": "235 KB"
+        }
+    ],
+    "bannerText": {
+        "title": "Need Import Substitution",
+        "text": [
+            "The information on&nbsp;the needs for import-substituting equipment, engineering products and software products critical for the technological processes of&nbsp;TEK-Torg organizations is&nbsp;indicated in&nbsp;the Automated Information System (AIS) and updated in&nbsp;accordance with the letter of&nbsp;the Ministry of&nbsp;Energy of&nbsp;Russia dated December&nbsp;30, 2015&nbsp;No. АТ-15171/02 &laquo;On&nbsp;Submission of&nbsp;Information to&nbsp;the Automated Information System &bdquo;Import Substitution Technologies and Projects&ldquo; by&nbsp;the Inter RAO Group companies&raquo;.",
+            "When planning the purchase of&nbsp;foreign products, the Inter RAO Group companies carry out a&nbsp;mandatory analysis of&nbsp;the possibility of&nbsp;its substitution with domestic products that are equivalent by&nbsp;technical characteristics and consumer properties.",
+            "When conducting procurement procedures, in&nbsp;order to&nbsp;assign the purchased products the status of&nbsp;Russian origin, the level of&nbsp;its localization is&nbsp;determined. The calculation of&nbsp;the localization level is&nbsp;carried out by&nbsp;the organization&nbsp;&mdash; a&nbsp;potential supplier of&nbsp;products in&nbsp;accordance with the Methodology &laquo;Calculation of&nbsp;the localization level of&nbsp;goods, works, services&raquo;."
+        ],
+        "links": [
+            {
+                "text": "Go to the AIS “Import Substitution Technologies and Projects”",
+                "href": "http://www.permcnti.ru/mnfent/login/Login.aspx",
+                "isForeign": true
+            }
+        ]
+    },
+    "documents": [
+        {
+            "nid": "1",
+            "title": "The AIS User’s Instruction for industrial enterprises",
+            "section": "",
+            "file": "/documents/inter-rao/import-substitution-declaration/Инструкция пользователей АИС для промышленных предприятий.docx",
+            "type": "DOCX",
+            "size": "630.97 KB"
+        },
+        {
+            "nid": "2",
+            "title": "Methodology MT-156-2 &laquo;Calculation of&nbsp;the level of&nbsp;localization of&nbsp;goods, works, services&raquo;",
+            "section": "",
+            "file": "/documents/inter-rao/import-substitution-declaration/Методика МТ-156-2 Расчёт уровня локализации.pdf",
+            "type": "PDF",
+            "size": "844 KB"
+        },
+        {
+            "nid": "3",
+            "title": "Appendix 1 Methodology MT-156-1",
+            "section": "",
+            "file": "/documents/inter-rao/import-substitution-declaration/Приложение 1 к Методике МТ-156-1.xlsx",
+            "type": "XLSX",
+            "size": "12.70 KB"
+        }
+    ],
+    "contactsForm": {
+        "title": "Fill in the contact details",
+        "docs": {
+            "title": "Download sample application to fill out",
+            "items": [
+                {
+                    "description": "Notification of import substitution",
+                    "title": "Notification of import substitution",
+                    "type": "DOCX",
+                    "size": "30.8 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/zayavit-ob-importozameschenii/Уведомление об импортозамещении 1 (1).docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+      "sidebar": {
+        "header": {
+            "logo": "saleFullEn",
+            "description": "The electronic trading platform TEK-Torg<br> Section for the sale of state, commercial and seized property",
+            "href": "/sale"
+        },
+        "menu": [
+            {
+                "text": "Catalog",
+                "href": "/vitrina/procedures",
+                "id": "catalog",
+                "subLinks": []
+            },
+            {
+                "text": "Procedures",
+                "href": "/sale/procedures",
+                "id": "implementationProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Documents",
+                "href": "/sale/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Tariffs",
+                "href": "/sale/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Support Center",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "For sellers",
+                        "href": "/sale/sellers/help"
+                    },
+                    {
+                        "text": "For customers",
+                        "href": "/sale/buyers/help"
+                    }
+                ]
+            },
+            {
+                "text": "Services",
+                "href": "/sale/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

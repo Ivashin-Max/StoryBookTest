@@ -1,0 +1,86 @@
+{
+    "lead": {
+        "background": {
+            "src": "/images/pages/documents/docs-bg.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/documents/docs-bg.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "title": "Documents"
+    },
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Government procurement",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Documents",
+                    "href": "/44-fz/documents"
+                }
+            ]
+        },
+        "title": "Documents"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                        "text": "Enroll",
+                        "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                        "text": "More",
+                        "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

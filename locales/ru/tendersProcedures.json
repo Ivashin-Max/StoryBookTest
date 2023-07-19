@@ -1,0 +1,98 @@
+{
+    "leadText": {
+        "title": "Процедуры реализации",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Реализация углеводородного сырья",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "Процедуры реализации"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Подписаться на процедуры",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "filters": [
+            {
+                "title": "Способ определения поставщика (покупателя)",
+                "type": "checkbox",
+                "fields": [{ "name": "types" }],
+                "dataName": "types"
+            },
+            {
+                "title": "Статусы процедур (стадии)",
+                "type": "checkbox",
+                "fields": [{ "name": "status" }],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Дата",
+                "type": "date",
+                "fields": [
+                    { "name": "datePublished", "label": "Публикация процедуры" },
+                    { "name": "dateEndRegistration", "label": "Окончание приема заявок" }
+                ]
+            },
+            {
+                "title": "Регион организатора",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Введите наименование или код региона"
+                },
+                "fields": [{ "name": "regionCodes" }],
+                "dataName": "regions"
+            }
+        ]
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "По актуальности",
+                "property": "actual"
+            },
+            {
+                "name": "По возрастанию цены",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "По убыванию цены",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "Сначала новые",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Сначала старые",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Карточный вид",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Табличный вид",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

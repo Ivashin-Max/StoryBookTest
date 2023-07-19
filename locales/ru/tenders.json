@@ -1,0 +1,279 @@
+{
+    "leadImg": {
+        "title": "Реализация<br> углеводородного сырья",
+        "background": {
+            "src": "/images/pages/tenders/leadImg/lead-sm.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/tenders/leadImg/lead-lg.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/tenders/leadImg/lead-md.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Торговые секции"
+            },
+            {
+                "text": "Реализация углеводородного сырья"
+            }
+        ]
+    },
+    "sidebar": {
+        "header": {
+            "logo": "realization",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция закупок ПАО «НК «Роснефть» для продажи нефтепродуктов",
+            "href": "#"
+        },
+        "menu": [
+            {
+                "text": "Процедуры реализации",
+                "href": "#",
+                "id": "implementationProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "#",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Центр Поддержки",
+                "href": "#",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "#",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Цифровой помощник",
+            "image": "/images/blocks/sidebar/bg1.jpg",
+            "link": {
+                "text": "",
+                "href": "#"
+            }
+        }
+    },
+    "bannerText": {
+        "title": "Реализация углеводородного сырья",
+        "text": [
+            "Секция создана для реализации углеводородного сырья, продуктов нефте-, газопереработки и нефтехимии Группы компаний &laquo;Роснефть&raquo; для зарегистрированных покупателей, в том числе для зарубежных компаний - нерезидентов РФ."
+        ],
+        "links": []
+    },
+    "products": {
+        "title": "Среди реализуемых продуктов можно выделить следующие",
+        "items": [
+            "Бункерное топливо",
+            "Сера и кислота",
+            "Битумы",
+            "Спирты",
+            "Смазочные материалы",
+            "Фенол",
+            "Парафино-восковая продукция",
+            "Спирт этиловый",
+            "Присадки/Мазут-Т/Экстракты",
+            "Мономеры",
+            "Конденсат газовый стабильный",
+            "Каучук",
+            "Светлые нефтепродукты",
+            "Амины",
+            "Темные нефтепродукты",
+            "Полимеры",
+            "Нефть",
+            "Ароматика",
+            "СЛУМ (смесь легких углеводов многокомпонентная)",
+            "Высокооктановые добавки",
+            "СУГ",
+            "Кокс",
+            "Сера и кислота",
+            "Аммиак",
+            "Катализаторы",
+            "ГАЗ",
+            "Коагулянты",
+            "Смола",
+            "Дизельное топливо",
+            "Бензин"
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Поиск по процедурам",
+        "rectLink": {
+            "text": "Подписаться на процедуры",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "link": {
+            "text": "Расширенный поиск",
+            "href": "/tenders/procedures"
+        }
+    },
+    "services": {
+        "name": "Услуги и сервисы",
+        "links": [],
+        "cards": {
+            "sideCard": {
+                "title": "Инструменты для победы в тендерах",
+                "text": "Наши сервисы помогут реализовать даже самые амбициозные цели",
+                "href": "/tenders/service",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/services/5-1-1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/services/5-1-1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/services/5-1-1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "iconName": "rocket"
+            },
+            "cards": [
+                {
+                    "title": "Электронная подпись",
+                    "href": "/tenders/service/e-signature",
+                    "iconName": "blank",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Кредит на пополнение оборотных средств",
+                    "href": "/tenders/service/credit",
+                    "iconName": "rocket",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Сопровождение тендеров участников закупок",
+                    "href": "/tenders/service/accompany-tenders",
+                    "iconName": "checkbox",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Электронный документооборот",
+                    "href": "/tenders/service/edo",
+                    "iconName": "case",
+                    "targetBlank": false
+                }
+            ]
+        }
+    },
+    "video": {
+        "wrapper": {
+            "title": "Обучающие материалы",
+            "links": [
+                {
+                    "href": "https://www.youtube.com/playlist?list=PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0",
+                    "text": "Смотреть все"
+                }
+            ]
+        },
+        "content": {
+            "items": [
+                {
+                    "title": "Sending the necessary documents to JSC TEK-Torg",
+                    "image": "/images/index/video-slider/1.jpg",
+                    "tags": [
+                        {
+                            "title": "Поставщикам"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/5KO9LgLElDM"
+                    },
+                    "titleBg": true
+                },
+                {
+                    "title": "Filing an application",
+                    "image": "/images/index/video-slider/2.jpg",
+                    "tags": [
+                        {
+                            "title": "Поставщикам"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/gPzQiaq2Nko"
+                    }
+                },
+                {
+                    "title": "Participation in the electronic auction",
+                    "image": "/images/index/video-slider/3.jpg",
+                    "tags": [
+                        {
+                            "title": "Поставщикам"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/HzfDoq87CCc"
+                    }
+                },
+                {
+                    "title": "Activation of the tariff plan",
+                    "image": "/images/index/video-slider/1.jpg",
+                    "tags": [
+                        {
+                            "title": "Поставщикам"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/mlNsIbmaqII"
+                    }
+                },
+                {
+                    "title": "Incoming: notifications section",
+                    "image": "/images/index/video-slider/2.jpg",
+                    "tags": [
+                        {
+                            "title": "Поставщикам"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/ezIuElo6Zdo"
+                    }
+                },
+                {
+                    "title": "Submission of a request for clarification of the provisions of the procurement documentation",
+                    "image": "/images/index/video-slider/3.jpg",
+                    "tags": [
+                        {
+                            "title": "Поставщикам"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/esS8gpU3mIY"
+                    }
+                }
+            ]
+        }
+    }
+}

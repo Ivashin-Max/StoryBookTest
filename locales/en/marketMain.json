@@ -1,0 +1,705 @@
+{
+    "leadImg": {
+        "title": "Market",
+        "background": {
+            "src": "/images/pages/market/marketMain-sm.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/market/marketMain-lg.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/market/marketMain-md.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "ETP Sections"
+            },
+            {
+                "text": "Market"
+            }
+        ]
+    },
+    "infWithIcons": {
+        "sideCard": {
+            "title": "Boost sales and develop your business with the help of&nbsp;the TEK-Torg Online Market",
+            "text": "Expand into new markets, participate in&nbsp;promising purchases, promote your products and find reliable partners",
+            "bg": "blue",
+            "links": [
+                {
+                    "text": "Go to the Section",
+                    "href": "https://kim.tektorg.ru/#auth/login",
+                    "isForeign": true
+                },
+                {
+                    "text": "Registration",
+                    "href": "https://kim.tektorg.ru/#front/register",
+                    "isForeign": true
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "Simplicity of operation",
+                "iconName": "documentChecked"
+            },
+            {
+                "text": "No&nbsp;security payments and tariffs for placement and participation in&nbsp;procurement",
+                "iconName": "documentPencil"
+            },
+            {
+                "text": "A&nbsp;large number of&nbsp;orders throughout Russia",
+                "iconName": "bag"
+            },
+            {
+                "text": "Direct access to&nbsp;orders of&nbsp;the largest companies",
+                "iconName": "feedback"
+            },
+            {
+                "text": "Reduction of&nbsp;costs for promotion",
+                "iconName": "checkMark3"
+            },
+            {
+                "text": "Prompt notifications about new orders",
+                "iconName": "documentList"
+            }
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Search by purchase",
+        "rectLink": {
+            "text": "Subscription to purchases",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter a keyword or the procedure number",
+            "submitText": "Search"
+        },
+        "link": {
+            "text": "Advanced search",
+            "href": "/market/procedures"
+        }
+    },
+    "barChartPercents": {
+        "title": "Popular purchases",
+        "link": {
+            "text": "All purchases",
+            "href": "/market/procedures"
+        },
+        "items": [
+            {
+                "text": "Computer, electronic and optical products",
+                "percent": 20
+            },
+            {
+                "text": "Machinery and equipment n.e.c.",
+                "percent": 14
+            },
+            {
+                "text": "Fabricated metal products, except machinery and equipment",
+                "percent": 11
+            },
+            {
+                "text": "Electrical equipment",
+                "percent": 10
+            },
+            {
+                "text": "Rubber and plastic products",
+                "percent": 10
+            },
+            {
+                "text": "Chemicals and chemical products",
+                "percent": 10
+            },
+            {
+                "text": "Architectural, engineering, technical testing, research and analysis services",
+                "percent": 8
+            },
+            {
+                "text": "Repair and installation of machinery and equipment",
+                "percent": 7
+            },
+            {
+                "text": "Basic metals",
+                "percent": 6
+            },
+            {
+                "text": "Specialized construction work",
+                "percent": 5
+            }
+        ]
+    },
+    "example1": {
+        "wrapper": {
+            "name": "Key performance indicators"
+        },
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "12",
+                        "text": "thousand"
+                    },
+                    "items": [
+                        {
+                            "text": "New procurements each month"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "3,5",
+                        "text": "million rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "The monthly volume of&nbsp;received orders"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/2.jpg"
+                },
+                {
+                    "head": {
+                        "number": "250",
+                        "text": "thousand rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "The average order value"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/3.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": ">2 900",
+                        "text": "customers"
+                    },
+                    "items": [
+                        {
+                            "text": "Purchase from the Online Market"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": ">500 ",
+                        "text": "thousand"
+                    },
+                    "items": [
+                        {
+                            "text": "Items in&nbsp;the catalogue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "example4": {
+        "title": "Functionality of&nbsp;the Online Market",
+        "cards": [
+            {
+                "title": "Гибкая система распределения ролей",
+                "description": "Позволяет сепарировать набор функций сотрудника в Интернет-магазине в  зависимости от его должностных обязанностей",
+                "bgColor": "blue",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true,
+                "image": "/images/blocks/сardSet/4.jpg",
+                "textColor": "white"
+            },
+            {
+                "title": "Маркетинговый центр",
+                "description": "Обеспечение требуемого уровня конкуренции на&nbsp;закупках. Коммуникация и&nbsp;сбор обратной связи от&nbsp;потенциальных участников закупок",
+                "modal": [{ "id": "ApplicationForm3MarketCentre", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Чат с&nbsp;заказчиками",
+                "description": "Обмен сообщениями и&nbsp;документами с&nbsp;контрагентами в&nbsp;едином окне",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "link": {
+                    "text": "Подробнее",
+                    "href": "/223-fz/service-customers-223-fz/digital_helper"
+                },
+                "title": "Цифровой помощник",
+                "description": "Полная проверка партнера автоматизировано и&nbsp;на&nbsp;основании надежных источников"
+            },
+            {
+                "title": "Аналитическая отчетность",
+                "description": "Ключевые показатели эффективности вашей закупочной деятельности в&nbsp;качественном визуальном представлении",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Подписание договора в&nbsp;электронной форме",
+                "description": "Автоматизированный процесс подписания договора в&nbsp;электронной форме с&nbsp;помощью электронной подписи",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Структурированное описание позиций",
+                "description": "Все запросы заказчиков описаны в&nbsp;структурированном виде. Обеспечено единство наименований, классификации и&nbsp;кодирования объектов",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Отсутствие дополнительных регистраций",
+                "description": "Не&nbsp;требуется дополнительной регистрации, можно заходить через учетные данные ЕРУЗ и&nbsp;Портала поставщиков Москвы за&nbsp;счет кросс-авторизации с&nbsp;данными системами",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "link": {
+                    "text": "Подписаться",
+                    "href": "/subscription"
+                },
+                "title": "Подписка на&nbsp;закупки",
+                "description": "Возможность подписки на&nbsp;интересующую номенклатуру и&nbsp;получение уведомлений о&nbsp;новых закупках"
+            },
+            {
+                "title": "Работа без&nbsp;эп",
+                "description": "Возможность регистрации и&nbsp;участия в&nbsp;закупках как с&nbsp;электронной подписью, так и&nbsp;без нее",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Не&nbsp;требуются обеспечительные платежи",
+                "description": "Отсутствуют обеспечительные платежи при подаче ценового предложения, денежные средства не&nbsp;блокируются на&nbsp;вашем счете",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Бесплатное участие",
+                "description": "Регистрация и&nbsp;участие в&nbsp;закупках абсолютно бесплатно для Поставщиков",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Предложение аналогов",
+                "description": "Возможность предоставить товар, отличный от&nbsp;того, который указал заказчик, с&nbsp;теми&nbsp;же характеристиками (показателями), но&nbsp;от&nbsp;другого производителя",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            }
+        ]
+    },
+    "five": {
+        "title": "Getting started and how does it&nbsp;work?",
+        "items": [
+            {
+                "text": "Registration"
+            },
+            {
+                "text": "Price list<br> placement"
+            },
+            {
+                "text": "Receipt of&nbsp;a&nbsp;Price request. Submission of&nbsp;the offer"
+            },
+            {
+                "text": "Receipt and Confirmation of&nbsp;the Direct Order"
+            },
+            {
+                "text": "The deal is&nbsp;concluded"
+            }
+        ]
+    },
+    "header": ["For Suppliers", "For Customers"],
+    "customersSliderInner": {
+        "title": "Our major customers",
+        "links": [
+            {
+                "text": "View all",
+                "href": "/clients/organizations"
+            }
+        ],
+        "items": [
+            {
+                "image": "/images/index/customers-slider/1.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/silovyi_machine"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/2.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/oboronenergo"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/upravlenie.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/upravlenie_zakazchika"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/rzd.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/rzd"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/5.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/mosenergo"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/rosMorPort.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/rosmorport"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/cnt.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/sntrans"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/metro.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/metro_spb"
+                }
+            },
+            {
+                "image": "/images/index/customers-slider/ppk.png",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/portone"
+                }
+            }
+        ]
+    },
+    "banner": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/market/banner-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/market/banner-lg.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/market/banner-md.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Place your price list on&nbsp;the small purchases website and receive orders",
+                "text": "The largest customers of&nbsp;the country will see your products",
+                "links": [
+                    {
+                        "text": "Publish the products",
+                        "href": "https://kim.tektorg.ru/#auth/login",
+                        "isForeign": true
+                    },
+                    {
+                        "text": "More about the service",
+                        "href": "/market/service/placement-production"
+                    }
+                ]
+            }
+        ]
+    },
+    "infWithIcons2": {
+        "sideCard": {
+            "title": "The process of&nbsp;urgent procurement(s) has never been so&nbsp;quick and easy!",
+            "text": "Choose from hundreds of&nbsp;offers from reliable suppliers, enter into partnerships online, save your money and time.",
+            "bg": "blue",
+            "isReverse": true,
+            "links": [
+                {
+                    "text": "Registration",
+                    "href": "https://kim.tektorg.ru/#front/register",
+                    "isForeign": true
+                }
+            ],
+            "modalbtns": [
+                {
+                    "id": "ApplicationForm3",
+                    "title": "Contact the manager"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "Simple operation in the Online Store of minor purchases",
+                "iconName": "documentChecked"
+            },
+            {
+                "text": "Personalized approach and personal manager",
+                "iconName": "person"
+            },
+            {
+                "text": "A&nbsp;huge database of&nbsp;suppliers on&nbsp;the Corporate Online Market platform",
+                "iconName": "registry"
+            },
+            {
+                "text": "Many convenient features of&nbsp;a&nbsp;small purchase market",
+                "iconName": "commercialPurchases"
+            }
+        ]
+    },
+    "example2": {
+        "wrapper": {
+            "name": "Key performance indicators"
+        },
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "12",
+                        "text": "thousand"
+                    },
+                    "items": [
+                        {
+                            "text": "New procurements each month"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "3,5",
+                        "text": "million rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "The monthly volume of received orders"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/2.jpg"
+                },
+                {
+                    "head": {
+                        "number": "6",
+                        "text": "thousand"
+                    },
+                    "items": [
+                        {
+                            "text": "New product offers"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/3.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": ">4 000",
+                        "text": "suppliers"
+                    },
+                    "items": [
+                        {
+                            "text": "Purchase from the Online Market"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": ">250",
+                        "text": "thousand rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "The average order value"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "example5": {
+        "title": "Functionality of the Small Purchases Online Market",
+        "cards": [
+            {
+                "title": "Rebidding",
+                "description": "There are no&nbsp;restrictions on&nbsp;the number of&nbsp;requests for reduction of&nbsp;the tender cost.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true,
+                "bgColor": "blue",
+                "image": "/images/blocks/сardSet/4.jpg",
+                "textColor": "white"
+            },
+            {
+                "title": "Divisible purchases and purchases with different delivery bases",
+                "description": "It&nbsp;is&nbsp;possible to&nbsp;devise the purchase into several small volume orders.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Flexible role assignment system",
+                "description": "You can give different access rights to&nbsp;the functions of&nbsp;the Personal Area for each employee.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Marketing center",
+                "description": "We&nbsp;undertake the analysis of&nbsp;the competitive market and the collection of&nbsp;a&nbsp;feedback from all bidding participants.",
+                "modal": [{ "id": "ApplicationForm3MarketCentre", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Chat with suppliers",
+                "description": "Negotiations with all counterparties in&nbsp;a&nbsp;single window (one-stop shop). It&nbsp;is&nbsp;easy to&nbsp;store, search and exchange documents, agreements, information on&nbsp;urgent purchases.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "link": {
+                    "text": "More",
+                    "href": "/services/customers-223-fz/digital_helper"
+                },
+                "title": "Digital Assistant",
+                "description": "Full verification of&nbsp;the supplier status is&nbsp;automated and based on&nbsp;reliable sources"
+            },
+            {
+                "title": "Analytical reporting",
+                "description": "Key performance indicators of&nbsp;your procurement activities in&nbsp;figures, graphs and reports.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Negotiation and signing of&nbsp;the contract in&nbsp;electronic form",
+                "description": "Automated process of&nbsp;contract negotiation and signing in&nbsp;electronic form. Keep the sequence of&nbsp;documents approval familiar to&nbsp;you",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Reporting",
+                "description": "Key performance indicators of&nbsp;your procurement activities in&nbsp;figures, graphs and reports.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Creating a&nbsp;normalized directory of&nbsp;items",
+                "description": "Create your own directory for working with goods and services at&nbsp;all stages of&nbsp;the company's life cycle, including budgeting, procurement, accounting.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Integration with different systems",
+                "description": "We&nbsp;have integrated into the TEK-Torg platform:<br>&mdash;&nbsp;URPP<br>&mdash;&nbsp;the Blacklist of&nbsp;Suppliers<br>&mdash;&nbsp;the Moscow Suppliers Portal.",
+                "modal": [{ "id": "ApplicationForm3", "title": "Contact the manager" }],
+                "fullModalCard": true
+            }
+        ]
+    },
+    "benefitsCards": {
+        "title": "Advantages of&nbsp;using the Minor Purchases site",
+        "content": {
+            "sideCard": {
+                "title": "Up&nbsp;to&nbsp;50-70% lower operating costs",
+                "picture": {
+                    "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "High competition for your orders",
+                    "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+                },
+                {
+                    "title": "Up&nbsp;to&nbsp;25% reduction<br> in&nbsp;procurement prices",
+                    "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+                },
+                {
+                    "title": "The tender is&nbsp;70% faster: from the beginning of&nbsp;the purchase to&nbsp;the conclusion of&nbsp;the contract with supplier"
+                }
+            ]
+        }
+    },
+    "five2": {
+        "title": "Price Request",
+        "items": [
+            {
+                "title": "Registration"
+            },
+            {
+                "title": "Creation and publication of&nbsp;a&nbsp;Price Request"
+            },
+            {
+                "title": "Collection of&nbsp;offers from Suppliers"
+            },
+            {
+                "title": "Selection of&nbsp;a&nbsp;winner"
+            },
+            {
+                "title": "Creation and sending of&nbsp;a&nbsp;direct order to&nbsp;the Winner"
+            },
+            {
+                "title": "Confirmation of&nbsp;the Direct Order"
+            },
+            {
+                "title": "The deal is&nbsp;concluded"
+            }
+        ]
+    },
+    "five3": {
+        "title": "Express Order",
+        "items": [
+            {
+                "title": "Registration"
+            },
+            {
+                "title": "Creation of an Express Order"
+            },
+            {
+                "title": "АAutomatic selection of&nbsp;Suppliers price lists for a&nbsp;given nomenclature"
+            },
+            {
+                "title": "Selection of&nbsp;a&nbsp;winner"
+            },
+            {
+                "title": "Creation and sending of&nbsp;a&nbsp;direct order to&nbsp;the Winner"
+            },
+            {
+                "title": "Confirmation of&nbsp;the Direct Order"
+            },
+            {
+                "title": "The deal is&nbsp;concluded"
+            }
+        ]
+    },
+    "tags": ["Price Request", "Express Order"],
+    "banner2": {
+        "title": "Getting started and how does it&nbsp;work?",
+        "text": []
+    }
+}

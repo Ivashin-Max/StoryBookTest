@@ -1,0 +1,94 @@
+{
+  "lead": {
+    "background": {
+      "src": "/images/pages/documents/docs-bg.jpg",
+      "sources": [
+        {
+          "src": "/images/pages/documents/docs-bg.jpg",
+          "breakpoint": "768"
+        }
+      ]
+    },
+    "title": "Документы"
+  },
+  "leadText": {
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Государственные закупки",
+          "href": "#"
+        },
+        {
+          "text": "Документы",
+          "href": "#"
+        }
+      ]
+    },
+    "title": "Документы"
+  },
+
+  "sidebar": {
+    "header": {
+      "logo": "feedback",
+      "logoText": "Интер РАО",
+      "description": "Электронная торговая площадка ТЭК-Торг",
+      "href": "#"
+    },
+    "menu": [
+      {
+        "text": "Каталог",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Процедуры реализации",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Тарифы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Документы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Продавцам",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Центр поддержки",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Услуги и сервисы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      }
+    ],
+    "banner": {
+      "title": "Цифровой помощник",
+      "image": "/images/blocks/sidebar/bg1.jpg",
+      "link": {
+        "text": "",
+        "href": "#"
+      }
+    }
+  }
+}

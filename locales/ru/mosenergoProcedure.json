@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Клиентам"
+                },
+                {
+                    "text": "Наши заказчики",
+                    "href": "/clients/organizations"
+                },
+                {
+                    "text": "ТЭК Мосэнерго",
+                    "href": "/mosenergo"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "К списку процедур",
+        "href": "/mosenergo"
+    },
+    "purchasesSlider": {
+        "title": "Похожие процедуры в&nbsp;других секциях"
+    }
+}

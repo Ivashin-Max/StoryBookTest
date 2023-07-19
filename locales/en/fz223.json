@@ -1,0 +1,614 @@
+{
+    "leadImg": {
+        "title": " 223-FZ<br>and Commercial procurement",
+        "background": {
+            "src": "/images/pages/223-fz/leadImg/223-fz_375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/223-fz/leadImg/223-fz_1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/223-fz/leadImg/223-fz_768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "ETP Sections"
+            },
+            {
+                "text": "223-FZ and Commercial Procurement"
+            }
+        ]
+    },
+    "tags": ["For 223-FZ Customers", "Commercial Customers"],
+    "infoList": {
+        "title": "In addition to the core the functionality of the electronic platform, we also provide the Customer with",
+        "items": [
+            {
+                "title": "Customer support",
+                "text": "Methodological, technical and legal support"
+            },
+            {
+                "title": "Customer care",
+                "text": "Each customer has a personal manager"
+            },
+            {
+                "title": " Process control",
+                "text": "Analytical tools of the Control Department and fulfillment of the procurement department plan"
+            },
+            {
+                "title": "Free up time",
+                "text": "A set of free services to automate work and reduce labor costs"
+            }
+        ],
+        "links": [
+            {
+                "href": "https://zakupki.tektorg.ru/#auth/login",
+                "text": " Get started",
+                "isForeign": true
+            }
+        ],
+        "modals": [
+            {
+                "id": "ApplicationForm3",
+                "title": "Contact the manage"
+            }
+        ]
+    },
+    "forCustomers223fz": {
+        "infoBlockWithIcons": {
+            "sideCard": {
+                "title": "The purpose of this section is",
+                "bg": "blue"
+            },
+            "content": [
+                {
+                    "text": "Announce purchases and invite reliable participants (traders)",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "text": "Collect and analyze market feedback",
+                    "iconName": "feedback"
+                },
+                {
+                    "text": "Effectively organize the procurement department",
+                    "iconName": "documentChecked"
+                },
+                {
+                    "text": "Build a system of internal accounting and reporting for higher management",
+                    "iconName": "documentList"
+                },
+                {
+                    "text": "Avoid fines and comply with regulations of the Federal Antimonopoly Service",
+                    "iconName": "judgesGavel"
+                },
+                {
+                    "text": "Get methodological and legal support",
+                    "iconName": "bag"
+                },
+                {
+                    "text": "Minimize the risk of disrupted deliveries, fulfillment of work and provision of services",
+                    "iconName": "checkMark2"
+                }
+            ]
+        },
+        "featuresAndServices": {
+            "stepsTabs": ["Planning", "Preparation", "Carrying Out", " Conclusion of Contract", "Analysis and Control"],
+            "planning": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "https://www.youtube.com/watch?v=h7HshJA7umk",
+                            "isForeign": true
+                        },
+                        "title": "Procurement Procedure Planning Service",
+                        "text": "Advanced features when working with the procurement plan under 223-FZ.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "piece",
+                        "targetBlank": true
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/nmc"
+                        },
+                        "title": "Initial Maximum Price Justification",
+                        "text": "Analysis of price information on purchases, goods and services",
+                        "iconName": "conversation",
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "preparation": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Digital Assistant",
+                        "text": "Full verification of the supplier's status automatically and based on reliable sources.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "person",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/digital_helper"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "conducting": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Marketing Center",
+                        "text": "Ensuring the required level of competition in purchases. Communication and feedback collection from potential procurement participants.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "cart",
+                        "modalId": "ApplicationForm3MarketCentre"
+                    },
+                    {
+                        "title": "Procurement Outsourcing",
+                        "text": "Comprehensive support at all stages of the procurement process: from the development of documentation to the conclusion of the contract.",
+                        "iconName": "timeout",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/outsourcing"
+                        },
+                        "targetBlank": false
+                    },
+                    {
+                        "title": "223-FZ Procurement Community",
+                        "text": "An active community, which has been joined by more than 5,000 people in 1.5 years:<br><br> -  useful materials<br> - news<br> - live communication with experts and practitioners",
+                        "iconName": "commercialPurchases",
+                        "link": {
+                            "text": "",
+                            "href": "https://vk.com/zakupo4naya",
+                            "isForeign": true
+                        },
+                        "targetBlank": true
+                    },
+                    {
+                        "title": "Training Center",
+                        "text": "Theory and practice from experts in the field of procurement.",
+                        "iconName": "Education",
+                        "link": {
+                            "text": "",
+                            "href": "/education"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "contract": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Contract Management",
+                        "text": "Automated contract execution process.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "files",
+                        "modalId": "ApplicationForm3"
+                    },
+                    {
+                        "title": "Electronic Document Management",
+                        "text": "Use ETP Electronic document management and optimize the process of participation in tenders.",
+                        "iconName": "feedback",
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/edo"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "analysis": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Reporting",
+                        "text": " Key performance indicators of your procurement activities in a high-quality visual representation",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "blank",
+                        "link": {
+                            "text": "",
+                            "href": "https://youtu.be/gfTbwvvmxaE",
+                            "isForeign": true
+                        },
+                        "targetBlank": true
+                    },
+                    {
+                        "title": "Normalization of the Normative Directory of Information",
+                        "text": " Create your own directory for working with goods, works, and services at all stages of the company's life cycle, including budgeting, procurement, accounting.",
+                        "iconName": "documentFile",
+                        "modalId": "ApplicationForm3NSI"
+                    },
+                    {
+                        "title": "Audit of the organization's procurement activities",
+                        "text": "Get ready for any check with our help",
+                        "iconName": "list",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/audit"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            }
+        }
+    },
+    "forСommercialCustomers": {
+        "infoBlockWithIcons": {
+            "sideCard": {
+                "title": "The purpose of this section is",
+                "bg": "blue"
+            },
+            "content": [
+                {
+                    "text": "Announce purchases and invite reliable participants (traders)",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "text": "Collect and analyze market feedback",
+                    "iconName": "feedback"
+                },
+                {
+                    "text": "Effectively organize the procurement department",
+                    "iconName": "documentChecked"
+                },
+                {
+                    "text": "Build a system of internal accounting and reporting for higher management",
+                    "iconName": "documentList"
+                },
+                {
+                    "text": "Get methodological and legal support",
+                    "iconName": "bag"
+                },
+                {
+                    "text": "Minimize the risk of disrupted deliveries, fulfillment of work and provision of services",
+                    "iconName": "checkMark2"
+                }
+            ]
+        },
+        "featuresAndServices": {
+            "stepsTabs": ["Planning", "Preparation", "Carrying Out", "Conclusion of Contract"],
+            "planning": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Initial Maximum Price Justification",
+                        "text": " Analysis of price information on purchases, goods and services.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "conversation",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/nmc"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "preparation": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Digital Assistant",
+                        "text": " Full verification of the supplier's status automatically and based on reliable sources",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "person",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/digital_helper"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "conducting": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Marketing Center",
+                        "text": "Ensuring the required level of competition in purchases. Communication and feedback collection from potential procurement participants.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "cart",
+                        "modalId": "ApplicationForm3MarketCentre"
+                    },
+                    {
+                        "title": "Procurement Outsourcing",
+                        "text": "Comprehensive support at all stages of the procurement process: from the development of documentation to the conclusion of the contract.",
+                        "iconName": "clockArrow",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/outsourcing"
+                        },
+                        "targetBlank": false
+                    },
+                    {
+                        "title": "Training Center",
+                        "text": "heory and practice from experts in the field of procurement.",
+                        "iconName": "Education",
+                        "link": {
+                            "text": "",
+                            "href": "/education"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "contract": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Contract Managemen",
+                        "text": " Automated contract execution process.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "files",
+                        "modalId": "ApplicationForm3ManageDogovor"
+                    },
+                    {
+                        "title": "Electronic Document Management",
+                        "text": "Use ETP Electronic document management and optimize the process of participation in tenders.",
+                        "iconName": "feedback",
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/edo"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            }
+        }
+    },
+    "indicatorsInner": {
+        "wrapper": {
+            "name": "Our achievements"
+        },
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "3,2",
+                        "text": "applications<br>per lot"
+                    },
+                    "items": [
+                        {
+                            "text": "Is average competition"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "&gt;880",
+                        "text": "thousand"
+                    },
+                    "items": [
+                        {
+                            "text": "Of suppliers in the database"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/2.jpg"
+                },
+                {
+                    "head": {
+                        "number": "20,35",
+                        "text": "trillion rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "Of published purchases"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/3.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "&#8470;1",
+                        "text": "in&nbsp;the Russian Federation"
+                    },
+                    "items": [
+                        {
+                            "text": "The highest level of services quality in the field of corporate procurement"
+                        },
+                        {
+                            "text": " Technical stability and speed of the ETP operation"
+                        },
+                        {
+                            "text": " Information security level"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "&#8470;2",
+                        "text": "in&nbsp;the Russian Federation"
+                    },
+                    "items": [
+                        {
+                            "text": "Convenience and the full capabilities of control and analytical tools"
+                        },
+                        {
+                            "text": "Flexibility and range of trade and purchasing functionality"
+                        },
+                        {
+                            "text": " Variety and quality of additional services provided by the ETP"
+                        },
+                        {
+                            "text": "Easy navigation of the ETP website"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "achievements": {
+        "name": "Our achievements",
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "3,2",
+                        "text": "applications<br>per lot"
+                    },
+                    "items": [
+                        {
+                            "text": "Is average competition in Procurement 223-FZ"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "&gt;720",
+                        "text": "thousand"
+                    },
+                    "items": [
+                        {
+                            "text": "Of suppliers in the database"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/2.jpg"
+                },
+                {
+                    "head": {
+                        "number": "15,5",
+                        "text": "trillion rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "Of published purchases"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/3.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "&#8470;1",
+                        "text": "in&nbsp;the Russian Federation"
+                    },
+                    "items": [
+                        {
+                            "text": "The highest level of services quality in the field of corporate procurement"
+                        },
+                        {
+                            "text": " Technical stability and speed of the ETP operation"
+                        },
+                        {
+                            "text": " Information security level"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "&#8470;2",
+                        "text": "in&nbsp;the Russian Federation"
+                    },
+                    "items": [
+                        {
+                            "text": "Convenience and the full capabilities of control and analytical tools"
+                        },
+                        {
+                            "text": "Flexibility and range of trade and purchasing functionality"
+                        },
+                        {
+                            "text": " Variety and quality of additional services provided by the ETP"
+                        },
+                        {
+                            "text": "Easy navigation of the ETP website"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "partners": {
+        "title": "We are trusted",
+        "links": [
+            {
+                "text": "View all",
+                "href": "/clients/organizations"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner2/d-314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner2/d-1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner2/d-680.jpg",
+                            "breakpoint": "680"
+                        },
+                        {
+                            "src": "/images/banner2/d-420.jpg",
+                            "breakpoint": "420"
+                        }
+                    ]
+                },
+                "title": "Digital Assistant",
+                "text": "Useful tools and services for 223-FZ customers",
+                "links": [
+                    {
+                        "text": "View",
+                        "href": "/223-fz/service-customers-223-fz/digital_helper"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/banner2/t-314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner2/t-1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner2/t-680.jpg",
+                            "breakpoint": "680"
+                        },
+                        {
+                            "src": "/images/banner2/t-420.jpg",
+                            "breakpoint": "420"
+                        }
+                    ]
+                },
+                "title": "Express access to procedures",
+                "text": "Express access to biddings Crediting funds to your account within 2 hours",
+                "links": [
+                    {
+                        "text": "More",
+                        "href": "/223-fz/service-suppliers/134"
+                    }
+                ]
+            }
+        ]
+    }
+}

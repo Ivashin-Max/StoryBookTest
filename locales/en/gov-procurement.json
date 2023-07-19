@@ -1,0 +1,542 @@
+{
+    "leadImg": {
+        "title": "Government<br>procurement",
+        "background": {
+            "src": "/images/pages/gov-procurement/leadImg/lead-mobile.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/gov-procurement/leadImg/lead.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/gov-procurement/leadImg/lead-tablet.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Government procurement",
+                    "href": "/44-fz"
+                }
+            ]
+        }
+    },
+    "tags": ["For customers", "For suppliers"],
+    "tagsContent": {
+        "toCustomers": {
+            "bannerText": {
+                "title": "For customers",
+                "text": [
+                    "The federal electronic platform TEK-Torg has been operating in&nbsp;the field of&nbsp;public procurement since October&nbsp;1, 2018. Currently, the TEK-Torg platform ranks fourth in&nbsp;terms of&nbsp;the number of&nbsp;announced purchases among all 8&nbsp;selected operators of&nbsp;electronic platforms.",
+                    "The closest cooperation with the representatives of&nbsp;customers and authorized bodies allows our team to&nbsp;actively gain the trust of&nbsp;users throughout Russia, as&nbsp;well as&nbsp;to&nbsp;constantly develop our competencies and services.",
+                    "By&nbsp;creating a&nbsp;platform, we&nbsp;strive to&nbsp;save every second of&nbsp;your working time by&nbsp;offering a&nbsp;high-quality, well-designed and fast interface. We&rsquo;re working on&nbsp;reducing time for execution of&nbsp;routine operations because you need quick purchases."
+                ]
+            },
+            "infoBlockWithIcons": {
+                "sideCard": {
+                    "title": "Key factors<br>for a high level<br>of trust",
+                    "bg": "blue"
+                },
+                "content": [
+                    {
+                        "text": "Individual approach to&nbsp;each customer",
+                        "iconName": "person"
+                    },
+                    {
+                        "text": "Implementation of&nbsp;innovative improvements based on&nbsp;the wishes of&nbsp;users of&nbsp;the Government procurement section",
+                        "iconName": "rocket"
+                    },
+                    {
+                        "text": "Personal consultations with our procurement experts",
+                        "iconName": "feedback"
+                    },
+                    {
+                        "text": "Provision of&nbsp;a&nbsp;wide range of&nbsp;control and analytical data on&nbsp;the results of&nbsp;procurement procedures",
+                        "iconName": "list"
+                    },
+                    {
+                        "text": "Carrying out of&nbsp;free training events for customers and suppliers on&nbsp;a&nbsp;regular basis",
+                        "iconName": "Education"
+                    }
+                ]
+            },
+            "titleAdvantages": "Benefits for Customers",
+            "tabsHeader": [
+                "Preparation of&nbsp;documentation",
+                "Publication of&nbsp;the notification and submission of&nbsp;an&nbsp;application",
+                "Review of&nbsp;application documents",
+                "Protocol development",
+                "Conclusion of&nbsp;a&nbsp;contract",
+                "Fulfillment, termination, modification of&nbsp;the contract",
+                "Reports, audits"
+            ],
+            "advantages": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/sonmc"
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "The IMP justification services",
+                        "text": "A&nbsp;complex of&nbsp;services to&nbsp;simplify the process of&nbsp;calculating the initial maximum price (Order of&nbsp;the Ministry of&nbsp;Economic Development of&nbsp;the Russian Federation No.&nbsp;567, Order of&nbsp;the Ministry of&nbsp;Health of&nbsp;the Russian Federation No. 1064n, Order of&nbsp;the Ministry of&nbsp;Health of&nbsp;the Russian Federation No. 450n).",
+                        "iconName": "financialServices",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/pgs"
+                        },
+                        "title": "Verification of&nbsp;compliance with government standards",
+                        "text": "This functionality checks the relevance of&nbsp;the government standards specified in&nbsp;the documentation (GOST, SNiP, SanPiN, RD).",
+                        "iconName": "documentChecked"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/pd"
+                        },
+                        "title": "Search for documentation",
+                        "text": "The service helps to&nbsp;quickly find purchase documentation for further use during carrying out procedures. The search is&nbsp;performed among documents from notifications published in&nbsp;the UIS.",
+                        "iconName": "search"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/pnoiz"
+                        },
+                        "title": "Check for restrictions, prohibitions and benefits",
+                        "text": "The functionality allows to&nbsp;quickly pick up&nbsp;OKPD2&nbsp;/ KTRU codes by&nbsp;the desired object of&nbsp;purchase and characteristics, as&nbsp;well as&nbsp;check them for benefits, prohibitions and restrictions and find standard contracts.",
+                        "iconName": "checkMark"
+                    }
+                ]
+            },
+            "advantages2": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/rsp"
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Calculation of&nbsp;time frames of&nbsp;procedures",
+                        "text": "A&nbsp;simple and intuitive calculator to&nbsp;create time frames for purchases under 44-FZ taking into account the latest legislative changes",
+                        "iconName": "bankomat",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/pp",
+                            "isForeign": false
+                        },
+                        "title": "Attraction of&nbsp;suppliers",
+                        "text": "Increasing competition and the number of&nbsp;participants of&nbsp;procurement procedures through direct calling by&nbsp;marketing center specialists of&nbsp;the Federal Platform TEK-Torg. To&nbsp;use this service, you need to&nbsp;contact the personal manager.",
+                        "iconName": "phone"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/apzd",
+                            "isForeign": false
+                        },
+                        "title": "Automatic verification of&nbsp;procurement documentation",
+                        "text": "The documentation of&nbsp;each notification published in&nbsp;the Government Procurement section on&nbsp;the Federal Platform TEK-Torg is&nbsp;automatically checked for outdated or&nbsp;replaced government standards and norms.",
+                        "iconName": "checkbox"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/spp",
+                            "isForeign": false
+                        },
+                        "title": "Supplier selection service",
+                        "text": "The service generates a&nbsp;list of&nbsp;suppliers, contractors, performers in&nbsp;accordance with the desired object of&nbsp;purchase, indicating contacts for further interaction.",
+                        "iconName": "list"
+                    }
+                ]
+            },
+            "advantages3": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/oppuz",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Report on&nbsp;verifications of&nbsp;procurement participants",
+                        "text": "At&nbsp;one click of&nbsp;a&nbsp;button, the platform checks all procurement participants in&nbsp;the registers (the Blacklist of&nbsp;Suppliers, SME Register, SRO, 19.28 of&nbsp;the Administrative Code, bankruptcy)",
+                        "iconName": "documentFile",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/pk",
+                            "isForeign": false
+                        },
+                        "title": "Verification of&nbsp;the counterparty",
+                        "text": "The functionality of&nbsp;comprehensive verification of&nbsp;counterparties allows to&nbsp;get acquainted with detailed information about company, view financial statements, learn the history of&nbsp;contract execution and of&nbsp;the counterparty&rsquo;s participation in&nbsp;purchases, and check them for affiliation",
+                        "iconName": "person"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/rdz",
+                            "isForeign": false
+                        },
+                        "title": "Recognition of&nbsp;application documents",
+                        "text": "The platform recognizes a&nbsp;number of&nbsp;documents (Certificate of&nbsp;Compliance (RU), Certificate of&nbsp;Origin (ST-1), Licenses, extracts from the register of&nbsp;licenses) as&nbsp;part of&nbsp;the application for participation in&nbsp;procurement for healthcare needs and displays their details in&nbsp;a&nbsp;convenient report, as&nbsp;well as&nbsp;provides links to&nbsp;the relevant registers for subsequent verification",
+                        "iconName": "files"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/iosoz",
+                            "isForeign": false
+                        },
+                        "title": "Informing about the method of&nbsp;securing the application",
+                        "text": "At&nbsp;the stage of&nbsp;applications review, the participant that provided the application with a&nbsp;bank guarantee is&nbsp;highlighted in&nbsp;a&nbsp;separate color (for subsequent verification)",
+                        "iconName": "flag"
+                    }
+                ]
+            },
+            "advantages4": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/opp",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Deferred publication of&nbsp;protocols",
+                        "text": "The ability to&nbsp;postpone sending an&nbsp;electronically signed protocol to&nbsp;the UIS for subsequent adjustments",
+                        "iconName": "timeout",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/ut"
+                        },
+                        "title": "Notifications in&nbsp;Telegram",
+                        "text": "The platform provides the possibility of&nbsp;flexible setting of&nbsp;notifications sent to&nbsp;e-mail and Telegram messenger",
+                        "iconName": "notification"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/mkszp"
+                        },
+                        "title": "Control module for time frames of&nbsp;procurement procedures",
+                        "text": "Control over time frames of&nbsp;the procurement stages is&nbsp;implemented not only through a&nbsp;general list of&nbsp;all procedures, but also through a&nbsp;separate section &laquo;Do&nbsp;not forget&raquo; that displays only the necessary information about the actions that the customer shall perform on&nbsp;current purchases",
+                        "iconName": "file"
+                    }
+                ]
+            },
+            "advantages5": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/arsksup",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Automatic calculation of&nbsp;the contract price on&nbsp;the basis of&nbsp;preferences",
+                        "text": "The platform automatically calculates the amount of&nbsp;the contract to&nbsp;be&nbsp;concluded taking into account the applied preferences and displays this information in&nbsp;the protocol",
+                        "iconName": "bankomat",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/chspz",
+                            "isForeign": false
+                        },
+                        "title": "Chat with the winner of&nbsp;the procurement procedure",
+                        "text": "Implemented the ability to&nbsp;create chats with the procurement participant recognized as&nbsp;the winner based on&nbsp;the results of&nbsp;review of&nbsp;applications. Besides, it&nbsp;is&nbsp;possible to&nbsp;share files via chat",
+                        "iconName": "conversation"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/spam"
+                        },
+                        "title": "Coordination of&nbsp;the anti-dumping measures application with the Authorized Body",
+                        "text": "The platform makes it&nbsp;possible to&nbsp;send for approval to&nbsp;an&nbsp;Authorized institution/body a&nbsp;request for the application of&nbsp;anti-dumping measures",
+                        "iconName": "signature"
+                    }
+                ]
+            },
+            "advantages6": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/44-fz/pz/zdscfp",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Conclusion of&nbsp;additional agreements through the functionality of&nbsp;the platform",
+                        "text": "The platform provides the ability of&nbsp;concluding additional agreements to&nbsp;the contract in&nbsp;electronic form",
+                        "iconName": "stamp",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/mkeiopk"
+                        },
+                        "title": "Control module of&nbsp;stages and payments under the contract",
+                        "text": "A&nbsp;section containing information on&nbsp;contracts to&nbsp;monitor stages and payments",
+                        "iconName": "checkMark2"
+                    }
+                ]
+            },
+            "advantages7": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/posmp"
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Preparation of&nbsp;the SMP report",
+                        "text": "The service allows to&nbsp;quickly and easily generate a&nbsp;report on&nbsp;the volume of&nbsp;purchases from small businesses",
+                        "iconName": "documentFile",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/rz"
+                        },
+                        "title": "Procurement register",
+                        "text": "The register contains information on&nbsp;published procedures for preparation of&nbsp;regular analytical reports",
+                        "iconName": "files"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/44-fz/pz/fpao"
+                        },
+                        "title": "Generation of&nbsp;detailed analytical reports on&nbsp;all purchases of&nbsp;the authorized bodies/the Customer",
+                        "text": "The ability to&nbsp;generate detailed analytical reports on&nbsp;all purchases based on&nbsp;more than 300 criteria and indicators with graphical visualization and the possibility of&nbsp;comparative analysis",
+                        "iconName": "list"
+                    }
+                ]
+            },
+            "graph": {
+                "bgColor": "gray2",
+                "title": "The purchases volume growth dynamics on&nbsp;the ETP TEK-Torg, billion rubles",
+                "backgroundImage": "/images/blocks/pictureGraphWithText/graph-3.jpg",
+                "legend": [
+                    {
+                        "text": "Share of notifications",
+                        "colorMarker": "blue"
+                    },
+                    {
+                        "text": "Share of the initial maximum contract price",
+                        "colorMarker": "black",
+                        "markerOpacity": 0.2
+                    }
+                ]
+            },
+            "infoCards": {
+                "cards": {
+                    "sideCard": {
+                        "title": "Why organizers choose TEK-Torg",
+                        "picture": {
+                            "src": "/images/infoCards/2_11_375.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/infoCards/2_11_1920.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/infoCards/2_11_768.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        }
+                    },
+                    "cards": [
+                        {
+                            "title": "Personal approach to&nbsp;support when working on&nbsp;the ETP TEK-Torg",
+                            "modalId": "ApplicationForm3",
+                            "text": "Each customer carrying out purchases on&nbsp;the Federal Electronic Platform TEK-Torg is&nbsp;assigned a&nbsp;personal manager for prompt cooperation and solving any problems that arise 24&nbsp;hours a&nbsp;day."
+                        },
+                        {
+                            "title": "Effective mechanisms for working with competitors",
+                            "modalId": "ApplicationForm3",
+                            "text": "A&nbsp;wide range of&nbsp;services and additional features of&nbsp;our platform helps to&nbsp;effectively monitor competition indicators during procedures, as&nbsp;well as&nbsp;directly influence them by&nbsp;attracting suppliers with the help of&nbsp;qualified TEK-Torg category managers who interact with suppliers directly."
+                        }
+                    ]
+                }
+            },
+            "bannerSlider2": {
+                "items": [
+                    {
+                        "background": {
+                            "src": "/images/pages/gov-procurement/bannerSlider2/slide-mobile.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/pages/gov-procurement/bannerSlider2/slide.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/pages/gov-procurement/bannerSlider2/slide-tablet.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "How to&nbsp;start",
+                        "text": "Course from industry experts,<br>copyrighted materials, 24/7 access",
+                        "links": [
+                            {
+                                "text": "Learn more",
+                                "href": "https://www.youtube.com/watch?v=Fl7OKDoU0u8",
+                                "isForeign": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "toSuppliers": {
+            "bannerText": {
+                "title": "For suppliers",
+                "text": [
+                    "Currently, the TEK-Torg platform ranks fourth in&nbsp;terms of&nbsp;the number of&nbsp;announced purchases among all 8&nbsp;selected operators of&nbsp;electronic platforms.",
+                    "For&nbsp;us, working with suppliers is&nbsp;an&nbsp;integral part of&nbsp;the platform&rsquo;s development. We&nbsp;always highly appreciate the feedback received from representatives of&nbsp;the business community.",
+                    "By&nbsp;creating a&nbsp;platform we&nbsp;strive to&nbsp;combine both simplicity and functionality. This ensures that organizations that have never participated in&nbsp;government procurement before can quickly understand the mechanisms for submitting applications and other subtleties of&nbsp;purchasing."
+                ]
+            },
+            "infoBlockWithIcons": {
+                "sideCard": {
+                    "title": "Key factors<br>for a high level<br>of trust",
+                    "bg": "blue"
+                },
+                "content": [
+                    {
+                        "text": "Simple and intuitive interface",
+                        "iconName": "documentChecked"
+                    },
+                    {
+                        "text": "A&nbsp;large number of&nbsp;purchases throughout Russia",
+                        "iconName": "documentList"
+                    },
+                    {
+                        "text": "Informing potential participants about procurement procedures",
+                        "iconName": "notification"
+                    },
+                    {
+                        "text": "Individual consultations",
+                        "iconName": "person"
+                    }
+                ]
+            },
+            "bannerSlider": {
+                "items": [
+                    {
+                        "background": {
+                            "src": "/images/pages/gov-procurement/bannerSlider4/slide-mobile.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/pages/gov-procurement/bannerSlider4/slide.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/pages/gov-procurement/bannerSlider4/slide-tablet.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "How to&nbsp;start",
+                        "text": "Course from industry experts, copyrighted materials, 24/7 access",
+                        "links": [
+                            {
+                                "text": "Learn more",
+                                "href": "https://youtu.be/Dll4LvVga2I",
+                                "isForeign": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bannerSlider2": {
+                "items": [
+                    {
+                        "title": "Financial services<br>for procurement participants",
+                        "background": {
+                            "src": "/images/pages/gov-procurement/bannerText/banner-mobile.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/pages/gov-procurement/bannerText/banner.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/pages/gov-procurement/bannerText/banner-tablet.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "text": ["Bank guarantees from 1.5% without restrictions on&nbsp;the amount"],
+                        "links": [
+                            {
+                                "text": "Get the service",
+                                "href": "https://fin.tektorg.ru/",
+                                "isForeign": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "education": {
+            "name": "Training",
+            "links": [
+                {
+                    "href": "/education",
+                    "text": "View all"
+                }
+            ],
+            "educationsEvents": {
+                "images": [
+                    "/images/index/educationsEvents/1.jpg",
+                    "/images/index/educationsEvents/2.jpg",
+                    "/images/index/educationsEvents/3.jpg",
+                    "/images/index/educationsEvents/4.jpg",
+                    "/images/index/educationsEvents/5.jpg"
+                ]
+            }
+        }
+    }
+}

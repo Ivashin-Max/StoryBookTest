@@ -1,0 +1,48 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "realizationEn",
+            "description": "The electronic trading platform TEK-Torg<br> Section of sale of petroleum products procedures of Rosneft",
+            "href": "/tenders"
+        },
+        "menu": [
+            {
+                "text": "Procedures",
+                "href": "/tenders/procedures",
+                "id": "procedures",
+                "subLinks": []
+            },
+            {
+                "text": "For foreign customers",
+                "href": "/uvs-ip",
+                "id": "foreignBuyers",
+                "subLinks": []
+            },
+            {
+                "text": "Documents",
+                "href": "/tenders/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Support Center",
+                "href": "/tenders/help",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Services",
+                "href": "/tenders/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

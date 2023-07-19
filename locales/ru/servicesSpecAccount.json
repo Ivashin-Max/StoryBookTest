@@ -1,0 +1,221 @@
+{
+  "leadText": {
+    "title": "Специальный счет",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Услуги и сервисы"
+        },
+        {
+          "text": "Поставщикам",
+          "href": "/services/service-suppliers"
+        },
+        {
+          "text": "Специальный счет",
+          "href": "/services-specAccount"
+        }
+      ]
+    }
+  },
+  "bannerSlide": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/banner/spec375.jpg",
+          "sources": [
+            {
+              "src": "/images/banner/spec.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/banner/spec768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Выгодное предложение от&nbsp;банков-партнеров для участников закупок",
+        "text": [
+          "Откройте спецсчет в&nbsp;банке-партнере ЭТП ТЭК-Торг и&nbsp;получайте до&nbsp;9,05% на&nbsp;остаток в&nbsp;течение трех месяцев"
+        ],
+        "modal": [
+          {
+            "title": "Оставить заявку",
+            "id": "ServicesFormWithTitle"
+          }
+        ]
+      }
+    ]
+  },
+  "bannerText": {
+    "title": "Зачем нужен спецсчет?",
+    "text": [
+      "С&nbsp;1&nbsp;октября 2018 года средства, предназначенные для обеспечения заявок, вносятся на&nbsp;специальные счета в&nbsp;уполномоченных банках.",
+      "После 1&nbsp;октября 2018 года поставщики используют спецсчет для внесения денежных средств в&nbsp;счет обеспечения заявок при участии в&nbsp;открытых процедурах на&nbsp;любой из&nbsp;8&nbsp;уполномоченных площадок."
+    ]
+  },
+  "example2": {
+    "title": "Перечень площадок:",
+    "items": [
+      "Электронная торговая площадка ТЭК-Торг",
+      "Сбербанк — Автоматизированная система торгов",
+      "Агентство по государственному заказу Республики Татарстан",
+      "Электронная торговая площадка Группы Газпромбанка",
+      "Электронная торговая площадка Российский аукционный дом",
+      "Национальная электронная площадка",
+      "Единая электронная торговая площадка",
+      "Электронная площадка России РТС-тендер"
+    ]
+  },
+  "customerCardSlid": {
+    "title": "Перечень уполномоченных банков (утвержден Правительством РФ&nbsp;от&nbsp;13&nbsp;июля 2018&nbsp;г. &#8470;&nbsp;1451-р):",
+    "items": [
+      {
+        "title": "Сбер",
+        "image": "/images/index/customers-slider/sber.png"
+      },
+      {
+        "title": "ВТБ",
+        "image": "/images/index/customers-slider/vtb.png"
+      },
+      {
+        "title": "Газпромбанк",
+        "image": "/images/index/customers-slider/gazprom.png"
+      },
+      {
+        "title": "РоссельхозБанк",
+        "image": "/images/index/customers-slider/rosselhoz.png"
+      },
+      {
+        "title": "Альфа-Банк",
+        "image": "/images/index/customers-slider/alfa.png"
+      },
+      {
+        "title": "Московский Кредитный Банк",
+        "image": "/images/index/customers-slider/mk.png"
+      },
+      {
+        "title": "Открытие",
+        "image": "/images/index/customers-slider/otkrytie.png"
+      },
+      {
+        "title": "Raiffesen BANK",
+        "image": "/images/index/customers-slider/raiffeisen.png"
+      },
+      {
+        "title": "РОСБАНК",
+        "image": "/images/index/customers-slider/rosbank.png"
+      },
+      {
+        "title": "Всероссийский банк развития регионов",
+        "image": "/images/index/customers-slider/razvitie.png"
+      },
+      {
+        "title": "Промсвязьбанк",
+        "image": "/images/index/customers-slider/promsvyaz.png"
+      },
+      {
+        "title": "БАНК РОССИЯ",
+        "image": "/images/index/customers-slider/rossia.png"
+      },
+      {
+        "title": "БАНК САНКТ-ПЕТЕРБУРГ",
+        "image": "/images/index/customers-slider/spb.png"
+      },
+      {
+        "title": "СОВКОМБАНК",
+        "image": "/images/index/customers-slider/sovkom.png"
+      },
+      {
+        "title": "РНКБ",
+        "image": "/images/index/customers-slider/rnkb.png"
+      },
+      {
+        "title": "РосЕвроБанк",
+        "image": "/images/index/customers-slider/roseuro.png"
+      },
+      {
+        "title": "ОТПбанк",
+        "image": "/images/index/customers-slider/otp.png"
+      },
+      {
+        "title": "UniCredit",
+        "image": "/images/index/customers-slider/uni.png"
+      }
+    ]
+  },
+  "example3": {
+    "wrapper": {
+      "name": "Условия обслуживания счета"
+    },
+    "cards": {
+      "cardsBottom": [
+        {
+          "head": {
+            "number": "0 ",
+            "text": "рублей"
+          },
+          "items": [
+            {
+              "text": "Клиент открывает спецсчет участника закупок. Банк в&nbsp;течение 3-х месяцев с&nbsp;даты открытия специального счета начисляет проценты на&nbsp;фактический остаток на&nbsp;спецсчете по&nbsp;плавающей ставке Ruonia*0,85&nbsp;По состоянию на&nbsp;30.05.2022 ставка составляет&nbsp;&mdash; 9,05%* По&nbsp;окончании срока действия акции %&nbsp;на&nbsp;остаток на&nbsp;спецсчете участника закупок будет начисляться в&nbsp;соответствии со&nbsp;ставками в&nbsp;тарифном плане."
+            }
+          ]
+        },
+        {
+          "head": {
+            "number": "9,05%",
+            "text": "до"
+          },
+          "items": [
+            {
+              "text": "На&nbsp;остаток средств на&nbsp;счете<br/>Быстрое открытие и&nbsp;бесплатное обслуживание специального счета"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "three": {
+    "title": "Как открыть специальный счет?",
+    "items": [
+      {
+        "text": "Оставьте заявку<br/><br/>Заполнение всех полей является обязательным условием открытия счета, и&nbsp;не&nbsp;забудьте проверить правильность данных"
+      },
+      {
+        "text": "Получите подтверждение<br/><br/>Как только счет в&nbsp;банке будет открыт, наш сотрудник свяжется с&nbsp;Вами и&nbsp;сообщит об&nbsp;этом"
+      },
+      {
+        "text": "Участвуйте в тендерах<br/><br/>Вы&nbsp;можете пользоваться всеми преимуществами специального счета в&nbsp;банке и&nbsp;участвовать в&nbsp;тендерах в&nbsp;соответствии с&nbsp;44-ФЗ"
+      }
+    ]
+  },
+  "bannerSlider": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Есть вопросы?<br>Мы поможем!",
+        "modal": [
+          {
+            "title": "Задать вопрос",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+    "lead": {
+        "title": "Делаем закупки доступнее",
+        "description": "ТЭК-Торг&nbsp;&mdash; федеральная электронная площадка с&nbsp;проверенным наивысшим уровнем качества*, обеспечивающая высокую конкуренцию в&nbsp;закупках.",
+        "fixText": {
+            "text": "*Рейтинг RAEX",
+            "href": "https://raex-rr.com/pro/b2b/procurement/ETP/2022/"
+        },
+        "background": {
+            "fhd": "/images/index/lead/lead.jpg",
+            "tablet": "/images/index/lead/lead-tablet.jpg",
+            "mobile": "/images/index/lead/lead-mobile.jpg"
+        },
+        "companies": [
+            {
+                "name": "Роснефть",
+                "href": "/rosneft",
+                "defaultImage": "/images/index/lead/logo-1.png",
+                "hoverImage": "/images/index/lead/logo-1-white.png"
+            },
+            {
+                "name": "Интер РАО ЕЭС",
+                "href": "/inter_rao",
+                "defaultImage": "/images/index/lead/logo-2.png",
+                "hoverImage": "/images/index/lead/logo-2-white.png"
+            },
+            {
+                "name": "РЖД",
+                "href": "/org/rzd",
+                "defaultImage": "/images/index/lead/logo-3.png",
+                "hoverImage": "/images/index/lead/logo-3-white.png"
+            }
+        ]
+    },
+    "searchProcedures": {
+        "text1": "Поиск по",
+        "text2": "процедурам",
+        "text3": "Все секции",
+        "notFideMessage": ["К сожалению, по вашему запросу", "ничего не найдено, попробуйте изменить формулировку"],
+        "input": {
+            "placeholder": "Введите слово или номер процедуры"
+        },
+        "btn": "Найти",
+        "link": {
+            "text": "Расширенный поиск",
+            "href": "/procedures"
+        },
+        "tags": [
+            {
+                "text": "Роснефть",
+                "value": "rosneft"
+            },
+            {
+                "text": "44-ФЗ",
+                "value": "44fz"
+            },
+            {
+                "text": "Интер РАО",
+                "value": "interrao"
+            },
+            {
+                "text": "223-ФЗ",
+                "value": "zakupki"
+            },
+            {
+                "text": "Интернет-магазин",
+                "value": "market"
+            },
+            {
+                "text": "Продажа имущества",
+                "value": "sale"
+            },
+            {
+                "text": "Реализация УВС",
+                "value": "rosneft_selling"
+            }
+        ]
+    },
+    "actualSlider": {
+        "title": "Актуальное"
+    },
+    "customers": {
+        "name": "Заказчикам",
+        "title": "Надежная площадка для закупок",
+        "text": "ЭТП ТЭК-Торг позволяет проводить любые закупочные процедуры под задачи заказчика с учетом закупочного законодательства",
+        "cards": [
+            {
+                "title": "Закупочные процедуры по&nbsp;44-ФЗ",
+                "href": "/44-fz",
+                "iconName": "44fz",
+                "targetBlank": false
+            },
+            {
+                "title": "Закупочные процедуры по&nbsp;223-ФЗ",
+                "href": "/223-fz?tag=0",
+                "iconName": "fz223icon",
+                "targetBlank": false
+            },
+            {
+                "title": "Закупочные процедуры коммерческих заказчиков",
+                "href": "/223-fz?tag=1",
+                "iconName": "fz223icon",
+                "targetBlank": false
+            },
+            {
+                "title": "Закупки мелких и&nbsp;срочных товаров и&nbsp;услуг",
+                "href": "/market",
+                "iconName": "market",
+                "targetBlank": false
+            }
+        ]
+    },
+    "indicators": {
+        "name": "Стабильная динамика роста",
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "4,82",
+                        "text": "трлн руб."
+                    },
+                    "items": [
+                        {
+                            "text": "Объем опубликованных<br>на&nbsp;ЭТП закупок за&nbsp;2022 год"
+                        }
+                    ],
+                    "image": "/images/index/indicators/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "441&nbsp;074",
+                        "text": "процедур"
+                    },
+                    "items": [
+                        {
+                            "text": "Количество опубликованных<br>на&nbsp;ЭТП закупок за&nbsp;2022 год"
+                        }
+                    ],
+                    "image": "/images/index/indicators/2.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "&#8470;1",
+                        "text": "в&nbsp;РФ"
+                    },
+                    "items": [
+                        {
+                            "text": "По уровню удовлетворенности корпоративных заказчиков качеством услуг"
+                        },
+                        {
+                            "text": "По уровню конкуренции в торговых процедурах"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "&#8470;2",
+                        "text": "в&nbsp;РФ"
+                    },
+                    "items": [
+                        {
+                            "text": "По уровню удовлетворенности заказчиков качеством проведения закупок малого объема"
+                        },
+                        {
+                            "text": "По гибкости и широте торгово-закупочного функционала"
+                        },
+                        {
+                            "text": "По широте и качеству услуг и сервисов"
+                        }
+                    ]
+                }
+            ],
+            "cardLink": {
+                "title": "Наши<br>достижения",
+                "link": {
+                    "text": "Подробнее о компании",
+                    "href": "/about"
+                }
+            }
+        }
+    },
+    "suppliers": {
+        "name": "Поставщикам",
+        "links": [
+            {
+                "href": "/subscription",
+                "text": "Подписаться на закупки"
+            }
+        ],
+        "title": "Удобная электронная платформа",
+        "text": "ТЭК-Торг&nbsp;&mdash; это высокотехнологичная современная электронная площадка, которая оказывает сервис полного цикла для участников закупок. Мы&nbsp;обеспечиваем доступ к&nbsp;государственным закупкам и&nbsp;закупкам от&nbsp;крупнейших компаний России",
+        "cardActualProcedures": {
+            "title": "Закупки, в&nbsp;которых вы&nbsp;можете принять участие прямо сейчас",
+            "href": "/procedures?status%5B%5D=На+рассмотрении+поставщика%3BПодача+заявок%3BПриём+заявок%3BПриём+заявок+1+этапа%3BПриём+оферт%3BПриём+предложений&page=1&sort=actual",
+            "iconName": "clockArrow"
+        },
+        "cards": [
+            {
+                "href": "/clients/tariff",
+                "title": "Выгодные тарифные планы",
+                "text": "Большинство закупочных процедур проходят по&nbsp;принципу плата только с&nbsp;победителя, что позволяет оптимизировать расходы на&nbsp;участие в&nbsp;закупочных процедурах",
+                "iconName": "piece",
+                "targetBlank": false
+            },
+            {
+                "href": "/services/service-suppliers",
+                "title": "Весь набор инструментов для работы с закупками",
+                "text": "Экосистема ЭТП &laquo;ТЭК-Торг&raquo; для поставщиков позволяет получить все услуги для работы на&nbsp;ЭТП в&nbsp;режиме &laquo;одного окна&raquo;",
+                "iconName": "finger",
+                "targetBlank": false
+            }
+        ]
+    },
+    "ourCustomers": {
+        "title": "Наши заказчики",
+        "links": [
+            {
+                "text": "Реестр заказчиков",
+                "href": "/clients/organizations"
+            }
+        ],
+        "items": [
+            {
+                "title": "АО «Силовые машины»",
+                "image": "/images/organizators/silovie.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/silovyi_machine"
+                }
+            },
+            {
+                "title": "АО «Оборонэнерго»",
+                "image": "/images/organizators/oboronenergo.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/oboronenergo"
+                }
+            },
+            {
+                "title": "ТЭК Мосэнерго",
+                "image": "/images/organizators/mossenergo.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/mosenergo"
+                }
+            },
+            {
+                "title": "ОАО «РЖД»",
+                "image": "/images/organizators/rgd.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/rzd"
+                }
+            },
+            {
+                "title": "СПб ГКУ «Управление заказчика»",
+                "image": "/images/organizators/upravlenie.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/upravlenie_zakazchika"
+                }
+            },
+            {
+                "title": "Первая Портовая Компания (Группа ППК)",
+                "image": "/images/organizators/ppk.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/portone"
+                }
+            },
+            {
+                "title": "ГУП «Петербургский метрополитен»",
+                "image": "/images/organizators/metro.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/metro_spb"
+                }
+            },
+            {
+                "title": "АО «Спецнефтетранс»",
+                "image": "/images/organizators/CNT.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/sntrans"
+                }
+            },
+            {
+                "title": "ФГУП «Росморпорт»",
+                "image": "/images/organizators/RosMorPort.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/rosmorport"
+                }
+            },
+            {
+                "title": "En+ Group",
+                "image": "/images/organizators/enplusgroup.jpg",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/enplusgroup"
+                }
+            }
+        ]
+    },
+    "services": {
+        "name": "Услуги и сервисы",
+        "links": [
+            {
+                "href": "/services/service-suppliers",
+                "text": "Поставщикам"
+            },
+            {
+                "href": "/services/customers-223-fz",
+                "text": "Заказчикам"
+            }
+        ]
+    },
+    "banner": {
+        "title": "Продажа и&nbsp;покупка коммерческого, государственного и&nbsp;арестованного имущества",
+        "text": "В&nbsp;кратчайшие сроки по&nbsp;лучшей цене",
+        "image": "/images/banner/bg1.jpg",
+        "link": {
+            "href": "/sale",
+            "text": "Подробнее"
+        }
+    },
+    "education": {
+        "name": "Обучение",
+        "links": [
+            {
+                "href": "/education/courses-supplier",
+                "text": "Поставщикам"
+            },
+            {
+                "href": "/education/courses-customer",
+                "text": "Заказчикам"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    },
+    "news": {
+        "title": "Новости",
+        "titlePress": "Пресс-центр",
+        "titleMedia": "СМИ о нас",
+        "link": {
+            "href": "/news-press",
+            "text": "Смотреть все"
+        },
+        "sectionCurd": {
+            "title": "Будь в&nbsp;курсе<br>новостей",
+            "formTitle": "Подписаться на новости",
+            "socials": [
+                {
+                    "title": "Социальные сети ЭТП ТЭК-Торг",
+                    "links": [
+                        {
+                            "href": "https://vk.com/etptektorg",
+                            "name": "vk",
+                            "title": "Вконтакте. ЭТП ТЭК-Торг",
+                            "targetBlank": true
+                        },
+                        {
+                            "href": "https://t.me/etp_tektorg",
+                            "name": "telegram",
+                            "title": "Телеграм. ЭТП ТЭК-Торг",
+                            "targetBlank": true
+                        },
+                        {
+                            "href": "https://www.youtube.com/channel/UCeLnNU7xlGjp_0nVaDBUWOg",
+                            "name": "youtube",
+                            "title": "YouTube. ЭТП ТЭК-Торг",
+                            "targetBlank": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Сообщества",
+                    "links": [
+                        {
+                            "href": "https://vk.com/tektorg_sale",
+                            "name": "vk",
+                            "text": "Продажа<br/>имущества",
+                            "title": "Вконтакте.  «Продажа имущества»",
+                            "targetBlank": true
+                        },
+                        {
+                            "href": "https://vk.com/zakupo4naya",
+                            "name": "vk",
+                            "text": "Закупочная<br/><span>Сообщество закупщиков<br/>по 223-ФЗ</span>",
+                            "title": "Вконтакте. «Закупочная»",
+                            "targetBlank": true
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "videoSlider": {
+        "title": "Видео",
+        "links": [
+            {
+                "text": "Смотреть все",
+                "href": "https://www.youtube.com/c/etptektorg",
+                "isForeign": true
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/1_420.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/1_1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/1_680.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Как участвовать в закупках и заключать выгодные сделки",
+                "text": "Продажи через тендеры 223-ФЗ",
+                "links": [
+                    {
+                        "text": "Начать обучение",
+                        "href": "/education/courses/5693"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/3_314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/3_1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/3_680.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Ускоренная проверка документов",
+                "text": "Всего за 2 часа эксперты ТЭК-Торг устранят неточности и помогут ускорить подачу заявки на торги ",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "/services/service-suppliers/fast-accreditation"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/4_314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/4_1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/4_680.jpg",
+                            "breakpoint": "768"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/4_420.jpg",
+                            "breakpoint": "420"
+                        }
+                    ]
+                },
+                "title": "Финансовые сервисы",
+                "text": "<span>Гарантии со скидкой от 1,5%</span><br><span>Кредитование от 9% годовых</span><br><span>Факторинг от 0,04% в день</span>",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "https://fin.tektorg.ru/bg",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/euro375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/euro.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/euro768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Национальный нефтегазовый форум",
+                "text": "Формируйте экономические связи и технологические партнёрства с помощью международных структур: ШОС, ЕАЭС, АСЕАН и БРИКС",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "https://event.tektorg.ru/nnf2023?from=banner_main_suppliers&organizers",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/goszakaz375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/goszakaz.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/goszakaz768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Всероссийский форум-выставка «ГОСЗАКАЗ»",
+                "text": "Вы получите 10% скидки на самое масштабное мероприятие в сфере государственных и корпоративных закупок",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "https://forumgoszakaz.ru/?from=banner_main_suppliers&organizers",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    }
+}

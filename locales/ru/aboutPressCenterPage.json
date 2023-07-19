@@ -1,0 +1,55 @@
+{
+  "lead": {
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "О компании",
+          "href": "#"
+        },
+        {
+          "text": "Новости",
+          "href": "#"
+        },
+        {
+          "text": "Пресс-центр",
+          "href": "#"
+        }
+      ]
+    },
+    "title": "Пресс-центр"
+  },
+  "socials": {
+    "title": "Следите за&nbsp;нашими новостями в&nbsp;социальных сетях",
+    "socials": [
+      {
+        "href": "https://vk.com/etptektorg",
+        "name": "vk",
+        "text": "Вконтакте. ЭТП ТЭК-Торг"
+      },
+      {
+        "href": "https://vk.com/tektorg_sale",
+        "name": "vk",
+        "text": "Вконтакте. Секция «Продажа имущества»"
+      },
+      {
+        "href": "https://vk.com/zakupo4naya",
+        "name": "vk",
+        "text": "Вконтакте. Секция «Закупочная»"
+      },
+      {
+        "href": "https://t.me/etp_tektorg",
+        "name": "telegram",
+        "text": "Телеграм"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCeLnNU7xlGjp_0nVaDBUWOg",
+        "name": "youtube",
+        "text": "YouTube"
+      }
+    ]
+  }
+}

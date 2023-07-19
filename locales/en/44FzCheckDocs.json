@@ -1,0 +1,170 @@
+{
+    "leadText": {
+        "title": "Verification of documents for compliance with procurement legislation",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Government procurement",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/44-fz/service"
+                },
+                {
+                    "text": "Verification of documents for compliance with procurement legislation",
+                    "href": "/44-fz/service/consultdoc"
+                }
+            ]
+        }
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/e-girl-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/e-girl-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/e-girl-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Do you need to quickly pass the verification of documents to participate in the procurement?",
+                "text": ["Take advantage of TEK-Torg expert advice<br/>The verification takes just 2 hours"],
+                "modal": [
+                    {
+                        "title": "Submit a Request",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "What you will get",
+        "text": [
+            "The verification allows you to urgently eliminate inaccuracies and participate in bidding on time. The service is intended as an aid to the suppliers who require expert and prompt verification of documents before submitting an application for a tender.",
+            "The consultation is provided by the TEK-Torg experts on the issues of preparation of application documents required by the current legislation."
+        ],
+        "modal": [
+            {
+                "title": "Ask a Question",
+                "id": "ApplicationForm3"
+            }
+        ]
+    },
+    "example3": {
+        "title": "IT'S IMPORTANT TO KNOW!",
+        "background": {
+            "src": "/images/blocks/bannerText/blue-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerText/3.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "text": [
+            "To confirm compliance with the procurement requirements of the sections in the electronic trading platform and to pass the pre-selection, procurement participants shall submit documents in respect of each type of goods, works, services.",
+            "Without confirmation of compliance with the requirements in certain situations, Suppliers cannot participate in procurement.",
+            "In accordance with the regulations of the sections, the standard time of application review by the ETP operator is several working days from the date of receipt of the application."
+        ]
+    },
+    "benefits": {
+        "title": "Why is it better to order a document verification in TEK-Torg?",
+        "cards": {
+            "cardLink": {
+                "title": "Express application review within 2 hours",
+                "modal": [
+                    {
+                        "title": "Submit a Request",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            },
+            "cardBottom": [
+                {
+                    "title": "Simplified procedure of receiving the service",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "More than 10,000 participants have successfully applied for tenders",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    },
+    "example2": {
+        "wrapper": {
+            "name": "The cost of the service is "
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "16,900 ₽",
+                        "text": ""
+                    },
+                    "items": [
+                        {
+                            "text": "To order the service, please submit an application. Our specialists will contact you shortly. Also, you are welcome to call us at any time and consult."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "three": {
+        "title": "Steps",
+        "items": [
+            {
+                "text": "Submit a request on the website or by phone: <a href='tel:+74957348118'>+7 495 734-81-18</a>"
+            },
+            {
+                "text": "The TEK-Torg specialist will provide the necessary information"
+            },
+            {
+                "text": "Pay for the service and get the result within 2 hours"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Still have questions?<br/>Ask us",
+                "text": [""],
+                "modal": [
+                    {
+                        "title": "Ask a Question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

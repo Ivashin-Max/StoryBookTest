@@ -1,0 +1,58 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "forClientsEn",
+            "description": "The electronic trading platform TEK-Torg<br> Everything you need to work on site",
+            "href": "/clients/documents"
+        },
+        "menu": [
+            {
+                "text": "Documents for working on the platform",
+                "href": "/clients/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Tariffs",
+                "href": "/clients/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Support Center",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "For Customers/For sellers",
+                        "href": "/clients/support-customers"
+                    },
+                    {
+                        "text": "For Suppliers/For buyers",
+                        "href": "/clients/support-suppliers"
+                    }
+                ]
+            },
+            {
+                "text": "Order accounting documents",
+                "href": "/clients/accounting-docs",
+                "id": "accountingDocuments",
+                "subLinks": []
+            },
+            {
+                "text": "Our customers",
+                "href": "/clients/organizations",
+                "id": "customers",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Events calendar",
+            "image": "/images/headerWidgets/clients1.jpg",
+            "link": {
+                "href": "https://event.tektorg.ru/calendar",
+                "isForeign": true
+            },
+            "textColor": "black"
+        }
+    }
+}

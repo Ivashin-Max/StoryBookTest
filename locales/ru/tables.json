@@ -1,0 +1,345 @@
+{
+    "generalInfo": "Общие сведения",
+    "paramsAttributes": "Характеристики имущества",
+    "watchProcedure": "Смотреть процедуру",
+    "organizerInformation": "Сведения об организаторе",
+    "unitsInfo": "Позиции закупки",
+    "deliveryTerms": "Условия доставки и оплаты",
+    "procedureDocumentation": "Документация по процедуре",
+    "lotDocumentation": "Документация лота",
+    "protocols": "Протоколы",
+    "documents": "Документы",
+    "procedureNotice": "Извещение о процедуре",
+    "infoProcedureTitle": "Сведения о процедуре закупки",
+    "infoSubject": "Сведения о предмете закупки",
+    "restrictionsTitle": "Перечень требований, нормативно-правовых актов, конкретизирующих особенностей применения национального режима",
+    "customerRequirement": "Требование заказчика",
+    "criteriasTitle": "Критерии оценки",
+    "financialSupport": "Финансовое обеспечение закупки",
+    "financialSupportRUB": "Финансовое обеспечение закупки за счет бюджетных средств (Российский рубль)",
+    "financialSupportStage": "Финансовое обеспечение этапа (российский рубль)",
+    "financialSupportCodesRUB": "Финансовое обеспечение закупки по кодам видов расхода (Российский рубль)",
+    "indicatorsTitle": "Показатели критериев оценок",
+    "forParticipants": "Ограничения, преимущества, требования к участникам и документам для предоставления",
+    "notEstablished": "Не установлены",
+    "notEstablished1": "Не установлен",
+    "established": "Установлены",
+    "notSpecified": "Не указано",
+    "required": "Требуется",
+    "notRequired": "Не требуется",
+    "withoutSignTrue": "Для участия не требуется ЭП",
+    "withoutSignFalse": "Для участия требуется ЭП",
+    "explain": "Разъяснения",
+    "ownershipInfoTitle": "Место нахождения имущества",
+    "paramsAttributesTitle": "Информация об имуществе",
+    "earnestInfoTitle": "Информация о задатке",
+    "customersTitle": "Сведения о заказчике",
+    "tenderOptionsTitle": "Сведения о проведении торгов",
+    "depositsTitle": "Обеспечение",
+    "termsOfSale": "Договора, требования к участникам, ограничения",
+    "bankAccountName": "Банковская гарантия",
+    "submitOffer": "Подать предложение",
+    "missing": "Отсутствуют",
+    "financeSource": "Источник финансирования",
+    "infoProcedure": {
+        "contractTermAdd": "Срок, в течение которого победитель запроса котировок или иной участник запроса котировок, с которым заключается контракт при уклонении победителя от заключения контракта, должен подписать контракт",
+        "contractConditionsAdd": "Условия признания победителя запроса котировок или иного участника запроса котировок уклонившегося от заключения контракта",
+        "place": "Место подачи заявок",
+        "appOrder": "Порядок подачи заявок"
+    },
+    "requirementsLotInfo": {
+        "isBurdenEnabled": "Обременение",
+        "burdenDescription": "Описание обременения",
+        "burdenRestrictions": "Ограничение использования",
+        "burdenOptions": "Виды и параметры использования",
+        "membersQty": "Численность работников хозяйственного общества",
+        "familirizationProcedure": "Порядок ознакомления покупателей с условиями договора",
+        "termContract": "Срок заключения договора",
+        "determingWinners": "Порядок определения победителей"
+    },
+    "deposits": {
+        "securityDepositEnabled": "Обеспечение заявки",
+        "type": "Вид обеспечения",
+        "value": "Сумма",
+        "name": "Способ перечисления",
+        "extra": "Дополнительная информация"
+    },
+    "deposits2": {
+        "securityDepositEnabled": "Обеспечение заявки",
+        "name-security": "Вид обеспечения заявки",
+        "value-security": "Размер обеспечения заявки",
+        "contractDepositEnabled": "Обеспечение договора",
+        "name-contract": "Вид обеспечения исполнения договора",
+        "value-contract": "Размер обеспечения исполнения договора"
+    },
+    "earnestInfo": {
+        "earnestValue": "Сумма задатка",
+        "paymentOrderName": "Способ перечисления задатка продавцу",
+        "paymentRequisites": "Реквизиты счета",
+        "paymentOrderDetails": "Дополнительная информация"
+    },
+    "customersInfo": {
+        "fullName": "Заказчик",
+        "phone": "Контактный телефон",
+        "email": "Адрес электронной почты"
+    },
+    "tenderOptions": {
+        "firstOfferWaitTime": "Время ожидания первых ценовых предложений",
+        "offersWaitTime": "Время ожидания вторых и последующих ценовых предложений",
+        "stepIsExact": "Шаг аукциона"
+    },
+    "ownershipInfo": {
+        "addressRegion": "Регион",
+        "information": "Сведения об имуществе",
+        "typeProperty": "Тип имущества",
+        "methodAcquaintanceProperty": "Порядок ознакомления с имуществом"
+    },
+    "deliveryPlace": {
+        "date": "Дата поставки",
+        "address": "Адрес поставки",
+        "term": "Условия оплаты и доставки",
+        "isDeliveryPriceIncluded": "Стоимость поставки включена в цену"
+    },
+    "docExplain": {
+        "date": "Разъяснение от",
+        "message": "Текст ответа"
+    },
+    "infoDocumentation": {
+        "isPurchaseObjects": "Является ли предметом контракта поставка товара, необходимого для нормального жизнеобеспечения в случаях, указанных в ч.9 ст.37",
+        "clarificationStartDate": "Дата начала предоставления разъяснений положений документации",
+        "clarificationEndDate": "Дата окончания предоставления разъяснений положений документации",
+        "defaultDocuments": "Документы",
+        "regulationDocuments": "Предписания контрольного органа",
+        "otherDocuments": "Дополнительные документы",
+        "refusalDocuments": "Документы об отмене процедуры"
+    },
+    "infoCustomerRequirementTop": {
+        "positionNumber": "Сведения о связи с позицией плана-графика",
+        "purchaseObjectDescription": "Описание объекта закупки",
+        "plan2017Number": "Реестровый номер плана-графика",
+        "position2017Number": "Номер позиции в плане-графике",
+        "purchaseCode": "Идентификационный код закупки",
+        "relativeTermsDays": "Дата начала исполнения контракта",
+        "relativeTerm": "Срок исполнения контракта",
+        "notRelativeTermsStartDate": "Дата начала исполнения контракта",
+        "notRelativeTermsEndDate": "Дата окончания исполнения контракта",
+        "startPriceFalse": "Начальная (максимальная) цена контракта",
+        "startPriceTrue": "Максимальное значение цены контракта",
+        "isNonBudgetSelfFundsBudget": "Закупка за счет бюджетных средств",
+        "isNonBudgetSelfFundsOwn": "Закупка за счет собственных средств организации",
+        "budgetFinancingDetailName": "Бюджет",
+        "budgetFinancingDetailLevel": "Уровень бюджета",
+        "budgetFinancingDetail": "Код территории муниципального образования"
+    },
+    "infoCustomerRequirementBottom": {
+        "budgetObligationsNumber": "Учетный номер принимаемого бюджетного обязательства",
+        "budgetObligationsDate": "Дата постановки на учет принимаемого бюджетного обязательства",
+        "address": "Место поставки товара, выполнения работы или оказания услуги",
+        "term": "Срок исполнения контракта, отдельных этапов исполнения контракта",
+        "contractPriceFormula": "Формула цены контракта",
+        "securityDepositEnabled": "Требование обеспечения заявок",
+        "depositsValueBid": "Размер обеспечения заявок",
+        "depositsPayTermsBid": "Порядок внесения денежных средств в качестве обеспечения заявки, а также условия гарантии",
+        "depositsPayRequisitsBid": "Платежные реквизиты для перечисления денежных средств при уклонении участника закупки от заключения контракта",
+        "contractDepositEnabled": "Требование обеспечения исполнения контракта",
+        "depositsValueContract": "Размер обеспечения исполнения контракта",
+        "depositsPayTermsContract": "Порядок предоставления обеспечения исполнения контракта",
+        "depositsPayRequisitsContract": "Платежные реквизиты для обеспечения исполнения контракта",
+        "serviceRequirement": "Требование к гарантии качества товара, работы, услуги",
+        "warrantyDepositEnabled": "Требование обеспечения гарантийных обязательств",
+        "warrantyServiceRequirement": "Информация о требованиях к гарантийному обслуживанию товаров",
+        "manufacturersWarrantyRequirement": "Требования к гарантии производителя товара",
+        "warrantyTerm": "Срок, на который предоставляется гарантия и (или) требования к объему предоставления гарантий качества товара, работы, услуги",
+        "lcPrice": "Стоимость поставки товара или выполнения работы",
+        "lcServicePrice": "Стоимость последующего обслуживания, эксплуатации (при наличии) в течение срока службы, ремонта и (или) утилизации поставленного товара или созданного в результате выполнения работы объекта капитального строительства или товара",
+        "deliveryGuaranteeAmount": "Размер обеспечения исполнения обязательств по поставке товара или выполнению работы",
+        "serviceGuaranteeAmount": "Размер обеспечения исполнения обязательств по последующему обслуживанию, эксплуатации (при наличии) в течение срока службы, ремонту и (или) утилизации поставленного товара или созданного в результате выполнения работы объекта капитального строительства или товара",
+        "lifeCyclePrice": "Стоимость поставки товара или выполнения работы",
+        "lifeCycleServicePrice": "Стоимость последующего обслуживания, эксплуатации (при наличии) в течение срока службы, ремонта и (или) утилизации поставленного товара или созданного в результате выполнения работы объекта капитального строительства или товара",
+        "bankTreasurySupportRequired": "Требуется банковское и/или казначейское сопровождения контракта",
+        "additionalInformation": "Дополнительная информация",
+        "advancePayment": "Размер аванса в процентах",
+        "mustPublicDiscussion": "Предусмотрено обязательное общественное обсуждение в соответствии со ст. 20 Федерального закона 44-ФЗ"
+    },
+    "infoSubjectPurchase": {
+        "startPrice": "Начальная (максимальная) цена контракта",
+        "restrictions14": "Условия, запреты и ограничения допуска товаров, происходящих из иностранного государства или группы иностранных государств, работ, услуг, соответственно выполняемых, оказываемых иностранными лицами",
+        "contractLifeCycleInfo": "C поставщиком (подрядчиком, исполнителем) будет заключён контракт жизненного цикла"
+    },
+    "contractLifeCycleInfo": "Причины заключения контракта жизненного цикла в соответствии с ПП РФ от 28.11.2013 № 1087 «Об определении случаев заключения контракта жизненного цикла»",
+    "informationForParticipants": {
+        "preferences": "Преимущества",
+        "requirements": "Требования к участникам",
+        "restrictions": "Ограничения и запреты"
+    },
+    "organization": {
+        "fullName": "Организатор",
+        "phone": "Контактный телефон",
+        "email": "E-mail",
+        "contactFio": "ФИО контактного лица"
+    },
+    "organizer": {
+        "fullName": "Наименование организации",
+        "typeName": "Тип организации",
+        "inn": "ИНН",
+        "kpp": "КПП",
+        "legalAddr": "Место",
+        "postalAddr": "Почтовый адрес",
+        "contactPhone": "Контактный телефон",
+        "contactEmail": "Адрес электронной почты",
+        "contactPerson": "Ответственное должностное лицо"
+    },
+    "someInfoOrganizer": {
+        "organizerName": "Наименование организатора",
+        "contactPhone": "Контактный телефон",
+        "contactEmail": "Адрес электронной почты",
+        "contactPerson": "ФИО контактного лица"
+    },
+    "partners": {
+        "organizationName": "Наименование организации",
+        "inn": "ИНН",
+        "registryNumber": "Реестровый номер заявки",
+        "date_include": "Дата вступления в программу"
+    },
+    "qualification": {
+        "organizationName": "Наименование организации",
+        "inn": "ИНН",
+        "kpp": "КПП"
+    },
+    "organizations": {
+        "organizationName": "Наименование организации",
+        "inn": "ИНН",
+        "kpp": "КПП"
+    },
+    "restrictions": {
+        "name": "Вид требования",
+        "content": "Нормативно-правовой акт",
+        "exception": "Обстоятельства, допускающие исключение из установленных запретов или ограничений",
+        "banReason": "Обоснование невозможности запрета",
+        "note": "Примечание"
+    },
+    "purchases": {
+        "organizerName": "Организатор",
+        "registryNumber": "Номер",
+        "typeName": "Способ закупки",
+        "datePublished": "Дата публикации",
+        "dateEndRegistration": "Дата окончания приема заявок",
+        "statusName": "Статус",
+        "sumPrice": "Начальная цена"
+    },
+    "purchasesExtra": {
+        "organizerName": "Организатор",
+        "registryNumber": "Номер",
+        "typeName": "Способ закупки",
+        "datePublished": "Дата публикации",
+        "dateEndRegistration": "Дата окончания приема заявок",
+        "statusName": "Статус",
+        "timeToEndRegistration": "Осталось",
+        "sumPrice": "Начальная цена"
+    },
+    "property": {
+        "organizerName": "Организатор",
+        "addressString": "Адрес",
+        "typeProperty": "Тип имущества",
+        "statusName": "Статус",
+        "startPrice": "Начальная цена"
+    },
+    "requirements": {
+        "content": "Содержание требования",
+        "confirmation": "Подтверждение соответствия требованию",
+        "document": "Документ"
+    },
+    "units": {
+        "number": "№",
+        "name": "Наименование работы, товара, услуги",
+        "type": "Тип объекта закупки",
+        "unit_price": "Цена за ед.",
+        "okpd2ktru": "ОКПД2/КТРУ",
+        "quantity": "Кол-во",
+        "okeiName": "Ед. изм.",
+        "sum_price": "Стоимость"
+    },
+    "unitsMarket": {
+        "number": "№",
+        "name": "Наименование позиции",
+        "okeiName": "Ед.изм",
+        "quantity": "Кол-во",
+        "comment": "Комментарий",
+        "documents": "Вложение"
+    },
+    "lotUnits": {
+        "name": "Наименование",
+        "quantity": "Количество",
+        "okeiName": "Единица измерения",
+        "unit_price": "НМЦ без НДС",
+        "nds": "Ставка НДС",
+        "simpleRequirements": "Описание позиции"
+    },
+    "lotUnits2": {
+        "okeiName": "Единица измерения",
+        "quantity": "Количество",
+        "okpd2": "ОКПД2",
+        "okved2": "ОКВЭД2 "
+    },
+    "total": "Итого",
+    "executionPaymentPlan": {
+        "totalSum": "Итого",
+        "currentYearSum": "год",
+        "firstYearSum": "год",
+        "secondYearSum": "год",
+        "subsecYearsSum": "Сумма на последующие года"
+    },
+    "executionPaymentPlanKvr": {
+        "kvrCode": "КВР",
+        "totalSum": "Итого",
+        "currentYearSum": "год",
+        "firstYearSum": "год",
+        "secondYearSum": "год",
+        "subsecYearsSum": "Сумма на последующие года"
+    },
+    "executionPaymentPlanKbk": {
+        "kbkCode": "KБK",
+        "totalSum": "Итого",
+        "currentYearSum": "год",
+        "firstYearSum": "год",
+        "secondYearSum": "год",
+        "subsecYearsSum": "Сумма на последующие года"
+    },
+    "criterias": {
+        "name": "Наименование критерия",
+        "value": "Значимость критерия, %",
+        "measurement_order": "Порядок оценки",
+        "limit": "Предельное значение",
+        "add_info": "Дополнительная информация"
+    },
+    "indicators": {
+        "name": "Наименование показателя",
+        "value": "Значимость показателя",
+        "measurement_order": "Порядок оценки",
+        "add_info": "Дополнительная информация",
+        "limit": "Предельное значение"
+    },
+    "listingQualification": {
+        "qualificationName": "Наименование критерия квалификации",
+        "emptyCriteries": "Критерии по вашему запросу не найдены",
+        "criteriaOrg": "Критерии организации",
+        "typicalCriterion": "Типовой критерий квалификации",
+        "enterNameCriteria": "Введите наименования критерия",
+        "serviceCategories": "Категории услуг",
+        "additionalRequirements": "Дополнительные требования",
+        "submitApplication": "Подать заявку"
+    },
+    "criteries": "Критерии",
+    "requirementsTitle": "Требования",
+    "period": {
+        "text": "Период размещения:&nbsp;",
+        "from": "с&nbsp;",
+        "to": "&nbsp;по&nbsp;",
+        "noLimit": "без срока действия"
+    },
+    "stage": "Этап",
+    "periodOfExecution": "Срок исполнения",
+    "fromDateContract": "c даты заключения контракта",
+    "relativeTermsStart": "Дата начала исполнения",
+    "relativeTerms": "Срок исполнения"
+}

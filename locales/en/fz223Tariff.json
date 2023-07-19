@@ -1,0 +1,117 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Tariffs",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Tariffs",
+                    "href": "/223-fz/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "title": "Winner",
+            "section": "223-fz",
+            "description": "<p>Participation in unlimited number of procurement procedures</p>",
+            "price": "14,400 rubles",
+            "price_comment": "A fee is charged for each Lot within which the Participant was recognized as the winner of the procurement procedure",
+            "extra_comment": "The amount of 7100 rubles will be blocked on the personal account at the time of submitting the application.<br> The fee is not charged for procurements with the initial maximum price that is not exceeding 100,000 rubles (including VAT)"
+        },
+        {
+            "nid": "2",
+            "section": "223-fz",
+            "title": "Procedure for SME only",
+            "description": "<p>Procedure only for small and medium enterprises in accordance with Art. 3.4 of Federal Law No. 223</p>",
+            "price": "1%",
+            "price_comment": "of the initial maximum price of the contract, but not exceeding 5,000 rubles (excluding VAT)",
+            "extra_comment": "Fee from a participant, with which a contract is concluded based on the procurement results (including participants that evade the conclusion of a contract)"
+        },
+        {
+            "nid": "3",
+            "section": "223-fz",
+            "title": "Partner",
+            "description": "<p>Participation in unlimited number of procurement procedures</p>",
+            "price": "299,000 rubles",
+            "price_comment": "1 year"
+        },
+        {
+            "nid": "4",
+            "section": "223-fz",
+            "title": "Partner for 3 months",
+            "description": "<p>Participation in unlimited number of procurement procedures</p>",
+            "price": "90,000 rubles",
+            "price_comment": "3 months"
+        }
+    ],
+    "document": {
+        "title": "Download tariff plan",
+        "type": "DOCX",
+        "size": "20.5 KB",
+        "file": "/documents/tariffs/223-fz/Тарифный план Секции 223 и Коммерческие закупки c 15 марта 2023 г-3.docx"
+    },
+    "bannerSlider": {
+      "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                    "text": "Enroll",
+                    "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                    "text": "More",
+                    "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

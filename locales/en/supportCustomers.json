@@ -1,0 +1,73 @@
+{
+    "leadImg": {
+        "title": "Help Center<br> for customers<br> and sellers",
+        "background": {
+            "src": "/images/pages/support/leadImg/lead_375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/support/leadImg/lead_1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/support/leadImg/lead_768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "For clients"
+            },
+            {
+                "text": "Support center"
+            },
+            {
+                "text": "For customers and sellers"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Expert assistance for customers and sellers",
+        "text": ["On all matters relating to carrying out and participating in procurement, obtaining a DS and working in our sections"],
+        "modals": [
+            {
+                "title": "Ask a question",
+                "id": "askQuestionForm"
+            }
+        ],
+        "background": {
+            "src": "/images/blocks/bannerText/blue-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerText/2.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "tags": ["General questions", "Government procurement", "223-FZ and Commercial Procurement", "Market", "Sale of property"],
+    "education": {
+        "name": "Training events",
+        "links": [
+            {
+                "href": "/education",
+                "text": "View all"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    }
+}

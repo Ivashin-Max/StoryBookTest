@@ -1,0 +1,201 @@
+{
+    "lead": {
+        "title": "Тариф «Быстрый старт»",
+        "description":"Воспользуйтесь специальным тарифом с&nbsp;ускоренной процедурой аккредитации",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков",
+                    "href": "/rosneft/service"
+                },
+                {
+                    "text": "Тариф «Быстрый старт»",
+                    "href": "/rosneft/service/tariff"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Подать заявку",
+            "id": "ApplicationForm3"
+        }
+    },
+    "applicationForm3": {
+        "title": "Тариф «Экспересс Роснефть»",
+        "title2":"Заказать услугу",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "Что входит в тариф «Быстрый старт»?",
+        "text": [
+            "Всего 2 часа с&nbsp;момента обращения и&nbsp;вы&nbsp;участник торгов секции закупок ПАО НК&nbsp;Роснефть",
+            "Рассмотрение документов будет проведено в&nbsp;индивидуальном порядке:",
+            "- Ускоренное рассмотрение документов на аккредитацию на площадке<br/>- Ускоренное зачисление денег на оплату тарифа<br/>- Гарантия успешной аккредитации в секции",
+            "Тариф на&nbsp;разовое участие в&nbsp;процедуре на&nbsp;секции ПАО НК&nbsp;&laquo;Роснефть&raquo;"
+        ]
+    },
+    "infoblock":{
+        "sideCard": {
+            "title": "Почему лучше стартовать быстрее?",
+            "bg": "blue"
+        },
+        "content": [
+            {
+                "text": "Участие в&nbsp;закупке в&nbsp;течение 2 часов с&nbsp;момента подачи заявки",
+                "iconName": "clockArrow"
+            },
+            {
+                "text": "Простая схема получения услуги",
+                "iconName": "file"
+            },
+            {
+                "text": "Выгода от&nbsp;использования комплексного тарифа",
+                "iconName": "credit"
+            },
+            {
+                "text": "Не&nbsp;нужно дополнительных расходов на&nbsp;участие",
+                "iconName": "cartMoney"
+            }
+        ]
+    },
+    "five": {
+        "title":"Всего 4&nbsp;шага для подключения тарифа",
+        "items": [
+            {
+                "text": "Зайдите в&nbsp;личный кабинет",
+                "href": "https://rn.tektorg.ru/#auth/login",
+                "isForeign": true
+            },
+            {
+                "text": "В&nbsp;форме аккредитации выберите &laquo;Быстрый старт&raquo;"
+            },
+            {
+                "text": "Скачайте счет и&nbsp;оплатите его"
+            },
+            {
+                "text": "Прикрепите платежное поручение в&nbsp;специальное окно"
+            }
+        ]
+    },
+    "example2": {
+        "wrapper": {
+            "name": "Стоимость"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "21 600 ₽",
+                        "text": "стоимость тарифа"
+                    },
+                    "items": [
+                        {
+                            "text": "Ускоренное рассмотрение документов на&nbsp;аккредитацию, оплата тарифа, гарантия успешной аккредитации в&nbsp;секции и&nbsp;разовое участие в&nbsp;процедуре"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "advBanner": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Ускоренное зачисление денег на оплату тарифа",
+                "text": "диноразовое зачисление денежных средств на лицевой счет участника по платежному поручению с отметкой банка об исполнении<br/>9900 руб",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "/rosneft/service/134"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Нужна аккредитация в коммерческих секциях ТЭК-Торг?",
+                "text": "Вам понадобится электронная подпись и регистрация на электронной площадке:<br/>- Поможем выбрать новую или обновить текущую ЭЦП, полностью соответствующую вашим потребностям<br/> -Подключим к системе поиска тендеров и обучим, как правильно анализировать рынок сбыта<br/>",
+                "modal": [
+                    {
+                        "title": "Заявка на консультацию",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    },"bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Есть вопросы?<br>Мы&nbsp;поможем!",
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    }
+}

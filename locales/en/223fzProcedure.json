@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Procurement procedures",
+                    "href": "/223-fz/procedures"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": "/223-fz/procedures"
+    },
+    "purchasesSlider": {
+        "title": "Similar procedures in&nbsp;other sections"
+    }
+}

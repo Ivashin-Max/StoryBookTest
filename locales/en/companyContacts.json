@@ -1,0 +1,161 @@
+{
+    "leadText": {
+        "title": "Contacts and details",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "About company"
+                },
+                {
+                    "text": "Contacts and details"
+                }
+            ]
+        }
+    },
+    "contacts": {
+        "blocks": [
+            {
+                "title": "Main details",
+                "bg": "gray2",
+                "bgPattern": "top",
+                "sections": [
+                    {
+                        "title": "Full name",
+                        "items": [
+                            {
+                                "address": "TEK-Torg Joint Stock Company"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Short name",
+                        "items": [
+                            {
+                                "address": "TEK-Torg JSC"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OGRN",
+                        "items": [
+                            {
+                                "address": "1127747285368"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "INN",
+                        "items": [
+                            {
+                                "address": "7704824695/KPP 770401001"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Main OKVED",
+                        "items": [
+                            {
+                                "address": "63.11.1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Address",
+                "bg": "blue",
+                "sections": [
+                    {
+                        "title": "Actual and postal address",
+                        "items": [
+                            {
+                                "address": "115191, Moscow, Gamsonovsky lane, house 5, str. 2, 5th floor"
+                            },
+                            {
+                                "map": {
+                                    "id": "address",
+                                    "title": "Actual and postal address",
+                                    "address": "115191, Moscow, Gamsonovsky lane, house 5, str. 2, 5th floor",
+                                    "position": {
+                                        "latitude": 55.708496,
+                                        "longitude": 37.627759
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Legal address",
+                        "items": [
+                            {
+                                "address": "119021, Moscow, Timura Frunze street, house 24"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Office in Cheboksary",
+                        "items": [
+                            {
+                                "address": "428003, Cheboksary, Moskovskiy prospect 38, building 4 (business center \"Amazoniya\")"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Support Service",
+                "bg": "gray2",
+                "bgPattern": "bottom",
+                "sections": [
+                    {
+                        "title": "Phone number",
+                        "items": [
+                            {
+                                "phone": "+7 495 734-81-18"
+                            },
+                            {
+                                "phone": "+7 499 705-81-18"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "E-mail",
+                        "items": [
+                            {
+                                "mail": "help@tektorg.ru"
+                            }
+                        ]
+                    },
+                    {
+                        "items": [
+                            {
+                                "link": {
+                                    "text": "Support Center",
+                                    "href": "/en/clients/support-customers"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "For media representatives",
+                "bg": "blue",
+                "sections": [
+                    {
+                        "title": "Press service of TEK-Torg JSC",
+                        "items": [
+                            {
+                                "mail": "press@tektorg.ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

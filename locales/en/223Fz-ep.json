@@ -1,0 +1,221 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/223-fz/service-suppliers"
+                },
+                {
+                    "text": "Digital Signature"
+                }
+            ]
+        },
+        "title": "Digital Signature for the Procedures",
+        "description": "Get a signature for the sole proprietor, the head of the organization or its employees",
+        "rectLink": {
+            "text": "Release DS",
+            "id": "ApplicationForm3"
+        }
+    },
+    "example1": {
+        "cards": {
+            "sideCard": {
+                "title": "It works on 250 electronic platforms.",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Choose your CA",
+                    "modalId": "ApplicationForm3",
+                    "text": "*IMPORTANT! Since 2022, the issuance of a signature for managers is carried out by an authorized representative of the CA of the Federal Tax Service of the Russian Federation. For employees, a signature can be obtained at a commercial&nbsp;CA accredited by the Ministry of Telecom and Mass Communications."
+                },
+                {
+                    "title": "Issue the DS for the non-residents",
+                    "href": "/rosneft/service/e-signature-nr",
+                    "text": "Unqualified certificate of electronic signature (UNDS) for work on the section of Tender sale of UVS (Hydrocarbon Crude) and Commercial procurement. How to get a UNDS – see the instructions.",
+                    "targetBlank": false
+                }
+            ]
+        }
+    },
+    "cardSet": {
+        "cards": [
+            {
+                "modal": [
+                    {
+                        "title": "Submit a request",
+                        "id": "ApplicationForm3"
+                    }
+                ],
+                "image": "/images/blocks/сardSet/4.jpg",
+                "title": "Issue the DS for the head of the company",
+                "description": "Legal entities, sole proprietors and notaries receive a certificate from the department of the Federal Tax Service or its trusted representatives",
+                "textColor": "white",
+                "fullModalCard": true
+            },
+            {
+                "modal": [
+                    {
+                        "title": "Submit a request",
+                        "id": "ApplicationForm3"
+                    }
+                ],
+                "title": "Issue the DS for the employee",
+                "description": "Individuals and employees of companies receive a certificate from commercial certification centers",
+                "fullModalCard": true
+            },
+            {
+                "modal": [
+                    {
+                        "title": "To get the consultation",
+                        "id": "callBackForm"
+                    }
+                ],
+                "title": "Need advice on issuing a digital signature? ",
+                "description": "Call: <a href=\"tel:+74951341439\">+7 495 134-14-39</a>",
+                "fullModalCard": true
+            }
+        ]
+    },
+    "cardSet2": {
+        "cards": [
+            {
+                "modal": [
+                    {
+                        "title": "Submit a request",
+                        "id": "ApplicationForm3"
+                    }
+                ],
+                "image": "/images/blocks/сardSet/4.jpg",
+                "title": "Renew the DS",
+                "description": "Check the validity period of your certificate and the place where the signature was issued. If your DS was issued in the existent CC, then the procedure will be performed in a simplified mode.",
+                "textColor": "white",
+                "fullModalCard": true
+            },
+            {
+                "link": {
+                    "text": "See",
+                    "href": "/services/service-suppliers/e-signature-nr"
+                },
+                "title": "Issue the DS for the non-residents",
+                "description": "Unqualified certificate of electronic signature (UNDS) for work on the section of Tender sale of UVS (Hydrocarbon Crude) and Commercial procurement. How to get a UNDS – see the instructions.",
+                "fullModalCard": true
+            }
+        ]
+    },
+    "infoList2": {
+        "title": "Why do you need DS?",
+        "items": [
+            {
+                "title": "An electronic document signed by a qualified DS has the same legal force as a paper document signed by hand."
+            },
+            {
+                "title": "The&nbsp;documents are originals, they&nbsp;do not need to be printed. The Federal Tax Service and&nbsp;courts accept them&nbsp;as&nbsp;as&nbsp;originals"
+            },
+            {
+                "title": "With&nbsp;signing&nbsp;certificate&nbsp;you will gain access to&nbsp;all&nbsp;government systems&nbsp;&nbsp;&mdash;FEDERAL AND&nbsp;COMMERCIAL&nbsp;&nbsp;&nbsp;&nbsp;"
+            },
+            {
+                "title": "With&nbsp;EP&nbsp;you&nbsp;will be able to participate in&nbsp;procurements under&nbsp;44-FZ and&nbsp;223-FZ, and&nbsp;also in&nbsp;commercial auctions and&nbsp;bankruptcy&nbsp;tenders&nbsp;"
+            }
+        ]
+    },
+    "textWithImage": {
+        "picture": {
+            "src": "/images/pages/interRao/edoTextImg.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/interRao/edoTextImg.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "textCard": {
+            "title": "Together with the DS, also available",
+            "text": [
+                "- Rutoken is a physical data carrier for storing and using your DS",
+                "- Installation and configuration of the CryptoPro CSP Cryptographic Information Protection Facility (CIPF) and Qualified DS on your workplace",
+                "- License to use the information security control tool (CIPF) CryptoPro CSP as part of the key certificate."
+            ]
+        }
+    },
+    "example2": {
+        "wrapper": {
+            "name": "Price"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "From 1 200₽",
+                        "text": ""
+                    },
+                    "items": [
+                        {
+                            "text": "Specially for ETP TEK-Torg participants"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "",
+                        "text": "No agency fees and even with a discount"
+                    },
+                    "items": [
+                        {
+                            "text": "ETP TEK-Torg concluded an agreement with the best on the market and trusted and accredited CCs. Thanks to this, you can find an electronic signature for any business tasks without agency margins and even with a discount."
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "cards": {
+        "title": "Choose your CA",
+        "noLoop": true,
+        "items": [
+            {
+                "title": "CA Founding",
+                "image": "/images/pages/rosneft/Osnovanie.jpg",
+                "modal": {
+                    "title": "Перейти",
+                    "id": "ApplicationForm3"
+                },
+                "fullModalCard": true
+            },
+            {
+                "title": "CA ITCOM",
+                "image": "/images/pages/rosneft/itcom.jpg",
+                "modal": {
+                    "title": "Перейти",
+                    "id": "ApplicationForm3"
+                },
+                "fullModalCard": true
+            }
+        ]
+    }
+}

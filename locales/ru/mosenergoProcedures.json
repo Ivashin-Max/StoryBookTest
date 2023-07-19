@@ -1,0 +1,206 @@
+{
+    "leadImg": {
+        "title": "ТЭК Мосэнерго",
+        "background": {
+            "src": "/images/pages/mosenergo/leadImg/lead-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/mosenergo/leadImg/lead-1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/mosenergo/leadImg/lead-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "widgets": [
+            {
+                "type": "link",
+                "href": "https://www.tek-mosenergo.ru/",
+                "text": "Перейти на сайт организатора",
+                "isForeign": true
+            }
+        ]
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Клиентам"
+            },
+            {
+                "text": "Наши заказчики",
+                "href": "/clients/organizations"
+            },
+            {
+                "text": "ТЭК Мосэнерго"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "ТЭК Мосэнерго",
+        "text": [
+            "АО «ТЭК Мосэнерго» - один из крупнейших в России энерго-инжиниринговых холдингов. Лидирует на рынке проектирования энергообъектов и входит в тройку лидеров рынка энергетического строительства, прочно удерживая позиции. Основными направлениями деятельности холдинга являются проектирование, поставка оборудования, ремонт, техническое перевооружение и строительство под ключ энергетических объектов любой сложности и профиля.",
+            "В группу компаний «ТЭК Мосэнерго» входят:",
+            "&mdash; ООО «ТЭК Мосэнерго Трейдинг».",
+            "&mdash; АО «Институт Теплоэлектропроект».",
+            "&mdash; АО «Трест Гидромонтаж» и ДЗО."
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Поиск",
+        "rectLink": {
+            "text": "Подписаться на закупки",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "errorMessage": "По вашему запросу ничего не найдено",
+        "filters": [
+            {
+                "title": "Способ определения поставщика (покупателя)",
+                "type": "checkbox",
+                "fields": [{ "name": "types" }],
+                "dataName": "types"
+            },
+            {
+                "title": "Статусы процедур (стадии)",
+                "type": "checkbox",
+                "fields": [{ "name": "status" }],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Цена, ₽",
+                "type": "price",
+                "fields": [
+                    { "name": "sumPrice_start", "label": "От" },
+                    { "name": "sumPrice_end", "label": "До" }
+                ]
+            },
+            {
+                "title": "Дата",
+                "type": "date",
+                "fields": [
+                    { "name": "datePublished", "label": "Публикация процедуры" },
+                    { "name": "dateEndRegistration", "label": "Окончание приема заявок" }
+                ]
+            },
+            {
+                "title": "Код классификатора ОКПД2 (для лота)",
+                "type": "checkboxTree",
+                "search": {
+                    "placeholder": "Введите наименование товара, работы, услуги или код ОКПД2"
+                },
+                "fields": [{ "name": "okpd" }],
+                "dataName": "okpd"
+            },
+            {
+                "title": "Код классификатора ОКВЭД2 (для лота)",
+                "type": "checkboxTree",
+                "search": {
+                    "placeholder": "Введите наименование товара, работы, услуги или код ОКВЭД2"
+                },
+                "fields": [{ "name": "okved" }],
+                "dataName": "okved"
+            },
+            {
+                "title": "МСП",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "msp",
+                        "data": [
+                            {
+                                "label": "Все",
+                                "value": ""
+                            },
+                            {
+                                "label": "Для МСП",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Для не МСП",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Обеспечение",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "deposit",
+                        "data": [
+                            {
+                                "label": "Все",
+                                "value": ""
+                            },
+                            {
+                                "label": "С обеспечением",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Без обеспечения",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Регион организатора",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Введите наименование или код региона"
+                },
+                "fields": [{ "name": "regionCodes" }],
+                "dataName": "regions"
+            }
+        ]
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "По актуальности",
+                "property": "actual"
+            },
+            {
+                "name": "По возрастанию цены",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "По убыванию цены",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "Сначала новые",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Сначала старые",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Карточный вид",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Табличный вид",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

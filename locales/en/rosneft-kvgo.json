@@ -1,0 +1,48 @@
+{
+    "lead": {
+        "title": "Qualification in the Rosneft Group Companies",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Qualification in the Rosneft Group Companies"
+                }
+            ]
+        },
+        "lineBottom": true
+    },
+    "bannerText": {
+        "title": "Supplier verification procedure",
+        "text": [
+            "Qualification in&nbsp;the Rosneft Group Companies is&nbsp;a&nbsp;procedure of&nbsp;Supplier verification for compliance with special requirements confirming the possibility of&nbsp;timely supply of&nbsp;high-quality products of&nbsp;a&nbsp;certain type, including requirements to&nbsp;have special experience, capabilities, resource base, necessary permits, and other requirements."
+        ]
+    },
+    "picture": {
+        "src": "/images/pages/rosneft-kvgo/picture.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/rosneft-kvgo/picture.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    },
+    "tableTitle": "Companies of&nbsp;the Rosneft Group",
+    "searchTitle": "Companies of&nbsp;the Rosneft Group",
+    "searchMessage": "No results",
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter the company name",
+            "submitText": "Search"
+        }
+    }
+}

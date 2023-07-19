@@ -1,0 +1,47 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Support center",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Support center",
+                    "href": "/support"
+                }
+            ]
+        }
+    },
+    "tags": [
+        "General questions",
+        "Section articles"
+    ],
+    "education": {
+        "name": "Training events",
+        "links": [
+            {
+                "href": "/education",
+                "text": "View all"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    }
+}

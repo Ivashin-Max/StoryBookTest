@@ -1,0 +1,99 @@
+{
+    "leadText": {
+        "title": "Order accounting documents",
+        "description": "Ordering accounting documents through the electronic document management system TEK-Torg is&nbsp;a&nbsp;service that allows you to&nbsp;receive quickly and sign accounting documents and a&nbsp;reconciliation report. To&nbsp;get the service, it&nbsp;is&nbsp;necessary to&nbsp;register in&nbsp;the EDMS TEK-Torg.",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "For clients"
+                },
+                {
+                    "text": "Order accounting documents",
+                    "href": "#"
+                }
+            ]
+        }
+    },
+    "infoBlockWithIcons": {
+        "sideCard": {
+            "title": "The reconciliation report in&nbsp;automatic mode is&nbsp;provided only through the EDMS TEK-Torg. The electronic document management system allows:",
+            "bg": "blue"
+        },
+        "content": [
+            {
+                "text": "Receive and send electronic documents instantly",
+                "iconName": "documentPencil"
+            },
+            {
+                "text": "Submit documents in&nbsp;electronic form to&nbsp;the regulatory authorities",
+                "iconName": "feedback"
+            },
+            {
+                "text": "Around the clock, on-line, carry out any operations with documents: search, downloading, printing, reconciliation, rejection, as&nbsp;well as&nbsp;tracking their movement",
+                "iconName": "documentChecked"
+            },
+            {
+                "text": "Registration and receipt of&nbsp;documents is&nbsp;free",
+                "iconName": "documentList"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Order accounting documents",
+        "text": [
+            "If&nbsp;you have already registered in&nbsp;the EDMS TEK-Torg, then check presence of&nbsp;documents in&nbsp;your account in&nbsp;the EDMS TEK-Torg. You can find the history of&nbsp;debiting funds in&nbsp;the personal account on&nbsp;the electronic trading platform in&nbsp;the section \"Finances\" &rarr; \"Transaction History\".",
+            "If&nbsp;for any reason you have not received accounting documents, JSC \"TEK-Torg\" offers you to&nbsp;issue a&nbsp;request for the provision of&nbsp;documents through the EDMS TEK-Torg."
+        ]
+    },
+    "tags": ["Order accounting documents", "Order a&nbsp;reconciliation report"],
+    "forma1": {
+        "title": "Order accounting documents",
+        "text": "Dear customer, in&nbsp;case you are not registered in&nbsp;EDMS TEK-Torg, this application will be&nbsp;canceled. To&nbsp;receive the requested documents you need to&nbsp;go&nbsp;through all the stages of&nbsp;registration in&nbsp;the EDMS TEK-Torg, and then fill out the request form again.",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        },
+        "calendarStartTitle": "The beginning of the period",
+        "calendarEndTitle": "End of the period"
+    },
+    "forma2": {
+        "title": "Order a&nbsp;reconciliation report",
+        "text": "Dear customer, in&nbsp;case you are not registered in&nbsp;EDMS TEK-Torg, this application will be&nbsp;canceled. To&nbsp;receive the requested documents you need to&nbsp;go&nbsp;through all the stages of&nbsp;registration in&nbsp;the EDMS TEK-Torg, and then fill out the request form again.",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        },
+        "calendarStartTitle": "The beginning of the period",
+        "calendarEndTitle": "End of the period"
+    }
+}

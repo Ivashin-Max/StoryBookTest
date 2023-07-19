@@ -1,0 +1,76 @@
+{
+    "lead": {
+        "title": "Ready for mass production",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Import substitution",
+                    "href": "/rosneft/importozameshchenie"
+                },
+                {
+                    "text": "Ready for mass production"
+                }
+            ]
+        },
+        "description": "Priority is given to the products specified in the section Priority Areas for Import Substitution and Localization of Goods and Services (in accordance with the Minpromtorg list).",
+        "rectLink": {
+            "text": "Product list",
+            "href": "/documents/rosneft/importozameshchenie/%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20%D0%9C%D0%B8%D0%BD%D0%BF%D1%80%D0%BE%D0%BC%D1%82%D0%BE%D1%80%D0%B3.docx"
+        }
+    },
+    "picture": {
+        "src": "/images/pages/serijnoe-proizvodstvo/picture.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/serijnoe-proizvodstvo/picture.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    },
+    "infoBlockWithIcons": {
+        "sideCard": {
+            "title": "To increase involvement of Russian manufacturers, Rosneft holds:",
+            "bg": "blue"
+        },
+        "content": [
+            {
+                "text": "Round tables with Russian manufacturers to expand the range of participants, to clarify the parameters of the procedure as well as the requirements for participants and products, and other questions about procurement procedures",
+                "iconName": "feedback"
+            },
+            {
+                "text": "Technical audits of Russian manufacturers in order to get acquainted with the production and technical activities of the manufacturer/supplier, technical capabilities, capacities, nomenclature of produced material and technical resources, as well as for the assessment of the ability to produce and supply material and technical resources in the required volumes and in accordance with the technical requirements of the Company",
+                "iconName": "checkMark"
+            }
+        ],
+        "picture": "/images/pages/serijnoe-proizvodstvo/infoBlockBg.jpg"
+    },
+    "bannerText": {
+        "title": "Technical requirements",
+        "text": [
+            "To increase the level of participation of Russian manufacturers, Rosneft OC has implemented a Standard Design System and developed the Standard Technical Requirements to equipment for the Company's diversified assets, based on the conditions of their transparency and anonymity.",
+            "Standard Technical Requirements exclude the use of references to foreign norms and rules, as well as to the technical conditions and/or design of equipment/materials of a particular manufacturer."
+        ],
+        "links": [
+            {
+                "text": "Uniform technical requirements",
+                "href": "https://www.rosneft.ru/Development/knpk/Technical_policy/",
+                "isForeign": true
+            },
+            {
+                "text": "Participate in procedures",
+                "href": "/rosneft/suppliers"
+            }
+        ]
+    }
+}

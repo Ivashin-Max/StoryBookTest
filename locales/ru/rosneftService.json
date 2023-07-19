@@ -1,0 +1,297 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы для поставщиков"
+    },
+    "tags": [
+        "Все",
+        "Легкий старт",
+        "Сопровождение",
+        "Финансовые услуги"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/e-signature-nr"
+                    },
+                    "title": "Электронная подпись для нерезидентов",
+                    "text": "",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/eruz"
+                    },
+                    "title": "Регистрация в ЕРУЗ",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/tariff"
+                    },
+                    "title": "Специальный тариф<br> «Быстрый старт»",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/134"
+                    },
+                    "title": "Ускоренный доступ к торгам",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "icwe"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+               
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/factoring"
+                    },
+                    "title": "Факторинг",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/credit-on-contract"
+                    },
+                    "title": "Кредит на исполнение договора",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/bg"
+                    },
+                    "title": "Банковская/независимая гарантия",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "yellow2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/e-signature-nr"
+                    },
+                    "title": "Электронная подпись для нерезидентов",
+                    "text": "",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/eruz"
+                    },
+                    "title": "Регистрация в ЕРУЗ",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/tariff"
+                    },
+                    "title": "Специальный тариф<br> «Быстрый старт»",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/134"
+                    },
+                    "title": "Ускоренный доступ к торгам",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "icwe"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "yellow2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/e-signature-nr"
+                    },
+                    "title": "Электронная подпись для нерезидентов",
+                    "text": "",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "icwe"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "yellow2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/factoring"
+                    },
+                    "title": "Факторинг",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/credit-on-contract"
+                    },
+                    "title": "Кредит на исполнение договора",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/bg"
+                    },
+                    "title": "Банковская/независимая гарантия",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/rosneft/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

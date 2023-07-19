@@ -1,0 +1,136 @@
+{
+    "lead": {
+        "title": "Иностранным поставщикам",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Иностранным поставщикам",
+                    "href": "/rosneft/suppliers-foreign"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "ПАО <nobr>&laquo;НК &laquo;Роснефть&raquo;</nobr> крупнейший потребитель товаров, работ и&nbsp;услуг",
+        "text": [
+            "Компания реализует модель партнерства с&nbsp;поставщиками и&nbsp;подрядчиками, соответствующую мировым стандартам по&nbsp;уровню организации и&nbsp;эффективности снабжения.",
+            "Компания развивает сотрудничество с&nbsp;поставщиками и&nbsp;подрядчиками посредством долгосрочных договоров, которые обеспечивают стабильность развития нефтегазовой отрасли, машиностроения, рынка сервисных услуг, обеспеченность рабочих мест работников всех отраслей, создает условия для разработки новых технологий."
+        ]
+    },
+    "documents1": [
+        {
+            "nid": "5470",
+            "title": "Положение о&nbsp;закупке",
+            "section": "Роснефть",
+            "group": "Подробная информация о&nbsp;принципах организации закупочной деятельности в&nbsp;ПАО &laquo;НК &laquo;Роснефть&raquo;",
+            "file": "/documents/rosneft/suppliers/foreign/Положение%20о%20закупке.pdf",
+            "type": "PDF",
+            "size": "2.8 MБ"
+        },
+        {
+            "nid": "5472",
+            "title": "Публичная позиция Компании",
+            "section": "Роснефть",
+            "group": "Подходы ПАО &laquo;НК &laquo;Роснефть&raquo; к&nbsp;соблюдению прав человека",
+            "file": "/documents/rosneft/suppliers/foreign/Public_Statement_RU.PDF",
+            "type": "PDF",
+            "size": "3.84 MБ"
+        },
+        {
+            "nid": "5473",
+            "title": "Декларация Компании",
+            "section": "Роснефть",
+            "group": "Подходы ПАО &laquo;НК &laquo;Роснефть&raquo; к&nbsp;соблюдению прав человека",
+            "file": "/documents/rosneft/suppliers/foreign/Declaration_RU.PDF",
+            "type": "PDF",
+            "size": "2.89 MБ"
+        },
+        {
+            "nid": "5474",
+            "title": "Кодекс Поставщиков",
+            "section": "Роснефть",
+            "group": "Подходы ПАО &laquo;НК &laquo;Роснефть&raquo; к&nbsp;соблюдению прав человека",
+            "file": "/documents/rosneft/suppliers/foreign/Code_of_Suppliers_RU.PDF",
+            "type": "PDF",
+            "size": "320 КБ"
+        }
+    ],
+    "items": [
+        {
+            "background": {
+                "src": "/images/pages/rosneft-ip/banner.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/rosneft-ip/banner.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            },
+            "title": "Требования в&nbsp;рамках проверки должной осмотрительности в&nbsp;ПАО &laquo;НК &laquo;Роснефть&raquo;",
+            "links": [
+                {
+                    "text": "Требования к Поставщикам ",
+                    "href": "http://zakupki.rosneft.ru/requirement",
+                    "isForeign": true
+                }
+            ]
+        }
+    ],
+    "five": {
+        "title": "Получение электронной подписи нерезиденту Российской Федерации",
+        "links": [
+            {
+                "text": "Инструкция по получению ЭП",
+                "href": "/rosneft/e-signature-nr",
+                "isForeign": false
+            }
+        ],
+        "items": [
+            {
+                "text": "Регистрация",
+                "href": "/rosneft/service/e-signature-nr",
+                "isForeign": true
+            },
+            {
+                "text": "Формирование <br>заявки и оплата",
+                "isForeign": true
+            },
+            {
+                "text": "Создание <br/> сертификата ",
+                "isForeign": true
+            },
+            {
+                "text": "Отправка<br/> документации",
+                "isForeign": true
+            }
+        ]
+    },
+    "videos": {
+        "wrapper": {
+            "title": "Обучающие видеоматериалы",
+            "links": [
+                {
+                    "href": "/rosneft/educational-videos",
+                    "text": "Смотреть все",
+                    "isForeign": false
+                }
+            ]
+        },
+        "content": {
+            "items": []
+        }
+    },
+    "tagsTitleSuppliers": "Поставщикам",
+    "tagsTitleCustomers": "Заказчикам"
+}

@@ -1,0 +1,160 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Реализация углеводородного сырья",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "Услуги и сервисы для покупателей"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы для покупателей"
+    },
+    "tags": [
+        "Все",
+        "Легкий старт",
+        "Сопровождение",
+        "Финансовые услуги"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/e-signature-nr"
+                    },
+                    "title": "Электронная подпись для нерезидентов",
+                    "text": "",
+                    "iconName": "signature"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/e-signature-nr"
+                    },
+                    "title": "Электронная подпись для нерезидентов",
+                    "text": "",
+                    "iconName": "signature"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/e-signature-nr"
+                    },
+                    "title": "Электронная подпись для нерезидентов",
+                    "text": "",
+                    "iconName": "signature"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/tenders/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

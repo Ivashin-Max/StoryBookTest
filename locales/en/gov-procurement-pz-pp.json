@@ -1,0 +1,39 @@
+{
+  "lead": {
+      "breadcrumbs": {
+          "crumbs": [
+              {
+                "text": "Main",
+                "href": "/"
+              },
+              {
+                  "text": "ETP Sections"
+              },
+              {
+                  "text": "Government procurement",
+                  "href": "/44-fz"
+              },
+              {
+                  "text": "Benefits for Customers",
+                  "href": "/44-fz/pz"
+              },
+              {
+                  "text": "Attraction of suppliers"
+              }
+          ]
+      },
+      "lineBottom": true,
+      "backButton": {
+          "text": "Back",
+          "href": "/44-fz/pz"
+      },
+      "title": "Attraction of suppliers"
+  },
+  "playlist": {
+      "bg": "gray2",
+      "modal": [{
+          "title": "Contact the manager",
+          "id": "ApplicationForm3"
+      }]
+  }
+}

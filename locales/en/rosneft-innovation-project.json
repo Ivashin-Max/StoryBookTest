@@ -1,0 +1,56 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "The single window (one-stop shop)",
+                    "href": "/rosneft/edinoe_okno"
+                },
+                {
+                    "text": "Innovative project idea"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "The innovative project idea"
+    },
+    "bannerText": {
+        "title": "Everyone can offer their own project",
+        "text": [
+            "The innovative project idea is&nbsp;an&nbsp;entrepreneurial or&nbsp;scientific concept of&nbsp;research, technical, organizational, financial, and other activities aimed at&nbsp;creating innovations. The idea should be&nbsp;formed in&nbsp;accordance with the recommendations of&nbsp;the Company and should meet certain characteristics:",
+            "&mdash; It&nbsp;covers the initial phase of&nbsp;the innovation life cycle.",
+            "&mdash; The idea must be&nbsp;in&nbsp;demand in&nbsp;the economy (has economic efficiency)."
+        ]
+    },
+    "bannerImage": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/edinoe-okno/innovation-project/banner-sm.jpeg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/innovation-project/banner-lg.jpeg",
+                            "breakpoint": 1280
+                        },
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/innovation-project/banner-md.jpeg",
+                            "breakpoint": 768
+                        }
+                    ]
+                },
+                "title": ""
+            }
+        ]
+    }
+}

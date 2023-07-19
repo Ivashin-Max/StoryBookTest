@@ -1,0 +1,257 @@
+{
+    "leadText": {
+        "title": "Процедуры реализации",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Продажа имущества",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Процедуры реализации"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Подписаться на процедуры",
+            "href": "/subscription"
+        }
+    },
+    "message": {
+        "text": "Внимание пользователям! Заблаговременно регистрируйтесь и&nbsp;пополняйте лицевой счет для участия в&nbsp;процедуре, так как регистрация и&nbsp;зачисление денежных средств может занимать до&nbsp;7&nbsp;рабочих дней."
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "filters": [
+            {
+                "title": "Организатор",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Введите наименование организации или ИНН"
+                },
+                "fields": [{ "name": "organizer" }],
+                "dataName": "organizers"
+            },
+            {
+                "title": "Способ определения поставщика (покупателя)",
+                "type": "checkbox",
+                "fields": [
+                    {
+                        "name": "types"
+                    }
+                ],
+                "dataName": "types"
+            },
+            {
+                "title": "Статусы процедур (стадии)",
+                "type": "checkbox",
+                "fields": [
+                    {
+                        "name": "status"
+                    }
+                ],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Цена, ₽",
+                "type": "price",
+                "fields": [
+                    {
+                        "name": "sumPrice_start",
+                        "label": "От"
+                    },
+                    {
+                        "name": "sumPrice_end",
+                        "label": "До"
+                    }
+                ]
+            },
+            {
+                "title": "Дата",
+                "type": "date",
+                "fields": [
+                    {
+                        "name": "datePublished",
+                        "label": "Публикация процедуры"
+                    },
+                    {
+                        "name": "dateEndRegistration",
+                        "label": "Окончание приема заявок"
+                    }
+                ]
+            },
+            {
+                "title": "Тип продаваемого имущества",
+                "type": "checkboxTree",
+                "search": {
+                    "placeholder": "Введите наименование ПИ"
+                },
+                "fields": [
+                    {
+                        "name": "propertyTypeCodes"
+                    }
+                ],
+                "dataName": "property-types"
+            },
+            {
+                "title": "Регион продаваемого имущества",
+                "type": "radio",
+                "search": {
+                    "placeholder": "Введите наименование или код региона"
+                },
+                "fields": [
+                    {
+                        "name": "saleAreal"
+                    }
+                ],
+                "dataName": "regions"
+            },
+            {
+                "title": "Обеспечение",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "deposit",
+                        "data": [
+                            {
+                                "label": "Все",
+                                "value": ""
+                            },
+                            {
+                                "label": "С обеспечением",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Без обеспечения",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Требование ЭП для участия",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "sign",
+                        "data": [
+                            {
+                                "label": "Все",
+                                "value": ""
+                            },
+                            {
+                                "label": "Участие без ЭП",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Участие c ЭП",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Стоимость участия",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "noFeeCharged",
+                        "data": [
+                            {
+                                "label": "Все",
+                                "value": ""
+                            },
+                            {
+                                "label": "Плата не взимается",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Плата взимается",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Регион организатора",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Введите наименование или код региона"
+                },
+                "fields": [
+                    {
+                        "name": "regionCodes"
+                    }
+                ],
+                "dataName": "regions"
+            }
+        ],
+        "tags": {
+            "activeIndex": "-1",
+            "list": [
+                {
+                    "name": "sectionsCodes",
+                    "value": "vitrine;sale",
+                    "label": "Комерческое имущество"
+                },
+                {
+                    "name": "sectionsCodes",
+                    "value": "sale178;les",
+                    "label": "Государственное имущество"
+                },
+                {
+                    "name": "sectionsCodes",
+                    "value": "arrested_sale;sale_arrest",
+                    "label": "Арестованное имущество"
+                }
+            ]
+        }
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "По актуальности",
+                "property": "actual"
+            },
+            {
+                "name": "По возрастанию цены",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "По убыванию цены",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "Сначала новые",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Сначала старые",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Карточный вид",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Табличный вид",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

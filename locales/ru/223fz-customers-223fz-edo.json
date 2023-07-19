@@ -1,0 +1,211 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Услуги и сервисы для заказчиков 223-ФЗ",
+                    "href": "/223-fz/service-customers-223-fz"
+                },
+                {
+                    "text": "Электронный документооборот (ЭДО)"
+                }
+            ]
+        },
+        "title": "Электронный документооборот (ЭДО)",
+        "description": "",
+        "rectLink": {
+            "text": "Закрывающие документы",
+            "href": "/clients/accounting-docs"
+        }
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/services-edo/bannerSlider/slide.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/services-edo/bannerSlider/slide.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Документы от&nbsp;АО &laquo;ТЭК-Торг&raquo;<br>быстро и&nbsp;бесплатно",
+                "text": "Используйте Электронный документооборот ЭТП и&nbsp;оптимизируйте процесс участия в&nbsp;тендерах.",
+                "modal": [
+                    {
+                        "title": "Подключить ЭДО",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    },
+    "serviceBenefits": {
+        "title": "Зачем вам электронный<br>документооборот",
+        "cards": {
+            "cardLink": {
+                "title": "Получайте документы от&nbsp;АО&nbsp;&laquo;ТЭК-Торг&raquo; быстро и&nbsp;бесплатно с&nbsp;помощью Контур.Диадок",
+                "fullModalCard": true,
+                "modal": [
+                    {
+                        "title": "Подключить ЭДО",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            },
+            "cardBottom": [
+                {
+                    "title": "Электронные документы подписываются квалифицированной электронной подписью сразу в&nbsp;Контур.Диадоке",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Документы являются оригиналами, их&nbsp;не&nbsp;нужно распечатывать.ФНС и&nbsp; суды принимают их в&nbsp;качестве оригиналов",
+                    "iconName": "feedback"
+                },
+                {
+                    "title": "Документы мгновенно приходят контрагентам в&nbsp;любой регион",
+                    "iconName": "checkMark"
+                },
+                {
+                    "title": "Сокращаются издержки на&nbsp;бумагу, печать, доставку и&nbsp;хранение. Экономия до&nbsp;80&nbsp;%",
+                    "iconName": "list"
+                },
+                {
+                    "title": "Простая и&nbsp;гибкая настройка доступа к&nbsp;документам с&nbsp;разграничением функций видимости, согласования и&nbsp;подписания",
+                    "iconName": "signature"
+                },
+                {
+                    "title": "Ваши контрагенты уже используют Диадок",
+                    "iconName": "documentChecked"
+                }
+            ]
+        }
+    },
+    "indicatorsInner": {
+        "wrapper": {
+            "name": "Тарифы только для участников ЭТП &laquo;ТЭК-Торг&raquo;"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "1200",
+                        "text": "исходящих"
+                    },
+                    "items": [
+                        {
+                            "text": "Подключение к&nbsp;системе ЭДО бесплатно.<br>Все входящие&nbsp;&mdash; 0&nbsp;рублей!"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "7&nbsp;800",
+                        "text": "рублей"
+                    },
+                    "items": [
+                        {
+                            "text": "Тарифицируются только исходящие транзакции.&nbsp;6,5 рублей за&nbsp;документ"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "serviceTariffs": {
+        "wrapper": {
+            "title": "Экономьте вместе с ЭДО",
+            "modals": [
+                {
+                    "id": "ApplicationForm3",
+                    "text": "Подключить ЭДО"
+                }
+            ]
+        },
+        "tariffs": [
+            {
+                "nid": "30",
+                "title": "Экономьте 25&thinsp;400&thinsp;₽<br>в&nbsp;год с&nbsp;ЭДО",
+                "section": "rosneft",
+                "description": "<p>Мы&nbsp;подсчитали среднемесячный трафик документов на&nbsp;ЭТП для одного поставщика</p>",
+                "price": "5&nbsp;документов&nbsp;| пакет<br>50&nbsp;пакетов&nbsp;| месяц<br>50&nbsp;рублей&nbsp;| средняя цена доставки"
+            },
+            {
+                "nid": "31",
+                "title": "Бумажный<br>документооборот",
+                "section": "rosneft",
+                "description": "<p>Столько вы&nbsp;тратите ежегодно на&nbsp;печать и&nbsp;доставку 1&nbsp;800&nbsp;документов</p>",
+                "price_comment": "1 год",
+                "price": "38&thinsp;200&thinsp;₽"
+            },
+            {
+                "nid": "751",
+                "title": "Годовой тариф<br>Диадока",
+                "section": "rosneft",
+                "description": "<p>2000 исходящих документов, входящие&nbsp;&mdash; бесплатно. Цена без учета интеграции</p>",
+                "price_comment": "1 год",
+                "price": "12&thinsp;800&thinsp;₽"
+            }
+        ]
+    },
+    "bannerSlider2": {
+        "items": [
+            {
+                "background": {
+                "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                "sources": [
+                {
+                    "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                    "breakpoint": "768"
+                }
+                ]
+                },
+                "title": "Остались вопросы?<br>Задайте их&nbsp;нам!",
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    },
+    "textWithImage": {
+        "picture": {
+            "src": "/images/pages/interRao/edoTextImg.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/interRao/edoTextImg.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "textCard": {
+            "title": "У&nbsp;вас есть электронная подпись?",
+            "text": [
+                "Для работы в&nbsp;системе ЭДО нужна квалифицированная электронная подпись. Если вы&nbsp;уже участвуете в&nbsp;торгах, сдаете налоговую отчетность через интернет, скорее всего, у&nbsp;вас она есть.",
+                "Наши менеджеры помогут разобраться, нужно&nbsp;ли вам приобрести новую или обновить текущую электронную подпись в&nbsp;доверенном УЦ&nbsp;ФНС."
+            ],
+            "link": {
+                "text": "Оставить заявку",
+                "href": "/223-fz/service-suppliers/e-signature"
+            }
+        }
+    }
+}

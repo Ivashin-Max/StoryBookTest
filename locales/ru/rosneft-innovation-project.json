@@ -1,0 +1,56 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Единое окно",
+                    "href": "/rosneft/edinoe_okno"
+                },
+                {
+                    "text": "Идея инновационного проекта"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Идея инновационного проекта"
+    },
+    "bannerText": {
+        "title": "Проект может предложить каждый",
+        "text": [
+            "Идея инновационного проекта — это предпринимательский или научный замысел исследовательских, технических, организационных, финансовых и других мероприятий, направленных на создание инновации. Идея должна быть оформлена в соответствии с рекомендациями Компании и должна соответствовать определенным характеристикам:",
+            "&mdash; Охватывать начальный этап жизненного цикла инновации.",
+            "&mdash; Идея должна быть востребована в экономике (иметь экономическую эффективность)."
+        ]
+    },
+    "bannerImage": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/edinoe-okno/innovation-project/banner-sm.jpeg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/innovation-project/banner-lg.jpeg",
+                            "breakpoint": 1280
+                        },
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/innovation-project/banner-md.jpeg",
+                            "breakpoint": 768
+                        }
+                    ]
+                },
+                "title": ""
+            }
+        ]
+    }
+}

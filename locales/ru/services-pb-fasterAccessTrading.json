@@ -1,0 +1,162 @@
+{
+    "lead": {
+        "title": "Ускоренный доступ к торгам ",
+        "description": "Единоразовое зачисление денежных средств на&nbsp;лицевой счет участника по&nbsp;платежному поручению с&nbsp;отметкой банка об&nbsp;исполнении.",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Услуги и сервисы"
+                },
+                {
+                    "text": "Покупателям имущества",
+                    "href": "/services/service-property-buyers"
+                },
+                {
+                    "text": "Ускоренный доступ к торгам"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Оставить заявку",
+            "id": "ApplicationForm3"
+        }
+    },
+        "exmpl2": {
+            "title": "Услуга предназначена для участников секций:",
+            "socials": [
+                {
+                    "scrollToSelector": "#first",
+                    "name": "rosneft",
+                    "text": "ПАО «НК «Роснефть»"
+                },
+                {
+                    "scrollToSelector": "#second",
+                    "name": "interrao",
+                    "text": "Интер РАО ЕЭС"
+                },
+                {
+                    "scrollToSelector": "#second",
+                    "name": "fz223icon",
+                    "text": "223-ФЗ и Коммерческие закупки"
+                },
+                {
+                    "scrollToSelector": "#first",
+                    "name": "saleColorful",
+                    "text": "Продажа имущества"
+                }
+            ]
+        },
+        "five": {
+            "title": "Подключение услуги для секции Закупок ПАО &laquo;НК&nbsp;&laquo;Роснефть&raquo; и&nbsp;Продажа имущества",
+            "items": [
+                {
+                    "text": "В&nbsp;личном кабинете на&nbsp;ЭТП Участнику необходимо в&nbsp;разделе &quot;Финансы&quot;/<span class='noWrap'>&quot;Подключение</span> услуг&quot; нажать иконку &laquo;+&raquo; в&nbsp;блоке &laquo;Операции&raquo;."
+                },
+                {
+                    "text": "На&nbsp;форме &laquo;Добавление услуги&raquo; необходимо сформировать счет на&nbsp;оплату услуги и&nbsp;счет на&nbsp;пополнение лицевого счета."
+                },
+                {
+                    "text": "Прикрепить платежные поручения."
+                },
+                {
+                    "text": "Поставить галочку, приняв условия договора."
+                },
+                {
+                    "text": "Подписать и&nbsp;направить заявку на&nbsp;получение услуги."
+                }
+            ]
+        },
+        "three": {
+            "title": "Подключение услуги для секции Закупок ПАО &laquo;Интер РАО&raquo; и&nbsp;223-ФЗ и&nbsp;Коммерческие закупки",
+            "items": [
+                {
+                    "text": "Направьте карточку предприятия, указав необходимую вам услугу и&nbsp;секцию, на&nbsp;электронную почту ЭТП ТЭК-Торг <a href='mailto:help@tektorg.ru'>help@tektorg.ru</a>."
+                },
+                {
+                    "text": "Получите счет на&nbsp;оплату."
+                },
+                {
+                    "text": "Направьте на&nbsp;электронную почту ЭТП ТЭК-Торг <a href='mailto:help@tektorg.ru'>help@tektorg.ru</a> Заявление со&nbsp;скан-копией платежного поручения об&nbsp;оплате стоимости Услуги по&nbsp;Договору с&nbsp;отметкой банка о&nbsp;его принятии и&nbsp;скан-копию платежного поручения о&nbsp;пополнении лицевого счета Клиента на&nbsp;ЭТП с&nbsp;отметкой банка Клиента."
+                }
+            ]
+        },
+        "example2": {
+            "wrapper": {
+                "name": "Стоимость"
+            },
+            "cards": {
+                "cardsBottom": [
+                    {
+                        "head": {
+                            "number": "9 900",
+                            "text": "рублей"
+                        },
+                        "items": [
+                            {
+                                "text": "Ускоренное зачисление денег на оплату тарифа"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "infoBlocks": {
+            "sideCard": {
+                "title": "Ускоренный доступ поможет заявиться на&nbsp;торги день в&nbsp;день.",
+                "bg": "blue",
+                "modalbtns": [
+                    {
+                        "title": "Подключить услугу",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            },
+            "content": [
+                {
+                    "text": "Пройдите упрощенную схему получения услуги",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "text": "Получите индивидуальное решение вашего запроса",
+                    "iconName": "file"
+                },
+                {
+                    "text": "Зачислите средства всего за&nbsp;2&nbsp;часа",
+                    "iconName": "checkMark"
+                }
+            ]
+        },
+        "example4": {
+            "title": "Нашли выгодный тендер, срок завершения которого уже сегодня?"
+        },
+        "bannerSlider": {
+            "items": [
+                {
+                    "background": {
+          "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+                    },
+                    "title": "Есть вопросы?<br>Мы поможем!",
+                    "modal": [
+                        {
+                            "title": "Задать вопрос",
+                            "id": "askQuestionForm"
+                        }
+                    ]
+                }
+            ]
+        }
+    }

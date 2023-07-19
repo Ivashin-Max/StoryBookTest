@@ -1,0 +1,42 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "servicesFullEn",
+            "description": "The electronic trading platform TEK-Torg<br> Convenient procurement tools",
+            "href": "/services/customers-223-fz"
+        },
+        "menu": [
+            {
+                "text": "For 223-FZ customers",
+                "href": "/services/customers-223-fz",
+                "id": "customers",
+                "subLinks": []
+            },
+            {
+                "text": "For commercial customers",
+                "href": "/services/customers",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "For Suppliers",
+                "href": "/services/service-suppliers",
+                "id": "suppliers",
+                "subLinks": []
+            },
+            {
+                "text": "For property buyers",
+                "href": "/services/service-property-buyers",
+                "id": "buyers",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "lead": {
+        "title": "The single window (one-stop shop)",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "The single window (one-stop shop)",
+                    "href": "/rosneft/edinoe_okno"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "Reviewing proposals in the company from suppliers and contractors",
+        "text": [
+            "The &ldquo;Single-window&rdquo; (one-stop-shop) system initiates the process of reviewing proposals in the company on the use of products / work performed / services provided without sending official requests. Any organization or individual can send a cooperation offer &ndash; use of equipment, introduction of new technologies, provision of services, performance of work, etc.",
+            "To send a proposal, it is necessary to define a category &ndash; Innovative solutions, Innovative project idea, Products / services provided / work performed (section &ldquo;Cooperation offers&rdquo;), or Open requests (questions not related to the previous groups). Next, it is required to draw up an application according to the proposed form and send it to the Company."
+        ]
+    },
+    "infoCards": {
+        "title": "To send the offer, you need to select a category",
+        "cards": {
+            "allLinks": true,
+            "sideCard": {
+                "title": "Cooperation offers",
+                "href": "/rosneft/edinoe_okno/predlozheniya_o_sotrudnichestve",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/infoCards/2_14_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_14_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_14_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Open<br> requests",
+                    "href": "/rosneft/edinoe_okno/otkrytye_zaprosy",
+                    "targetBlank": false,
+                    "iconName": "signature"
+                },
+                {
+                    "title": "Innovative<br> solutions",
+                    "href": "/rosneft/edinoe_okno/innovaczionnye_resheniya",
+                    "targetBlank": false,
+                    "iconName": "file"
+                },
+                {
+                    "title": "Innovative<br> project idea",
+                    "href": "/rosneft/edinoe_okno/ideya_innovacionnogo_proekta",
+                    "targetBlank": false,
+                    "iconName": "innovation"
+                }
+            ]
+        }
+    }
+}

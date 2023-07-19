@@ -1,0 +1,180 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/en/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Market",
+                    "href": "/en/market"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/service"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Services for suppliers"
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance",
+        "Financial Services"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "person"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/placement-production"
+                    },
+                    "title": "Placement of products in the online store catalog",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "person"
+                }
+
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "person"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/placement-production"
+                    },
+                    "title": "Placement of products in the online store catalog",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/market/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

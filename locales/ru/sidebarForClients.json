@@ -1,0 +1,58 @@
+{
+      "sidebar": {
+        "header": {
+            "logo": "forClients",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Все необходимое для работы на площадке",
+            "href": "/clients/documents"
+        },
+        "menu": [
+            {
+                "text": "Документы для работы на площадке",
+                "href": "/clients/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Тарифы",
+                "href": "/clients/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Центр Поддержки",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам/Продавцам",
+                        "href": "/clients/support-customers"
+                    },
+                    {
+                        "text": "Поставщикам/Покупателям",
+                        "href": "/clients/support-suppliers"
+                    }
+                ]
+            },
+            {
+                "text": "Заказать бухгалтерские документы",
+                "href": "/clients/accounting-docs",
+                "id": "accountingDocuments",
+                "subLinks": []
+            },
+            {
+                "text": "Наши заказчики",
+                "href": "/clients/organizations",
+                "id": "customers",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Календарь отраслевых мероприятий",
+            "image": "/images/headerWidgets/clients1.jpg",
+            "link": {
+                "href": "https://event.tektorg.ru/calendar",
+                "isForeign": true
+            },
+            "textColor": "black"
+        }
+    }
+}

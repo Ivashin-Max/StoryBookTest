@@ -1,0 +1,251 @@
+{
+    "leadImg": {
+        "title": "Закупки ПАО<br>«Интер РАО»",
+        "background": {
+            "src": "/images/pages/interRao/head-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/interRao/head.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/interRao/head-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Торговые секции"
+            },
+            {
+                "text": "Закупки ПАО «Интер РАО»",
+                "href": "/inter_rao"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "ПАО &laquo;Интер РАО&raquo;&nbsp;&mdash; российская энергетическая компания, управляющая активами в России, а также в странах Европы и СНГ. В сферу деятельности Интер РАО входит производство и сбыт электрической и тепловой энергии, международная энергетическая торговля, инженерные услуги, проектирование и строительство энергообъектов.",
+        "text": [
+            "Внедрение новых сервисов, развитие и автоматизация существующих, вовлечение в процесс поставщиков даёт нам возможность выработать комплексный подход к закупкам, найти новые решения на пути формирования эффективного всестороннего взаимодействия."
+        ]
+    },
+    "items": [
+        {
+            "title": "Система взаимодействия с поставщиками",
+            "text": "Специальные сервисы для участников закупок компаний группы «Интер РАО»",
+            "background": {
+                "src": "/images/pages/interRao/background-314.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/interRao/background.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/pages/interRao/background-680.jpg",
+                        "breakpoint": "680"
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "text": "Подробнее",
+                    "href": "/inter_rao/ekosreda"
+                }
+            ]
+        }
+    ],
+    "purchases": {
+        "title": "Закупочные процедуры",
+        "link": [
+            {
+                "text": "Смотреть все",
+                "href": "/inter_rao/procedures"
+            }
+        ]
+    },
+    "services": {
+        "title": "Услуги",
+        "cards": {
+            "sideCard": {
+                "title": "Инструменты для победы в тендерах",
+                "text": "Наши сервисы помогут реализовать даже самые амбициозные цели",
+                "href": "/inter_rao/service",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/services/5-1-1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/services/5-1-1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/services/5-1-1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "iconName": "rocket"
+            },
+            "cards": [
+                {
+                    "title": "Ускоренная аккредитация. Прохождение процедуры в&nbsp;течение 2 часов",
+                    "href": "/inter_rao/service/fast-accreditation",
+                    "iconName": "checkbox",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Электронная подпись",
+                    "href": "/inter_rao/service/e-signature",
+                    "iconName": "blank",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Банковская/независимая гарантия за&nbsp;15&nbsp;минут",
+                    "href": "/inter_rao/service/bg",
+                    "iconName": "checkMark2",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Ускоренный доступ. Зачисление денежных средств в&nbsp;течение 2 часов",
+                    "href": "/inter_rao/service/134",
+                    "iconName": "rocket",
+                    "targetBlank": false
+                }
+            ]
+        }
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Поиск",
+        "rectLink": {
+            "text": "Подписаться на закупки",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "link": {
+            "text": "Расширенный поиск",
+            "href": "/inter_rao/procedures"
+        }
+    },
+    "educatuonInner": {
+        "wrapper": {
+            "name": "Обучающие мероприятия",
+            "links": [
+                {
+                    "href": "/education/courses-supplier",
+                    "text": "Поставщикам"
+                },
+                {
+                    "href": "/education/courses-customer",
+                    "text": "Заказчикам"
+                }
+            ]
+        },
+        "images": [
+            "/images/index/educationsEvents/1.jpg",
+            "/images/index/educationsEvents/2.jpg",
+            "/images/index/educationsEvents/3.jpg",
+            "/images/index/educationsEvents/4.jpg",
+            "/images/index/educationsEvents/5.jpg"
+        ],
+        "educationsEvents": [
+            {
+                "nid": "5971",
+                "title": "Онлайн-консультация для поставщиков по 223-ФЗ",
+                "location": "онлайн",
+                "date": "7 сентября",
+                "date_closed": true,
+                "expert": {
+                    "name": null,
+                    "nid": null
+                },
+                "type": "Вебинар",
+                "members": {
+                    "supplier": "Поставщикам"
+                },
+                "price": "0",
+                "url": "https://www.tektorg.ru/education/5971?utm_source=education&utm_medium=calendar"
+            },
+            {
+                "nid": "6085",
+                "title": "Участие в закупках как способ развития бизнеса в новых условиях. Меры поддержки для СМСП и самозанятых",
+                "location": "Нижний Новгород",
+                "date": "8 сентября",
+                "date_closed": false,
+                "expert": {
+                    "name": null,
+                    "nid": null
+                },
+                "type": "Семинар",
+                "members": {
+                    "supplier": "Поставщикам"
+                },
+                "price": "0",
+                "url": "https://xn----7sbomtdetgei.xn--p1ai/nizhniy-novgorod2022?utm_source=education&utm_medium=calendar"
+            },
+            {
+                "nid": "6100",
+                "title": "Положение о закупке: что следует скорректировать в связи с изменениями законодательства в 2022 году",
+                "location": "онлайн",
+                "date": "8 сентября",
+                "date_closed": false,
+                "expert": {
+                    "name": null,
+                    "nid": null
+                },
+                "type": "Вебинар",
+                "members": {
+                    "customer": "Заказчикам"
+                },
+                "price": "5000",
+                "url": "https://www.tektorg.ru/education/6100?utm_source=education&utm_medium=calendar"
+            }
+        ],
+        "cursesCards": [
+            {
+                "nid": "5693",
+                "title": "Курс для заказчиков по 223-ФЗ",
+                "price": "8700",
+                "members": {
+                    "customer": "Заказчикам"
+                }
+            },
+            {
+                "nid": "5732",
+                "title": "Как участвовать в закупках и заключать выгодные сделки",
+                "price": "9500",
+                "members": {
+                    "customer": "Поставщикам"
+                }
+            },
+            {
+                "nid": "5390",
+                "title": "Подготовка заявок на участие. Oсновные правила и типовые ошибки",
+                "price": "3000",
+                "members": {
+                    "supplier": "Поставщикам"
+                }
+            },
+            {
+                "nid": "5543",
+                "title": "Основы участия в закупках",
+                "price": "3200",
+                "members": {
+                    "customer": "Заказчикам"
+                }
+            }
+        ]
+    }
+}

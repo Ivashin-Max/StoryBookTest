@@ -1,0 +1,113 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Tariffs",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Tariffs",
+                    "href": "/inter_rao/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "title": "Procedure for SME only",
+            "section": "inter-rao",
+            "description": "<p>Procedure only for small and medium enterprises in accordance with with Art. 3.4 of Federal Law No. 223</p>",
+            "price": "1%",
+            "price_comment": "of the initial maximum price of the contract, but not exceeding 5,000 rubles (excluding VAT)",
+            "extra_comment": "Fee from a participant, with which a contract is concluded based on the procurement results (including participants that evade the conclusion of a contract)*. According to present tariff plan, the funds are debited from a special account"
+        },
+        {
+            "nid": "2",
+            "section": "inter-rao",
+            "title": "Winner",
+            "description": "<p>Participation in unlimited number of procurement procedures. The necessary amount should be on the account for debiting in case of winning</p>",
+            "price": "1%",
+            "price_comment": "from the price of the application but not exceeding 75,000 rubles",
+            "extra_comment": "The amount is blocked on the account when submitting the application**"
+        },
+        {
+            "nid": "3",
+            "section": "inter-rao",
+            "title": "Partner",
+            "description": "<p>Participation in unlimited number of procurement procedures</p>",
+            "price": "95,000 rubles",
+            "price_comment": "1 year",
+            "extra_comment": "No fee from a winner of the procurement procedure"
+        }
+    ],
+    "disclamer": {
+        "text": "<p>* Fee from a participant, with which a contract is concluded based on the procurement results (including participants that were considered by the Customer as evaders regarding conclusion of a contract). If a winner of the procurement procedure for SME only is evading the conclusion of a contract, the contract is concluding with another participant for free.</p><p>** The fee is charged for each lot within the framework of which the Participant was recognized as the winner of the procurement procedure.</p>"
+    },
+    "document": {
+        "title": "Download tariff plan",
+        "type": "DOCX",
+        "size": "20.2 KB",
+        "file": "/documents/tariffs/inter-rao-tariff/Тарифный план Секции Интер РАО.docx"
+    },
+    "bannerSlider": {
+      "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                    "text": "Enroll",
+                    "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                    "text": "More",
+                    "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "leadText": {
+        "title": "Procurement procedures",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of petroleum products",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "Procurement procedures"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Procurement subscription",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter a keyword or the procedure number",
+            "submitText": "Search"
+        },
+        "filters": [
+            {
+                "title": "Method of determining the supplier (purchaser)",
+                "type": "checkbox",
+                "fields": [
+                    {
+                        "name": "types"
+                    }
+                ],
+                "dataName": "types"
+            },
+            {
+                "title": "Statuses of procedures (stages)",
+                "type": "checkbox",
+                "fields": [
+                    {
+                        "name": "status"
+                    }
+                ],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Date",
+                "type": "date",
+                "fields": [
+                    {
+                        "name": "datePublished",
+                        "label": "Publication of the procedure"
+                    },
+                    {
+                        "name": "dateEndRegistration",
+                        "label": "The end of accepting applications"
+                    }
+                ]
+            },
+            {
+                "title": "The Organizer's region",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Enter the name or area code"
+                },
+                "fields": [
+                    {
+                        "name": "regionCodes"
+                    }
+                ],
+                "dataName": "regions"
+            }
+        ]
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "Relevance",
+                "property": "actual"
+            },
+            {
+                "name": "High procedure price",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "Low procedure price",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "New",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Old",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Block view",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Table view",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

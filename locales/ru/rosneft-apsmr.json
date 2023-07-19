@@ -1,0 +1,38 @@
+{
+    "lead": {
+        "title": "Анкета подрядчика СМР",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Анкета подрядчика СМР"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "<span class='noWrap'>ПАО НК &laquo;Роснефть&raquo;</span> предлагает Вам пройти анкетирование",
+        "text": [
+            "В&nbsp;рамках расширения рынка и&nbsp;актуализации базы подрядных организаций, в&nbsp;части уточнения специализации по&nbsp;видам строительных работ, возможности оказаний услуг в&nbsp;разрезе регионов РФ&nbsp;и&nbsp;Обществ Группы П<span class='noWrap'>АО &laquo;НК &laquo;Роснефть&raquo;</span>, в&nbsp;том числе связанные с&nbsp;выполнением работ вахтовым методом предлагает Вам пройти анкетирование в&nbsp;виде <span class='noWrap'>6-ти</span> вопросов. По&nbsp;результатам анкетирования планируется повысить точность адресной рассылки приглашений к&nbsp;участию в&nbsp;закупах СМР П<span class='noWrap'>АО &laquo;НК &laquo;Роснефть&raquo;</span>, публикуемых на&nbsp;сайте ЭТП <span class='noWrap'>&laquo;ТЭК-Торг&raquo;</span>."
+        ]
+    },
+    "picture": {
+        "src": "/images/pages/rosneft-apsmr/picture.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/rosneft-apsmr/picture.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    }
+}

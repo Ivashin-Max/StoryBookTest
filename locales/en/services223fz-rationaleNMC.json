@@ -1,0 +1,171 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Services for 223-FZ Customers",
+                    "href": "/services/customers-223-fz"
+                },
+                {
+                    "text": "NMC Justification"
+                }
+            ]
+        },
+        "title": "NMC Justification",
+        "description": "We free specialists of procurement and tender departments from routine work on the search and analysis of price information and provide the opportunity to work within a universal platform"
+    },
+    "example1": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/target375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/target.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/target768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Online service to justify the initial maximum price",
+                "text": "Instant selection of contracts to justify the initial maximum price. Forecast of prices for goods, works or services",
+                "links": [
+                    {
+                        "text": "Use",
+                        "href": "https://profile.tektorg.ru/nonAuth",
+                        "isForeign": true
+                    }
+                ],
+                "modal": [
+                    {
+                        "title": "Get Consultation",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    },
+    "withNavigation": {
+        "wrapper": "How does it work?",
+        "header": [
+            "The user sets the name of the TRU in the search bar, the system selects the appropriate OKPD2 codes",
+            "It is possible to specify the necessary parameters: region, OKPD2, price, year",
+            "The user can justify one product or a list of several products. It can be compiled manually or downloaded from an Excel file",
+            "The completed justification is downloaded using MS Excel"
+        ]
+    },
+    "list": {
+        "section": "blue",
+        "videoCard": {
+            "title": "VideoLesson",
+            "link": {
+                "text": "",
+                "href": "https://www.youtube.com/watch?v=s3NNoN-UXwY&list=PLtxJDbDu8abTntuSs41nMW4KCwmqbgNKz&index=9",
+                "isForeign": true
+            }
+        },
+        "content": {}
+    },
+    "infoBlock": {
+        "sideCard": {
+            "title": "Service Benefits",
+            "bg": "blue",
+            "links": [
+                {
+                    "text": "Download a Sample Report",
+                    "href": "https://www.tektorg.ru/documents/report_example.xlsx",
+                    "isForeign": true
+                }
+            ],
+            "modalbtns": [
+                {
+                    "title": "Get Consultation",
+                    "id": "ApplicationForm3"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "<b>Online tool</b><br/>Makes it easier and faster to justify the NMC",
+                "iconName": "finger"
+            },
+            {
+                "text": "<b>Quality of sources</b><br/>The data of the EIS and ETP TEK-Torg are used",
+                "iconName": "checkbox"
+            },
+            {
+                "text": "<b>Simplicity of operation</b><br/>It is enough to set the necessary parameters and immediately get the necessary information",
+                "iconName": "rocket"
+            },
+            {
+                "text": "<b>Cost</b><br/>The functionality is free for the Organizers working at the TEK-Torg platform",
+                "iconName": "Stonks"
+            }
+        ]
+    },
+    "tags": ["For New Clients", "To TEK-Torg customers"],
+    "title": {
+        "title": "How to use?"
+    },
+    "three": {
+        "title": "For New Clients",
+        "items": [
+            {
+                "text": "Get accredited in the platform<br/>If you are not yet a client of TEK-Torg JSC, register for the section \"223-FZ and Commercial Procurement\""
+            },
+            {
+                "text": "Go to your personal account<br/>In your personal account on the section \"223-FZ and Commercial procurement\", click on \"Digital Assistant\" in the menu"
+            },
+            {
+                "text": "Select service<br/>Select the item \"NMC Justification\" and get the information you are interested in"
+            }
+        ]
+    },
+    "two": {
+        "title": "For Clients",
+        "items": [
+            {
+                "text": "Go to your personal account<br/>In your personal account on the section \"223-FZ and Commercial procurement\", click on \"Digital Assistant\" in the menu"
+            },
+            {
+                "text": "Select service<br/>Select the item \"NMC Justification\" and get the information you are interested in"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any other questions?",
+                "text": [
+                    "For consultation, contact the manager:<a href='mailto:org223@tektorg.ru'>edu@tektorg.ru</a>or <a href='tel:+74957348118'>+7 495 734-81-18&nbsp;доп.&nbsp;4512</a>"
+                ],
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

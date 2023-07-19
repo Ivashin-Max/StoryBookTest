@@ -1,0 +1,142 @@
+{
+    "leadText": {
+        "title": "Placement of products in the online store catalog",
+        "description": "Create your price list for potential customers in 1 click",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Market",
+                    "href": "/market"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/market/service"
+                },
+                {
+                    "text": "Placement of products in the online store catalog"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Request for placement",
+            "id": "ApplicationForm3"
+        }
+    },
+    "bannerText": {
+        "title": "Online store is a platform for small and urgent purchases of goods and services up to 20 million rubles.",
+        "background": {
+            "src": "/images/blocks/bannerText/blue-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerText/2.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "text": [
+            "Here the supplier receives orders in two ways:<br/>1. Directly, through an express order formed based on the price list<br/>2. The supplier independently submits price offers, participating in the price requests of customers"
+        ]
+    },
+    "text": {
+        "title": "To receive direct orders, the supplier adds a price list to the database with a range of products that can be found by customers. This method helps to avoid the second method, i.e. the need to monitor each procurement constantly."
+    },
+    "title": {
+        "title": "Выгоды"
+    },
+    "example2": {
+        "wrapper": {
+            "name": "Use a simple and transparent way to work with an online store"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "",
+                        "text": "Get direct access to the orders of the largest companies"
+                    },
+                    "items": [
+                        {
+                            "text": "TEK-Torg works with such corporations as Rosneft, Gazprom, Spimex and many others. Among the organizers of the procurement there are more than a hundred domestic corporations and their subsidiaries. There are really a lot of orders for you here!"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "200&nbsp;₽",
+                        "text": ""
+                    },
+                    "items": [
+                        {
+                            "text": "СReduce labor costs for creating a price list TEK-Torg will help to present goods in the price list for the customer faster than others - 200 rubles per position"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "example1": {
+        "cards": {
+            "sideCard": {
+                "title": "How to place an item in an online store",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Add items manually specifying their characteristics",
+                    "href": "https://kim.tektorg.ru/#auth/login",
+                    "text": "It is free of charge, but time-consuming procedure that involves entering a lot of data for each position manually"
+                },
+                {
+                    "title": "Order assistance in the placement of products/services",
+                    "modalId": "ApplicationForm3",
+                    "text": "Just 1 click and your price list will be posted by TEK-Torg employees shortly"
+                }
+            ]
+        }
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any questions?<br>We will help!",
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

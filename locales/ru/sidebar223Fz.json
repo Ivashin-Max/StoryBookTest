@@ -1,0 +1,68 @@
+{
+      "sidebar": {
+        "header": {
+            "logo": "fz223",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция Коммерческих закупок и закупок по 223-ФЗ",
+            "href": "/223-fz"
+        },
+        "menu": [
+            {
+                "text": "Закупочные процедуры",
+                "href": "/223-fz/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "/223-fz/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Тарифы",
+                "href": "/223-fz/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Центр поддержки",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам",
+                        "href": "/223-fz/help-customers"
+                    },
+                    {
+                        "text": "Поставщикам",
+                        "href": "/223-fz/help-suppliers"
+                    }
+                ]
+            },
+            {
+                "text": "Услуги и сервисы",
+                "id": "services",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам 223-ФЗ",
+                        "href": "/223-fz/service-customers-223-fz"
+                    },
+                    {
+                        "text": "Коммерчеким заказчикам",
+                        "href": "/223-fz/service-customers"
+                    },
+                    {
+                        "text": "Поставщикам",
+                        "href": "/223-fz/service-suppliers"
+                    }
+                ]
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

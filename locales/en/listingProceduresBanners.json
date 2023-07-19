@@ -1,0 +1,78 @@
+{
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/calendar-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/calendar-slide-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/calendar-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Calendar of industry events",
+                "text": "The most important federal events in one place",
+                "links": [
+                    {
+                        "text": "Watch",
+                        "href": "https://event.tektorg.ru/calendar",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/bank-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/bank-slide-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/bank-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Bank guarantees",
+                "text": "Guarantees according to the customer's form. All operations are online.<br>The project is guaranteed in 30 minutes. 25 discount%",
+                "textColor": "black",
+                "links": [
+                    {
+                        "text": "Get",
+                        "href": "https://fin.tektorg.ru/bg",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/trade-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/trade-slide-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/trade-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Accelerated access to trading",
+                "text": "Transfer of funds by payment order to your account within 2 hours",
+                "links": [
+                    {
+                        "text": "Watch",
+                        "href": "/services/service-property-buyers/134"
+                    }
+                ]
+            }
+        ]
+    }
+}

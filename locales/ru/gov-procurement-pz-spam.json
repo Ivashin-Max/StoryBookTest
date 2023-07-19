@@ -1,0 +1,40 @@
+{
+  "lead": {
+      "breadcrumbs": {
+          "crumbs": [
+              {
+                  "text": "Главная",
+                  "href": "/"
+              },
+              {
+                  "text": "Торговые секции"
+              },
+              {
+                  "text": "Государственные закупки",
+                  "href": "/44-fz"
+              },
+              {
+                  "text": "Преимущества для заказчиков",
+                  "href": "/44-fz/pz"
+              },
+              {
+                  "text": "Согласование применения антидемпинговых мер с УО"
+              }
+          ]
+      },
+      "lineBottom": true,
+      "backButton": {
+          "text": "Назад",
+          "href": "/44-fz/pz"
+      },
+      "title": "Согласование применения антидемпинговых мер с УО"
+  },
+  "playlist": {
+      "bg": "gray2",
+      "link": {
+          "text": "Воспользоваться в ЛК",
+          "href": "https://44.tektorg.ru/authentication/login",
+          "isForeign": true
+      }
+  }
+}

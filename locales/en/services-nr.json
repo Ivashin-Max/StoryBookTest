@@ -1,0 +1,142 @@
+{
+    "lead": {
+        "title": "Electronic signature <br/>for non-residents",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Services"
+                },
+                {
+                    "text": "For suppliers",
+                    "href": "/services/service-suppliers"
+                },
+                {
+                    "text": "Electronic signature",
+                    "href": "/rosneft/service/e-signature-nr"
+                }
+            ]
+        }
+    },
+    "cards": {
+        "cards": {
+            "sideCard": {
+                "title": "Obtaining an unqualified digital signature *",
+                "text": "* The Unqualified DS certificate is intended for an individual non-resident of the Russian Federation and works with the CryptoPro CSP v.4 license.",
+                "picture": {
+                    "src": "/images/infoCards/2_12_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_12_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_12_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "The data provided at the registration in the personal account of the CC, as well as when placing and paying for the order at Steps 1 and 2, should not differ.",
+                    "text": "ayment shall be made only with a bank card containing the name and surname of the intended owner of the DS (the name and surname on the bank card shall match the registration data)."
+                },
+                {
+                    "title": "Before start, check whether your computer meets the technical requirements!",
+                    "text": "Use Internet Explorer browser for all Steps!"
+                }
+            ]
+        }
+    },
+        "header": ["Registration", "Formation and payment of the order for the release of NEP", "Creation of the unqualified DS certificate", "Sending the necessary documentation to JSC \"TEK-Torg\""],
+    "procedureList":{
+        "videoCard": {
+            "title": "VideoLesson",
+            "link": {
+                "text": "",
+                "href": "https://www.youtube.com/watch?v=pyFUlokk-xo&list=PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0&index=2",
+                "isForeign": true
+            }
+        },
+        "content": {
+            "title": "Registration in the personal account of the Certification Center (LC UC)",
+            "list": [
+                "<a target='_blank' href=\"/documents/Guide for obtaining a NDS v2_5_1.pdf\">PC set up (item 1.1. in the Instructions)</a>",
+                "Follow the link: <a target='_blank' href=\"https://cpca20.cryptopro.ru/uitektorg/1/RegRequest.aspx\">https://cpca20.cryptopro.ru/uitektorg/1/RegRequest.aspx</a>",
+                "To register in the personal account in CC, the computer shall be configured, otherwise the link will not open.",
+                "Fill in the fields of the CC personal account registration form and provide the name of the recipient of the Unqualified DS in Latin. The information shall match the payer’s data from Step 2.",
+                "Save the password! It becomes available for viewing if you click the \"Click here to see password\" field.",
+                "After filling in, click the \"Registration\" button.",
+                "After completing Step 2 and confirming the fact of payment, access to the CC personal account will be provided (1-2 days)!"
+            ]
+        }
+    },
+    "procedureList2":{
+        "videoCard": {
+            "title": "VideoLesson",
+            "link": {
+                "text": "",
+                "href": "https://www.youtube.com/watch?v=F80Nu2i2Q1A&list=PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0&index=3",
+                "isForeign": true
+            }
+        },
+        "content": {
+            "title": "Formation and payment of the order for the release of NEP",
+            "list": [
+                "Follow the link: <a target='_blank' href=\"https://www.cryptopro.ru/order/nonresident/?online=true\">https://www.cryptopro.ru/order/nonresident/?online=true</a> and select \"TEK-TORG\" in \"Products\"",
+                "Set the value to 1 in the field next to the price of 10 500₽",
+                "Click \"Add to cart\", then click \"Proceed to checkout\".",
+                "Fill in the \"Contact information\" form in Latin and click \"Continue\"",
+                "Check the provided information and click \"Get payment link to my email\" when you are ready to pay.",
+                "You will receive an email with a payment link to the provided E-mail, which will be valid for only 20 minutes. Follow the link and pay with a personal bank card. If you did manage to pay within 20 minutes time, then repeat the above steps again."
+            ]
+        }
+    },
+    "procedureList3":{
+        "videoCard": {
+            "title": "VideoLesson",
+            "link": {
+                "text": "",
+                "href": "https://www.youtube.com/watch?v=bsQ27gLjSyU&list=PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0&index=4",
+                "isForeign": true
+            }
+        },
+        "content": {
+            "title": "Creation of the unqualified DS certificate",
+            "list": [
+                "Follow the link and log in: <a target='_blank' href=\"https://cpca20.cryptopro.ru/uitektorg/1/Login.aspx\">https://cpca20.cryptopro.ru/uitektorg/1/Login.aspx</a>",
+                "To create the unqualified DS, click the \"Create\" button in the \"Certificates\" block",
+                "Click the \"Submit\" button.",
+                "Select a storage location for the closed part of the unqualified DS. It is possible to save it on a computer, on a USB flash drive or on a special cryptographic key. It is recommended to use a USB flash drive, to do this, select the necessary \"Disk\" and click \"OK\"",
+                "The generation of the unqualified DS will begin, you need to move the mouse and press the buttons on the keyboard in random order.",
+                "Enter the password for the unqualified DS. Be sure to save it!"
+            ],
+            "smallText": "*!Attention! If you lose the password for the closed part of the unqualified DS, it cannot be restored. It will be necessary to pay again and create the unqualified DS. Create a copy of the closed part of the key according to the Manual (Eng) in paragraph 2.1.7 after generating the closed part of the unqualified DS, especially if you have saved it to your computer!",
+            "text": "The created unqualified DS will be sent for confirmation to the TEK-Torg JSC Operator and will be displayed in the list of certificates. Confirmation of the issuance of the unqualified DS is possible only after JSC \"TEK-Torg\" receives the originals of the documents described in step 4."
+        }
+    },
+    "procedureList4":{
+        "videoCard": {
+            "title": "VideoLesson",
+            "link": {
+                "text": "",
+                "href": "https://www.youtube.com/watch?v=5KO9LgLElDM&list=PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0&index=5",
+                "isForeign": true
+            }
+        },
+        "content": {
+            "title": "Sending the necessary documentation to JSC \"TEK-Torg\"",
+            "list": [
+                "Follow the link and log in: <a target='_blank' href=\"https://cpca20.cryptopro.ru/uitektorg/1/Login.aspx\">https://cpca20.cryptopro.ru/uitektorg/1/Login.aspx</a>",
+                "Print out the application for issuance of the DS certificate, sign it and seal it with the original seal of organization representative of which is the recipient of the unqualified DS.",
+                "Prepare a notarized copy of the document of identification and officially accepted on the territory of the country of residence of the recipient of the DS (passport, id card or other). A document issued on the territory of a foreign state shall be accompanied by a translation into Russian, the translation shall be notarized.",
+                "Send a scanned copy of the documents to the email help@tektorg.ru",
+                "Send the original documents to JSC \"TEK-Torg\" by mail, to the address: 115191 Moscow, Gamsonovsky lane, 5, p. 2"
+            ]
+        }
+    }
+}

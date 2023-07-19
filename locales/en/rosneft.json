@@ -1,0 +1,190 @@
+{
+    "leadImg": {
+        "title": "Section &laquo;Procurement<br>procedures of&nbsp;Rosneft&raquo;",
+        "background": {
+            "src": "/images/blocks/leadImg/lead-mobile.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/leadImg/lead.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/leadImg/lead-tablet.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "ETP Sections"
+            },
+            {
+                "text": "Procurement procedures of Rosneft"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Rosneft OC&nbsp;PJSC is&nbsp;the leader of&nbsp;Russia&rsquo;s petroleum industry and the world&rsquo;s largest publicly traded petroleum company*",
+        "text": [
+            "There has been conducted more than 195,000 procurements of the Company in the Section in the sum of more than 4.82 trillion rubles. Regarding the nomenclature, the Section presents the entire list of requirements of goods and services, among which you may find an order regarding your business activity.",
+            "*In terms of production volumes among public companies listed on Western stock exchanges"
+        ],
+        "links": [
+            {
+                "text": "Go to the organizer's website",
+                "href": "https://www.rosneft.com",
+                "isForeign": "true"
+            }
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Search",
+        "rectLink": {
+            "text": "Subscribe to purchases",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter a keyword or the procedure number",
+            "submitText": "Search"
+        },
+        "link": {
+            "text": "Advanced search",
+            "href": "/rosneft/procedures"
+        }
+    },
+    "purchasesSlider": {
+        "title": "Procurement procedures and Requests (T)KP",
+        "link": {
+            "text": "View all",
+            "href": "/rosneft/procedures"
+        }
+    },
+    "servicesCardsInner": {
+        "name": "Services",
+        "content": {
+            "sideCard": {
+                "title": "Special Tariff &laquo;Quick Start&raquo;",
+                "text": " Participation in&nbsp;the procurement within 2&nbsp;hours from the submission of&nbsp;the application",
+                "href": "/rosneft/service/tariff",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/services/5-1-1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/services/5-1-1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/services/5-1-1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "iconName": "rocket"
+            },
+            "cards": [
+                {
+                    "title": "Digital Signature",
+                    "href": "/rosneft/service/e-signature",
+                    "iconName": "blank"
+                },
+                {
+                    "title": " Bank/Independent Guarantee",
+                    "href": "/rosneft/service/bg",
+                    "iconName": "rocket"
+                },
+                {
+                    "title": "Express Access to Procedures",
+                    "href": "/rosneft/service/134",
+                    "iconName": "checkbox"
+                },
+                {
+                    "title": "TEK-torg сredit program",
+                    "href": "/rosneft/service/credit-on-contract",
+                    "iconName": "case"
+                }
+            ]
+        }
+    },
+    "educationInner": {
+        "wrapper": {
+            "name": "Training",
+            "links": [
+                {
+                    "text": "View all",
+                    "href": "/education"
+                }
+            ]
+        }
+    },
+    "bannerSlider1": {
+        "textColor": "black",
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/bannerSlider/slide-1-mobile.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-1.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-1-tablet.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Procurement procedures of Rosneft",
+                "text": "JSC &laquo;TEK-Torg&raquo; and Rosneft OC&nbsp;PJSC developed a&nbsp;mobile application for operational work with the Company&rsquo;s procurement procedures",
+                "links": [
+                    {
+                        "text": "More",
+                        "href": "/news-press/4321",
+                        "isForeign": false
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/bannerSlider/slide-2-mobile.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-2.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/rosneft/bannerSlider/slide-2-tablet.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "International<br>cooperation",
+                "text": "In&nbsp;order to&nbsp;expand international cooperation, a&nbsp;special section for foreign suppliers has been created at&nbsp;the ETP TEK-Torg",
+                "links": [
+                    {
+                        "text": "More",
+                        "href": "/rosneft/suppliers-foreign",
+                        "isForeign": false
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerSlider": {
+        "links": [
+            {
+                "text": "Start learning",
+                "href": "/education"
+            }
+        ]
+    }
+}

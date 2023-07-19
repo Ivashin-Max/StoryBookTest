@@ -1,0 +1,494 @@
+{
+    "lead": {
+        "title": "We’re making procurement more accessible",
+        "description": "TEK-Torg is a federal electronic trading platform that provides a high volume competition and the highest level of quality of corporate procurement",
+        "fixText": {
+            "text": "*Rating RAEX",
+            "href": "https://raex-rr.com/pro/b2b/procurement/ETP/2022/"
+        },
+        "background": {
+            "fhd": "/images/index/lead/lead.jpg",
+            "tablet": "/images/index/lead/lead-tablet.jpg",
+            "mobile": "/images/index/lead/lead-mobile.jpg"
+        },
+        "companies": [
+            {
+                "name": "Rosneft",
+                "href": "/rosneft",
+                "defaultImage": "/images/index/lead/logo-en-1.png",
+                "hoverImage": "/images/index/lead/logo-en-1-white.png"
+            },
+            {
+                "name": "Inter RAO",
+                "href": "/inter_rao",
+                "defaultImage": "/images/index/lead/logo-en-2.png",
+                "hoverImage": "/images/index/lead/logo-en-2-white.png"
+            },
+            {
+                "name": "Russian Railways",
+                "href": "/org/rzd",
+                "defaultImage": "/images/index/lead/logo-3.png",
+                "hoverImage": "/images/index/lead/logo-3-white.png"
+            }
+        ]
+    },
+    "searchProcedures": {
+        "text1": "Search by",
+        "text2": "procedure",
+        "text3": "All sections",
+        "notFideMessage": ["Sorry, at your request", "nothing found, try changing the wording"],
+        "input": {
+            "placeholder": "Enter a keyword or the procedure number"
+        },
+        "btn": "Find",
+        "link": {
+            "text": "Search",
+            "href": "/procedures"
+        },
+        "tags": [
+            {
+                "text": "Procurement procedures of Rosneft",
+                "value": "rosneft"
+            },
+            {
+                "text": "44-FZ",
+                "value": "44fz"
+            },
+            {
+                "text": "Inter RAO",
+                "value": "interrao"
+            },
+            {
+                "text": " 223-FZ",
+                "value": "zakupki"
+            },
+            {
+                "text": "Market",
+                "value": "market"
+            },
+            {
+                "text": "Sale of property",
+                "value": "sale"
+            },
+            {
+                "text": "Sale of petroleum products",
+                "value": "rosneft_selling"
+            }
+        ]
+    },
+    "actualSlider": {
+        "title": "Latest information"
+    },
+    "customers": {
+        "name": "For сustomers",
+        "title": "A reliable procurement platform",
+        "text": "EK-Torg trading platform allows you to carry out procurement procedures permitted by the legislation of the Russian Federation in Moscow and throughout Russia.",
+        "cards": [
+            {
+                "title": "Procurement procedures under 44-F",
+                "href": "/44-fz",
+                "iconName": "44fz",
+                "targetBlank": false
+            },
+            {
+                "title": "Procurement procedures under 223-FZ",
+                "href": "/223-fz?tag=0",
+                "iconName": "fz223icon",
+                "targetBlank": false
+            },
+            {
+                "title": "Commercial procurements",
+                "href": "/223-fz?tag=1",
+                "iconName": "fz223icon",
+                "targetBlank": false
+            },
+            {
+                "title": "Small and urgent purchases",
+                "href": "/market",
+                "iconName": "market",
+                "targetBlank": false
+            }
+        ]
+    },
+    "indicators": {
+        "name": "Stable growth dynamics",
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "4,82",
+                        "text": "4,82 trillion"
+                    },
+                    "items": [
+                        {
+                            "text": "The volume of&nbsp;purchases published on&nbsp;the ETP for 2022"
+                        }
+                    ],
+                    "image": "/images/index/indicators/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "441,074",
+                        "text": "procedures"
+                    },
+                    "items": [
+                        {
+                            "text": "The volume of&nbsp;purchases published on&nbsp;the ETP for 2022"
+                        }
+                    ],
+                    "image": "/images/index/indicators/2.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "No.&nbsp;1",
+                        "text": "in&nbsp;the Russian Federation"
+                    },
+                    "items": [
+                        {
+                            "text": "In&nbsp;terms of&nbsp;satisfaction with the corporate quality of&nbsp;services"
+                        },
+                        {
+                            "text": "In&nbsp;terms of&nbsp;the competition level in&nbsp;trade procedures"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "No.&nbsp;2",
+                        "text": "in&nbsp;the Russian Federation"
+                    },
+                    "items": [
+                        {
+                            "text": "In&nbsp;terms of&nbsp;customer satisfaction with the quality of&nbsp;small volume purchases"
+                        },
+                        {
+                            "text": "In&nbsp;terms of&nbsp;flexibility and range of&nbsp;trade and purchasing functionality"
+                        },
+                        {
+                            "text": "In&nbsp;terms of&nbsp;variety and quality of&nbsp;services"
+                        }
+                    ]
+                }
+            ],
+            "cardLink": {
+                "title": "Our<br>achievements",
+                "link": {
+                    "text": "Read more about the company",
+                    "href": "/about"
+                }
+            }
+        }
+    },
+    "suppliers": {
+        "name": "For suppliers",
+        "links": [
+            {
+                "href": "/subscription",
+                "text": "Subscription to purchases"
+            }
+        ],
+        "title": "User-friendly electronic platform",
+        "text": "The electronic trading platform TEK-Torg provides a&nbsp;full-cycle service for procurement participants. The official website of&nbsp;the ETP provides access to&nbsp;purchases from the largest Russian companies, as&nbsp;well as&nbsp;to&nbsp;government procurement.",
+        "cardActualProcedures": {
+            "title": "Purchases in&nbsp;which you can participate right now",
+            "href": "/procedures?status%5B%5D=На+рассмотрении+поставщика%3BПодача+заявок%3BПриём+заявок%3BПриём+заявок+1+этапа%3BПриём+оферт%3BПриём+предложений&page=1&sort=actual",
+            "iconName": "clockArrow"
+        },
+        "cards": [
+            {
+                "href": "/clients/tariff",
+                "title": "Favorable tariffs",
+                "text": "Carrying out procurement procedures on&nbsp;the principle of&nbsp;&laquo;payment from the winner&raquo; allows to&nbsp;reduce the costs of&nbsp;participating in&nbsp;bidding and auctions",
+                "iconName": "piece",
+                "targetBlank": false
+            },
+            {
+                "href": "/services/service-suppliers",
+                "title": "The whole set of&nbsp;tools for working with purchases",
+                "text": "TEK-Torg ecosystem for suppliers allows to&nbsp;access all operations in&nbsp;a&nbsp;single-window mode (in&nbsp;a&nbsp;one-stop manner).",
+                "iconName": "finger",
+                "targetBlank": false
+            }
+        ]
+    },
+    "ourCustomers": {
+        "title": "Our customers",
+        "links": [
+            {
+                "text": "Register of customers",
+                "href": "/clients/organizations"
+            }
+        ],
+        "items": [
+            {
+                "title": "Power Machines PJSC",
+                "image": "/images/organizators/silovie.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/silovyi_machine"
+                }
+            },
+            {
+                "title": "Oboronenergo JSC",
+                "image": "/images/organizators/oboronenergo.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/oboronenergo"
+                }
+            },
+            {
+                "title": "Mosenergo Heat Energy Company JSC",
+                "image": "/images/organizators/mossenergo.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/mosenergo"
+                }
+            },
+            {
+                "title": "Russian Railways JSC",
+                "image": "/images/organizators/rgd.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/rzd"
+                }
+            },
+            {
+                "title": "SPb GKU Customer Management",
+                "image": "/images/organizators/upravlenie.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/upravlenie_zakazchika"
+                }
+            },
+            {
+                "title": "Port One JSC",
+                "image": "/images/organizators/ppk.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/portone"
+                }
+            },
+            {
+                "title": "St. Petersburg Metropolitan SUE",
+                "image": "/images/organizators/metro.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/metro_spb"
+                }
+            },
+            {
+                "title": "Specneftetrans JSC",
+                "image": "/images/organizators/CNT.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/sntrans"
+                }
+            },
+            {
+                "title": "Rosmorport FSUE",
+                "image": "/images/organizators/RosMorPort.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/rosmorport"
+                }
+            },
+            {
+                "title": "En+ Group",
+                "image": "/images/organizators/enplusgroup.jpg",
+                "link": {
+                    "text": "Procurement procedures",
+                    "href": "/enplusgroup"
+                }
+            }
+        ]
+    },
+    "services": {
+        "name": "Tools and services",
+        "links": [
+            {
+                "href": "/services/service-suppliers",
+                "text": "For suppliers"
+            },
+            {
+                "href": "/services/customers-223-fz",
+                "text": "For customers"
+            }
+        ]
+    },
+    "banner": {
+        "title": "Sale and purchase of&nbsp;commercial, government and seized property",
+        "text": "At the best price",
+        "image": "/images/banner/bg1.jpg",
+        "link": {
+            "href": "/sale",
+            "text": "Learn more"
+        }
+    },
+    "education": {
+        "name": "Training",
+        "links": [
+            {
+                "href": "/education/courses-supplier",
+                "text": "For suppliers"
+            },
+            {
+                "href": "/education/courses-customer",
+                "text": "For customers"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    },
+    "news": {
+        "title": "News",
+        "titlePress": "Press center",
+        "titleMedia": "Media about us",
+        "link": {
+            "href": "/news-press",
+            "text": "View all"
+        },
+        "sectionCurd": {
+            "title": "Staying up&nbsp;to&nbsp;date",
+            "formTitle": "Subscribe to our newsletter",
+            "socials": [
+                {
+                    "title": "Social networks of ETP TEK-Torg",
+                    "links": [
+                        {
+                            "href": "https://vk.com/etptektorg",
+                            "name": "vk",
+                            "title": "Vkontakte. The ETP TEK-Torg",
+                            "targetBlank": true
+                        },
+                        {
+                            "href": "https://t.me/etp_tektorg",
+                            "name": "telegram",
+                            "title": "Telegram. The ETP TEK-Torg",
+                            "targetBlank": true
+                        },
+                        {
+                            "href": "https://www.youtube.com/channel/UCeLnNU7xlGjp_0nVaDBUWOg",
+                            "name": "youtube",
+                            "title": "YouTube. The ETP TEK-Torg",
+                            "targetBlank": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Communities",
+                    "links": [
+                        {
+                            "href": "https://vk.com/tektorg_sale",
+                            "name": "vk",
+                            "text": "Sale<br/>of property",
+                            "title": "Vkontakte. “Sale of Property”",
+                            "targetBlank": true
+                        },
+                        {
+                            "href": "https://vk.com/zakupo4naya",
+                            "name": "vk",
+                            "text": "'Zakupochnaya'<br/><span>Community of<br/>223-FZ customers</span>",
+                            "title": "Vkontakte. “Zakupochnaya”",
+                            "targetBlank": true
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "videoSlider": {
+        "title": "Video",
+        "links": [
+            {
+                "text": "View all",
+                "href": "https://www.youtube.com/c/etptektorg",
+                "isForeign": true
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/1_420.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/1_1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/1_680.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "How to participate in procurements and make profitable deals",
+                "text": "Sales through tenders under 223-FZ",
+                "links": [
+                    {
+                        "text": "Start Training",
+                        "href": "/education/courses/5693"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/3_314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/3_1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/3_680.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Express Verification of Accreditation Documents",
+                "links": [
+                    {
+                        "text": "Learn more",
+                        "href": "/services/service-suppliers/fast-accreditation"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/index/bannerSlider/4_314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/index/bannerSlider/4_1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/4_680.jpg",
+                            "breakpoint": "768"
+                        },
+                        {
+                            "src": "/images/index/bannerSlider/4_420.jpg",
+                            "breakpoint": "420"
+                        }
+                    ]
+                },
+                "title": " Financial services",
+                "links": [
+                    {
+                        "text": "Learn more",
+                        "href": "https://fin.tektorg.ru/bg",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    }
+}

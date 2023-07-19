@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of property",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Procurement procedures",
+                    "href": "/sale/procedures"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": "/sale/procedures"
+    },
+    "purchasesSlider": {
+        "title": "Similar procedures in&nbsp;other sections"
+    }
+}

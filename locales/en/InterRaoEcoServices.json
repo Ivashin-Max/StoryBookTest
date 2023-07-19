@@ -1,0 +1,205 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment"
+                }
+            ]
+        },
+        "title": "Eco-friendly service environment"
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/interRaoEcosreda/energy-global-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/interRaoEcosreda/energy-global.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/interRaoEcosreda/energy-global-768.jpg",
+                            "breakpoint": "768"
+                        },
+                        {
+                            "src": "/images/pages/interRaoEcosreda/energy-global-680.jpg",
+                            "breakpoint": "520"
+                        }
+                    ]
+                },
+                "title": "Energy Global Hub",
+                "text": "Current needs, development of suppliers, search for information and digital ideas",
+                "links": [
+                    {
+                        "text": "Learn more",
+                        "href": "https://energyhub.tektorg.ru/",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerText2": {
+        "text": [
+            "The economic environment is&nbsp;the implementation on&nbsp;a&nbsp;unified (single) online platform of&nbsp;solving the needs of&nbsp;all parties of&nbsp;the procurement process and its related fields, creating a&nbsp;unified field of&nbsp;interaction.",
+            "As&nbsp;a&nbsp;multifunctional system, the ETP is&nbsp;the most obvious online platform for obtaining services and support for all participants of&nbsp;the procurement process. Company evaluation services, participation in&nbsp;corporate supplier support programs are designed to&nbsp;simplify suppliers' access to&nbsp;procurements, to&nbsp;expand the circle of&nbsp;participants, and also to&nbsp;allow the use of&nbsp;the latest developments and technical solutions in&nbsp;the production activities of&nbsp;the Inter RAO Group companies."
+        ]
+    },
+    "cardsSection": {
+        "colorSection": "orange2",
+        "title": "List of services",
+        "cards": [
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/poisk_zakupki"
+                },
+                "title": "Preliminary search for procurement",
+                "iconName": "search",
+                "bgColor": "orange2",
+                "textColor": "white"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/poisk_tekhnicheskogo_zadaniya"
+                },
+                "title": "Preliminary search for technical specification",
+                "iconName": "PreTZ",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/audit"
+                },
+                "title": "Preliminary compliance audit",
+                "text": "Preliminary examination for compliance with the requirements of the Customer without participation in the procurement",
+                "iconName": "list"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/poisk_partnyorov_dlya_kollektivnogo_uchastiya"
+                },
+                "title": "Search for partners for collective participation",
+                "iconName": "Msp",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/accreditation"
+                },
+                "title": "Accreditation",
+                "iconName": "documentChecked"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/education"
+                },
+                "title": "Education",
+                "iconName": "signature"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/service/bg"
+                },
+                "title": "Financial services",
+                "iconName": "factoring"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/proverka_partnyorov"
+                },
+                "title": "Preliminary verification of partners",
+                "iconName": "checkMark3"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/partners"
+                },
+                "title": "Partnership Program with SMEs",
+                "iconName": "case2"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/zayavit_ob_importozameschenii"
+                },
+                "title": "Submit Import Substitution",
+                "iconName": "documentFile",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/programma_vyraschivaniya"
+                },
+                "title": "Support and Development Program",
+                "iconName": "Stonks",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "https://energy-fund.ru/fond-innovatsiy/",
+                    "isForeign": true
+                },
+                "title": "Window of innovation",
+                "iconName": "innovation"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/e-signature"
+                },
+                "title": "Digital signature",
+                "iconName": "blank"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/edo"
+                },
+                "title": "Electronic document management",
+                "iconName": "feedback"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/tkp"
+                },
+                "title": "Provision of the technical and commercial offer",
+                "iconName": "Tkp",
+                "fills": true
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "/inter_rao/ekosreda/edinoe_prezentatsionnoe_okno_tekhnologiy"
+                },
+                "title": "The single window for technologies presentation",
+                "text": "Conduct a presentation of products and/or technical solutions",
+                "iconName": "EdinoeOkno"
+            }
+        ]
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Интернет-магазин",
+                    "href": "/market"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков",
+                    "href": "/service"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы для поставщиков"
+    },
+    "tags": [
+        "Все",
+        "Легкий старт",
+        "Сопровождение",
+        "Финансовые услуги"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "person"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/placement-production"
+                    },
+                    "title": "Размещение продукции в каталоге интернет-магазина",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "person"
+                }
+
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "person"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/placement-production"
+                    },
+                    "title": "Размещение продукции в каталоге интернет-магазина",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/market/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

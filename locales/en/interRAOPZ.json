@@ -1,0 +1,87 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Preliminary search for procurement"
+                }
+            ]
+        },
+        "title": "Preliminary search for procurement"
+    },
+    "bannerText": {
+        "title": "Selection of&nbsp;lots from the annual consolidated procurement plan of&nbsp;Inter RAO Group",
+        "text": [
+            "Get the most up-to-date information on&nbsp;planned procurement of&nbsp;more than 50&nbsp;companies of&nbsp;Inter RAO Group. Use the service of&nbsp;preliminary search for procurement and get complete information about the presence of&nbsp;the actual needs of&nbsp;the customer for your product, and also add your company to&nbsp;the base of&nbsp;potential participants in&nbsp;the procurement of&nbsp;goods, works, services."
+        ]
+    },
+    "pictureBlock": {
+        "picture": {
+            "src": "/images/pages/interRaoPZ/picture.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/interRaoPZ/picture.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "steps": {
+        "title": "Necessary steps to get the service",
+        "items": [
+            {
+                "text": "Fill out the application form on&nbsp;the service page"
+            },
+            {
+                "text": "Get full information about the planned lots, and a&nbsp;subscription for the publications of&nbsp;lots within 3&nbsp;business days"
+            }
+        ]
+    },
+    "contactsForm": {
+        "title": "Fill out the application for a preliminary purchase search",
+        "docs": {
+            "title": "Download sample application to fill out",
+            "items": [
+                {
+                    "description": "Pick up the planned need",
+                    "title": "Pick up the planned need",
+                    "type": "DOCX",
+                    "size": "16 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/poisk-zakupki/Подбрать запланированную потребность_0.docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Тарифы",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «Интер РАО»",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Тарифы",
+                    "href": "/inter_rao/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "title": "Процедура только для МСП",
+            "section": "inter-rao",
+            "description": "<p>Процедура, участниками которой могут быть только субъекты МСП в соотв. со ст. 3.4 ФЗ №223</p>",
+            "price": "1%",
+            "price_comment": "от НМЦ контракта, но не более 5 000 руб. (без НДС)",
+            "extra_comment": "Сбор с лица, с которым заключается контракт по результатам закупки*. По данному тарифу средства списываются со спецсчета"
+        },
+        {
+            "nid": "2",
+            "section": "inter-rao",
+            "title": "Победитель",
+            "description": "<p>Возможность участия в неограниченном количестве закупочных процедур. Требуется наличие необходимой суммы на счете для списания в случае победы</p>",
+            "price": "1%",
+            "price_comment": "от цены заявки, но не более 75 000 руб.",
+            "extra_comment": "Сбор с победителя закупочной процедуры. Сумма блокируется на Л/С в момент подачи заявки**"
+        },
+        {
+            "nid": "3",
+            "section": "inter-rao",
+            "title": "Партнерский",
+            "description": "<p>Возможность участия в неограниченном количестве закупочных процедур</p>",
+            "price": "95 000 ₽",
+            "price_comment": "1 год",
+            "extra_comment": "Сбор с победителя закупочной процедуры не взимается"
+        }
+    ],
+    "disclamer": {
+        "text": "<p>* Плата с лица, с которым по результатам закупки заключается контракт (в том числе с лица, признанного заказчиком уклонившимся от заключения контракта). В случае уклонения победителя электронной процедуры только для МСП от заключения контракта, контракт заключается с иным лицом, плата с которого не взимается.</p><p>** Сбор взимается за каждый лот, в рамках которого Участник был признан победителем закупочной процедуры.</p>"
+    },
+    "document": {
+        "title": "Скачать тарифный план",
+        "type": "DOCX",
+        "size": "20.2 КБ",
+        "file": "/documents/tariffs/inter-rao-tariff/Тарифный план Секции Интер РАО.docx"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Индивидуальная консультация",
+                "text": "С экспертами закупочной отрасли",
+                "links": [
+                    {
+                    "text": "Записаться",
+                    "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Цифровой помощник",
+                "text": "Полезные сервисы и услуги для заказчика 223-ФЗ",
+                "links": [
+                    {
+                    "text": "Посмотреть",
+                    "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

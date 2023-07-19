@@ -1,0 +1,78 @@
+{
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/calendar-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/calendar-slide-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/calendar-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Календарь отраслевых мероприятий",
+                "text": "Самые важные федеральные мероприятия в одном месте",
+                "links": [
+                    {
+                        "text": "Посмотреть",
+                        "href": "https://event.tektorg.ru/calendar",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/bank-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/bank-slide-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/bank-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Банковские гарантии",
+                "text": "Гарантии по форме заказчика. Все операции онлайн.<br>Проект гарантии за 30 минут. Скидка 25%",
+                "textColor": "black",
+                "links": [
+                    {
+                        "text": "Оформить",
+                        "href": "https://fin.tektorg.ru/bg",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/trade-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/trade-slide-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/trade-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Ускоренный доступ к торгам",
+                "text": "Зачисление денежных средств по платежному поручению на ваш счет в течение 2 часов",
+                "links": [
+                    {
+                        "text": "Посмотреть",
+                        "href": "/services/service-property-buyers/134"
+                    }
+                ]
+            }
+        ]
+    }
+}

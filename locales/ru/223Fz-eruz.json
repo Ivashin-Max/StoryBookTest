@@ -1,0 +1,334 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков",
+                    "href": "/223-fz/service-suppliers"
+                },
+                {
+                    "text": "Регистрация в ЕРУЗ",
+                    "href": "/223Fz-eruz"
+                }
+            ]
+        },
+        "title": "Регистрация поставщиков в&nbsp;ЕРУЗ/ЕИС за&nbsp;1&nbsp;день",
+        "description": "Поможем пройти обязательную аккредитацию для участия в закупках по 44-ФЗ, 223-ФЗ (субъектов МСП), 615-ПП РФ.",
+        "rectLink": {
+            "text": "Оставить заявку",
+            "id": "ApplicationForm3"
+        }
+    },
+    "applicationForm3": {
+        "title": "Регистрация в ЕРУЗ",
+        "title2": "Заказать услугу",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "example2": {
+        "bigDescription": true,
+        "cards": {
+            "sideCard": {
+                "title": "Единоразовая регистрация в ЕРУЗ дает бессрочный доступ к 8-ми федеральным торговым площадкам",
+                "text": "Согласно требованиям 504-ФЗ, регистрация в&nbsp;ЕРУЗ является обязательным условием участия в&nbsp;электронных торгах",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "text": "Для получения регистрации в&nbsp;ЕРУЗ потребуются следующие документы:<br/><br/>— Для юридических лиц&nbsp;&mdash; Устав и&nbsp;решение об&nbsp;одобрении сделки.<br/>— Для ИП&nbsp;и&nbsp;физических лиц&nbsp;&mdash; все страницы паспорта.<br/>— Для иностранных лиц&nbsp;&mdash; учредительные документы и&nbsp;их&nbsp;перевод на&nbsp;русский язык.<br/><br/>Также необходима квалифицированная электронная подпись. <a href='/223-fz/service-suppliers/e-signature'>Мы&nbsp;поможем вам выпустить&nbsp;ЭП в&nbsp;правильном&nbsp;УЦ.</a>"
+                },
+                {
+                    "text": "Для получения аккредитации в ЕРУЗ оставьте заявку в&nbsp;информационной системе.<br/><br/>Следует учесть: подать заявку лучше за&nbsp;несколько недель до&nbsp;планируемого проведения тендера, поскольку весь процесс регистрации занимает до&nbsp;16&nbsp;дней."
+                }
+            ]
+        }
+    },
+    "infoList": {
+        "title": "Электронная подпись для торгов&nbsp;&mdash; это универсальная КЭП, которая подходит для любых задач:",
+        "items": [
+            {
+                "title": "Работает на&nbsp;<span class='noWrap'>250-ти</span> электронных площадках.",
+                "text": "В&nbsp;соответствие с&nbsp;Федеральным законом &#8470;&nbsp;<span class='noWrap'>63-ФЗ</span>, ЭЦП&nbsp;&mdash; обязательный атрибут закупочной деятельности по&nbsp;<span class='noWrap'>44-ФЗ</span> и&nbsp;<span class='noWrap'>223-ФЗ</span>. Также сертификат подписи требуется в&nbsp;коммерческих торгах и&nbsp;тендерах по&nbsp;банкротству."
+            },
+            {
+                "title": "Обеспечивает юридическую силу документов.",
+                "text": "Электронный документ, подписанный квалифицированной ЭП, имеет такую&nbsp;же юридическую силу, как и&nbsp;бумажный документ, подписанный собственноручно. ФНС и&nbsp;суды принимают такие документы в&nbsp;качестве оригиналов."
+            },
+            {
+                "title": "Подходит для работы с&nbsp;госпорталами.",
+                "text": "С&nbsp;цифровым сертификатом вы&nbsp;получаете доступ ко&nbsp;всем государственным системам и&nbsp;площадкам, можете подавать обращения в&nbsp;госорганы онлайн."
+            }
+        ],
+        "links": []
+    },
+    "cardSet": {
+        "cards": [
+            {
+                "link": {
+                    "text": "Оставить заявку",
+                    "href": "#"
+                },
+                "image": "/images/blocks/сardSet/4.jpg",
+                "title": "Выпустить ЭП&nbsp;для руководителя",
+                "description": "Юридические лица, ИП&nbsp;и&nbsp;нотариусы получают сертификат в&nbsp;отделении ФНС или у&nbsp;его доверенных лиц",
+                "textColor": "white"
+            },
+            {
+                "link": {
+                    "text": "Оставить заявку",
+                    "href": "#"
+                },
+                "title": "Выпустить ЭП&nbsp;для сотрудника",
+                "description": "Физические лица и&nbsp;сотрудники компаний получают сертификат в&nbsp;коммерческих удостоверяющих центрах"
+            },
+            {
+                "link": {
+                    "text": "Оставить заявку",
+                    "href": "#"
+                },
+                "title": "Обновить свою ЭП",
+                "description": "Проверьте срок действия своего сертификата и&nbsp;место выдачи подписи. Если ваша ЭП&nbsp;выдавалась в&nbsp;действующем УЦ, то&nbsp;процедура будет выполнена в&nbsp;упрощенном режиме."
+            },
+            {
+                "link": {
+                    "text": "Оставить заявку",
+                    "href": "#"
+                },
+                "title": "Выпустить ЭП&nbsp;для нерезидентов",
+                "description": "Неквалифицированный сертификат электронной подписи (НЭП) для работы на&nbsp;секции Тендерной реализации УВС и&nbsp;Коммерческих закупок. Как получить НЭП&nbsp;&mdash; смотрите в&nbsp;инструкции."
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Нужна консультация по регистрации в ЕРУЗ/ЕИС?",
+        "background": {
+            "src": "/images/blocks/bannerText/4-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerText/4.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "text": ["Звоните: +7 495 734-81-185.2.12"],
+        "links": [
+            {
+                "text": "Получить консультацию",
+                "href": "#"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Есть вопросы?<br>Мы&nbsp;поможем!",
+                "links": [
+                    {
+                        "text": "Задать вопрос",
+                        "href": "#"
+                    }
+                ]
+            }
+        ]
+    },
+    "benefits": {
+        "title": "Почему лучше обратиться к&nbsp;профессионалам?",
+        "content": {
+            "sideCard": {
+                "title": "Консультируем и&nbsp;предоставляем рекомендации в&nbsp;рамках формирования информации и&nbsp;документов для размещения в&nbsp;ЕРУЗ",
+                "picture": {
+                    "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Консультируем и&nbsp;предоставляем рекомендации в&nbsp;процессе прохождения регистрации в&nbsp;ЕСИА",
+                    "iconName": "signature",
+                    "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+                },
+                {
+                    "title": "Проводим оперативный анализ документов Поставщика для регистрации в&nbsp;ЕИС и&nbsp;размещения их&nbsp;в&nbsp;ЕРУЗ на&nbsp;соответствие законодательству&nbsp;РФ",
+                    "iconName": "feedback",
+                    "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+                },
+                {
+                    "title": "Настроим рабочее место Поставщика, посредством которого будет производиться регистрация в&nbsp;ЕИС и&nbsp;заполнение регистрационных сведений в&nbsp;ЕИС",
+                    "iconName": "list"
+                }
+            ]
+        }
+    },
+    "five": {
+        "title": "Как зарегистрироваться в ЕРУЗ?",
+        "modals": [
+            {
+                "text": "Оставить заявку",
+                "id": "ApplicationForm3"
+            }
+        ],
+        "items": [
+            {
+                "text": "Оставьте заявку на&nbsp;регистрацию в ЕИС &mdash;мы обработаем ее&nbsp;за&nbsp;20&nbsp;минут"
+            },
+            {
+                "text": "Получите консультацию эксперта"
+            },
+            {
+                "text": "Оплатите услугу&nbsp;&mdash; стоимость регистрации в ЕРУЗ 4&nbsp;990 руб"
+            },
+            {
+                "text": "Получите результат"
+            }
+        ]
+    },
+    "list": {
+        "title": "Что понадобится для регистрации",
+        "items": [
+            "<a href='/services/service-suppliers/e-signature'>Квалифицированная электронная подпись (КЭП)</a> на&nbsp;имя руководителя компании&nbsp;&mdash; его имя прописано в&nbsp;выписке ЕГРЮЛ.",
+            "<a href='/services/service-suppliers/e-signature'>Квалифицированные электронные подписи (КЭПы) для сотрудников</a>, которые будут заниматься закупками: подавать заявки, участвовать в аукционах и подписывать контракты.",
+            "Актуальные доверенности для таких сотрудников.",
+            "Учредительные документы для юридических лиц или ИП.",
+            "Запас времени&nbsp;&mdash; 3-16 дней до&nbsp;необходимой закупки.",
+            "Контакты техподдержки Госуслуг, ЕИС и&nbsp;федеральных ЭТП. Пригодятся, если что-то пойдет не&nbsp;так в&nbsp;процессе регистрации.",
+            "Терпение и&nbsp;внимательность."
+        ]
+    },
+    "example": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Экспертная поддержка в&nbsp;регистрации ЕРУЗ для реализации закупочных процедур по&nbsp;44-ФЗ, 223-ФЗ (субъектов МСП), 615-ПП РФ",
+                "text": "Всего 1&nbsp;день и&nbsp;вы&nbsp;получите регистрацию в&nbsp;ЕИС",
+                "modal": [
+                    {
+                        "title": "Есть вопросы? Поможем",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Нужна срочная аккредитация на&nbsp;ЭТП в&nbsp;Секциях &laquo;Интер РАО&raquo;, &laquo;Коммерческие закупки&raquo; и&nbsp;223-ФЗ?",
+                "text": "Принимаем решение в&nbsp;течение 2-х часов.",
+                "links": [
+                    {
+                        "text": "Перейти",
+                        "href": "https://www.tektorg.ru/service/fast-accreditation"
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerSliderLast": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Нужна консультация?",
+                "text": "Звоните <a href='tel:+74957348118'>+7 495 734-81-18</a>",
+                "modal": [
+                    {
+                        "title": "Заказать звонок",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    }
+}

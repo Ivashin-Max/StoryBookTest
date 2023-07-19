@@ -1,0 +1,166 @@
+{
+  "leadText": {
+    "title": "A credit for the fulfillment of the contract/agreement",
+    "description": "A credit for the fulfillment of a contract is a targeted loan that is granted to an organization for the fulfillment of the terms of the contract/agreement.",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "Services"
+        },
+        {
+          "text": "For Suppliers",
+          "href": "/services/service-suppliers"
+        },
+        {
+          "text": "Credit for the fulfillment of the contract"
+        }
+      ]
+    }
+  },
+  "example1": {
+    "items": [
+      {
+        "background": {
+            "src": "/images/blocks/bannerSlider/girl375.jpg",
+            "sources": [
+              {
+                "src": "/images/blocks/bannerSlider/girl.jpg",
+                "breakpoint": "1280"
+              },
+              {
+                "src": "/images/blocks/bannerSlider/girl768.jpg",
+                "breakpoint": "768"
+              }
+            ]
+          },
+        "title": "The decision is made starting from 8 working hours. The rate is from 10% per annum.",
+        "text": "The package of documents for suppliers is minimal!",
+        "modal": [
+          {
+            "title": "Get financing",
+            "id": "ServicesFormWithTitle"
+          }
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Conditions",
+    "content": {
+      "sideCard": {
+        "title": "Amount up to 2,000,000,000 rubles",
+        "picture": {
+          "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        }
+      },
+      "cards": [
+        {
+          "title": "The rate from 10% per annum",
+          "iconName": "signature",
+          "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+        },
+        {
+          "title": "Up to 36 months<br/>Up to 70% of the contract/contract price",
+          "iconName": "feedback",
+          "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+        },
+        {
+          "title": "Remotely, Without collateral",
+          "iconName": "list"
+        },
+        {
+          "title": "Fully electronic document management",
+          "image": "/images/blocks/benefitsCards/5.2.13.2_1920.jpg"
+        }
+      ]
+    }
+  },
+  "infoBlock": {
+    "sideCard": {
+      "title": "Key advantages of placing a product on TEK-Torg platform:",
+      "bg": "blue"
+    },
+    "content": [
+      {
+        "text": "An opportunity to participate in several contests at once",
+        "iconName": "list"
+      },
+      {
+        "text": "An opportunity not to extract funds from the company's turnover",
+        "iconName": "Importozamewenie"
+      },
+      {
+        "text": "No collateral",
+        "iconName": "Stonks"
+      },
+      {
+        "text": "The possibility of setting an individual repayment schedule for the credit",
+        "iconName": "Msp"
+      }
+    ]
+  },
+  "five": {
+    "title": "How it works",
+    "modals" : [
+      {
+          "text":"Submit a Request",
+          "id":"ServicesFormWithTitle"
+      }
+    ],
+    "items": [
+      {
+        "text": "Fill out the application. Specify the INN and the link to the auction"
+      },
+      {
+        "text": "Get a preliminary decision"
+      },
+      {
+        "text": "Sign the loan agreements with the DS"
+      },
+      {
+        "text": "Get a loan"
+      }
+    ]
+  },
+  "bannerSlide": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Any Questions?<br>We will help!",
+        "text": "Personal manager 24/7",
+        "modal": [
+          {
+            "title": "Ask a question",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale pf petroleum products",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "Services for buyers"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Services for buyers"
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance",
+        "Financial Services"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents",
+                    "text": "",
+                    "iconName": "signature"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents",
+                    "text": "",
+                    "iconName": "signature"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents",
+                    "text": "",
+                    "iconName": "signature"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "yellow",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/tenders/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of property",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Services for buyers",
+                    "href": "/service"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Services for buyers"
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/sale/service/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/sale/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/sale/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/sale/service/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/sale/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/sale/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    }
+}

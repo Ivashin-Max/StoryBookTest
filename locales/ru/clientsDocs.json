@@ -1,0 +1,119 @@
+{
+    "leadImg": {
+        "title": "Документы",
+        "background": {
+            "src": "/images/pages/documents/client-documents-lead-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/documents/client-documents-lead.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/documents/client-documents-lead-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Клиентам"
+            },
+            {
+                "text": "Документы для работы на площадке",
+                "href": "/clients/documents"
+            }
+        ]
+    },
+    "maindocs": {
+        "title": "Общие документы",
+        "iconName": "generalDocs"
+    },
+    "spoilerHeader": {
+        "title": "Закупки ПАО &laquo;НК&nbsp;&laquo;Роснефть&raquo;",
+        "iconName": "rosneft"
+    },
+    "head44fz": {
+        "title": "Государственные закупки",
+        "iconName": "44fz"
+    },
+    "headinterRao": {
+        "title": "Закупки ПАО &laquo;Интер РАО&raquo;",
+        "iconName": "interRAO"
+    },
+    "head223fz": {
+        "title": "223-ФЗ и Коммерческие закупки",
+        "iconName": "fz223icon"
+    },
+    "headMarket": {
+        "title": "Интернет-магазин",
+        "iconName": "market"
+    },
+    "headSale": {
+        "title": "Продажа имущества",
+        "iconName": "sale"
+    },
+    "headUvs": {
+        "title": "Реализация углеводородного сырья",
+        "iconName": "rosneft"
+    },
+    "headArchive": {
+        "title": "Архив",
+        "iconName": "files2"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Индивидуальная консультация",
+                "text": "С экспертами закупочной отрасли",
+                "links": [
+                    {
+                        "text": "Записаться",
+                        "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Цифровой помощник",
+                "text": "Полезные сервисы и услуги для заказчика 223-ФЗ",
+                "links": [
+                    {
+                        "text": "Посмотреть",
+                        "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

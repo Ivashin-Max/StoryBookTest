@@ -1,0 +1,117 @@
+{
+    "lead": {
+        "title": "For foreign customers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of petroleum products",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "For foreign customers"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "Rosneft",
+        "text": [
+            "Is&nbsp;one of&nbsp;the largest consumers of&nbsp;goods, works and services in&nbsp;all regions of&nbsp;its presence. The Company implements a&nbsp;model of&nbsp;partnership with customers of&nbsp;hydrocarbons that complies with international standards in&nbsp;terms of&nbsp;organization and efficiency of&nbsp;supply",
+            "The Company develops cooperation with customers of&nbsp;hydrocarbons through long-term contracts that ensure the stability of&nbsp;the development of&nbsp;the oil and gas industry, mechanical engineering, the service market, ensures provision of&nbsp;jobs for workers of&nbsp;all industries, and creates conditions for the development of&nbsp;new technologies."
+        ]
+    },
+    "pictureBlock": {
+        "picture": {
+            "src": "/images/pages/uvs-ip/picture/picture.jpg"
+        }
+    },
+    "docs2": [
+        {
+            "nid": "5473",
+            "title": "Download the Procurement Regulations",
+            "section": "Роснефть",
+            "group": "Detailed information on&nbsp;principles of&nbsp;procurement activity organization in&nbsp;Rosneft",
+            "file": "/documents/uvs-ip/Положение о закупке.pdf",
+            "type": "PDF",
+            "size": "1.5 MB"
+        },
+        {
+            "nid": "5474",
+            "title": "Requirements for Suppliers ",
+            "section": "Роснефть",
+            "group": "Requirements in&nbsp;terms of&nbsp;due diligence in&nbsp;Rosneft",
+            "file": "http://zakupki.rosneft.ru/requirement"
+        }
+    ],
+    "documents1": [
+        {
+            "nid": "5471",
+            "title": "Public Statement",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/uvs-ip/Public_Statement_RU.pdf",
+            "type": "PDF",
+            "size": "3.9 MB"
+        },
+        {
+            "nid": "5470",
+            "title": "Corporate Declaration",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/uvs-ip/Declaration_RU.pdf",
+            "type": "PDF",
+            "size": "2.9 MB"
+        },
+        {
+            "nid": "5472",
+            "title": "Code of Suppliers",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/uvs-ip/Code_of_Suppliers_RU.pdf",
+            "type": "PDF",
+            "size": "320 KB"
+        }
+    ],
+    "five": {
+        "title": "Obtaining a&nbsp;digital signature by&nbsp;Non-residents of&nbsp;the Russian Federation&nbsp;/ 4&nbsp;steps to&nbsp;obtain a&nbsp;digital signature by&nbsp;Non-residents of&nbsp;the Russian Federation",
+        "links": [
+            {
+                "text": "Instructions for obtaining the DS",
+                "href": "/tenders/service/e-signature-nr"
+            }
+        ],
+        "items": [
+            {
+                "text": "Registration"
+            },
+            {
+                "text": "Creation <br>of&nbsp;a&nbsp;request and payment"
+            },
+            {
+                "text": "Generation <br/> of the certificate"
+            },
+            {
+                "text": "Sending<br/> the necessary documentation"
+            }
+        ]
+    },
+    "video": {
+        "wrapper": {
+            "title": "Training materials",
+            "links": [
+                {
+                    "href": "https://www.youtube.com/playlist?list=PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0",
+                    "text": "View all",
+                    "isForeign": true
+                }
+            ]
+        }
+    }
+}

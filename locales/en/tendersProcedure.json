@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of petroleum products",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "Implementation Procedures",
+                    "href": "/tenders/procedures"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": "/tenders/procedures"
+    },
+    "purchasesSlider": {
+        "title": "Similar procedures in&nbsp;other sections"
+    }
+}

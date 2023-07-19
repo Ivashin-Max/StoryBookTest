@@ -1,0 +1,34 @@
+{
+    "leadText": {
+        "title": "News and announsments",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "News and announsments",
+                    "href":"/rosneft/news"
+                }
+            ]
+        }
+    },
+        "tags": [
+        "News",
+        "Announsments"
+    ],
+    "search": {
+        "title": "Search",
+        "placeholder": "Enter a keyword",
+        "submitText": "Search",
+        "emptyMessage": "Nothing was found for your query"
+    }
+}

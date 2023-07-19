@@ -1,0 +1,720 @@
+{
+    "leadImg": {
+        "title": "Интернет-магазин",
+        "background": {
+            "src": "/images/pages/market/marketMain-sm.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/market/marketMain-lg.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/market/marketMain-md.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Торговые секции"
+            },
+            {
+                "text": "Интернет-магазин"
+            }
+        ]
+    },
+    "infWithIcons": {
+        "sideCard": {
+            "title": "Увеличивайте продажи и развивайте свой бизнес с помощью Интернет-магазина ТЭК-Торг",
+            "text": "Выходите на новые рынки, участвуйте в перспективных закупках, продвигайте свою продукцию и находите надежных партнеров",
+            "bg": "blue",
+            "links": [
+                {
+                    "text": "Перейти в секцию",
+                    "href": "https://kim.tektorg.ru/#auth/login",
+                    "isForeign": true
+                },
+                {
+                    "text": "Регистрация",
+                    "href": "https://kim.tektorg.ru/#front/register",
+                    "isForeign": true
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "Простота работы",
+                "iconName": "documentChecked"
+            },
+            {
+                "text": "Отсутствие обеспечительных платежей и тарифов за размещение и участие в закупке",
+                "iconName": "documentPencil"
+            },
+            {
+                "text": "Большое количество заказов по всей России",
+                "iconName": "bag"
+            },
+            {
+                "text": "Прямой доступ к заказам крупнейших компаний",
+                "iconName": "feedback"
+            },
+            {
+                "text": "Сокращение затрат на продвижение",
+                "iconName": "checkMark3"
+            },
+            {
+                "text": "Оперативное оповещение о новых заказах",
+                "iconName": "documentList"
+            }
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Поиск по закупкам",
+        "rectLink": {
+            "text": "Подписаться на закупки",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "link": {
+            "text": "Расширенный поиск",
+            "href": "/market/procedures"
+        }
+    },
+    "barChartPercents": {
+        "title": "Что чаще всего<br>закупают",
+        "link": {
+            "text": "Все закупки",
+            "href": "/market/procedures"
+        },
+        "items": [
+            {
+                "text": "Оборудование компьютерное, электронное и&nbsp;оптическое",
+                "percent": 20
+            },
+            {
+                "text": "Машины и&nbsp;оборудование, не&nbsp;включенные<br>в&nbsp;другие группировки",
+                "percent": 14
+            },
+            {
+                "text": "Изделия металлические готовые, кроме машин и&nbsp;оборудования",
+                "percent": 11
+            },
+            {
+                "text": "Оборудование электрическое",
+                "percent": 10
+            },
+            {
+                "text": "Изделия резиновые и&nbsp;пластмассовые",
+                "percent": 10
+            },
+            {
+                "text": "Вещества химические и&nbsp;продукты химические",
+                "percent": 10
+            },
+            {
+                "text": "Услуги в&nbsp;области архитектуры и&nbsp;инженерно-технического проектирования, технических испытаний, исследований и&nbsp;анализа",
+                "percent": 8
+            },
+            {
+                "text": "Услуги по&nbsp;ремонту и&nbsp;монтажу машин<br>и&nbsp;оборудования",
+                "percent": 7
+            },
+            {
+                "text": "Металлы основные",
+                "percent": 6
+            },
+            {
+                "text": "Работы строительные специализированные",
+                "percent": 5
+            }
+        ]
+    },
+    "example1": {
+        "wrapper": {
+            "name": "Ключевые показатели"
+        },
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "12",
+                        "text": "тыс."
+                    },
+                    "items": [
+                        {
+                            "text": "Новых закупок ежемесячно"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "3,5",
+                        "text": "млн. руб."
+                    },
+                    "items": [
+                        {
+                            "text": "Ежемесячный объем полученных заказов"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/2.jpg"
+                },
+                {
+                    "head": {
+                        "number": "250",
+                        "text": "тыс.руб"
+                    },
+                    "items": [
+                        {
+                            "text": "Средняя стоимость заказа"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/3.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": ">2 900",
+                        "text": "заказчиков"
+                    },
+                    "items": [
+                        {
+                            "text": "Закупают в Интернет-магазине"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": ">500 ",
+                        "text": "тыс."
+                    },
+                    "items": [
+                        {
+                            "text": "Позиций в каталоге"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "example4": {
+        "title": "Функциональные возможности Интернет-магазина",
+        "cards": [
+            {
+                "title": "Гибкая система распределения ролей",
+                "description": "Позволяет сепарировать набор функций сотрудника в Интернет-магазине в  зависимости от его должностных обязанностей",
+                "bgColor": "blue",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true,
+                "image": "/images/blocks/сardSet/4.jpg",
+                "textColor": "white"
+            },
+            {
+                "title": "Маркетинговый центр",
+                "description": "Обеспечение требуемого уровня конкуренции на&nbsp;закупках. Коммуникация и&nbsp;сбор обратной связи от&nbsp;потенциальных участников закупок",
+                "modal": [{ "id": "ApplicationForm3MarketCentre", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Чат с&nbsp;заказчиками",
+                "description": "Обмен сообщениями и&nbsp;документами с&nbsp;контрагентами в&nbsp;едином окне",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "link": {
+                    "text": "Подробнее",
+                    "href": "/223-fz/service-customers-223-fz/digital_helper"
+                },
+                "title": "Цифровой помощник",
+                "description": "Полная проверка партнера автоматизировано и&nbsp;на&nbsp;основании надежных источников"
+            },
+            {
+                "title": "Аналитическая отчетность",
+                "description": "Ключевые показатели эффективности вашей закупочной деятельности в&nbsp;качественном визуальном представлении",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Подписание договора в&nbsp;электронной форме",
+                "description": "Автоматизированный процесс подписания договора в&nbsp;электронной форме с&nbsp;помощью электронной подписи",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Структурированное описание позиций",
+                "description": "Все запросы заказчиков описаны в&nbsp;структурированном виде. Обеспечено единство наименований, классификации и&nbsp;кодирования объектов",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Отсутствие дополнительных регистраций",
+                "description": "Не&nbsp;требуется дополнительной регистрации, можно заходить через учетные данные ЕРУЗ и&nbsp;Портала поставщиков Москвы за&nbsp;счет кросс-авторизации с&nbsp;данными системами<br>&nbsp;",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "link": {
+                    "text": "Подписаться",
+                    "href": "/subscription"
+                },
+                "title": "Подписка на&nbsp;закупки",
+                "description": "Возможность подписки на&nbsp;интересующую номенклатуру и&nbsp;получение уведомлений о&nbsp;новых закупках"
+            },
+            {
+                "title": "Работа без&nbsp;эп",
+                "description": "Возможность регистрации и&nbsp;участия в&nbsp;закупках как с&nbsp;электронной подписью, так и&nbsp;без нее",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Не&nbsp;требуются обеспечительные платежи",
+                "description": "Отсутствуют обеспечительные платежи при подаче ценового предложения, денежные средства не&nbsp;блокируются на&nbsp;вашем счете",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Бесплатное участие",
+                "description": "Регистрация и&nbsp;участие в&nbsp;закупках абсолютно бесплатно для Поставщиков",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Предложение аналогов",
+                "description": "Возможность предоставить товар, отличный от&nbsp;того, который указал заказчик, с&nbsp;теми&nbsp;же характеристиками (показателями), но&nbsp;от&nbsp;другого производителя",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            }
+        ]
+    },
+    "five": {
+        "title": "С&nbsp;чего начать и&nbsp;как это работает?",
+        "items": [
+            {
+                "text": "Регистрация"
+            },
+            {
+                "text": "Размещение<br>прайс-листа"
+            },
+            {
+                "text": "Получение ценового запроса. Направление предложения"
+            },
+            {
+                "text": "Получение и&nbsp;подтверждение заказа"
+            },
+            {
+                "text": "Сделка заключена"
+            }
+        ]
+    },
+    "header": ["Для поставщиков", "Для заказчиков"],
+    "customersSliderInner": {
+        "title": "Наши крупнейшие заказчики",
+        "links": [
+            {
+                "text": "Смотреть все",
+                "href": "/clients/organizations"
+            }
+        ],
+        "items": [
+            {
+                "title": "Силовые машины",
+                "image": "/images/index/customers-slider/1.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/silovyi_machine"
+                }
+            },
+            {
+                "title": "Оборонэнерго",
+                "image": "/images/index/customers-slider/2.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/oboronenergo"
+                }
+            },
+            {
+                "title": "Управление заказчика",
+                "image": "/images/index/customers-slider/upravlenie.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/upravlenie_zakazchika"
+                }
+            },
+            {
+                "title": "РЖД",
+                "image": "/images/index/customers-slider/rzd.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/rzd"
+                }
+            },
+            {
+                "title": "ТЭК Мосэнерго",
+                "image": "/images/index/customers-slider/5.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/mosenergo"
+                }
+            },
+            {
+                "title": "Росморпорт",
+                "image": "/images/index/customers-slider/rosMorPort.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/rosmorport"
+                }
+            },
+            {
+                "title": "Спецнефтетранс",
+                "image": "/images/index/customers-slider/cnt.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/sntrans"
+                }
+            },
+            {
+                "title": "Петербургский метрополитен",
+                "image": "/images/index/customers-slider/metro.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/metro_spb"
+                }
+            },
+            {
+                "title": "Первая Портовая Компания",
+                "image": "/images/index/customers-slider/ppk.png",
+                "link": {
+                    "text": "Закупочные процедуры",
+                    "href": "/portone"
+                }
+            }
+        ]
+    },
+    "banner": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/market/banner-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/market/banner-lg.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/market/banner-md.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Разместите свой прайс-лист на сайте малых закупок и получайте заказы",
+                "text": "Ваши товары увидят крупнейшие заказчики страны",
+                "links": [
+                    {
+                        "text": "Опубликовать товары",
+                        "href": "https://kim.tektorg.ru/#auth/login",
+                        "isForeign": true
+                    },
+                    {
+                        "text": "Об услуге",
+                        "href": "/market/service/placement-production"
+                    }
+                ]
+            }
+        ]
+    },
+    "infWithIcons2": {
+        "sideCard": {
+            "title": "Процесс срочных закупок еще не был настолько быстрым и легким!",
+            "text": "Выбирайте из сотен предложений надежных поставщиков, заключайте все партнерские отношения онлайн, берегите свои деньги и время.",
+            "bg": "blue",
+            "isReverse": true,
+            "links": [
+                {
+                    "text": "Регистрация",
+                    "href": "https://kim.tektorg.ru/#front/register",
+                    "isForeign": true
+                }
+            ],
+            "modalbtns": [
+                {
+                    "id": "ApplicationForm3",
+                    "title": "Связаться с менеджером"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "Простота работы в магазине малых закупок",
+                "iconName": "documentChecked"
+            },
+            {
+                "text": "Индивидуальный подход и персональный менеджер",
+                "iconName": "person"
+            },
+            {
+                "text": "Огромная база поставщиков",
+                "iconName": "registry"
+            },
+            {
+                "text": "Множество удобных функций магазина малых закупок",
+                "iconName": "commercialPurchases"
+            }
+        ]
+    },
+    "example2": {
+        "wrapper": {
+            "name": "Достижения"
+        },
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "12",
+                        "text": "тыс."
+                    },
+                    "items": [
+                        {
+                            "text": "Новых закупок ежемесячно"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "3,5",
+                        "text": "млн. руб."
+                    },
+                    "items": [
+                        {
+                            "text": "Ежемесячный объем полученных заказов"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/2.jpg"
+                },
+                {
+                    "head": {
+                        "number": "6",
+                        "text": "тыс."
+                    },
+                    "items": [
+                        {
+                            "text": "Новых предложений товаров"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/3.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": ">4 000",
+                        "text": "поставщиков"
+                    },
+                    "items": [
+                        {
+                            "text": "Закупают в Интернет-магазине"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": ">250",
+                        "text": "тыс."
+                    },
+                    "items": [
+                        {
+                            "text": "Средняя стоимость заказа"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "example5": {
+        "title": "Функциональные возможности Интернет-магазина",
+        "cards": [
+            {
+                "title": "Переторжка",
+                "description": "Возможность неограниченного проведения запроса снижения стоимости предложения Поставщиков (переторжка/уторговывание)",
+                "bgColor": "blue",
+                "modal": [{ "id": "ServiApplicationForm3cesEpForm", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true,
+                "image": "/images/blocks/сardSet/4.jpg",
+                "textColor": "white"
+            },
+            {
+                "title": "Делимая закупка и&nbsp;закупка с&nbsp;разными базисами поставки",
+                "description": "Возможность дробления закупки на&nbsp;несколько заказов и&nbsp;проведения закупки с&nbsp;разными базисами поставки",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Гибкая система распределения ролей",
+                "description": "Позволяет сепарировать набор функций сотрудника в&nbsp;Интернет-магазине в&nbsp;зависимости от&nbsp;его должностных обязанностей",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Маркетинговый центр",
+                "description": "Обеспечение требуемого уровня конкуренции на&nbsp;закупках. Коммуникация и&nbsp;сбор обратной связи от&nbsp;потенциальных участников закупок",
+                "modal": [{ "id": "ApplicationForm3MarketCentre", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Персональный электронный магазин",
+                "description": "Возможность создания электронного магазина для регионов и&nbsp;организаций в&nbsp;персонализированном оформлении",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Чат с поставщиками",
+                "description": "Обмен сообщениями и&nbsp;документами с&nbsp;контрагентами в&nbsp;едином окне",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "link": {
+                    "text": "Подробнее",
+                    "href": "/services/customers-223-fz/digital_helper"
+                },
+                "title": "Цифровой помощник",
+                "description": "Полная проверка статуса поставщика автоматизировано и&nbsp;на&nbsp;основании надежных источников"
+            },
+            {
+                "title": "Аналитическая отчетность",
+                "description": "Ключевые показатели эффективности вашей закупочной деятельности в&nbsp;качественном визуальном представлении",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Согласование и&nbsp;подписание договора в&nbsp;электронной форме",
+                "description": "Автоматизированный процесс согласования договора и&nbsp;подписания в&nbsp;электронной форме. Сохраняйте привычную для вас последовательность согласования документов",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Отчетность",
+                "description": "Ключевые показатели эффективности вашей закупочной деятельности в&nbsp;качественном визуальном представлении",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Создание нормализированного справочника позиций",
+                "description": "Сформируйте собственный справочник для работы с&nbsp;товарами, работами и&nbsp;услугами на&nbsp;всех этапах жизненного цикла компании, включая бюджетирование, закупки, бухгалтерскую отчетность <br> &nbsp;",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            },
+            {
+                "title": "Интеграция с разными системами",
+                "description": "Интеграция с: <br>&mdash;&nbsp;ЕРУЗ<br>&mdash;&nbsp;Реестр недобросовестных поставщиков <br>&mdash;&nbsp;Портал поставщиков Москвы<br>&mdash;&nbsp;Региональная система",
+                "modal": [{ "id": "ApplicationForm3", "title": "Связаться с персональным менеджером" }],
+                "fullModalCard": true
+            }
+        ]
+    },
+    "benefitsCards": {
+        "title": "Преимущества использования сайта новых закупок",
+        "content": {
+            "sideCard": {
+                "title": "На&nbsp;50-70% сокращение операционных издержек",
+                "picture": {
+                    "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Высокая конкуренция по&nbsp;вашим заказам",
+                    "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+                },
+                {
+                    "title": "До&nbsp;25% снижение<br>закупочных цен",
+                    "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+                },
+                {
+                    "title": "На&nbsp;70% быстрее проходит закупка: от&nbsp;поиска поставщиков до&nbsp;заключения договора"
+                }
+            ]
+        }
+    },
+    "five2": {
+        "title": "Шаги для ценового запроса",
+        "items": [
+            {
+                "title": "Регистрация"
+            },
+            {
+                "title": "Формирование и публикация Ценового запроса"
+            },
+            {
+                "title": "Сбор предложений от Поставщиков"
+            },
+            {
+                "title": "Выбор победителя"
+            },
+            {
+                "title": "Формирование и направление заказа Победителю"
+            },
+            {
+                "title": "Подтверждение заказа"
+            },
+            {
+                "title": "Сделка заключена"
+            }
+        ]
+    },
+    "five3": {
+        "title": "Шаги для экспресс-заказа",
+        "items": [
+            {
+                "title": "Регистрация"
+            },
+            {
+                "title": "Формирование Экспресс-заказа"
+            },
+            {
+                "title": "Автоматический подбор прайс-листов Поставщиков по заданной номенклатуре"
+            },
+            {
+                "title": "Выбор победителя"
+            },
+            {
+                "title": "Формирование и направление заказа Победителю"
+            },
+            {
+                "title": "Подтверждение заказа"
+            },
+            {
+                "title": "Сделка заключена"
+            }
+        ]
+    },
+    "tags": ["Шаги для ценового запроса", "Шаги для экспресс-заказа"],
+    "banner2": {
+        "title": "С&nbsp;чего начать и&nbsp;как это работает?",
+        "text": []
+    }
+}

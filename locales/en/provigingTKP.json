@@ -1,0 +1,51 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Provision of the technical and commercial offer"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Provision of the technical and commercial offer"
+    },
+    "bannerText": {
+        "title": "",
+        "text": [
+            "In&nbsp;order to&nbsp;develop cooperation with the companies of&nbsp;the Inter RAO Group, we&nbsp;propose to&nbsp;send information about the products supplied by&nbsp;your company and their cost by&nbsp;filling out the price list, as&nbsp;well as&nbsp;to&nbsp;update it&nbsp;on&nbsp;a&nbsp;quarterly basis.",
+            "Information on&nbsp;products and their cost will be&nbsp;used by&nbsp;Inter RAO Group companies when planning procurements, including when forming the initial (maximum) contract price."
+        ]
+    },
+    "pictureBlock": {
+        "picture": {
+            "src": "/images/pages/inter_rao/tkp/picture.jpeg"
+        }
+    },
+    "steps": {
+        "title": "Steps to&nbsp;get the service",
+        "items": [
+            {
+                "text": "Fill out the application form on&nbsp;the service page"
+            },
+            {
+                "text": "Send a&nbsp;technical and commercial offer to&nbsp;the companies of&nbsp;the Inter RAO group"
+            }
+        ]
+    }
+}

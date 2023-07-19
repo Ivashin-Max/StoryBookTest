@@ -1,0 +1,261 @@
+{
+    "lead": {
+        "title": "To suppliers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "To suppliers"
+                }
+            ]
+        }
+    },
+    "pictureBlock":{
+        "picture": {
+            "src": "/images/pages/rosneft/suppliers.jpeg",
+            "sources": [
+                {
+                    "src": "/images/pages/rosneft/suppliers.jpeg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "tagsContent": {
+        "toCustomers": {
+            "titleAdvantages": "Service ecosystem. ETP TEK-Torg provides a full cycle service for procurement participants",
+            "tabsHeader": ["Preparation", "Work on the ETP", "Participation in procurements", "Fulfillment of the agreement / contract"],
+            "advantages": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/rosneft/service/e-signature"
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Obtaining a digital signature",
+                        "text": "for work on the ETP and participation in procurement",
+                        "iconName": "financialServices",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/education"
+                        },
+                        "title": "Training",
+                        "text": "of representatives of participating companies by leading market experts",
+                        "iconName": "documentChecked"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/services/service-suppliers/special-account"
+                        },
+                        "title": "Opening a special account",
+                        "text": "for participation in public procurement and procurement of state corporations",
+                        "iconName": "search"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/rosneft/service/eruz"
+                        },
+                        "title": "Registration in UPR",
+                        "text": "we will help you to arrange access for your company",
+                        "iconName": "checkMark"
+                    }
+                ]
+            },
+            "advantages2": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/procedures"
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Search for relevant procurements",
+                        "text": "for your company",
+                        "iconName": "bankomat",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/fast-accreditation",
+                            "isForeign": false
+                        },
+                        "title": "Expedited consideration of the application for accreditation",
+                        "text": "on the ETP",
+                        "iconName": "phone"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/placement-production",
+                            "isForeign": false
+                        },
+                        "title": "Placement of positions",
+                        "text": "from the price list to increase sales through the Market",
+                        "iconName": "checkbox"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/consultdoc",
+                            "isForeign": false
+                        },
+                        "title": "Expedited verification",
+                        "text": "of prequalification documents for special procurements",
+                        "iconName": "list"
+                    }
+                ]
+            },
+            "advantages3": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/rosneft/service/134",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Accelerated access to participation",
+                        "text": "in procedures on a payment order",
+                        "iconName": "documentFile",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/rosneft/service/bg",
+                            "isForeign": false
+                        },
+                        "title": "Bank guarantees",
+                        "text": "for participation in procurement where participation or contract performance security is required",
+                        "iconName": "person"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/clients/tariff",
+                            "isForeign": false
+                        },
+                        "title": "Selection of the most optimal tariff",
+                        "text": "for participation in procurement on the sections of the ETP TEK-Torg",
+                        "iconName": "files"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/clients/support-suppliers",
+                            "isForeign": false
+                        },
+                        "title": "Assistance to procurement participants",
+                        "text": "in the Supplier Support Center",
+                        "iconName": "flag"
+                    }
+                ]
+            },
+            "advantages4": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/edo",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Connecting the electronic document management",
+                        "text": "to speed up work and optimize costs",
+                        "iconName": "timeout",
+                        "textColor": "white"
+                    }
+                ]
+            }
+        }
+    },
+    "items": [
+        {
+            "background": {
+                "src": "/images/pages/rosneft-ip/banner.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/rosneft-ip/banner.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            },
+            "title": "Requirements in terms of due diligence in Rosneft",
+            "links": [
+                {
+                    "text": "Requirements for Suppliers",
+                    "href": "http://zakupki.rosneft.ru/requirement",
+                    "isForeign": true
+                }
+            ]
+        }
+    ],
+    "documents1": [
+        {
+            "nid": "5472",
+            "title": "Public Statement",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/rosneft/suppliers/foreign/Public_Statement_RU.PDF",
+            "type": "PDF",
+            "size": "3.84 MБ"
+        },
+        {
+            "nid": "5473",
+            "title": "Corporate Declaration",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/rosneft/suppliers/foreign/Declaration_RU.PDF",
+            "type": "PDF",
+            "size": "2.89 MБ"
+        },
+        {
+            "nid": "5474",
+            "title": "Code of Suppliers",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/rosneft/suppliers/foreign/Code_of_Suppliers_RU.PDF",
+            "type": "PDF",
+            "size": "320 КБ"
+        }
+    ],
+    "five": {
+        "title":"Advantages of the TEK-Torg service",
+        "items": [
+            {
+                "text": "Hundreds of tenders every day on 12 sections"
+            },
+            {
+                "text": "Procurements throughout Russia. From Kaliningrad to Vladivostok"
+            },
+            {
+                "text": "24/7 Technical Support"
+            },
+            {
+                "text": "Individual approach to each client"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "leadText": {
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": ""
+            },
+            {
+                "text": "Заказчикам",
+                "href": "/services-reporting"
+            },
+            {
+                "text": "Отчетность",
+                "href": "/services-reporting"
+            }
+        ]
+    },
+    "lineBottom": true,
+    "title": "Отчетность"
+  },
+  "bannerSlider": {
+    "items": [
+        {
+            "background": {
+                "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            },
+            "title": "Ключевые показатели эффективности вашей закупочной деятельности в&nbsp;качественном визуальном представлении",
+            "text": "",
+            "links": [
+                {
+                    "text": "Связаться с персональным менеджером",
+                    "href": "#"
+                },
+                {
+                    "text": "Смотреть видео",
+                    "href": "#"
+                }
+            ]
+        }
+    ]
+ }
+}

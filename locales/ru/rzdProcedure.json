@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Клиентам"
+                },
+                {
+                    "text": "Наши заказчики",
+                    "href": "/clients/organizations"
+                },
+                {
+                    "text": "ОАО «РЖД»",
+                    "href": "/rzd"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "К списку процедур",
+        "href": "/rzd"
+    },
+    "purchasesSlider": {
+        "title": "Похожие процедуры в&nbsp;других секциях"
+    }
+}

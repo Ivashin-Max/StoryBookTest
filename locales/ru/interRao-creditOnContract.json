@@ -1,0 +1,171 @@
+{
+    "leadText": {
+      "title": "Кредит на&nbsp;исполнение контракта/договора",
+      "description": "Это целевой кредит, который выдается организации для исполнения условий контракта/договора.",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «Интер РАО»",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков",
+                    "href": "/inter_rao/service"
+                },
+                {
+                    "text": "Кредит на исполнение договора",
+                    "href": "/inter_rao/credit-on-contract"
+                }
+            ]
+        }
+    },
+    "example1": {
+      "items": [
+        {
+          "background": {
+            "src": "/images/blocks/bannerSlider/girl375.jpg",
+            "sources": [
+              {
+                "src": "/images/blocks/bannerSlider/girl.jpg",
+                "breakpoint": "1280"
+              },
+              {
+                "src": "/images/blocks/bannerSlider/girl768.jpg",
+                "breakpoint": "768"
+              }
+            ]
+          },
+          "title": "Решение за&nbsp;8&nbsp;часов. Ставка&nbsp;&mdash; от&nbsp;10% годовых.",
+          "text": "Пакет документов для поставщиков&nbsp;&mdash; минимальный!",
+          "modal": [
+            {
+              "title": "Получить финансирование",
+              "id": "ServicesFormWithTitle"
+            }
+          ]
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Условия",
+      "content": {
+        "sideCard": {
+          "title": "Сумма до&nbsp;2&nbsp;000&nbsp;000&nbsp;000 рублей",
+          "picture": {
+            "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+            "sources": [
+              {
+                "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                "breakpoint": "1280"
+              },
+              {
+                "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                "breakpoint": "768"
+              }
+            ]
+          }
+        },
+        "cards": [
+          {
+            "title": "Ставка от&nbsp;10&nbsp;% годовых",
+            "iconName": "signature",
+            "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+          },
+          {
+            "title": "Срок до&nbsp;36&nbsp;месяцев<br/>До&nbsp;70% от&nbsp;цены контракта/договора",
+            "iconName": "feedback",
+            "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+          },
+          {
+            "title": "Дистанционно, без залога",
+            "iconName": "list"
+          },
+          {
+            "title": "Полностью электронный документооборот",
+            "image": "/images/blocks/benefitsCards/5.2.13.2_1920.jpg"
+          }
+        ]
+      }
+    },
+    "infoBlock": {
+      "sideCard": {
+        "title": "Ключевые преимущества в&nbsp;получении продукта на&nbsp;ТЭК-Торг:",
+        "bg": "orange2"
+      },
+      "content": [
+        {
+          "text": "Возможность принимать участие сразу в&nbsp;нескольких конкурсах",
+          "iconName": "list"
+        },
+        {
+          "text": "Возможность не&nbsp;брать средства из&nbsp;оборота компании",
+          "iconName": "Importozamewenie"
+        },
+        {
+          "text": "Отсутствие залога",
+          "iconName": "Stonks"
+        },
+        {
+          "text": "Возможность индивидуального графика погашения кредита",
+          "iconName": "Msp"
+        }
+      ]
+    },
+    "five": {
+      "title": "Как это работает",
+      "modals" : [
+        {
+            "text":"Оставить заявку",
+            "id":"ServicesFormWithTitle"
+        }
+      ],
+      "items": [
+        {
+          "text": "Заполните заявку. Укажите ИНН и&nbsp;ссылку на&nbsp;аукцион"
+        },
+        {
+          "text": "Получите предварительное решение"
+        },
+        {
+          "text": "Подпишите договоры заема ЭЦП"
+        },
+        {
+          "text": "Получите заем"
+        }
+      ]
+    },
+    "bannerSlide": {
+      "items": [
+        {
+          "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+          },
+          "title": "Есть вопросы?<br>Мы поможем!",
+          "text": "Онлайн, персональный менеджер 24/7",
+          "modal": [
+            {
+              "title": "Задать вопрос",
+              "id": "askQuestionForm"
+            }
+          ]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,41 @@
+{
+    "leadImg": {
+        "title": "Работа у нас",
+        "textColor": "white",
+        "backgroundColor": "blue",
+        "background": {
+            "src": "/images/pages/about-work/leadImg/work-bg-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/about-work/leadImg/work-bg-1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/about-work/leadImg/work-bg-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "О компании"
+            },
+            {
+                "text": "Работа у нас"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Вакансии",
+        "text": [
+            "АО «ТЭК-Торг» — молодая динамично развивающаяся компания с неограниченными возможностями для реализации профессионального потенциала.",
+            "Мы заинтересованы в целеустремленных, инициативных, энергичных и талантливых сотрудниках, любящих свое дело и умеющих работать в команде."
+        ]
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "leadImg": {
+        "title": "Sale of petroleum<br> products",
+        "background": {
+            "src": "/images/pages/tenders/leadImg/lead-sm.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/tenders/leadImg/lead-lg.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/tenders/leadImg/lead-md.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "ETP Sections"
+            },
+            {
+                "text": " Sale of petroleum products"
+            }
+        ]
+    },
+    "sidebar": {
+        "header": {
+            "logo": "realization",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция закупок ПАО «НК «Роснефть» для продажи нефтепродуктов",
+            "href": "#"
+        },
+        "menu": [
+            {
+                "text": "Процедуры реализации",
+                "href": "#",
+                "id": "implementationProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "#",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Центр Поддержки",
+                "href": "#",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "#",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Цифровой помощник",
+            "image": "/images/blocks/sidebar/bg1.jpg",
+            "link": {
+                "text": "",
+                "href": "#"
+            }
+        }
+    },
+    "bannerText": {
+        "title": "Sale of&nbsp;petroleum products",
+        "text": [
+            "Section is&nbsp;created for sales of&nbsp;hydrocarbons, oil products, natural gas products, and petrochemicals of&nbsp;the Rosneft Group of&nbsp;Companies for accredited on&nbsp;the ETP customers including foreign companies&nbsp;&mdash; non-residents of&nbsp;the Russian Federation."
+        ],
+        "links": []
+    },
+    "products": {
+        "title": "The traded goods can include",
+        "items": [
+            "Bunker fuel",
+            "Sulfur and Acid",
+            "Bitumen",
+            "Alcohols",
+            "Lubricants",
+            "Phenol",
+            "Paraffin wax products",
+            "Ethanol",
+            "Additives/Heating Oil/Extracts",
+            "Monomers",
+            "Stable gas condensate",
+            "Rubber",
+            "Light petroleum products",
+            "Amines",
+            "Heavy petroleum products",
+            "Polymers",
+            "Crude oil",
+            "Aromatics",
+            "Multicomponent mixture of light hydrocarbons",
+            "High-octane additives",
+            "LPG",
+            "Coke",
+            "Ammonia",
+            "Catalysts",
+            "Gas",
+            "Coagulants",
+            "Resin",
+            "Diesel fuel",
+            "Gasoline"
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Search by&nbsp;procedure",
+        "rectLink": {
+            "text": "Subscription to purchases",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter a keyword or the procedure number",
+            "submitText": "Search"
+        },
+        "link": {
+            "text": "Advanced search",
+            "href": "/tenders/procedures"
+        }
+    },
+    "services": {
+        "name": "Services",
+        "links": [],
+        "cards": {
+            "sideCard": {
+                "title": "Tools for winning in&nbsp;tenders",
+                "text": "Our services will help you reach the most ambitious goals",
+                "href": "/tenders/service",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/services/5-1-1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/services/5-1-1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/services/5-1-1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "iconName": "rocket"
+            },
+            "cards": [
+                {
+                    "title": "Digital signature",
+                    "href": "/tenders/service/e-signature",
+                    "iconName": "blank",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Working capital replenishment loan",
+                    "href": "/tenders/service/credit",
+                    "iconName": "rocket",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Support of Procurement Participants Tenders",
+                    "href": "/tenders/service/accompany-tenders",
+                    "iconName": "checkbox",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Electronic document management",
+                    "href": "/tenders/service/edo",
+                    "iconName": "case",
+                    "targetBlank": false
+                }
+            ]
+        }
+    },
+    "video": {
+        "wrapper": {
+            "title": "Training materials",
+            "links": [
+                {
+                    "href": "https://www.youtube.com/playlist?list=PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0",
+                    "text": "View all",
+                    "isForeign": true
+                }
+            ]
+        },
+        "content": {
+            "items": [
+                {
+                    "title": "Sending the necessary documents to JSC TEK-Torg",
+                    "image": "/images/index/video-slider/1.jpg",
+                    "tags": [
+                        {
+                            "title": "Suppliers"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/5KO9LgLElDM",
+                        "isForeign": true
+                    },
+                    "titleBg": true
+                },
+                {
+                    "title": "Filing an application",
+                    "image": "/images/index/video-slider/2.jpg",
+                    "tags": [
+                        {
+                            "title": "Suppliers"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/gPzQiaq2Nko",
+                        "isForeign": true
+                    }
+                },
+                {
+                    "title": "Participation in the electronic auction",
+                    "image": "/images/index/video-slider/3.jpg",
+                    "tags": [
+                        {
+                            "title": "Suppliers"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/HzfDoq87CCc",
+                        "isForeign": true
+                    }
+                },
+                {
+                    "title": "Activation of the tariff plan",
+                    "image": "/images/index/video-slider/1.jpg",
+                    "tags": [
+                        {
+                            "title": "Suppliers"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/mlNsIbmaqII",
+                        "isForeign": true
+                    }
+                },
+                {
+                    "title": "Incoming: notifications section",
+                    "image": "/images/index/video-slider/2.jpg",
+                    "tags": [
+                        {
+                            "title": "Suppliers"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/ezIuElo6Zdo",
+                        "isForeign": true
+                    }
+                },
+                {
+                    "title": "Submission of a request for clarification of the provisions of the procurement documentation",
+                    "image": "/images/index/video-slider/3.jpg",
+                    "tags": [
+                        {
+                            "title": "Suppliers"
+                        }
+                    ],
+                    "link": {
+                        "text": "",
+                        "href": "https://youtu.be/esS8gpU3mIY",
+                        "isForeign": true
+                    }
+                }
+            ]
+        }
+    }
+}

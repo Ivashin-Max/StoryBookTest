@@ -1,0 +1,122 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Tariffs",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Tariffs",
+                    "href": "/rosneft/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "title": "Partner",
+            "section": "rosneft",
+            "description": "<p>Participation in an unlimited number of procurement procedures</p>",
+            "price_comment": "1 year",
+            "price": "95,000 rubles",
+            "extra_comment": "No fee from a winner of the procurement procedure"
+        },
+        {
+            "nid": "2",
+            "section": "rosneft",
+            "title": "One Procedure",
+            "description": "<p>Participation in 1 procurement procedure.</p>",
+            "price": "11,800 rubles",
+            "price_comment": "1 year",
+            "extra_comment": "No fee from a winner of the procurement procedure"
+        },
+        {
+            "nid": "3",
+            "section": "rosneft",
+            "title": "Quick Start",
+            "description": "<p>Participation in procurements in less than 2 hours</p>",
+            "price": "21,600 rubles",
+            "price_comment": "1 year",
+            "extra_comment": "Includes quick accreditation/registration and participation in one procedure"
+        },
+        {
+            "nid": "4",
+            "section": "rosneft",
+            "title": "Procedure for SME only",
+            "description": "<p>Procedure only for small and medium enterprises in accordance with the Art. 3.4 of Federal Law No. 223</p>",
+            "price": "1%",
+            "price_comment": "of the initial maximum price of the contract, but not exceeding 5,000 rubles (excluding VAT)",
+            "extra_comment": "Fee from a participant, with which a contract is concluded based on the procurement results (including participants that evade the conclusion of a contract) The funds are debited from a special account"
+        }
+    ],
+    "disclamer": {
+        "text": "<ol><li>All terms and definitions of the Tariff plan are used in accordance with the present Regulations of work on the Electronic Trading Platform TEK-Torg JSC in the Section “Procurement procedures of Rosneft”, unless otherwise defined in the Tariff.</li><li>The date of access to the Procurement procedures on the ETP is the date of tariff activation, except for “Quick start” tariff, according to which the date of access to the Procurement procedures is the date of accreditation on the ETP.</li><li>Termination date of access to the Procurement procedures on the ETP:<ul><li>For “Partner” tariffs is the respective day of the last month of access to the procurement procedures on the ETP;</li><li><p>For “One procedure” tariffs:</p><p>The earliest date: the corresponding day of the last month of access to the ETP procurement procedures or the date of submission of an application for participation in the procurement procedure.</p></li></ul></li><li>“Quick Start” tariff include:<ul><li>Reviewing of accreditation application within 2 hours;</li><li>Access to the Procurement Procedure on the ETP with the possibility of crediting the money to the personal account within 5 days from the start date of access to the Procurement Procedures to pay for the Operator’s services.</li></ul></li><li>Tariffs activated before the date of entry into force of new tariff plans are valid on the conditions specified in the Regulations and the Tariff plan in force on the date of activation of the tariff.</li></ol>"
+    },
+    "document": {
+        "title": "Download tariff plan",
+        "type": "DOCX",
+        "size": "19.3 KB",
+        "file": "/documents/tariffs/rosneft-tariff/Тарифный план Секции Закупочные процедуры ПАО НК Роснефть для участников.docx"
+    },
+    "bannerSlider": {
+      "items": [
+        {
+          "background": {
+            "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+          },
+          "title": "Individual consultation",
+          "text": "With procurement industry experts",
+          "links": [
+            {
+                "text": "Enroll",
+                "href": "/services/service-suppliers/icwe"
+            }
+          ]
+        },
+        {
+          "background": {
+            "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+            "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+          },
+          "title": "Digital assistant",
+          "text": "Useful services and services for the customer 223-FZ",
+          "links": [
+            {
+                "text": "More",
+                "href": "/services/customers-223-fz/digital_helper"
+            }
+          ]
+        }
+      ]
+    }
+}

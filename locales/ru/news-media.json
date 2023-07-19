@@ -1,0 +1,24 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "О компании",
+                    "href": "/about"
+                },
+                {
+                    "text": "Новости"
+                },
+                {
+                    "text": "СМИ о нас",
+                    "href": "/news-media"
+                }
+            ]
+        },
+        "title": "СМИ о нас"
+    }
+}

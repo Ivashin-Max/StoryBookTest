@@ -1,0 +1,79 @@
+{
+    "leadText": {
+        "title": "Expert articles for suppliers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Education"
+                },
+                {
+                    "text": "Expert articles"
+                },
+                {
+                    "text": "Expert articles for suppliers"
+                }
+            ]
+        }
+    },
+    "content": {
+        "items": [
+            {
+                "title": "Procurement under 223-FZ in&nbsp;the new realities",
+                "date": "August&nbsp;16, 2022",
+                "link": {
+                    "text": "More detailed",
+                    "href": "/education/expert-articles-supliers/article-4"
+                },
+                "bgColor": "gray2",
+                "textColor": "black"
+            },
+            {
+                "title": "Features of&nbsp;participation in&nbsp;tenders: three new trends in&nbsp;2022",
+                "date": "August&nbsp;10, 2022",
+                "link": {
+                    "text": "More detailed",
+                    "href": "/education/expert-articles-supliers/article-2"
+                },
+                "bgColor": "gray2",
+                "textColor": "black"
+            },
+            {
+                "title": "Non-competitive purchases on&nbsp;electronic platforms: we&nbsp;understand the nuances",
+                "date": "June&nbsp;16, 2022",
+                "image": "/images/blocks/actualSlider/2.jpg",
+                "link": {
+                    "text": "More detailed",
+                    "href": "/education/expert-articles-supliers/article-3"
+                },
+                "dateColor": "white"
+            },
+            {
+                "title": "Tenders in&nbsp;the year 2022. How should the supplier act in&nbsp;the new conditions?",
+                "date": "March&nbsp;5, 2022",
+                "image": "/images/blocks/actualSlider/2.jpg",
+                "link": {
+                    "text": "More detailed",
+                    "href": "/education/expert-articles-supliers/article"
+                },
+                "textColor": "black",
+                "dateColor": "white",
+                "clamp": 4,
+                "titleBg": true
+            },
+            {
+                "title": "Изменения в государственно-корпоративных закупках (Закон No223-ФЗ)",
+                "date": "February 6, 2023",
+                "link": {
+                    "text": "Learn More",
+                    "href": "/education/expert-articles-supliers/article-5"
+                },
+                "bgColor": "gray2",
+                "textColor": "black"
+            }
+        ]
+    }
+}

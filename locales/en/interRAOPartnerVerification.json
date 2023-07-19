@@ -1,0 +1,92 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Preliminary verification of partners",
+        "description": "Legal expertise, expertise of business reputation. Get information on&nbsp;the legal and financial status, and on&nbsp;the business reputation of&nbsp;the planned partners.",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Preliminary verification of partners"
+                }
+            ]
+        }
+    },
+    "picture": {
+        "src": "/images/pages/inter-rao-partner-verification/picture.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/inter-rao-partner-verification/picture.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    },
+    "steps": {
+        "title": "Legal and business reputation expertise (optional)",
+        "items": [
+            {
+                "text": "Fill out the application form on the service page<br>"
+            },
+            {
+                "text": "Get the results to&nbsp;the e-mail address specified in&nbsp;the application within 3&nbsp;business days"
+            }
+        ]
+    },
+    "contactsForm": {
+        "title": "Order an expert examination",
+        "docs": {
+            "title": "Download sample application to fill out",
+            "items": [
+                {
+                    "title": "For expertise of business reputation",
+                    "type": "DOCX",
+                    "size": "12 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/proverka-partnyorov/Деловая репутация.docx"
+                },
+                {
+                    "title": "For legal expertise",
+                    "type": "DOCX",
+                    "size": "14 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/proverka-partnyorov/Юр экспертиза_0.docx"
+                },
+                {
+                    "title": "List of documents for legal expertise",
+                    "type": "DOCX",
+                    "size": "17.7 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/proverka-partnyorov/Список документов для юр экспертизы_0.docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

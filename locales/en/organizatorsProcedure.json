@@ -1,0 +1,86 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Клиентам"
+                },
+                {
+                    "text": "Наши заказчики"
+                },
+                {
+                    "text": "Закупочные процедуры",
+                    "href": "#"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "К списку процедур",
+        "href": "#"
+    },
+    "purchasesSlider": {
+        "title": "Похожие процедуры в&nbsp;других секциях"
+    },
+    "cardSet": {
+        "cards": [
+            {
+                "link": {
+                    "text": "",
+                    "href": "#"
+                },
+                "image": "/images/blocks/сardSet/1.jpg",
+                "title": "Ускоренная предквалификация",
+                "text": "Пройдите предквалификацию в&nbsp;течение 2-х часов",
+                "textColor": "white"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "#"
+                },
+                "image": "/images/blocks/сardSet/2.jpg",
+                "textColor": "white",
+                "title": "Обучение",
+                "text": "Пройдите обучение в&nbsp;любом из&nbsp;трех удобных для вас форматов: очное, семинар, вебинар или бесплатный видеокурс"
+            },
+            {
+                "link": {
+                    "text": "",
+                    "href": "#"
+                },
+                "image": "/images/blocks/сardSet/3.jpg",
+                "textColor": "white",
+                "title": "Факторинг",
+                "text": "Получите инструмент онлайн финансирования при отсрочке платежа покупателя"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/gov-procurement/bannerSlider/slide.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/gov-procurement/bannerSlider/slide.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Финансовые сервисы<br>для участников закупки",
+                "text": "Банковские гарантии. Кредитование. Факторинг.<br>Все операции онлайн.<br>Персональный менеджер 24/7<br>Скидка&nbsp;50%",
+                "links": [
+                    {
+                        "text": "Получить",
+                        "href": "#"
+                    }
+                ]
+            }
+        ]
+    }
+}

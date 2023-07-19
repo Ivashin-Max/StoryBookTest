@@ -1,0 +1,172 @@
+{
+    "lead": {
+        "title": "Ускоренная проверка документов на аккредитацию",
+        "description": "Прохождение процедуры в течение 2-х часов",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков",
+                    "href": "/223-fz/service-suppliers"
+                },
+                {
+                    "text": "Ускоренная проверка документов на аккредитацию",
+                    "href": "/rosneft/service/e-signature-nr"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Оставить заявку",
+            "id": "ApplicationForm3"
+        }
+    },
+    "example5": {
+        "cards": {
+            "sideCard": {
+                "title": "Важно:",
+                "text": "в рамках Закона №223-ФЗ (для закупочных процедур, участниками которых могут быть только субъекты МСП) заявление на получение аккредитации на электронной площадке рассматривается оператором до 5-ти рабочих дней.",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Закупочные процедуры ПАО «Интер РАО»",
+                    "href": "/inter_rao/procedures"
+                },
+                {
+                    "title": "223-ФЗ и&nbsp;Коммерческие закупки",
+                    "href": "/223-fz/procedures"
+                }
+            ]
+        }
+    },
+    "example2": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/fastAcr375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/fastAcr.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/fastAcr768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "",
+                "text": "Воспользуйтесь услугой ускоренной проверки документов на аккредитацию.<br>Для участников секций:<br>— Закупочные процедуры ПАО «Интер РАО»;<br>— 223-ФЗ и&nbsp;Коммерческие закупки.<br>Услуга ускоренной аккредитации предоставляется на условиях публичной оферты.",
+                "modal": [
+                    {
+                        "title": "Заказать услугу",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    },
+    "infBlock": {
+        "cards": {
+            "cardLink": {
+                "title": "Поможем пройти аккредитацию на электронной площадке день в день"
+            },
+            "cardBottom": [
+                {
+                    "title": "Упрощенная схема получения услуги",
+                    "iconName": "judgesGavel"
+                },
+                {
+                    "title": "Индивидуальный подход к каждому клиенту",
+                    "iconName": "person"
+                },
+                {
+                    "title": "Аккредитация всего за 2 часа",
+                    "iconName": "rocket"
+                }
+            ]
+        }
+    },
+    "three": {
+        "title": "Как аккредитоваться за 2 часа?",
+        "items": [
+            {
+                "text": "Оставьте заявку онлайн или свяжитесь с нами по телефону <a class='noWrap' href='tel:+74957348118'>+7 495 734-81-18</a>"
+            },
+            {
+                "text": "Оплатите счет на услугу"
+            },
+            {
+                "text": "Получите аккредитацию в течении 2-х часов"
+            }
+        ]
+    },
+    "example3": {
+        "wrapper": {
+            "name": "Стоимость"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "9000",
+                        "text": "рублей"
+                    },
+                    "items": [
+                        {
+                            "text": "Срочное рассмотрение документов на&nbsp;аккредитацию в&nbsp;секциях: Закупки ПАО &laquo;Интер РАО&raquo; и&nbsp;223-ФЗ и&nbsp;Коммерческие закупки"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Есть вопросы?<br>Мы&nbsp;поможем!",
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

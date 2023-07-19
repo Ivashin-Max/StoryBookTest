@@ -1,0 +1,40 @@
+{
+  "lead": {
+      "breadcrumbs": {
+          "crumbs": [
+              {
+                "text": "Main",
+                "href": "/"
+              },
+              {
+                  "text": "ETP Sections"
+              },
+              {
+                  "text": "Government procurement",
+                  "href": "/44-fz"
+              },
+              {
+                  "text": "Benefits for Customers",
+                  "href": "/44-fz/pz"
+              },
+              {
+                  "text": "Automatic verification of procurement documentation"
+              }
+          ]
+      },
+      "lineBottom": true,
+      "backButton": {
+          "text": "Back",
+          "href": "/44-fz/pz"
+      },
+      "title": "Automatic verification of procurement documentation"
+  },
+  "playlist": {
+      "bg": "gray2",
+      "link": {
+          "text": "Use the service in the Personal Area",
+          "href": "https://44.tektorg.ru/authentication/login",
+          "isForeign": true
+      }
+  }
+}

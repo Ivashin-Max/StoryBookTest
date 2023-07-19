@@ -1,0 +1,29 @@
+{
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/vitrina/procedures/bannerSlider/photo-auction-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/vitrina/procedures/bannerSlider/photo-auction-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/vitrina/procedures/bannerSlider/photo-auction-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Ускоренный доступ к&nbsp;торгам",
+                "text": "Зачисление денежных средств по&nbsp;платежному поручению на&nbsp;ваш счет в&nbsp;течение 2&nbsp;часов",
+                "links": [
+                    {
+                        "text": "Посмотреть",
+                        "href": "/sale/service/134"
+                    }
+                ]
+            }
+        ]
+    }
+}

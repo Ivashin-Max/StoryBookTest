@@ -1,0 +1,96 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "RosneftFullEn",
+            "description": "The electronic trading platform TEK-Torg<br>Section “Procurement procedures of Rosneft”",
+            "href": "/rosneft"
+        },
+        "menu": [
+            {
+                "text": "Procurement Procedures",
+                "href": "/rosneft/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Requests (T)KP",
+                "href": "/rosnefttkp/procedures",
+                "id": "rosnefttkp",
+                "subLinks": []
+            },
+            {
+                "text": "The single window (one-stop shop)",
+                "href": "/rosneft/edinoe_okno",
+                "id": "oneStopWindow",
+                "subLinks": []
+            },
+            {
+                "text": "Import substitution",
+                "href": "/rosneft/importozameshchenie",
+                "id": "importSubstitution",
+                "subLinks": []
+            },
+            {
+                "text": "Qualification in the Rosneft Group Companies",
+                "href": "/rosneft/qualification",
+                "id": "qualification",
+                "subLinks": []
+            },
+            {
+                "text": "For suppliers",
+                "href": "/rosneft/suppliers",
+                "id": "foreignSuppliers",
+                "subLinks": []
+            },
+            {
+                "text": "For foreign suppliers",
+                "href": "/rosneft/suppliers-foreign",
+                "id": "foreignSuppliers",
+                "subLinks": []
+            },
+            {
+                "text": "CIW contractor questionnaire",
+                "href": "/rosneft/anketa-podradcika-smr",
+                "id": "contractorQuestionnaire",
+                "subLinks": []
+            },
+            {
+                "text": "Tariffs",
+                "href": "/rosneft/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "News and announcements",
+                "href": "/rosneft/news",
+                "id": "news",
+                "subLinks": []
+            },
+            {
+                "text": "Documents",
+                "href": "/rosneft/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Support Center",
+                "href": "/rosneft/help",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Services",
+                "href": "/rosneft/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

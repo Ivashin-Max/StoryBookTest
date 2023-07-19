@@ -1,0 +1,98 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «Интер РАО»",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Система взаимодействия с поставщиками",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Предварительный аудит соответствия"
+                }
+            ]
+        },
+        "title": "Предварительный аудит <br/>соответствия"
+    },
+    "bannerText": {
+        "title": "Экспресс-проверка ",
+        "text": [
+            "Пройдите экспресс-проверку юридического статуса, а&nbsp;также уровня деловой репутации в&nbsp;целях предварительной оценки возможности прохождения отборочной стадии закупочных процедур Группы &quot;Интер РАО&quot;."
+        ]
+    },
+    "pictureBlock": {
+        "picture": {
+            "src": "/images/pages/interRaoAudit/picture.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/interRaoAudit/picture.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "steps": {
+        "title": "Юридическая экспертиза и&nbsp;экспертиза <br/>деловой репутации (на&nbsp;выбор)",
+        "items": [
+            {
+                "text": "Заполнить заявку на&nbsp;странице сервиса"
+            },
+            {
+                "text": "Получить результат на&nbsp;адрес электронной почты, указанный в&nbsp;заявке, в&nbsp;течение 3&nbsp;рабочих дней"
+            }
+        ]
+    },
+    "contactsForm": {
+        "title": "Заполните контактные данные",
+        "docs": {
+            "title": "Скачайте образец заявки для заполнения",
+            "items": [
+                {
+                    "title": "На экспертизу деловой репутации",
+                    "type": "DOCX",
+                    "size": "12 КБ",
+                    "httpLink": "/documents/inter-rao/ekosreda/audit/Деловая репутация.docx"
+                },
+                {
+                    "title": "На юридическую экспертизу",
+                    "type": "DOCX",
+                    "size": "13.5 КБ",
+                    "httpLink": "/documents/inter-rao/ekosreda/audit/Юр экспертиза.docx"
+                },
+                {
+                    "title": "Список документов для юр. экспертизы",
+                    "type": "DOCX",
+                    "size": "17.7 КБ",
+                    "httpLink": "/documents/inter-rao/ekosreda/audit/Список документов для юр экспертизы.docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

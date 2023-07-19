@@ -1,0 +1,60 @@
+{
+    "leadText": {
+        "title": "Expert’s Articles for Customers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Education"
+                },
+                {
+                    "text": "Expert articles"
+                },
+                {
+                    "text": "Expert’s Articles for Customers"
+                }
+            ]
+        }
+    },
+    "content": {
+        "items": [
+            {
+                "title": "Изменения в государственно-корпоративных закупках (Закон No223-ФЗ)",
+                "date": "February 6, 2023",
+                "link": {
+                    "text": "Learn More",
+                    "href": "/education/expert-articles/article-5"
+                },
+                "bgColor": "gray2",
+                "textColor": "black"
+            },
+            {
+                "title": "Procurement under 223-FZ in the new realities",
+                "date": "August 16, 2022",
+                "link": {
+                    "text": "Learn More",
+                    "href": "/education/expert-articles/article-4"
+                },
+                "bgColor": "gray2",
+                "textColor": "black"
+            },
+            {
+                "title": "Features of participation in tenders: three new trends in 2022",
+                "date": "August 10, 2022",
+                "image": "/images/blocks/actualSlider/2.jpg",
+                "link": {
+                    "text": "Learn More",
+                    "href": "/education/expert-articles/article-2"
+                },
+                "bgColor": "gray2",
+                "textColor": "black",
+                "dateColor": "white",
+                "clamp": 4,
+                "titleBg": true
+            }
+        ]
+    }
+}

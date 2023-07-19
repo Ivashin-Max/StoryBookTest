@@ -1,0 +1,698 @@
+{
+    "menu": [
+        {
+            "text": "Sections",
+            "id": "tradeSections",
+            "subLinks": [
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Government procurement",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "(Online) Market",
+                    "href": "/market"
+                },
+                {
+                    "text": "Sale of property",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Sale of petroleum products",
+                    "href": "/tenders"
+                }
+            ]
+        },
+        {
+            "text": "For clients",
+            "id": "clients",
+            "subLinks": [
+                {
+                    "text": "Documents for working on the platform",
+                    "href": "/clients/documents"
+                },
+                {
+                    "text": "Tariffs",
+                    "href": "/clients/tariff"
+                },
+                {
+                    "text": "Support center",
+                    "subLinks": [
+                        {
+                            "text": "For Customers/For sellers",
+                            "href": "/clients/support-customers"
+                        },
+                        {
+                            "text": "For Suppliers/For buyers",
+                            "href": "/clients/support-suppliers"
+                        }
+                    ]
+                },
+                {
+                    "text": "Order accounting documents",
+                    "href": "/clients/accounting-docs"
+                },
+                {
+                    "text": "Our customers",
+                    "href": "/clients/organizations"
+                }
+            ]
+        },
+        {
+            "text": "Services",
+            "id": "services",
+            "subLinks": [
+                {
+                    "text": "For 223-FZ customers",
+                    "href": "/services/customers-223-fz"
+                },
+                {
+                    "text": "For commercial customers",
+                    "href": "/services/customers"
+                },
+                {
+                    "text": "For suppliers",
+                    "href": "/services/service-suppliers"
+                },
+                {
+                    "text": "For property buyers",
+                    "href": "/services/service-property-buyers"
+                }
+            ]
+        },
+        {
+            "text": "Bank guarantee",
+            "href": "/services/service-suppliers/bg"
+        },
+        {
+            "text": "Training",
+            "id": "Education",
+            "subLinks": [
+                {
+                    "text": "Training center",
+                    "href": "/education"
+                },
+                {
+                    "text": "Training events",
+                    "subLinks": [
+                        {
+                            "text": "For customers",
+                            "href": "/education/courses-customer"
+                        },
+                        {
+                            "text": "For suppliers",
+                            "href": "/education/courses-supplier"
+                        }
+                    ]
+                },
+                {
+                    "text": "Video materials",
+                    "subLinks": [
+                        {
+                            "text": "For customers",
+                            "href": "/education/video-customer"
+                        },
+                        {
+                            "text": "For suppliers",
+                            "href": "/education/video-supplier"
+                        }
+                    ]
+                },
+                {
+                    "text": "Experts’ articles",
+                    "subLinks": [
+                        {
+                            "text": "For customers",
+                            "href": "/education/expert-articles"
+                        },
+                        {
+                            "text": "For suppliers",
+                            "href": "/education/expert-articles-supliers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "About company",
+            "id": "aboutCompany",
+            "subLinks": [
+                {
+                    "text": "About TEK-Torg",
+                    "href": "/about"
+                },
+                {
+                    "text": "Careers",
+                    "href": "/vacancy"
+                },
+                {
+                    "text": "Contacts and details",
+                    "href": "/contacts"
+                },
+                {
+                    "text": "News",
+                    "subLinks": [
+                        {
+                            "text": "Press-center",
+                            "href": "/news-press"
+                        },
+                        {
+                            "text": "Mass media about us",
+                            "href": "/news-media"
+                        },
+                        {
+                            "text": "Important news",
+                            "href": "/news-important"
+                        },
+                        {
+                            "text": "Procurement announcements",
+                            "href": "/news-announce"
+                        }
+                    ]
+                },
+                {
+                    "text": "Partners",
+                    "href": "/partners"
+                }
+            ]
+        }
+    ],
+    "footer": {
+        "phones": [
+            {
+                "href": "+74957348118",
+                "text": "+7 495 734-81-18"
+            },
+            {
+                "href": "+74997058118",
+                "text": "+7 499 705-81-18"
+            }
+        ],
+        "docs": [
+            {
+                "href": "/documents/Презентация ЭТП ТЭК-Торг.pdf",
+                "text": "Download the presentation",
+                "target": "_blank"
+            }
+        ],
+        "socials": [
+            {
+                "href": "https://vk.com/etptektorg",
+                "name": "vk",
+                "text": "Vkontakte. The ETP TEK-Torg"
+            },
+            {
+                "href": "https://vk.com/tektorg_sale",
+                "name": "vk",
+                "text": "Vkontakte. “Sale of Property”"
+            },
+            {
+                "href": "https://vk.com/zakupo4naya",
+                "name": "vk",
+                "text": "Vkontakte. “Zakupochnaya”"
+            },
+            {
+                "href": "https://t.me/etp_tektorg",
+                "name": "telegram",
+                "text": "Telegram. The ETP TEK-Torg"
+            },
+            {
+                "href": "https://www.youtube.com/channel/UCeLnNU7xlGjp_0nVaDBUWOg",
+                "name": "youtube",
+                "text": "YouTube. The ETP TEK-Torg"
+            }
+        ],
+        "purchases": [
+            {
+                "href": "/clients/organizations",
+                "text": "Our customers"
+            },
+            {
+                "href": "/subscription",
+                "text": "Subscribe to purchases (procedures)",
+                "type": "button"
+            }
+        ],
+        "techSupport": {
+            "remoteSupport": {
+                "title": "Remote technical support",
+                "links": [
+                    {
+                        "href": "/documents/remote_desktop.exe",
+                        "text": "RemoteDesktop",
+                        "download": true
+                    }
+                ]
+            },
+            "support": {
+                "title": "Support",
+                "modalBtns": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    },
+                    {
+                        "title": "A callback",
+                        "id": "callBackForm"
+                    }
+                ]
+            }
+        },
+        "label": "The ETP TEK-Torg. All rights reserved."
+    },
+    "cursesCards": {
+        "type": "Курс"
+    },
+    "more": "Show more",
+    "expand": "Show",
+    "collapse": "Hide",
+    "seeMap": "Look at map",
+    "design": "Design",
+    "addTariff": "Activate tariff",
+    "section": "section",
+    "rosneft": "Procurement procedures of Rosneft",
+    "44-fz": "Government procurement",
+    "223-fz": "223-FZ and Commercial Procurement",
+    "inter_rao": "Procurement procedures of Inter RAO",
+    "market": "(Online) Market",
+    "sale": "Sale of property",
+    "tenders": "Sale of petroleum products",
+    "articles": "Articles",
+    "login": "Login",
+    "modalEnter": {
+        "title": "Login or&nbsp;registration",
+        "description": "Select a&nbsp;site section in&nbsp;which you want to&nbsp;sign in&nbsp;or&nbsp;register:",
+        "sections": [
+            {
+                "iconName": "lcabinet",
+                "title": "Single account",
+                "href": "https://lk.tektorg.ru/#auth"
+            },
+            {
+                "iconName": "rosneft2",
+                "title": "Procurement procedures of&nbsp;Rosneft",
+                "href": "https://rn.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "44fz",
+                "title": "Government procurement",
+                "href": "https://44.tektorg.ru/authentication/login"
+            },
+            {
+                "iconName": "interRAO",
+                "title": "Procurement procedures of&nbsp;Inter RAO",
+                "href": " https://irao.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "fz223icon",
+                "title": "223-FZ and Commercial Procurement",
+                "href": " https://zakupki.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "market",
+                "title": "Market",
+                "href": "https://kim.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "sale",
+                "title": "Sale of&nbsp;property",
+                "href": "https://sale.tektorg.ru/#auth/login"
+            },
+            {
+                "iconName": "rosneft2",
+                "title": "Sale of&nbsp;petroleum products",
+                "href": "https://tender.tektorg.ru/#auth/login"
+            }
+        ]
+    },
+    "print": "Версия для печати",
+    "free": "free",
+    "videos": "videos",
+    "program": "Program",
+    "city": "City",
+    "experience": "Work experience",
+    "sendResume": "Send resume",
+    "btnSearch": "Search",
+    "callBackForm": {
+        "title": "Call back",
+        "description": "Support Center - will help you find answers to your questions about working on the ETP, from setting up a PC to signing an agreement. We make shopping easier"
+    },
+    "askQuestionForm": {
+        "title": "Ask a question",
+        "description": "Support Center - will help you find answers to your questions about working on the ETP, from setting up a PC to signing an agreement. We make shopping easier"
+    },
+    "marketCenter": {
+        "description": "marketing center"
+    },
+    "manageDogovors": {
+        "description": "Contract management"
+    },
+    "nsi": {
+        "description": "Normalization of the normative reference book of information (NSI)"
+    },
+    "takeSurveyForm": {
+        "title": "Пройти опрос",
+        "items": [
+            {
+                "question": "Размещаете ли вы свои закупки на площадке ТЭК-Торг?",
+                "answers": [
+                    {
+                        "title": "Да, размещаю",
+                        "value": "yes"
+                    },
+                    {
+                        "title": "Нет, не размещаю",
+                        "value": "no"
+                    }
+                ]
+            },
+            {
+                "question": "Какой из критериев является для вас определяющим при выборе площадки для проведения закупочных процедур?",
+                "answers": [
+                    {
+                        "title": "Удобный и понятный интерфейс",
+                        "value": "intuitive interface"
+                    },
+                    {
+                        "title": "Большое количество различных сервисов, облегчающих работу",
+                        "value": "facilitating work"
+                    },
+                    {
+                        "title": "Наличие персонального менеджера для решения любых задач",
+                        "value": "personal manager"
+                    }
+                ]
+            },
+            {
+                "question": "Обращаетесь ли вы за экспертными консультациями по вопросам проведения закупок?",
+                "answers": [
+                    {
+                        "title": "Нет, консультации не нужны",
+                        "value": "no, consultations are not needed"
+                    },
+                    {
+                        "title": "Нет, не имею возможности",
+                        "value": "no, I don't have the opportunity"
+                    },
+                    {
+                        "title": "Да, пользуюсь (обращаюсь на площадку)",
+                        "value": "yes, (contacting the site)"
+                    },
+                    {
+                        "title": "Да, пользуюсь (сторонние сервисы)",
+                        "value": "yes, (third-party services)"
+                    }
+                ]
+            },
+            {
+                "question": "Известно ли вам об акции «ТЭК-Бокс»?",
+                "answers": [
+                    {
+                        "title": "Да",
+                        "value": "yes"
+                    },
+                    {
+                        "title": "Нет",
+                        "value": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    "simpleTitleForm": "Fill out the questionnaire",
+    "formTitles": {
+        "titleContacts": "Контактные данные",
+        "titleSubscribe": "Параметры подписки"
+    },
+    "inputs": {
+        "name": "Name and surname",
+        "name2": "Name and surname",
+        "name3": "Full name",
+        "mail": "E-mail",
+        "mail2": "E-mail",
+        "mail3": "E-mail",
+        "mail4": "Email (may be specified several times, separated by commas)",
+        "phone": "Phone number",
+        "phone2": "Contact phone number",
+        "phone3": "Contact phone number (may be specified several times, separated by commas)",
+        "message": "Your message",
+        "messageText": "Your comment",
+        "messageOffer": "Outline your offer",
+        "messageComment": "Your comment",
+        "messageAdditional": "Add information about other contact persons",
+        "messageAdditionalObj": {
+            "title": "Add contact information of other ",
+            "speakers": "speakers",
+            "webinarResponisble": "persons responsible for hosting the webinar"
+        },
+        "messageWebinarTheme": "For example, “Solutions to ensure compliance with Federal Law No. 187: “On the security of critical information infrastructure of the Russian Federation”. Unidirectional data transmission systems”",
+        "messageCompetitiveAdvantages": "Competitive advantages of the product / technical solution",
+        "messageCompetitiveAdvantages2": "At what facilities of the fuel and energy complex it is implemented. What are the results. Customer contact details",
+        "messageDescribe": "Describe in your own words",
+        "OtherInput": "Other: describe in your own words",
+        "file": "Attach the file",
+        "file2": "Attach the completed application",
+        "file3": "Attach",
+        "file4": "Прикрепите прайс-лист",
+        "file5": "Attach files containing descriptions of innovative, technical and organizational solutions and ideas",
+        "file6": "Attach files containing a description of the goods, works, services offered",
+        "filesDescr": "Attach one or more files, the total size of the attached files should not exceed 20 MB",
+        "inn": "Company TIN",
+        "inn2": "TIN",
+        "inn3": "INN of the organization",
+        "educationThemeProgram": "Specify the training subject/training program",
+        "companyName": "Company name",
+        "companyName2": "Company name",
+        "organizationName": "Company name",
+        "organizationName2": "Company name",
+        "calendarPlaceholder": "dd.mm.yyyy",
+        "regionOfActivity": "The regions of activity",
+        "kindOfActivity": "Type of activity",
+        "kindOfActivityOther": "Type of activity (other)",
+        "kindOfExpertise": "Select the type of expertise",
+        "activitySpecialization": "Specialty",
+        "companyRepresentative": "Company representative (full name)",
+        "companyRepresentativePosition": "Company representative position",
+        "region": "Регион",
+        "region2": "Specify the region",
+        "city": "Город",
+        "innKPP": "ИНН-КПП",
+        "innKPP2": "KPP organization",
+        "contactFace": "Контактное лицо",
+        "contactFace2": "Full name of a contact person of organization responsible for participation in procurement",
+        "yoursOrganisation": "Ваша организация",
+        "topic": "Тема",
+        "topicLesson": "Выберите тему",
+        "topicLessonEp": "Chose a CA",
+        "topicLessonDescr": "Или укажите в сообщении нужную",
+        "site": "Website on the Internet",
+        "site2": "This must be an external URL such as http://example.com",
+        "site3": "If there are additional links, enter here",
+        "userType": "Type of user",
+        "codsOKPD2": "OKPD 2 codes",
+        "OKPD2Spoiler": "Код классификатора ОКПД2 (для лота)",
+        "tradingSection": "Торговая секция",
+        "staffCount": "Number of staff",
+        "averageAnnualTurnover": "Average annual turnover of organization (million rubles)",
+        "yes": "Yes",
+        "no": "No",
+        "selectOfferRaoPlaceholder": "What is the offer for the companies of the Inter RAO Group?",
+        "selectAuditoryPlaceholder": "The target audience",
+        "selectActivityPlaceholder": "Areas of activity",
+        "searchOKPD2": "Введите наименование товара, работы, услуги или код ОКВЭД2",
+        "categoryProp": "Enter the property category",
+        "innovationDirection": "The direction of innovative development",
+        "optionsEmptyMessage": "no more options",
+        "personalAccount": "Personal account"
+    },
+    "confirm": {
+        "text": "I have read and understood ",
+        "link": {
+            "href": "/documents/tektorg_private_data_policy.pdf",
+            "text": "the Measures to ensure the security of personal data"
+        }
+    },
+    "confirm2": {
+        "text": "We are familiar with the",
+        "link": {
+            "href": "http://www.interrao.ru/upload/doc/Politika_po_protivodejstviu_moshennichestv_i_kor.pdf",
+            "text": " Anti-Fraud and Corruption Policy of the Inter RAO Group"
+        }
+    },
+    "confirm3": {
+        "text": "We are familiar with the",
+        "link": {
+            "href": "https://www.interrao.ru/upload/doc/Politica_AMK_2018_11.pdf",
+            "text": " Antimonopoly Compliance Policy of the Inter RAO Group"
+        }
+    },
+    "confirm4": {
+        "text": "We agree with the measures taken by the Inter RAO Group aimed at preventing and combating corruption, and informed that the companies of the Inter RAO Group are not responsible for the information security of “The single window for technologies presentation” service"
+    },
+    "confirm5": {
+        "text": "By submitting the form, you agree to ",
+        "link": {
+            "href": "https://www.tektorg.ru/sites/default/files/documents/tektorg_private_data_policy.pdf",
+            "text": "the privacy policy"
+        }
+    },
+    "send": "Send",
+    "register": "Register",
+    "contactManager": "Contact manager",
+    "cardPayment": "Card payment",
+    "regions": {
+        "murmansk": "Murmansk region",
+        "karelia": "Republic of Karelia",
+        "arhangelsk": "Arhangelsk region",
+        "nenetsk": "Nenets autonomous area",
+        "komi": "Republic of Komi",
+        "kirov": "Kirov region",
+        "perm": "Perm region",
+        "khantyMansiysk": "Khanty-Mansi autonomous area",
+        "sverdlovsk": "Sverdlovsk region",
+        "kurgan": "Kurgan region",
+        "tyumen": "Tyumen region",
+        "omsk": "Omsk region",
+        "tomsk": "Tomsk region",
+        "novosibirsk": "Novosibirsk region",
+        "altaiRegion": "Altai region",
+        "kemerovo": "Kemerovo region",
+        "khakassia": "Republic of Khakassia",
+        "krasnoyarsk": "Krasnoyarsk region",
+        "tyva": "Republic of Tyva",
+        "irkutsk": "Irkutsk region",
+        "yakutia": "Republic of Sakha (Yakutia)",
+        "magadan": "Magadan region",
+        "khabarovsk": "Khabarovsk region",
+        "primorsky": "Primorsky region"
+    },
+    "next": "Next",
+    "prev": "Back",
+    "revertForm": "Return to beginning of survey",
+    "sendSubscribe": "Subscribe",
+    "subscribeNewsTitle": "Subscribe to news",
+    "requiredMessage": "Required field",
+    "requiredTopicLessonSelectMessage": "Be sure to select a topic or specify the desired one in the message",
+    "requiredTopicLessonMessage": "Select a topic and/or leave a comment",
+    "maxLength": "Max allowed number of characters",
+    "minLength": "Minimum allowed number of characters",
+    "minMaxInn": "Permissible number of characters 6-20",
+    "allowedCountMessage": "The allowed number of characters is",
+    "wrongFormat": "Wrong format",
+    "personalAccount": "Personal account",
+    "wrongMail": "Wrong format email",
+    "wrongPhone": "Wrong format phone",
+    "maxSize": "Large file size",
+    "maxCountFiles": "The maximum allowable number of files is 5",
+    "wrongSymbols": "Wrong symblos",
+    "successMessageSubscribe": "Подписка оформлена",
+    "successMessageCommon": "Form submitted successfully",
+    "successMessageCommon2": "Спасибо за уделенное время на заполнение анкеты подрядчика СМР",
+    "successMessageApplication": "The application has been accepted. Our specialists will contact you shortly.",
+    "failedMessage": "Something went wrong, please try again later",
+    "resend": "Resend",
+    "AlreadyRegistredCommon": "You already registred",
+    "sendErrorMessage": "Есть не правильно заполненные поля",
+    "errorMessage": "Nothing was found for your query",
+    "ParticipateInAuctions": "Participate in auctions",
+    "OrderConsultation": "Order a consultation",
+    "upcomingEvents": "Upcoming events",
+    "viewAll": "View all",
+    "loadMore": "Show more",
+    "category": "Category",
+    "deleteAll": "Delete all",
+    "tradeSectionsAllTitle": "All sections",
+    "articleLikeTooltip": "The article was helpful",
+    "articleDislikeTooltip": "The article is useless",
+    "ServicesForm": {
+        "title": "",
+        "title2": "To order the service",
+        "tariffTitle": "Activate tariff",
+        "organizationName": "Name of the organization",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "timezone": "according to the customer's local time",
+    "yes": "Yes",
+    "no": "No",
+    "apply": "Submit an application",
+    "from": "from",
+    "to": "to",
+    "daysFromContractSign": "days from the date of signing the contract",
+    "menuText": "Menu",
+    "completed": "Completed",
+    "audience": {
+        "supplier": "Suppliers",
+        "customer": "Customers",
+        "not_specified": "Suppliers and Customers"
+    },
+    "eventType": {
+        "course": "Course",
+        "seminar": "Seminar",
+        "webinar": "Webinar",
+        "online_conference": "Online conference",
+        "conference": "Conference",
+        "supplier_day": "Supplier Day"
+    },
+    "registerModal": {
+        "text": "Register",
+        "scrollToSelector": "#applicationForm3"
+    },
+    "registerCourseModal": {
+        "text": "Register",
+        "scrollToSelector": "#courseForm"
+    },
+    "certificateBtn": "Name certificate",
+    "timeout": "Exceeded waiting time for reply from server",
+    "formSuccessAlert": {
+        "title": "Information sent successfully!"
+    },
+    "formSuccessAlert2": {
+        "title": "Your application has been successfully sent!",
+        "description": "<p>Data will be provided within 5 calendar days</p>"
+    },
+    "formSuccessAlert3": {
+        "title": "Your application has been successfully sent.",
+        "description": " "
+    },
+    "formSuccessAlert4": {
+        "title": "The information was successfully sent",
+        "description": " "
+    },
+    "formSuccessAlert5": {
+        "title": "Subscribed!"
+    },
+    "formErrorAlert": {
+        "title": "Failed to submit form",
+        "description": "<p>Try submitting the form again or contact customer support</p>"
+    },
+    "alreadyRegistredAlert": {
+        "title": "You already registred"
+    }
+}

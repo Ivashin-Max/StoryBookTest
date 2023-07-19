@@ -1,0 +1,296 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Services for suppliers"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Services for suppliers"
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance",
+        "Financial Services"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },{
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/fast-accreditation"
+                    },
+                    "title": "Express Verification of Accreditation Documents",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/eruz"
+                    },
+                    "title": "Assistance in registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/bg"
+                    },
+                    "title": "Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-procurement"
+                    },
+                    "title": "Credit for Procurement Participation",
+                    "text": "",
+                    "iconName": "CreditOnProcurement"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },{
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/fast-accreditation"
+                    },
+                    "title": "Express Verification of Accreditation Documents",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/eruz"
+                    },
+                    "title": "Assistance in registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },{
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/fast-accreditation"
+                    },
+                    "title": "Express Verification of Accreditation Documents",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/bg"
+                    },
+                    "title": "Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-procurement"
+                    },
+                    "title": "Credit for Procurement Participation",
+                    "text": "",
+                    "iconName": "CreditOnProcurement"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

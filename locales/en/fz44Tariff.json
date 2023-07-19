@@ -1,0 +1,104 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Tariffs",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Government procurement",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Tariffs",
+                    "href": "/44-fz/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "section": "44-fz",
+            "title": "For suppliers",
+            "description": "<p>Payment from the entity with which the contract is concluded on the results of the electronic procedure, including entities, specified in Part 13 of Art. 83.2. of Federal Law No. 44**</p>",
+            "price": "1%",
+            "price_comment": "of the initial maximum price of the contract, but not exceeding 5,000 rubles (excluding VAT)",
+            "extra_comment": "According to present tariff plan, the funds will be debited from a special account"
+        },
+        {
+            "nid": "2",
+            "section": "44-fz",
+            "title": "For suppliers of SMEs and SONCO",
+            "description": "<p>Payment from the entity with which the contract is concluded on the results of the electronic procedure in accordance with Paragraph 1 of Part 1 of Art. 30 of the Federal Law No. 44*, including entities, specified in Part 13 of Art. 83.2. of Federal Law No. 44**</p>",
+            "price": "1%",
+            "price_comment": "of the initial maximum price of the contract, but not exceeding 2,000 rubles (excluding VAT)",
+            "extra_comment": "The funds are debited from a special account"
+        }
+    ],
+    "disclamer": {
+        "text": "<p>* According to the point 1, part 1, article 30 of Federal law of April 5, 2013 No. 44-FZ “On the contract system of the federal and municipal procurement of goods, works, and services”, the electronic procedures are the procedures only for Small and Medium Enterprises (SME) and Socially-Oriented Non-Commercial Organizations (SONCO) with the initial (maximum) price of the contract not more than 20 million rubles.</p><p>** If a winner of a procurement procedure is evading the conclusion of a contract, the contract is concluding with another participant for free.</p>"
+    },
+    "document": {
+        "title": "Download tariff plan",
+        "type": "DOCX",
+        "size": "14.1 KB",
+        "file": "/documents/tariffs/44-fz/Тарифный план Секции Государственные закупки.docx"
+    },
+    "bannerSlider": {
+      "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                    "text": "Enroll",
+                    "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                    "text": "More",
+                    "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

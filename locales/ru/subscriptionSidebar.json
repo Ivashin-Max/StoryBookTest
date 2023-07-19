@@ -1,0 +1,17 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "allProcedures2",
+            "description": "Электронная торговая площадка ТЭК-Торг",
+            "href": "#"
+        },
+        "banner": {
+            "title": "Цифровой помощник",
+            "image": "/images/blocks/sidebar/bg1.jpg",
+            "link": {
+                "text": "",
+                "href": "#"
+            }
+        }
+    }
+}

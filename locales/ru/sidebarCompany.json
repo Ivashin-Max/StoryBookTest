@@ -1,0 +1,62 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "companyFull",
+            "description": "Электронная торговая площадка ТЭК-Торг",
+            "href": "#"
+        },
+        "menu": [
+            {
+                "text": "О ТЭК-Торг",
+                "href": "#",
+                "id": "tektorg",
+                "subLinks": []
+            },
+            {
+                "text": "Работа у нас",
+                "href": "#",
+                "id": "job",
+                "subLinks": []
+            },
+            {
+                "text": "Контакты",
+                "href": "#",
+                "id": "contacts",
+                "subLinks": []
+            },
+            {
+                "text": "Новости",
+                "href": "#",
+                "id": "news",
+                "subLinks": [
+                    {
+                        "text": "Анонсы закупок",
+                        "href": "#"
+                    },
+                    {
+                        "text": "Пресс-центр",
+                        "href": "#"
+                    },
+                    {
+                        "text": "СМИ о нас",
+                        "href": "#"
+                    }
+                ]
+            },
+            {
+                "text": "Партнеры",
+                "href": "#",
+                "id": "partners",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Цифровой помощник",
+            "image": "/images/blocks/sidebar/bg1.jpg",
+            "link": {
+                "text": "",
+                "href": "#"
+            }
+        }
+    }
+}

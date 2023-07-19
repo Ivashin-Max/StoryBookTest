@@ -1,0 +1,162 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Услуги и сервисы для заказчиков 223-ФЗ",
+                    "href": "/223-fz/service-customers-223-fz"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы<br>для заказчиков 223-ФЗ"
+    },
+    "tags": [
+        "Все",
+        "Планирование",
+        "Подготовка",
+        "Проведение",
+        "Заключение договора",
+        "Анализ и контроль"
+    ],
+    "tagsContent": {
+        "planning": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "https://www.youtube.com/watch?v=h7HshJA7umk",
+                        "isForeign": true
+                    },
+                    "title": "Сервис планирования закупочных процедур",
+                    "text": "Удобство и&nbsp;расширенные возможности при работе с&nbsp;планом закупки 223-ФЗ",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers-223-fz/nmc"
+                    },
+                    "title": "Обоснование НМЦ",
+                    "text": "Подбор и&nbsp;аналитика ценовой информации по&nbsp;состоявшимся закупкам товаров, работ и&nbsp;услуг",
+                    "iconName": "conversation"
+                }
+            ]
+        },
+        "training": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers-223-fz/digital_helper"
+                    },
+                    "title": "Цифровой помощник",
+                    "text": "Полная проверка статуса поставщика автоматизировано и&nbsp;на&nbsp;основании надежных источников",
+                    "iconName": "person"
+                }
+            ]
+        },
+        "holding": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3MarketCentre",
+                    "title": "Маркетинговый центр",
+                    "text": "Обеспечение требуемого уровня конкуренции на&nbsp;закупках. Коммуникация и&nbsp;сбор обратной связи от&nbsp;потенциальных участников закупок",
+                    "iconName": "cart"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers-223-fz/outsourcing"
+                    },
+                    "title": "Аутсорсинг закупок",
+                    "text": "Комплексное сопровождение на&nbsp;всех этапах закупочного процесса: от&nbsp;разработки документации до&nbsp;заключения договора",
+                    "iconName": "timeout"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "https://vk.com/zakupo4naya",
+                        "isForeign": true
+                    },
+                    "title": "Комьюнити по закупкам",
+                    "text": "Активное комьюнити, к&nbsp;которому за&nbsp;1,5 года присоединились больше 5000&nbsp;человек:<br/>— полезные материалы<br/>— актуальные новости<br/>— живое общение с&nbsp;экспертами и&nbsp;практиками",
+                    "iconName": "commercialPurchases"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/education"
+                    },
+                    "title": "Учебный центр",
+                    "text": "Теория и&nbsp;практика от&nbsp;экспертов в&nbsp;сфере закупок",
+                    "iconName": "Education"
+                }
+            ]
+        },
+        "agreement": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3ManageDogovor",
+                    "title": "Управление договорами",
+                    "text": "Автоматизированный процесс исполнения договора",
+                    "iconName": "files"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "Отправляйте документы без дублирования на&nbsp;бумаге для оптимизации затрат, получайте документы бесплатно",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "analysis": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "https://www.youtube.com/watch?v=gfTbwvvmxaE&feature=youtu.be",
+                        "isForeign": true
+                    },
+                    "title": "Отчетность",
+                    "text": "Ключевые показатели эффективности вашей закупочной деятельности в&nbsp;качественном визуальном представлении",
+                    "iconName": "blank"
+                },
+                {
+                    "modalId": "ApplicationForm3NSI",
+                    "title": "Нормализация нормативного справочника информации (НСИ)",
+                    "text": "Сформируйте собственный справочник для работы с&nbsp;товарами, работами и&nbsp;услугами на&nbsp;всех этапах жизненного цикла компании, включая бюджетирование, закупки, бухгалтерскую отчетность",
+                    "iconName": "documentFile"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers-223-fz/audit"
+                    },
+                    "title": "Аудит закупочной деятельности организации",
+                    "text": "Подготовьтесь к&nbsp;любой проверке с&nbsp;нашей помощью",
+                    "iconName": "list"
+                }
+            ]
+        }
+    }
+}

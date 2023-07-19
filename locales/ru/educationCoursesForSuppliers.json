@@ -1,0 +1,28 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Мероприятия и курсы<br> для поставщиков",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Обучение"
+                },
+                {
+                    "text": "Мероприятия и курсы"
+                },
+                {
+                    "text": "Поставщикам",
+                    "href": "/education/courses-supplier"
+                }
+            ]
+        }
+    },
+    "tags": ["Мероприятия", "Курсы"],
+    "calendar": {
+        "text": "Ближайшие мероприятия"
+    }
+}

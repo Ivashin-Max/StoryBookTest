@@ -1,0 +1,196 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Support and development program for suppliers of the Inter RAO Group companies",
+        "description": "Take part in&nbsp;support and development events and, based on&nbsp;the results of&nbsp;a&nbsp;qualification assessment and an&nbsp;individual development chart, you will receive the support of&nbsp;the Inter RAO Group in&nbsp;events to&nbsp;receive information, marketing, financial, property and other support.",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Support and Development Program"
+                }
+            ]
+        }
+    },
+    "stepsStatic": {
+        "title": "Participation in&nbsp;the support and development program",
+        "items": [
+            {
+                "text": "View program and participation requirements"
+            },
+            {
+                "text": "Fill out an&nbsp;application on&nbsp;the service page and wait for the decision of&nbsp;Inter RAO"
+            },
+            {
+                "text": "Undergo an audit"
+            },
+            {
+                "text": "Get an individual development chart"
+            },
+            {
+                "text": "Implement the activities of&nbsp;an&nbsp;individual development chart"
+            }
+        ]
+    },
+    "programPurpose": {
+        "title": "Purpose of program:",
+        "text": [
+            "Support and development of&nbsp;SMEs, whose activities and (or) ongoing projects are carried out in&nbsp;promising projects in&nbsp;the electric power industry related to&nbsp;the production activities of&nbsp;the Inter RAO Group companies, including in&nbsp;the field of&nbsp;digitalization, automation and production robotics."
+        ]
+    },
+    "programObjectives": {
+        "title": "Objectives of program:",
+        "program": "<h3>Organization of&nbsp;the effective interaction of&nbsp;SMEs with the infrastructure of&nbsp;support and development of&nbsp;SMEs and the Inter RAO Group companies in&nbsp;the implementation&nbsp;of:</h3><ul><li>Substitution of&nbsp;the purchase of&nbsp;foreign products with the purchase of&nbsp;products of&nbsp;domestic manufacturers;</li><li>An&nbsp;increase in&nbsp;the number of&nbsp;products used in&nbsp;production and technological processes, with higher quality characteristics, high-tech and innovative products.</li></ul>"
+    },
+    "infoBlockWithIcons": {
+        "title": "Participants of program:",
+        "sideCard": {
+            "title": "SME entity entitled to&nbsp;at&nbsp;least one of&nbsp;the following criteria has the right to&nbsp;take part in&nbsp;the Program:",
+            "bg": "orange2"
+        },
+        "content": [
+            {
+                "text": "The activities of&nbsp;the subject of&nbsp;SMEs and (or) the project implemented by&nbsp;it&nbsp;is&nbsp;aimed at&nbsp;import substitution;",
+                "iconName": "Importozamewenie"
+            },
+            {
+                "text": "The activities of&nbsp;the SME entity and (or) the projects it&nbsp;implements are carried out using Innovation and R&amp;D;",
+                "iconName": "innovation"
+            },
+            {
+                "text": "The volume of&nbsp;demand for the products of&nbsp;the SME entity for the Inter RAO Group of&nbsp;Companies in&nbsp;the long&nbsp;/ short&nbsp;/ approved pilot strategy is&nbsp;of&nbsp;interest or&nbsp;the volume of&nbsp;demand for products for the Inter RAO company&nbsp;/ Inter RAO Group companies is&nbsp;of&nbsp;interest due to&nbsp;the implementation of&nbsp;a&nbsp;large project.",
+                "iconName": "financialServices"
+            }
+        ]
+    },
+    "numberedList": {
+        "title": "Scheme of interaction",
+        "items": [
+            {
+                "title": "SME",
+                "description": "Supplier of&nbsp;import-substituting products (including export-oriented) and&nbsp;/ or&nbsp;innovative products, and&nbsp;/ or&nbsp;high-tech products, and&nbsp;/ or&nbsp;products with higher quality characteristics that can be&nbsp;used at&nbsp;the Group&rsquo;s facilities"
+            },
+            {
+                "title": "Application for participation in the Program",
+                "description": "If&nbsp;the supplier and&nbsp;/ or&nbsp;products do&nbsp;not meet the requirements of&nbsp;the Program, the supplier is&nbsp;invited to&nbsp;participate in&nbsp;the Partnership Program or&nbsp;to&nbsp;acquire the status of&nbsp;an&nbsp;accredited supplier"
+            },
+            {
+                "title": "Inter RAO LLC – Procurement Management Center",
+                "description": "An&nbsp;assessment is&nbsp;carried out to&nbsp;determine whether the products meet the requirements established in&nbsp;the Program"
+            },
+            {
+                "title": "Supplier Audit",
+                "description": "Legal, technological, energy, environmental audit is&nbsp;carried out"
+            },
+            {
+                "title": "Individual Support and Development Chart",
+                "description": "Providing financial, non-financial, tax, property support, assistance in&nbsp;getting access to&nbsp;purchases"
+            },
+            {
+                "title": "Access to&nbsp;purchases of&nbsp;the Inter RAO Group Companies"
+            }
+        ]
+    },
+    "documents": [
+        {
+            "nid": "1",
+            "title": "О Программе поддержки и развития поставщиков компаний Группы &laquo;Интер РАО&raquo;",
+            "section": "",
+            "group": "Документы",
+            "file": "/documents/inter-rao/growing-program/Программа поддержки и развития поставщиков компаний Группы Интер РАО.pdf",
+            "type": "PDF",
+            "size": "3.6 МБ"
+        },
+        {
+            "nid": "21",
+            "title": "Программа поддержки и развития поставщиков",
+            "section": "",
+            "group": "Субъекты РФ участвующие в реализации Программы (Свердловская область)",
+            "file": "/documents/inter-rao/growing-program/Свердловская область/Программа поддержки и развития поставщиков_Свердловская область.pdf",
+            "type": "PDF",
+            "size": "1.78 МБ"
+        },
+        {
+            "nid": "22",
+            "title": "Состав индивидуальной карты поддержки и развития поставщика",
+            "section": "",
+            "group": "Субъекты РФ участвующие в реализации Программы (Свердловская область)",
+            "file": "/documents/inter-rao/growing-program/Свердловская область/Состав индивидуальной карты поддержки и развития поставщика_Свердловская область.pdf",
+            "type": "PDF",
+            "size": "452.71 КБ"
+        },
+        {
+            "nid": "31",
+            "title": "Программа поддержки и развития поставщиков",
+            "section": "",
+            "group": "Субъекты РФ участвующие в реализации Программы (Ярославская область)",
+            "file": "/documents/inter-rao/growing-program/Ярославская область/Программа поддержки и развития поставщиков_Ярославская область.pdf",
+            "type": "PDF",
+            "size": "1.67 МБ"
+        },
+        {
+            "nid": "32",
+            "title": "Состав индивидуальной карты поддержки и развития поставщика",
+            "section": "",
+            "group": "Субъекты РФ участвующие в реализации Программы (Ярославская область)",
+            "file": "/documents/inter-rao/growing-program/Ярославская область/Состав индивидуальной карты поддержки и развития поставщика_Ярославская область.pdf",
+            "type": "PDF",
+            "size": "512.39 КБ"
+        },
+        {
+            "nid": "33",
+            "title": "Информация о проведении отбора на постоянной основе",
+            "section": "",
+            "group": "Информация о проведении отбора на постоянной основе",
+            "file": "/documents/inter-rao/growing-program/Информация о проведении отбора на постоянной основе.pdf",
+            "type": "PDF",
+            "size": "140 КБ"
+        }
+    ],
+    "contactsForm": {
+        "title": "Fill in the contact details",
+        "docs": {
+            "title": "Download sample application to fill out",
+            "items": [
+                {
+                    "description": "Notification of import substitution",
+                    "title": "Application for participation in the Supplier Support and Development Program for Inter RAO Group Companies",
+                    "type": "DOCX",
+                    "size": "29 KB",
+                    "httpLink": "/documents/inter-rao/growing-program/Заявление на участие в Программе поддержки и развития поставщиков компаний Группы «Интер РАО»_0.docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "breadcrumbs": [
+    {
+      "text": "Main",
+      "href": "/"
+  },
+  {
+      "text": "About company",
+      "href": "/about"
+  },
+  {
+      "text": "News"
+  },
+  {
+      "text": "Press Centre",
+      "href":"/news-press"
+  }
+  ]
+}

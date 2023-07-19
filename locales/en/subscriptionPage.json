@@ -1,0 +1,34 @@
+{
+    "leadImg": {
+        "title": "Subscription to&nbsp;purchases <br> and objects (of sale)",
+        "textColor": "white",
+        "backgroundColor": "blue",
+        "background": {
+            "src": "/images/pages/subscription/lead-1.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/subscription/lead-1.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "All procedures",
+                    "href": "/procedures"
+                },
+                {
+                    "text": "Subscription to purchases and objects"
+                }
+            ]
+        }
+    },
+    "tags": ["Subscription to purchases", "Subscription to objects (of sale)"]
+}

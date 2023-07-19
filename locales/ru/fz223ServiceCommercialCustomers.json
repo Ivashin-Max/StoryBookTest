@@ -1,0 +1,110 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Услуги и сервисы для коммерческих заказчиков"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы для коммерческих заказчиков"
+    },
+    "tags": [
+        "Все",
+        "Планирование",
+        "Подготовка",
+        "Проведение",
+        "Заключение договора"
+    ],
+    "tagsContent": {
+        "planning": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers/nmc"
+                    },
+                    "title": "Обоснование НМЦ",
+                    "text": "Подбор и&nbsp;аналитика ценовой информации по&nbsp;состоявшимся закупкам товаров, работ и&nbsp;услуг",
+                    "iconName": "conversation"
+                }
+            ]
+        },
+        "training": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers/digital_helper"
+                    },
+                    "title": "Цифровой помощник",
+                    "text": "Полная проверка статуса поставщика автоматизировано и&nbsp;на&nbsp;основании надежных источников",
+                    "iconName": "person"
+                }
+            ]
+        },
+        "holding": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3MarketCentre",
+                    "title": "Маркетинговый центр",
+                    "text": "Обеспечение требуемого уровня конкуренции на&nbsp;закупках. Коммуникация и&nbsp;сбор обратной связи от&nbsp;потенциальных участников закупок",
+                    "iconName": "cart"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers/outsourcing"
+                    },
+                    "title": "Аутсорсинг закупок",
+                    "text": "Комплексное сопровождение на&nbsp;всех этапах закупочного процесса: от&nbsp;разработки документации до&nbsp;заключения договора",
+                    "iconName": "timeout"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/education"
+                    },
+                    "title": "Учебный центр",
+                    "text": "Теория и&nbsp;практика от&nbsp;экспертов в&nbsp;сфере закупок",
+                    "iconName": "Education"
+                }
+            ]
+        },
+        "agreement": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3ManageDogovor",
+                    "title": "Управление договорами",
+                    "text": "Автоматизированный процесс исполнения договора",
+                    "iconName": "files"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "Отправляйте документы без дублирования на&nbsp;бумаге для оптимизации затрат, получайте документы бесплатно",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    }
+}

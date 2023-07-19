@@ -1,0 +1,84 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "educationFullEn",
+            "description": "The electronic trading platform TEK-Torg<br>Training for effective work with procurement",
+            "href": "/education"
+        },
+        "menu": [
+            {
+                "text": "TEK Torg Training Center",
+                "href": "/education",
+                "id": "trainingCenter",
+                "subLinks": []
+            },
+            {
+                "text": "Events and Courses",
+                "id": "courses",
+                "subLinks": [
+                    {
+                        "text": "For Customers",
+                        "href": "/education/courses-customer"
+                    },
+                    {
+                        "text": "For Suppliers",
+                        "href": "/education/courses-supplier"
+                    }
+                ]
+            },
+            {
+                "text": "Video Materials",
+                "id": "videos",
+                "subLinks": [
+                    {
+                        "text": "For Customers",
+                        "href": "/education/video-customer"
+                    },
+                    {
+                        "text": "For Suppliers",
+                        "href": "/education/video-supplier"
+                    }
+                ]
+            },
+            {
+                "text": "Expert’s Articles",
+                "id": "articles",
+                "subLinks": [
+                    {
+                        "text": "For Customers",
+                        "href": "/education/expert-articles"
+                    },
+                    {
+                        "text": "For Suppliers",
+                        "href": "/education/expert-articles-supliers"
+                    }
+                ]
+            }
+        ],
+        "banner": [
+            {
+                "title": "View",
+                "image": "/images/headerWidgets/education.jpeg",
+                "link": {
+                    "href": "https://ako-goszakaz.ru",
+                    "isForeign": true
+                }
+            },
+            {
+                "title": "Events calendar",
+                "image": "/images/headerWidgets/education.jpg",
+                "link": {
+                    "href": "https://event.tektorg.ru/calendar",
+                    "isForeign": true
+                }
+            },
+            {
+                "title": "Personal consultation with experienced experts",
+                "image": "/images/headerWidgets/services-icwe.png",
+                "link": {
+                    "href": "/services/service-suppliers/icwe"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "leadText": {
+        "title": "Каталог",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Продажа имущества",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Каталог объектов"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Подписаться на рассылку",
+            "href": "/subscription"
+        }
+    },
+    "backButton": "Назад",
+    "tags": ["Коммерческое имущество", "Государственное имущество", "Арестованное имущество"],
+    "errorMessage": "По вашему запросу ничего не найдено",
+    "message": {
+        "text": "Внимание пользователям! Заблаговременно регистрируйтесь и&nbsp;пополняйте лицевой счет для участия в&nbsp;процедуре, так как регистрация и&nbsp;зачисление денежных средств может занимать до&nbsp;7&nbsp;рабочих дней."
+    },
+    "search": {
+        "title": "Поиск по объектам",
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или тип имущества (квартира, грузовой транспорт, трансформатор)",
+            "submitText": "Найти"
+        },
+        "filters": [
+            {
+                "title": "Местонахождение имущества",
+                "type": "text",
+                "fields": [{ "name": "address", "placeholder": "Введите область / населенный пункт" }]
+            },
+            {
+                "title": "Статусы процедур (стадии)",
+                "type": "checkbox",
+                "fields": [{ "name": "status" }],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Организатор (продавец)",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Введите наименование организации или ИНН"
+                },
+                "fields": [{ "name": "organizer" }],
+                "dataName": "organizers"
+            },
+            {
+                "title": "Цена, ₽",
+                "type": "price",
+                "fields": [
+                    { "name": "sumPrice_start", "label": "От" },
+                    { "name": "sumPrice_end", "label": "До" }
+                ]
+            }
+        ]
+    },
+    "sort": {
+        "viewList": [
+            {
+                "title": "Карточный вид",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Табличный вид",
+                "icon": "viewTable"
+            }
+        ]
+    },
+    "categoryCards": [
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/immovables.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/transport.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/MTR.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/intangible.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/other.jpg"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "leadImg": {
+        "title": "Procurement Procedures of Inter RAO",
+        "background": {
+            "src": "/images/pages/interRao/head-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/interRao/head.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/interRao/head-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "ETP Sections"
+            },
+            {
+                "text": "Procurement procedures of Inter RAO",
+                "href": "/inter_rao"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Inter RAO PJSC is a Russian energy company that manages assets in Russia, as well as in Europe and the CIS countries. Inter RAO operates in the following business segments: generation and supply of electric and heat energy, international power trading, engineering and construction of power facilities.",
+        "text": [
+            "Introduction of new services, development and automation of existing ones, involvement of suppliers in the process gives us the opportunity to develop an integrated approach to procurement, and to find new solutions for the formation of effective comprehensive interaction."
+        ]
+    },
+    "items": [
+        {
+            "title": "Eco-friendly service environment",
+            "text": "Services for Procurement Procedures of Inter RAO participants",
+            "background": {
+                "src": "/images/pages/interRao/background-314.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/interRao/background.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/pages/interRao/background-680.jpg",
+                        "breakpoint": "680"
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "text": "Learn more",
+                    "href": "/inter_rao/ekosreda"
+                }
+            ]
+        }
+    ],
+    "purchases": {
+        "title": "Procurement procedures",
+        "link": [
+            {
+                "text": "View all",
+                "href": "/inter_rao/procedures"
+            }
+        ]
+    },
+    "services": {
+        "title": "Services",
+        "cards": {
+            "sideCard": {
+                "title": "Tools for winning in tenders",
+                "text": "Our services will help you reach the most ambitious goals",
+                "href": "/inter_rao/service",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/services/5-1-1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/services/5-1-1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/services/5-1-1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "iconName": "rocket"
+            },
+            "cards": [
+                {
+                    "title": "Accelerated accreditation. Complete the procedure within 2 hours",
+                    "href": "/inter_rao/service/fast-accreditation",
+                    "iconName": "checkbox",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Digital Signature",
+                    "href": "/inter_rao/service/e-signature",
+                    "iconName": "blank",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Bank/independent guarantee in 15 minutes",
+                    "href": "/inter_rao/service/bg",
+                    "iconName": "checkMark2",
+                    "targetBlank": false
+                },
+                {
+                    "title": "Accelerated access. Crediting of funds within 2 hours",
+                    "href": "/inter_rao/service/134",
+                    "iconName": "rocket",
+                    "targetBlank": false
+                }
+            ]
+        }
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Search",
+        "rectLink": {
+            "text": "Subscription to purchases",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": " Enter a keyword or the procedure number",
+            "submitText": "Search"
+        },
+        "link": {
+            "text": "Advanced search",
+            "href": "/inter_rao/procedures"
+        }
+    },
+    "educatuonInner": {
+        "wrapper": {
+            "name": "Training",
+            "links": [
+                {
+                    "href": "/education/courses-supplier",
+                    "text": "Suppliers"
+                },
+                {
+                    "href": "/education/courses-customer",
+                    "text": "Сustomers"
+                }
+            ]
+        },
+        "images": [
+            "/images/index/educationsEvents/1.jpg",
+            "/images/index/educationsEvents/2.jpg",
+            "/images/index/educationsEvents/3.jpg",
+            "/images/index/educationsEvents/4.jpg",
+            "/images/index/educationsEvents/5.jpg"
+        ],
+        "educationsEvents": [
+            {
+                "nid": "5971",
+                "title": "Online consultation for suppliers on 223-FZ",
+                "location": "online",
+                "date": "September 7",
+                "date_closed": true,
+                "expert": {
+                    "name": null,
+                    "nid": null
+                },
+                "type": "Webinar",
+                "members": {
+                    "supplier": "Suppliers"
+                },
+                "price": "0",
+                "url": "https://www.tektorg.ru/education/5971?utm_source=education&utm_medium=calendar"
+            },
+            {
+                "nid": "6085",
+                "title": "Participation in procurement as a way of business development in the new environment. Support measures for SMEs and the self-employed",
+                "location": "Nizhny Novgorod",
+                "date": "September 8",
+                "date_closed": false,
+                "expert": {
+                    "name": null,
+                    "nid": null
+                },
+                "type": "Seminar",
+                "members": {
+                    "supplier": "Suppliers"
+                },
+                "price": "0",
+                "url": "https://xn----7sbomtdetgei.xn--p1ai/nizhniy-novgorod2022?utm_source=education&utm_medium=calendar"
+            },
+            {
+                "nid": "6100",
+                "title": "Procurement regulations: what should be adjusted due to changes in legislation in 2022",
+                "location": "online",
+                "date": "September 8",
+                "date_closed": false,
+                "expert": {
+                    "name": null,
+                    "nid": null
+                },
+                "type": "Webinar",
+                "members": {
+                    "customer": "To customers"
+                },
+                "price": "5000",
+                "url": "https://www.tektorg.ru/education/6100?utm_source=education&utm_medium=calendar"
+            }
+        ],
+        "cursesCards": [
+            {
+                "nid": "5733",
+                "title": "Combating corruption in procurement",
+                "price": "7000",
+                "members": {
+                    "customer": "Customers"
+                }
+            },
+            {
+                "nid": "5732",
+                "title": "Course for 223-FZ customers",
+                "price": "8700",
+                "members": {
+                    "customer": "Customers"
+                }
+            },
+            {
+                "nid": "5693",
+                "title": "How to participate in procurements and make profitable deals",
+                "price": "9500",
+                "members": {
+                    "supplier": "Suppliers"
+                }
+            },
+            {
+                "nid": "5547",
+                "title": "Features of purchases from SMEs",
+                "price": "3700",
+                "members": {
+                    "customer": "Customers"
+                }
+            }
+        ]
+    }
+}

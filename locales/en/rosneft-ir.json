@@ -1,0 +1,58 @@
+{
+    "lead": {
+        "title": "Innovative solutions",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "The single window (one-stop shop)",
+                    "href": "/rosneft/edinoe_okno"
+                },
+                {
+                    "text": "Innovative solutions"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "Innovative solution are goods, technologies, software, work, or&nbsp;services, that meet the criteria of&nbsp;innovative products",
+        "text": [
+            "The main criteria of innovation:",
+            "&mdash; Rate of return.",
+            "&mdash; Payback period.",
+            "&mdash; The project is being implemented for the first time within the framework of the Rosneft Group Companies.",
+            "&mdash; The applicant of an innovative solution is a manufacturer/developer or an official representative.",
+            "Any individual, team or&nbsp;organization can offer an&nbsp;innovative solution for joint implementation by&nbsp;submitting a&nbsp;cooperation offer in&nbsp;the field of&nbsp;innovations. To&nbsp;submit an&nbsp;offer, it&nbsp;is&nbsp;necessary to&nbsp;send an&nbsp;&laquo;Application for Cooperation in&nbsp;the field of&nbsp;Innovations&raquo;, information on&nbsp;the completion of&nbsp;which is&nbsp;available on&nbsp;the page of&nbsp;Rosneft&rsquo;s &laquo;Single-window&raquo; system"
+        ],
+        "links": [
+            {
+                "text": "Send the offer",
+                "href": "https://www.rosneft.ru/Development/sci_and_innov/Upravlenie_innovacionnoj_dejatelnostju/Sistema_Odnogo_okna/",
+                "isForeign": true
+            }
+        ]
+    },
+    "items": [
+        {
+            "background": {
+                "src": "/images/pages/rosneft-ir/rosneft-ir_375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/rosneft-ir/rosneft-ir.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        }
+    ]
+}

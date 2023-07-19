@@ -1,0 +1,96 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "rosneftFull",
+            "description": "Электронная торговая площадка ТЭК-Торг<br>Секция закупок ПАО «НК «Роснефть»",
+            "href": "/rosneft"
+        },
+        "menu": [
+            {
+                "text": "Закупочные процедуры",
+                "href": "/rosneft/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Запросы (Т)КП",
+                "href": "/rosnefttkp/procedures",
+                "id": "rosnefttkp",
+                "subLinks": []
+            },
+            {
+                "text": "Единое окно",
+                "href": "/rosneft/edinoe_okno",
+                "id": "oneStopWindow",
+                "subLinks": []
+            },
+            {
+                "text": "Импортозамещение",
+                "href": "/rosneft/importozameshchenie",
+                "id": "importSubstitution",
+                "subLinks": []
+            },
+            {
+                "text": "Квалификация в обществах группы ПАО «НК «Роснефть»",
+                "href": "/rosneft/qualification",
+                "id": "qualification",
+                "subLinks": []
+            },
+            {
+                "text": "Поставщикам",
+                "href": "/rosneft/suppliers",
+                "id": "foreignSuppliers",
+                "subLinks": []
+            },
+            {
+                "text": "Иностранным поставщикам",
+                "href": "/rosneft/suppliers-foreign",
+                "id": "foreignSuppliers",
+                "subLinks": []
+            },
+            {
+                "text": "Анкета подрядчика СМР",
+                "href": "/rosneft/anketa-podradcika-smr",
+                "id": "contractorQuestionnaire",
+                "subLinks": []
+            },
+            {
+                "text": "Тарифы",
+                "href": "/rosneft/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Новости и анонсы",
+                "href": "/rosneft/news",
+                "id": "news",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "/rosneft/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Центр поддержки",
+                "href": "/rosneft/help",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "/rosneft/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "leadText": {
+        "title": "Procurement procedures",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Procurement procedures"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Subscribe to purchases",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Enter a keyword or the procedure number",
+            "submitText": "Search"
+        },
+        "errorMessage": "Nothing was found for your query",
+        "filters": [
+            {
+                "title": "Organizer",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Enter the name of the organization or TIN"
+                },
+                "fields": [
+                    {
+                        "name": "organizer"
+                    }
+                ],
+                "dataName": "organizers"
+            },
+            {
+                "title": "Method of determining the supplier (purchaser)",
+                "type": "checkbox",
+                "fields": [
+                    {
+                        "name": "types"
+                    }
+                ],
+                "dataName": "types"
+            },
+            {
+                "title": "Statuses of procedures (stages)",
+                "type": "checkbox",
+                "fields": [
+                    {
+                        "name": "status"
+                    }
+                ],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Price, RUB",
+                "type": "price",
+                "fields": [
+                    {
+                        "name": "sumPrice_start",
+                        "label": "From"
+                    },
+                    {
+                        "name": "sumPrice_end",
+                        "label": "To"
+                    }
+                ]
+            },
+            {
+                "title": "Date",
+                "type": "date",
+                "fields": [
+                    {
+                        "name": "datePublished",
+                        "label": "Publication of the procedure"
+                    },
+                    {
+                        "name": "dateEndRegistration",
+                        "label": "The end of accepting applications"
+                    }
+                ]
+            },
+            {
+                "title": "OKPD2 classifier code (for Lot)",
+                "type": "checkboxTree",
+                "search": {
+                    "placeholder": "Enter the name of the product, work, service or OKPD2 code"
+                },
+                "fields": [
+                    {
+                        "name": "okpd"
+                    }
+                ],
+                "dataName": "okpd"
+            },
+            {
+                "title": "OKVED2 classifier code (for Lot)",
+                "type": "checkboxTree",
+                "search": {
+                    "placeholder": "Enter the name of the product, work, service or OKVED2 code"
+                },
+                "fields": [
+                    {
+                        "name": "okved"
+                    }
+                ],
+                "dataName": "okved"
+            },
+            {
+                "title": "SME",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "msp",
+                        "data": [
+                            {
+                                "label": "All",
+                                "value": ""
+                            },
+                            {
+                                "label": "For SMEs",
+                                "value": "true"
+                            },
+                            {
+                                "label": "For non-SMEs",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Security",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "deposit",
+                        "data": [
+                            {
+                                "label": "All",
+                                "value": ""
+                            },
+                            {
+                                "label": "With collateral",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Without collateral",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "The Organizer's region",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Enter the name or area code"
+                },
+                "fields": [
+                    {
+                        "name": "regionCodes"
+                    }
+                ],
+                "dataName": "regions"
+            }
+        ]
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "Relevance",
+                "property": "actual"
+            },
+            {
+                "name": "High procedure price",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "Low procedure price",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "New",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Old",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Block view",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Table view",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

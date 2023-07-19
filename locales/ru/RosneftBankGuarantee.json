@@ -1,0 +1,276 @@
+{
+  "leadText": {
+    "title": "Банковская/Независимая гарантия для тендера с комиссией от 1,5%",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Торговые секции"
+        },
+        {
+          "text": "Закупки ПАО «НК «Роснефть»",
+          "href": "/rosneft"
+        },
+        {
+          "text": "Услуги и сервисы для поставщиков",
+          "href": "/rosneft/service"
+        },
+        {
+          "text": "Банковская гарантия"
+        }
+      ]
+    }
+  },
+  "bannerSlider2": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/banner/creditOnContract375.jpg",
+          "sources": [
+              {
+                  "src": "/images/banner/creditOnContract.jpg",
+                  "breakpoint": "1280"
+              },
+              {
+                  "src": "/images/banner/creditOnContract768.jpg",
+                  "breakpoint": "768"
+              }
+          ]
+      },
+        "title": "Банковская гарантия с&nbsp;комиссией от&nbsp;1,5&nbsp;%",
+        "text": [
+          "Проект банковской гарантии за&nbsp;15&nbsp;минут по&nbsp;1&nbsp;документу. Все операции онлайн!"
+        ],
+        "modal": [
+          {
+            "title": "Получить гарантию",
+            "id": "ServicesFormWithTitle"
+          }
+        ]
+      }
+    ]
+  },
+  "bannerText": {
+    "title": "Независимая гарантия",
+    "text": [
+      "С&nbsp;1&nbsp;января 2022 года в&nbsp;закупках по&nbsp;44-ФЗ независимая гарантия заменила банковскую.",
+      "Банковские гарантии оформляют исключительно банки. Независимые гарантии выдают не&nbsp;только банки из&nbsp;перечня Минфина, но&nbsp;и&nbsp;другие финансовые организации (п.&nbsp;1&nbsp;ст.&nbsp;45 44-ФЗ)."
+    ],
+    "modals": [
+      {
+        "title": "Получить гарантию",
+        "id": "ServicesFormWithTitle"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Преимущества",
+    "cards": {
+      "cardLink": {
+        "fullModalCard": true,
+        "title": "Получение независимой гарантии от&nbsp;15&nbsp;минут по&nbsp;одному документу",
+        "modal": [{
+          "title": "Получить гарантию",
+          "id": "ServicesFormWithTitle"
+        }]
+      },
+      "cardBottom": [
+        {
+          "title": "Все процессы доступны в&nbsp;режиме онлайн",
+          "iconName": "finger"
+        },
+        {
+          "title": "Любые гарантии: 44-ФЗб 223-ФЗ, 185-ФЗ (615&nbsp;ПП РФ), Коммерческие торги",
+          "iconName": "checkMark2"
+        },
+        {
+          "title": "Без ограничений по&nbsp;сумме гарантии",
+          "iconName": "bankomat"
+        },
+        {
+          "title": "Минимальная комиссия 900&nbsp;₽",
+          "iconName": "piece"
+        },
+        {
+          "title": "Работаем со&nbsp;сложными кейсами по&nbsp;всей России",
+          "iconName": "case2"
+        }
+      ]
+    }
+  },
+  "infoBlocks": {
+    "sideCard": {
+      "title": "Когда требуется гарантия?",
+      "bg": "blue"
+    },
+    "content": [
+      {
+        "text": "Требуются деньги на&nbsp;реализацию контракта, а&nbsp;не&nbsp;на&nbsp;депозит заказчику",
+        "iconName": "cartMoney"
+      },
+      {
+        "text": "Сумма обеспечения выигранных лотов превышает имеющиеся в&nbsp;наличии средства",
+        "iconName": "judgesGavel"
+      },
+      {
+        "text": "Заказчик задерживает оплату по&nbsp;предыдущему контракту",
+        "iconName": "blank"
+      },
+      {
+        "text": "Требуется аванс по&nbsp;контракту",
+        "iconName": "case"
+      }
+    ]
+  },
+  "bannerSlide": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/blocks/bannerSlider/slide375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/slide1.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/slide768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Гарантия сегодня оформляется за&nbsp;несколько часов в&nbsp;режиме онлайн",
+        "text": [
+          "Банковская/Независимая гарантия&nbsp;&mdash; это доступ к&nbsp;госзаказам и&nbsp;коммерческим закупкам без извлечения собственных денежных средств из&nbsp;оборота. Наличие средств для исполнения заказа&nbsp;&mdash; обязательное условие большинства тендеров. Оформление банковской гарантии выступает тем самым обеспечением условий контракта."
+        ],
+        "modal": [
+          {
+            "title": "Получить консультацию",
+            "id": "ServicesFormWithTitle"
+          }
+        ]
+      }
+    ]
+  },
+  "example4": {
+    "title": "Виды банковских гарантий",
+    "cards": [
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/1.jpg",
+        "title": "Гарантия на&nbsp;участие",
+        "text": "Обеспечение заявки на&nbsp;участие в&nbsp;закупке в&nbsp;виде независимой гарантии",
+        "textColor": "white"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/2.jpg",
+        "textColor": "white",
+        "title": "Гарантия на&nbsp;исполнение контракта",
+        "text": "Письменное обязательство, по&nbsp;которому банк выплатит сумму ущерба, если исполнитель не&nbsp;выполнит свои обязательства по&nbsp;контракту"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/3.jpg",
+        "textColor": "white",
+        "title": "Гарантия на&nbsp;возврат аванса",
+        "text": "Банк гарантирует возврат аванса, выданного заказчиком исполнителю, если договор не&nbsp;будет выполнен. Размер гарантии равен сумме полученного поставщиком авансового платежа"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/1.jpg",
+        "textColor": "white",
+        "title": "Гарантия на&nbsp;исполнение договора",
+        "text": "Используется для обеспечения выполнения покупателем платежных обязательств, предусмотренных в&nbsp;контракте, покрывает риск неплатежа (несвоевременного платежа) со&nbsp;стороны покупателя"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/2.jpg",
+        "textColor": "white",
+        "title": "Платежная гарантия ",
+        "text": "Гарантия обеспечения выполнения покупателем платежных обязательств, предусмотренных в&nbsp;контракте. Она основывается на&nbsp;платежных условиях контракта и&nbsp;покрывает риск неплатежа (несвоевременного платежа) со&nbsp;стороны покупателя"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/3.jpg",
+        "textColor": "white",
+        "title": "Гарантия на&nbsp;обеспечение гарантийных обязательств",
+        "text": "Вид обеспечения, который необходим, если заказчик устанавливает требование к&nbsp;гарантийному сроку товара, работы или услуг"
+      }
+    ]
+  },
+  "infolist": {
+    "title": "5&nbsp;причин, почему компании выбирают наш сервис",
+    "items": [
+      {
+        "title": "Скорость работы",
+        "text": "Проект банковской гарантии вы&nbsp;получаете в&nbsp;течении 15&nbsp;минут, а&nbsp;выпуск скана гарантии возможен уже через час после оплаты"
+      },
+      {
+        "title": "Надежность",
+        "text": "ТЭК-Торг&nbsp;&mdash; Федеральная электронная площадка, отобранная и&nbsp;сертифицированная Министерством финансов России"
+      },
+      {
+        "title": "Экономия времени",
+        "text": "Ваш персональный менеджер самостоятельно подготовит необходимые документы и&nbsp;отправит заявку в&nbsp;банки"
+      },
+      {
+        "title": "Работа по&nbsp;всей России",
+        "text": "Предоставляем услуги в&nbsp;каждом регионе в&nbsp;электронной форме, без личных визитов и&nbsp;посещения банков"
+      },
+      {
+        "title": "Выгодные условия",
+        "text": "Предлагаем минимальные тарифы ввиду отсутствия посредников"
+      }
+    ]
+  },
+  "textWImg":{
+    "picture": {
+      "src": "/images/blocks/textWithImage/building.jpg",
+      "sources": [
+          {
+              "src": "/images/blocks/textWithImage/building.jpg",
+              "breakpoint": "768"
+          }
+      ]
+  },
+  "textCard": {
+      "title": "Фиксированная ставка под 2,3%, до&nbsp;5&nbsp;млн. рублей",
+      "text": [
+          "Только для поставщиков ЭТП ТЭК-Торг на&nbsp;любые банковские гарантии действует фиксированная ставка под 2,3%. До&nbsp;5&nbsp;млн рублей гарантию можно получить только по&nbsp;паспорту."
+      ],
+      "modal": [{
+          "title": "Получить гарантию",
+          "id": "ServicesFormWithTitle"
+      }]
+  }
+  },
+  "bannerSlider": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Остались вопросы? Задайте их нам",
+        "modal": [
+          {
+            "title": "Задать вопрос",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

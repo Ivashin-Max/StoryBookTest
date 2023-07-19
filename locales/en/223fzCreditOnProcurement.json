@@ -1,0 +1,99 @@
+{
+  "leadText": {
+    "title": "Credit for participation in procurement",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "ETP Sections"
+        },
+        {
+          "text": "223-FZ and Commercial Procurement",
+          "href": "/223-fz"
+        },
+        {
+          "text": "Services for suppliers",
+          "href": "/223-fz/service-suppliers"
+        },
+        {
+          "text": "Credit for participation in procurement"
+        }
+      ]
+    },
+    "description": "44-FZ, 223-FZ and 615-PP. Solution within 1 hour.<br/>A tender loan is a service with which you can get funds as quickly as possible to secure participation in the tender without extracting the necessary amount from the company's turnover.",
+    "rectLink": {
+      "text": "Get financing",
+      "id": "ServicesFormWithTitle"
+    }
+  },
+  "infoBlocks": {
+    "sideCard": {
+      "title": "Key advantages of TEK-Torg in obtaining a product",
+      "bg": "blue"
+    },
+    "content": [
+      {
+        "text": "The decision to grant a loan is made within 1 hour: the minimum package of documents",
+        "iconName": "checkMark2"
+      },
+      {
+        "text": "No need to open a checking account",
+        "iconName": "file"
+      },
+      {
+        "text": "Formalization without personal presence",
+        "iconName": "checkMark"
+      },
+      {
+        "text": "Transfer of funds to the platform on the same day",
+        "iconName": "rocket"
+      }
+    ]
+  },
+  "five": {
+    "title": "How it works?",
+    "items": [
+      {
+        "text": "Fill out the application. Specify the INN and the link to the auction"
+      },
+      {
+        "text": "Get a preliminary decision"
+      },
+      {
+        "text": "Sign loan agreements with the DS"
+      },
+      {
+        "text": "Get a loan"
+      }
+    ]
+  },
+  "bannerSlide": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Any questions?<br>We will help!",
+        "modal": [
+          {
+            "title": "Ask a question",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Услуги и сервисы",
+                    "href": "/services"
+                },
+                {
+                    "text": "Коммерческим заказчикам",
+                    "href": "/services/customers"
+                },
+                {
+                    "text": "Обоснование НМЦ"
+                }
+            ]
+        },
+        "title": "Обоснование НМЦ",
+        "description": "Мы&nbsp;освобождаем специалистов закупочных подразделений и&nbsp;тендерных отделов от&nbsp;рутинной работы по&nbsp;поиску и&nbsp;анализу ценовой информации и&nbsp;предоставляем возможность работать в&nbsp;рамках универсальной площадки"
+    },
+    "example1": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/target375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/target.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/target768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Онлайн-сервис для обоснования начальной максимальной цены",
+                "text": "Мгновенный подбор контрактов для обоснования начальной максимальной цены. Прогноз цен на&nbsp;товары, работы или услуги",
+                "links": [
+                    {
+                        "text": "Воспользоваться",
+                        "href": "https://profile.tektorg.ru/nonAuth",
+                        "isForeign": true
+                    }
+                ],
+                "modal": [
+                    {
+                        "title": "Получить консультацию",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    },
+    "withNavigation": {
+        "wrapper": "Как это работает?",
+        "header": [
+            "Пользователь задает в&nbsp;поисковой строке название ТРУ, система подбирает подходящие коды ОКПД2",
+            "Можно указать нужные параметры: регион, ОКПД2, цена, год",
+            "Пользователь может обосновать как один товар, так и&nbsp;список из&nbsp;нескольких товаров. Его можно составить вручную или загрузать из&nbsp;Exel-файла.",
+            "Готовое обоснование выгружается в&nbsp;MS&nbsp;Excel"
+        ]
+    },
+    "list": {
+        "section": "blue",
+        "videoCard": {
+            "title": "Видеоурок",
+            "link": {
+                "text": "",
+                "href": "https://www.youtube.com/watch?v=s3NNoN-UXwY&list=PLtxJDbDu8abTntuSs41nMW4KCwmqbgNKz&index=9",
+                "isForeign": true
+            }
+        },
+        "content": {}
+    },
+    "infoBlock": {
+        "sideCard": {
+            "title": "Преимущества сервиса",
+            "bg": "blue",
+            "links": [
+                {
+                    "text": "Образец отчета",
+                    "href": "/documents/report_example.xlsx",
+                    "isForeign": true
+                }
+            ],
+            "modalbtns": [
+                {
+                    "title": "Получить консультацию",
+                    "id": "ApplicationForm3"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "<b>Онлайн-инструмент</b><br/>Позволяет облегчить и&nbsp;ускорить процесс обоснования НМЦ",
+                "iconName": "finger"
+            },
+            {
+                "text": "<b>Качество источников</b><br/>Используются данные ЕИС и ЭТП «ТЭК-Торг»",
+                "iconName": "checkbox"
+            },
+            {
+                "text": "<b>Простота работы</b><br/>Достаточно задать необходимые параметры и&nbsp;сразу получить необходимую информацию",
+                "iconName": "rocket"
+            },
+            {
+                "text": "<b>Стоимость</b><br/>Функционал бесплатен для Организаторов, работающих на площадке «ТЭК-Торг»",
+                "iconName": "Stonks"
+            }
+        ]
+    },
+    "tags": ["Новым клиентам", "Клиентам ТЭК-торг"],
+    "title": {
+        "title": "Как воспользоваться сервисом?"
+    },
+    "three": {
+        "title": "Новым клиентам",
+        "items": [
+            {
+                "text": "Аккредитуйтесь на&nbsp;площадке<br/>Если вы&nbsp;еще не&nbsp;являетесь клиентом АО&nbsp;&laquo;ТЭК-Торг&raquo;, зарегистрируйтесь на&nbsp;секции &laquo;223-ФЗ и&nbsp;Коммерческие закупки&raquo;"
+            },
+            {
+                "text": "Перейдите в&nbsp;личный кабинет<br/>В&nbsp;личном кабинете на&nbsp;секции &laquo;223-ФЗ и&nbsp;Коммерческие закупки&raquo; нажмите в&nbsp;меню на&nbsp;&laquo;Цифровой помощник&raquo;"
+            },
+            {
+                "text": "Выберите сервис<br/>Выберите пункт &laquo;Обоснование НМЦ&raquo; и&nbsp;получите интересующую вас информацию"
+            }
+        ]
+    },
+    "two": {
+        "title": "Клиентам ТЭК-торг",
+        "items": [
+            {
+                "text": "Перейдите в личный кабинет<br/>В личном кабинете на секции «223-ФЗ и Коммерческие закупки» нажмите в меню на «Цифровой помощник»"
+            },
+            {
+                "text": "Выберите сервис<br/>Выберите пункт «Обоснование НМЦ» и получите интересующую вас информацию"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Остались вопросы?",
+                "text": [
+                    "Напишите нам на&nbsp;<a href='mailto:org223@tektorg.ru'>edu@tektorg.ru</a> или<br/>позвоните по&nbsp;телефону <a href='tel:+74957348118'>+7 495 734-81-18&nbsp;доп.&nbsp;4512</a>"
+                ],
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,494 @@
+{
+    "leadImg": {
+        "title": "Sale of property",
+        "textColor": "white",
+        "backgroundColor": "blue",
+        "background": {
+            "src": "/images/pages/sale-main/leadImg-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/sale-main/leadImg-1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/sale-main/leadImg-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of property"
+                }
+            ]
+        }
+    },
+    "tags": ["For customers", "For sellers"],
+    "tagsContent": {
+        "toBuyers": {
+            "infoBlockWithIcons": {
+                "sideCard": {
+                    "title": "Buy and Win",
+                    "bg": "blue"
+                },
+                "content": [
+                    {
+                        "text": "Extensive range of property",
+                        "iconName": "file"
+                    },
+                    {
+                        "text": "Safe transactions",
+                        "iconName": "documentChecked"
+                    },
+                    {
+                        "text": "Objects throughout the Russian Federation",
+                        "iconName": "list"
+                    },
+                    {
+                        "text": "Personal manager support",
+                        "iconName": "checkMark2"
+                    },
+                    {
+                        "text": "The price is determined by the customer",
+                        "iconName": "bag"
+                    }
+                ]
+            },
+            "leadText": {
+                "lineBottom": false,
+                "title": "Search by procedures",
+                "rectLink": {
+                    "text": "Subscribe to new objects",
+                    "href": "/subscription?tag=objects"
+                }
+            },
+            "search": {
+                "searchInput": {
+                    "placeholder": "Enter a keyword or the procedure number",
+                    "submitText": "Search"
+                },
+                "link": {
+                    "text": "Advanced search",
+                    "href": "/sale/procedures"
+                }
+            },
+            "backButton": "Beginning",
+            "catalog": {
+                "leadText": {
+                    "lineBottom": false,
+                    "title": "Categories of objects"
+                },
+                "cards": [
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/immovables.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/transport.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/intangible.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/other.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/MTR.jpg"
+                    }
+                ]
+            },
+            "advertisementBanners": {
+                "items": [
+                    {
+                        "title": "Будьте в&nbsp;курсе<br>последних изменений",
+                        "description": "Подпишитесь на&nbsp;рассылку<br>интересных предложений<br>по&nbsp;вашим товарным категориям",
+                        "image": "/images/pages/sale-main/advertisementBanners.jpg",
+                        "textColor": "black",
+                        "link": {
+                            "text": "Подписаться",
+                            "href": "/subscription"
+                        }
+                    },
+                    {
+                        "title": "To the object catalog",
+                        "image": "/images/blocks/advertisementBanners/helper.jpg",
+                        "link": {
+                            "text": "Go",
+                            "href": "/vitrina/procedures"
+                        },
+                        "linkBg": false
+                    }
+                ]
+            },
+            "stepsStatic": {
+                "title": "Stages of property purchase",
+                "items": [
+                    {
+                        "text": "Find the property you need"
+                    },
+                    {
+                        "text": "Complete registration"
+                    },
+                    {
+                        "text": "Apply for participation in the bidding"
+                    },
+                    {
+                        "text": "Win the bidding"
+                    },
+                    {
+                        "text": "Purchase and sale transaction"
+                    }
+                ]
+            },
+            "customers": {
+                "title": "Buy Property",
+                "links": [
+                    {
+                        "text": "View all",
+                        "href": "/clients/organizations"
+                    }
+                ]
+            },
+            "contacts": {
+                "wrapper": {
+                    "name": "Contacts",
+                    "bg": "gray2"
+                },
+                "blocks": [
+                    {
+                        "title": "Property Purchasing",
+                        "sections": [
+                            {
+                                "title": "Vehicles",
+                                "items": [
+                                    {
+                                        "phone": "+7 999 926-52-05"
+                                    },
+                                    {
+                                        "mail": "sale@tektorg.ru"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Equipment and material and technical resources",
+                                "items": [
+                                    {
+                                        "phone": "+7 999 926-52-27"
+                                    },
+                                    {
+                                        "mail": "sale@tektorg.ru"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Real estate",
+                                "items": [
+                                    {
+                                        "phone": "+7 908 305-74-57"
+                                    },
+                                    {
+                                        "mail": "sale@tektorg.ru"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "advertising": {
+                "items": [
+                    {
+                        "background": {
+                            "src": "/images/blocks/bannerSlider/calendar-slide-375.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/blocks/bannerSlider/calendar-slide-1920.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/blocks/bannerSlider/calendar-slide-768.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "Calendar of industry events",
+                        "text": "The most important federal events in one place",
+                        "links": [
+                            {
+                                "text": "Watch",
+                                "href": "/calendar"
+                            }
+                        ]
+                    },
+                    {
+                        "background": {
+                            "src": "/images/blocks/bannerSlider/trade-slide-375.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/blocks/bannerSlider/trade-slide-1920.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/blocks/bannerSlider/trade-slide-768.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "Ускоренный доступ к торгам",
+                        "text": "Зачисление денежных средств по платежному поручению на ваш счет в течение 2 часов",
+                        "links": [
+                            {
+                                "text": "Посмотреть",
+                                "href": "/sale/service/134"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "toSellers": {
+            "bannerText": {
+                "title": "For the sellers",
+                "text": [
+                    "The section &laquo;Sale of&nbsp;property&raquo; is&nbsp;designed to&nbsp;reduce warehouse balances not involved in&nbsp;the production of&nbsp;equipment and materials, as&nbsp;well as&nbsp;to&nbsp;sale of&nbsp;movable and immovable property including shares.<br>The section is&nbsp;also designed to&nbsp;place various types of&nbsp;government biddings including seized and confiscated property."
+                ]
+            },
+            "infoBlockWithIcons": {
+                "sideCard": {
+                    "title": "Benefits of working with us",
+                    "bg": "blue",
+                    "modalbtns": [
+                        {
+                            "title": "Request a callback",
+                            "id": "ApplicationForm3"
+                        }
+                    ]
+                },
+                "content": [
+                    {
+                        "text": "Advice on&nbsp;the placement of&nbsp;lots",
+                        "iconName": "conversation"
+                    },
+                    {
+                        "text": "Promotion of&nbsp;procedures on&nbsp;third-party aggregators",
+                        "iconName": "rocket"
+                    },
+                    {
+                        "text": "Sending notifications about published procedures and commercial offers to&nbsp;the database of&nbsp;potential buyers selected from organizations cooperating with the ETP TEK-Torg and to&nbsp;the external potentially interested companies",
+                        "iconName": "notification"
+                    },
+                    {
+                        "text": "Promotion through social networks of&nbsp;TEK-Torg",
+                        "iconName": "person"
+                    },
+                    {
+                        "text": "Providing feedback from potential buyers to&nbsp;make decisions on&nbsp;correction of&nbsp;information about lots",
+                        "iconName": "feedback"
+                    }
+                ]
+            },
+            "infoList": {
+                "title": "Our Sales Process",
+                "items": [
+                    {
+                        "title": "Electronic platform",
+                        "text": "Promotion tools on&nbsp;the electronic platform (advertising, promoting of&nbsp;lots)"
+                    },
+                    {
+                        "title": "Aggregators",
+                        "text": "Promotion of&nbsp;procedures on&nbsp;third-party aggregators:",
+                        "list": [
+                            "&nbsp;vehicles: Avito, Drom.ru , Nelikvidi.com , Metaprom.ru and other aggregators;",
+                            "&nbsp;ULA (unclaimed liquid assets): Nelikvidi.com, Metaprom.ru, tek-ads.ru and other aggregators;",
+                            "&nbsp;real estate: Avito, Yandex Real Estate, CIAN, domofond.ru and other aggregators."
+                        ]
+                    },
+                    {
+                        "title": "Newsletter",
+                        "text": "Sending notifications about published procedures and commercial offers to&nbsp;the database of&nbsp;potential buyers selected from organizations cooperating with the ETP TEK-Torg and to&nbsp;the external potentially interested companies"
+                    },
+                    {
+                        "title": "Social networks",
+                        "text": "Communities in&nbsp;social networks<br>(Telegram, Vkontakte)"
+                    }
+                ]
+            },
+            "advertising2": {
+                "items": [
+                    {
+                        "background": {
+                            "src": "/images/blocks/bannerSlider/fin-services-375.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/blocks/bannerSlider/fin-services-1920.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/blocks/bannerSlider/fin-services-768.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "How to start",
+                        "text": "Course from industry experts, copyrighted materials, 24/7 access",
+                        "links": [
+                            {
+                                "text": "Learn more",
+                                "href": "https://sale.tektorg.ru/#front/register",
+                                "isForeign": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            "indicatorsInner": {
+                "wrapper": {
+                    "name": "Section statistics in figures"
+                },
+                "cards": {
+                    "cardsTop": [
+                        {
+                            "head": {
+                                "number": "3,7",
+                                "text": "application<br>per lot"
+                            },
+                            "items": [
+                                {
+                                    "text": "is average competition (level)"
+                                }
+                            ],
+                            "image": "/images/blocks/statistics/1.jpg"
+                        },
+                        {
+                            "head": {
+                                "number": "25",
+                                "text": "%"
+                            },
+                            "items": [
+                                {
+                                    "text": "is&nbsp;average increase in&nbsp;the lot<br>price when carrying out the auction"
+                                }
+                            ],
+                            "image": "/images/blocks/statistics/2.jpg"
+                        },
+                        {
+                            "head": {
+                                "number": "17 889",
+                                "text": ""
+                            },
+                            "items": [
+                                {
+                                    "text": "of published lots"
+                                }
+                            ],
+                            "image": "/images/blocks/statistics/3.jpg"
+                        }
+                    ],
+                    "cardsBottom": [
+                        {
+                            "head": {
+                                "number": "520 000",
+                                "text": "customers"
+                            },
+                            "items": [
+                                {
+                                    "text": "are registered in&nbsp;the Section"
+                                }
+                            ]
+                        },
+                        {
+                            "head": {
+                                "number": "55,3",
+                                "text": "billion rubles"
+                            },
+                            "items": [
+                                {
+                                    "text": "is&nbsp;the total amount of&nbsp;property sold since 2017"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "stepsStatic": {
+                "title": "5 steps to sale property",
+                "items": [
+                    {
+                        "text": "Registration<br>on&nbsp;the ETP"
+                    },
+                    {
+                        "text": "Publication of lots"
+                    },
+                    {
+                        "text": "Promotion on&nbsp;external resources, newsletter"
+                    },
+                    {
+                        "text": "Bidding"
+                    },
+                    {
+                        "text": "Conclusion of&nbsp;the contract between the customer and the buyer"
+                    }
+                ]
+            },
+            "bannerText2": {
+                "title": "Register in&nbsp;the section now and get/receive up&nbsp;to&nbsp;3&nbsp;free procedures",
+                "background": {
+                    "src": "/images/blocks/bannerText/4-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerText/4.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "text": [""],
+                "links": [
+                    {
+                        "text": "Register",
+                        "href": "https://sale.tektorg.ru/#front/register",
+                        "isForeign": true
+                    }
+                ],
+                "modals": [
+                    {
+                        "title": "Request a callback",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            },
+            "contacts": {
+                "wrapper": {
+                    "name": "Contacts",
+                    "bg": "gray2"
+                },
+                "blocks": [
+                    {
+                        "title": "On the issues of the sale of property",
+                        "sections": [
+                            {
+                                "title": "Rumyantsev Sergey Anatolievich, Property Sales Director",
+                                "items": [
+                                    {
+                                        "phone": "+7 (495)734-81-18 add 7723"
+                                    },
+                                    {
+                                        "mail": "s.rumyantsev@tektorg.ru"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

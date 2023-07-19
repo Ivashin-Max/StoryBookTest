@@ -1,0 +1,248 @@
+{
+  "leadText": {
+    "title": "Examination of the application for compliance with the documentation requirements (223-FZ, 44-FZ)",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "ETP Sections"
+        },
+        {
+          "text": "Government procurement",
+          "href": "/44-fz"
+        },
+        {
+          "text": "Services for suppliers",
+          "href": "/44-fz/service"
+        },
+        {
+          "text": "Examination of the application for compliance with the documentation requirements"
+        }
+      ]
+    }
+  },
+  "example": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/banner/bannerSlideTender-sm.jpg",
+          "sources": [
+            {
+              "src": "/images/banner/bannerSlideTender.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/banner/bannerSlideTender-md.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Examination of your tender application under 44-FZ and 223-FZ",
+        "text": "Request an audit of the application to eliminate the risk of its rejection on formal grounds ",
+        "modal": [
+          {
+            "title": "Free consultation on the service",
+            "id": "ApplicationForm3"
+          }
+        ]
+      }
+    ]
+  },
+  "five": {
+    "title": "The audit of your application is carried out according to the following criteria:",
+    "items": [
+      {
+        "text": "Compliance with the rules of documents execution"
+      },
+      {
+        "text": "Correctness of filling out the forms"
+      },
+      {
+        "text": "Completeness of the set of documents"
+      },
+      {
+        "text": "Compliance of the application with qualification and technical requirements"
+      }
+    ]
+  },
+  "bannerText": {
+    "title": "The application is subject to two-factor verification.",
+    "background": {
+      "src": "/images/blocks/bannerText/blue-375.jpg",
+      "sources": [
+          {
+              "src": "/images/blocks/bannerText/2.jpg",
+              "breakpoint": "768"
+          }
+      ]
+  },
+    "text": [
+      "First, it is checked by two experts of the TEK-Torg partner company independently of each other. The result of their work is confirmed by the Controller and only then, after coordination with all specialists, you receive the final report.<br/>In other words, the work is not completed until your application examination goes through all the links in the technological chain. After verification, you will be provided with a detailed report reflecting the identified inconsistencies and possible risks of deviation."
+    ],
+    "links": [
+      {
+        "text": "View a Sample Report",
+        "href": "https://bidexpert.ru/example/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80_%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0_%D0%BF%D0%BE_44-%D0%A4%D0%97.pdf?utm_source=presale&utm_medium=pdf&utm_campaign=expertiza_report",
+        "isForeign": true
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why is it better to contact the professionals?",
+    "cards": {
+      "cardLink": {
+        "title": "Independent examination gives <b>an objective assessment of the quality of your application</b> application and minimizes the risks of its rejection on formal grounds",
+        "fullModalCard":true,
+        "modal": [{
+          "title": "Request a service",
+          "id": "ApplicationForm3"
+        }]
+      },
+      "cardBottom": [
+        {
+          "title": "<b>70%</b> of applications rejections to non-compliance with the formal requirements of the procurement documentation",
+          "iconName": "list"
+        },
+        {
+          "title": "<b>15%</b> of failed purchases occur due to non-compliance with the formal requirements of the procurement documentation",
+          "iconName": "list"
+        }
+      ]
+    }
+  },
+  "example2": {
+    "sideCard": {
+        "title": "Specialists on tenders will promptly check your application according to several criteria",
+        "bg": "blue"
+    },
+    "content": [
+        {
+            "text": "Correctness of execution of all required documents",
+            "iconName": "list"
+        },
+        {
+            "text": "Completeness of filling out the forms",
+            "iconName": "case"
+        },
+        {
+            "text": "Control of the provision of all necessary and up-to-date supporting documents (title and financial documents, licenses, extracts, references, etc.)",
+            "iconName": "checkMark2"
+        },
+        {
+            "text": "Correction and alignment of your application with the documentation requirements",
+            "iconName": "blank"
+        }
+    ]
+} ,
+  "serviceTariffslider": {
+    "wrapper": {
+      "title": "Tarrifs",
+      "modals": [
+        {
+          "id": "ApplicationForm3",
+          "text": "Request"
+        }
+      ]
+    },
+    "tariffs": [
+      {
+        "nid": "30",
+        "title": "Do you want to get a response on the day of submission? Request an express examination of the application",
+        "section": "rosneft",
+        "description": "<p>Will be ready within 6 hours</p>",
+        "price": "15&nbsp;900&nbsp;₽"
+      },
+      {
+        "nid": "31",
+        "title": "Request an audit of one application",
+        "section": "rosneft",
+        "description": "<p>Will be ready on the second day</p>",
+        "price": "11&nbsp;900&nbsp;₽"
+      }
+    ]
+  },
+  "example1": {
+    "picture": {
+      "src": "/images/blocks/textWithImage/photo-375.jpg",
+      "sources": [
+        {
+          "src": "/images/blocks/textWithImage/photo-1920.jpg",
+          "breakpoint": "1280"
+        },
+        {
+          "src": "/images/blocks/textWithImage/photo-768.jpg",
+          "breakpoint": "768"
+        }
+      ]
+    },
+    "textCard": {
+      "title": "Are you planning to participate in biddings for the sale of government, seized and bankrupt property?",
+      "text": [
+        "Specialists will prepare a full set of documents required for participation in the procedure in accordance with the documentation requirements",
+        "Specialists/Also, they will provide all necessary information and methodological support at any stage of application preparation"
+      ],
+      "modal": {
+        "title": "Request an examination on property bidding",
+        "id": "ApplicationForm3"
+      }
+    }
+  },
+  "advBanner":{
+    "items": [
+        {
+            "title": "You are just starting to participate in biddings?",
+            "description": "You will need the digital signature and registration on the electronic platform. We will help you to choose and obtain a DS which will fully meet your needs. We will register you in the UIS. We will get you accredited in commercial sections – Rosneft, Inter RAO and others",
+            "bgColor":"gray2",
+            "clamp":"3",
+            "modal": [{
+                "title": "Request a consultation",
+                "id": "callBackForm"
+            }],
+            "linkBg": false,
+            "textColor": "black",
+            "fullModalCard": true
+        },
+        {
+          "title": "Do you want to find orders (tenders) on your own?",
+          "description": "Use an intelligent purchase search system – from simple and quick queries to expert selection of closed tenders and competitive market analysis.",
+          "bgColor":"blue2",
+          "link": {
+              "text": "Take a quick survey and get access to the ",
+              "href": "https://mrqz.me/tektorg",
+              "isForeign": true
+          },
+          "linkBg": false
+      }
+    ]
+},
+"bannerSlider": {
+  "items": [
+    {
+      "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+      },
+      "title": "Any questions?<br>We will help!",
+      "modal": [
+        {
+          "title": "Ask a question",
+          "id": "askQuestionForm"
+        }
+      ]
+    }
+  ]
+}
+
+}

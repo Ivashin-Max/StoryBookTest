@@ -1,0 +1,240 @@
+{
+  "leadText": {
+    "title": "Тендерное сопровождение от&nbsp;подачи заявки до&nbsp;победы",
+    "description": "Поможем участвовать в закупках по 44-ФЗ, 223-ФЗ и в коммерческих торгах",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Торговые секции"
+        },
+        {
+            "text": "Интернет-магазин",
+            "href": "/market"
+        },
+          {
+              "text": "Услуги и сервисы для поставщиков",
+              "href": "/market/service"
+          },
+        {
+          "text": "Сопровождение тендеров участников закупок"
+        }
+      ]
+    },
+    "rectLink": {
+      "text": "Оставить заявку",
+      "id": "ApplicationForm3"
+    }
+  },
+  "bannerText": {
+    "title": "",
+    "background": {
+      "src": "/images/blocks/bannerText/blue-375.jpg",
+      "sources": [
+        {
+          "src": "/images/blocks/bannerText/2.jpg",
+          "breakpoint": "768"
+        }
+      ]
+    }
+  },
+  "example1": {
+    "title": "Этапы участия в закупках",
+    "program": "<div class=\"program_item active\">\r\n<div class=\"program-title\"><span>1. Получение и перевыпуск электронной подписи</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Согласно №63-ФЗ «Об электронной подписи», она выдается на срок до 12 месяцев и требует регулярной замены.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>2. Аккредитация</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Организации на электронных торговых площадках.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>3. Мониторинг и выбор тендеров</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Необходимо не только собирать подходящие тендеры, но и оценивать условия участия в них, требования к исполнителям и поставщикам, обеспечению заявки и срокам исполнения. Это существенный пласт работы, требующий времени и ресурсов.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>4. Предоставление тендерного займа, помощь в получении банковской гарантии или кредита для участия в тендере</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Получить гарантию или кредит намного проще и быстрее через торговую площадку, чем тендерного брокера.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>5. Подготовка документации и подача заявки на участие в тендере</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Один из самых сложных этапов, так как документов требуется много, а каждый заказчик имеет свой список, содержащий требование буквально по всем справкам и печатям в них. Без учета таких деталей, это может послужить официальной причиной для отклонения заявки. Поэтому не забывайте проводить экспертизу заявки перед подачей.</li></ul>\r\n</div>\r\n</div>\r\n<div class=\"program_item active\">\r\n<div class=\"program-title\"><span>6. Сопровождение торгов от имени организации</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Этот шаг предполагает презентацию проектов, услуг или товаров. Это имеет свою тендерную специфику по корректному убеждению заказчика в качестве предлагаемого товара.</li></ul>\r\n</div>\r\n</div><div class=\"program_item active\">\r\n<div class=\"program-title\"><span>7. Обжалование результатов в Федеральной антимонопольной службе</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>В случае неудачного решения важно правильно составить документы для жалобы и подготовиться к заседанию.</li></ul>\r\n</div>\r\n</div><div class=\"program_item active\">\r\n<div class=\"program-title\"><span>8. Юридическое сопровождение сделок</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Документооборот, проверка договора и подписание контракта с государственным, муниципальным или коммерческим заказчиком.</li></ul>\r\n</div>\r\n</div>"
+  },
+  "advBanners": {
+    "cards": {
+        "sideCard": {
+            "title": "Комплексное сопровождение или разовая поддержка",
+            "picture": {
+                "src": "/images/infoCards/2_11_375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/infoCards/2_11_1920.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/infoCards/2_11_768.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        },
+        "cards": [
+            {
+                "title": "Хотите делегировать и максимально освободить себя от задач по участию в закупках?",
+                "modalId": "ApplicationForm3",
+                "text": "Комплексное сопровождение<br/>Включает в себя весь цикл участия в закупках, от оформления ЭЦП до подписания контрактов с заказчиком по итогам выигранных торгов"
+            },
+            {
+                "title": "Планируете начать с чего-то одного: поиска тендеров или подготовить документы без ошибок?",
+                "modalId": "ApplicationForm3",
+                "text": "Разовая поддержка<br/>Участие специалистов в решении одной или нескольких задач по участию в тендере лишь на каком-то определенном этапе"
+            }
+        ]
+    }
+},
+"tariff":{
+  "wrapper": {
+      "title": "Тарифы",
+      "links": [
+          {
+              "id": "ApplicationForm3",
+              "text": "Выбрать тариф"
+          }
+      ]
+  },
+  "tariffs": [
+      {
+          "nid": "30",
+          "title": "СВОЙ ТАРИФ",
+          "section": "rosneft",
+          "description": "Выберите услуги, актуальные для Вас"
+      },
+      {
+          "nid": "31",
+          "title": "ИНДИВИДУАЛЬНЫЙ",
+          "section": "rosneft",
+          "description": "Комиссия (% от выигранных тендеров) в зависимости от выбранной опции",
+          "price_comment": "До 6 процедур",
+          "price": "от 30 000 ₽"
+      },
+      {
+          "nid": "751",
+          "title": "ЛЕГКИЙ СТАРТ",
+          "section": "rosneft",
+          "description": "В стоимость входит: регистрация в ЕИС и на госуслугах, месяц подбора и настройка шаблона поиска тендеров. Подготовка и подача 1 заявки",
+          "price_comment": "Начните участвовать в госзакупках",
+          "price": "9 900 ₽"
+      }
+  ]
+},
+  "infoBlock": {
+    "sideCard": {
+      "title": "Почему стоит заказать помощь по участию в торгах?",
+      "bg": "blue",
+      "modalbtns": [
+        {
+          "title": "Получить бесплатную консультацию",
+          "id": "ApplicationForm3"
+        }
+      ]
+    },
+    "content": [
+      {
+        "text": "<b>Вы получаете новые каналы сбыта</b><br/>Более 8 000 торгов ежедневно появляется на торговых площадках. Эксперты найдут закупки для каждого сегмента бизнеса.",
+        "iconName": "checkMark2"
+      },
+      {
+        "text": "<b>Надежность</b><br/>Защита от недобросовестных заказчиков и осведомленность во всех законодательных и тендерных изменениях.",
+        "iconName": "file"
+      },
+      {
+        "text": "<b>Прозрачная схема работы</b><br/>Бесплатная консультация личного менеджера и совместный выбор услуг/оптимального тарифа.",
+        "iconName": "checkMark"
+      }
+    ]
+  },
+  "example2": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/blocks/bannerSlider/slide-375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/slide.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/slide-768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Ускоренное зачисление денег на оплату тарифа",
+        "text": "Единоразовое зачисление денежных средств в течение 2 часов на лицевой счет участника секций: ПАО НК «Роснефть», Интер РАО ЕЭС, Коммерческие закупки и 223-ФЗ, Продажа имущества.",
+        "links": [
+          {
+            "text": "Подробнее",
+            "href": "/services-fasterAccessTrading"
+          }
+        ]
+      },
+      {
+        "background": {
+          "src": "/images/blocks/bannerSlider/slide-375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/slide.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/slide-768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Оперативная проверка документов для участия в закупке",
+        "text": "Консультация экспертов ТЭК-Торг поможет в течение 2 часов решить вопрос с корректностью заявительных документов на соответствие законодательству о закупках.",
+        "links": [
+          {
+            "text": "Подробнее",
+            "href": "/services-checkDocs"
+          }
+        ]
+      },
+      {
+        "background": {
+          "src": "/images/blocks/bannerSlider/slide-375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/slide.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/slide-768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Экспертиза тендерной заявки",
+        "text": "Ускоренный или комплексный аудит заявки, чтобы исключить риск ее отклонения по формальным основаниям.",
+        "links": [
+          {
+            "text": "Подробнее",
+            "href": "/44fz-ExpertiseDocs"
+          }
+        ]
+      }
+    ]
+  },
+  "bannerSlider": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Есть вопросы?<br>Мы поможем!",
+        "links": [
+          {
+            "text": "Задать вопрос",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

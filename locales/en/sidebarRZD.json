@@ -1,0 +1,18 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "rzdProcurementEn",
+            "description": "The electronic trading platform TEK-Torg<br> Everything you need to work on site",
+            "href": "/clients/organizations"
+        },
+        "banner": {
+            "title": "Events calendar",
+            "image": "/images/headerWidgets/clients1.jpg",
+            "link": {
+                "href": "https://event.tektorg.ru/calendar",
+                "isForeign": true
+            },
+            "textColor": "black"
+        }
+    }
+}

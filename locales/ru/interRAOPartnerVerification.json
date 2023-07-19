@@ -1,0 +1,92 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Предварительная проверка партнеров",
+        "description": "Юридическая экспертиза, экспертиза деловой репутации. Получите информацию о юридическом статусе, а также о деловой репутации планируемых партнеров.",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «Интер РАО»",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Система взаимодействия с поставщиками",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Предварительная проверка партнеров"
+                }
+            ]
+        }
+    },
+    "picture": {
+        "src": "/images/pages/inter-rao-partner-verification/picture.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/inter-rao-partner-verification/picture.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    },
+    "steps": {
+        "title": "Юридическая экспертиза и экспертиза деловой репутации (на выбор)",
+        "items": [
+            {
+                "text": "Заполнить заявку на странице сервиса<br>"
+            },
+            {
+                "text": "Получить результат на адрес электронной почты, указанный в заявке, в течение 3 рабочих дней"
+            }
+        ]
+    },
+    "contactsForm": {
+        "title": "Заказать экспертизу",
+        "docs": {
+            "title": "Скачайте образец заявки для заполнения",
+            "items": [
+                {
+                    "title": "На экспертизу деловой репутации",
+                    "type": "DOCX",
+                    "size": "12 КБ",
+                    "httpLink": "/documents/inter-rao/ekosreda/proverka-partnyorov/Деловая репутация.docx"
+                },
+                {
+                    "title": "На юридическую экспертизу",
+                    "type": "DOCX",
+                    "size": "14 КБ",
+                    "httpLink": "/documents/inter-rao/ekosreda/proverka-partnyorov/Юр экспертиза_0.docx"
+                },
+                {
+                    "title": "Список документов для юр. экспертизы",
+                    "type": "DOCX",
+                    "size": "17.7 КБ",
+                    "httpLink": "/documents/inter-rao/ekosreda/proverka-partnyorov/Список документов для юр экспертизы_0.docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

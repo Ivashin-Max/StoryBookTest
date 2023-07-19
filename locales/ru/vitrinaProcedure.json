@@ -1,0 +1,106 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Продажа имущества",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Каталог объектов",
+                    "href": "/vitrina/procedures"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "К списку объектов",
+        "href": "/vitrina/procedures"
+    },
+    "infoTable": {
+        "header": "Информация и&nbsp;сроки процедуры",
+        "titles": {
+            "registryNumber": "Номер процедуры",
+            "title": "Наименование процедуры",
+            "typeName": "Тип процедуры",
+            "statusName": "Текущая стадия",
+            "earnestInfo": "Необходимо внести задаток",
+            "deposits": "Необходимо внести обеспечение для участия",
+            "withoutSign": "Требование ЭП",
+            "isPopular": "Плата за участие не взимается"
+        }
+    },
+    "earnestInfo": {
+        "header": "Задаток",
+        "titles": {
+            "earnestValue": "Сумма задатка, валюта",
+            "paymentOrderName": "Способ перечисления задатка продавцу",
+            "paymentRequisites": "Реквизиты счета",
+            "paymentOrderDetails": "Дополнительная информация"
+        }
+    },
+    "tableWithUnits": {
+        "header": "Позиции лота",
+        "titles": {
+            "splittableLot": "Делимый лот",
+            "videoLink": "Видео"
+        }
+    },
+    "contacts": {
+        "wrapper": {
+            "name": "Контакты"
+        },
+        "blocks": [
+            {
+                "title": "По&nbsp;вопросам<br>покупки имущества",
+                "bg": "gray2",
+                "sections": [
+                    {
+                        "title": "ТЭК-Торг, &laquo;Продажа имущества&raquo;:",
+                        "items": []
+                    },
+                    {
+                        "title": "Транспорт",
+                        "items": [
+                            {
+                                "phone": "+7 999 926-52-05"
+                            },
+                            {
+                                "mail": "sale@tektorg.ru"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "МТР и Оборудование",
+                        "items": [
+                            {
+                                "phone": "+7 999 926-52-27"
+                            },
+                            {
+                                "mail": "sale@tektorg.ru"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Недвижимость",
+                        "items": [
+                            {
+                                "phone": "+7 908 305-74-57"
+                            },
+                            {
+                                "mail": "sale@tektorg.ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

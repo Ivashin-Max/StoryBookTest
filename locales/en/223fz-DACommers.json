@@ -1,0 +1,220 @@
+{
+    "leadText": {
+        "title": "Digital Assistant",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Services for commercial customers",
+                    "href": "/223-fz/service-customers"
+                },
+                {
+                    "text": "Digital Assistant",
+                    "href": "/services-digitaAssistant"
+                }
+            ]
+        },
+        "description": "Full verification of the counterparty"
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Free online in 1 minute",
+                "text": [
+                    "Information about the reliability of the counterparty, the selection of potential suppliers, the history of participation in procurements, the report on registration on the ETP"
+                ],
+                "modal": [
+                    {
+                        "title": "Get a Consultation",
+                        "id": "ApplicationForm3"
+                    }
+                ],
+                "links": [
+                    {
+                        "text": "Use",
+                        "href": "https://profile.tektorg.ru/",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerSlide2": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any other questions?",
+                "text": [
+                    "For consultation, contact the manager: <a href='mailto:+7 495 734-81-18'>org223@tektorg.ru</a>, <br/>or <span class=\"nowrap\"><a href='tel:+7 495 734-81-18'>+7 495 734-81-18</a> ext. 515</span>"
+                ],
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    },
+    "example2": {
+        "title": "Verification of the counterparty:",
+        "items": ["Data about the company’s registration.", "A due diligence indicator.", "Financial statements."]
+    },
+    "example3": {
+        "title": "Selection of suppliers for purchase.<p>A report with a list of suppliers for a specific purchase, selected in accordance with the specified parameters:</p>",
+        "items": [
+            "Code OKPD2.",
+            "The region of delivery.",
+            "Is included in the RNP or not.",
+            "Belonging to an SME.<br/><br/><p>The report also contains information about the number of supplier's participation in purchases and its victories.</p>"
+        ]
+    },
+    "example4": {
+        "title": "Verification of registration on the ETP TEK-Torg:",
+        "items": [
+            "A personal report with information about the registration of the suppliers you are interested in.",
+            "This report is useful in cases when it is necessary to quickly obtain data on the registration of suppliers on the ETP TEK-Torg."
+        ]
+    },
+    "example5": {
+        "title": "History of participation in the procedures.<p>A report with the history of the supplier's participation in procurements that includes:</p>",
+        "items": [
+            "Register of procurements in which the supplier participated.",
+            "Number of times of participation.",
+            "Number of wins.",
+            "Amounts of NMC procurements."
+        ]
+    },
+    "benefits": {
+        "title": "The Advantages of the Service",
+        "cards": {
+            "cardLink": {
+                "title": "A unified tool",
+                "description": "A universal analytical tool that allows you to get complete information about suppliers"
+            },
+            "cardBottom": [
+                {
+                    "title": "Amount of data",
+                    "text": "The system uses digital profiles of more than 800000 procurement participants",
+                    "iconName": "feedback"
+                },
+                {
+                    "title": "Quality of sources",
+                    "text": "More than 50 regularly updated data sources",
+                    "iconName": "list"
+                },
+                {
+                    "title": "Simplicity of operation",
+                    "text": "It is enough to set the necessary parameters in our service, and you will receive the necessary report online",
+                    "iconName": "signature"
+                },
+                {
+                    "title": "Data relevance",
+                    "text": "The accuracy of the selection tends to be 100% due to the availability of retrospective data",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Cost of the report",
+                    "text": "The functionality is free for the Organizers working at the TEK-Torg platform",
+                    "iconName": "checkMark3"
+                }
+            ]
+        }
+    },
+    "tags": ["For the New Customers", "For Clients"],
+    "three": {
+        "title": "For the New Customers",
+        "items": [
+            {
+                "text": "Get accreditation on the platform.<br/>If you are not yet a client of TEK-Torg JSC, register for the section, or contact the manager for consultation: <a href=\"mailto:org223@tektorg.ru\" target='_blank'>org223@tektorg.ru</a>, <a href=\"tel:+74957348118\">+7 495 734-81-18</a> ext. 515"
+            },
+            {
+                "text": "Go to your personal account.<br/>In your personal account on the section \"223-FZ and Commercial procurement\", go to the section \"Digital Assistant\"",
+                "href": "https://profile.tektorg.ru/nonAuth",
+                "isForeign": true
+            },
+            {
+                "text": "Select service.<br/>Select the necessary service and get the information you are interested in"
+            }
+        ]
+    },
+    "three2": {
+        "title": "For Clients",
+        "items": [
+            {
+                "text": "Go to your personal account.<br/>In your personal account on the section \"223-FZ and Commercial procurement\", go to the section \"Digital Assistant\"",
+                "href": "https://profile.tektorg.ru/nonAuth",
+                "isForeign": true
+            },
+            {
+                "text": "Select service.<br/>Select the necessary service and get the information you are interested in"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Unloading of tender specialists",
+        "background": {
+            "src": "/images/blocks/bannerText/4-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerText/4.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "text": [
+            "All services are available within a unified workspace, allowing to free specialists of procurement and tender departments from routine work on finding information about suppliers"
+        ],
+        "modals": [
+            {
+                "title": "Get Consultation",
+                "id": "ApplicationForm3"
+            }
+        ],
+        "links": [
+            {
+                "text": "Use",
+                "href": "https://profile.tektorg.ru/",
+                "isForeign": true
+            }
+        ]
+    },
+    "title": {
+        "title": "How to use the services?"
+    }
+}

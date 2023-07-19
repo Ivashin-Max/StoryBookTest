@@ -1,0 +1,184 @@
+{
+    "leadText": {
+        "title": "Кредит на пополнение оборотных средств",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Реализация углеводородного сырья",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "Услуги и сервисы для покупателей",
+                    "href": "/tenders/service"
+                },
+                {
+                    "text": "Кредит на пополнение оборотных средств"
+                }
+            ]
+        },
+        "description": "Это заем, который могут получить организации для поддержки финансовых процессов предприятия. Кредитование позволяет расширить материально-техническую базу, увеличить объемы производства, повысить продажи, а&nbsp;значит, и&nbsp;прибыль компании без привлечения собственных средств учредителей и&nbsp;не&nbsp;использовать денежные средства организации."
+    },
+    "bannerSlide":{
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner/credit375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner/credit.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner/credit768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Кредитование на&nbsp;любые цели организации",
+                "text":[
+                   "Решение за&nbsp;1&nbsp;рабочий день.<br/>Ставка&nbsp;&mdash; от&nbsp;9% годовых.<br/>Потребуется всего 3&nbsp;документа."
+                ],
+                "modal": [
+                    {
+                        "title": "Получить финансированиe",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            }
+        ]
+    },
+    "infBlock":{
+        "title": "Условия",
+    "content": {
+        "sideCard": {
+            "title": "Сумма до&nbsp;2&nbsp;000&nbsp;000&nbsp;000 рублей",
+            "picture": {
+                "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        },
+        "cards": [
+            {
+                "title": "Ставка от 9% годовых",
+                "iconName": "signature",
+                "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+            },
+            {
+                "title": "Срок до 36 месяцев",
+                "iconName": "feedback",
+                "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+            },
+            {
+                "title": "Дистанционно, без залога",
+                "iconName": "list"
+            },
+            {
+                "title": "Полностью электронный документооборот",
+                "image": "/images/blocks/benefitsCards/5.2.13.2_1920.jpg"
+            }
+        ]
+    }
+    },
+    "benefits":{
+            "sideCard": {
+                "title": "Ключевые преимущества ТЭК-Торг в&nbsp;получении продукта",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "content": [
+                {
+                    "text": "Возможность принимать участие сразу в нескольких конкурсах",
+                    "iconName": "case2"
+                },
+                {
+                    "text": "Возможность не брать средства из оборота компании",
+                    "iconName": "feedback"
+                },
+                {
+                    "text": "Отсутствие залога и процедуры выезда на предприятие",
+                    "iconName": "checkMark"
+                },
+                {
+                    "text": "Возможность установления индивидуального графика погашения кредита",
+                    "iconName": "list"
+                }
+            ]
+    },
+    "three": {
+        "title": "Как это работает",
+        "modals" : [
+            {
+                "text":"Оставить заявку",
+                "id":"ServicesFormWithTitle"
+            }
+        ],
+        "items": [
+            {
+                "text": "Заполните заявку. Укажите ИНН и&nbsp;ссылку на&nbsp;аукцион"
+            },
+            {
+                "text": "Получите предварительное решение"
+            },
+            {
+                "text": "Подпишите договоры заема ЭЦП"
+            },
+            {
+                "text": "Получите заем"
+            }
+        ]
+    },
+    "example3": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Остались вопросы?<br/>Задайте их нам",
+                "text":"",
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "saleFull",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция для продажи государственного, коммерческого и арестованного имущества",
+            "href": "/sale"
+        },
+        "menu": [
+            {
+                "text": "Каталог объектов",
+                "href": "/vitrina/procedures",
+                "id": "catalog",
+                "subLinks": []
+            },
+            {
+                "text": "Процедуры реализации",
+                "href": "/sale/procedures",
+                "id": "implementationProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "/sale/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Тарифы",
+                "href": "/sale/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Центр поддержки",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "Продавцам",
+                        "href": "/sale/sellers/help"
+                    },
+                    {
+                        "text": "Покупателям",
+                        "href": "/sale/buyers/help"
+                    }
+                ]
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "/sale/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

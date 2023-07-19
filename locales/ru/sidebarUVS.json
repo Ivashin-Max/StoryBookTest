@@ -1,0 +1,48 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "realization",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция реализации углеводородного сырья ПАО «НК «Роснефть»",
+            "href": "/tenders"
+        },
+        "menu": [
+            {
+                "text": "Процедуры реализации",
+                "href": "/tenders/procedures",
+                "id": "procedures",
+                "subLinks": []
+            },
+            {
+                "text": "Иностранным покупателям",
+                "href": "/uvs-ip",
+                "id": "foreignBuyers",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "/tenders/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Центр поддержки",
+                "href": "/tenders/help",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "/tenders/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

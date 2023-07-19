@@ -1,0 +1,297 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Services"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Services for Suppliers"
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance",
+        "Financial Services"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents",
+                    "text": "",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/eruz"
+                    },
+                    "title": "Assistance in registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/tariff"
+                    },
+                    "title": "Special Tariff \"Quick Start\"",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/bg"
+                    },
+                    "title": "Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "yellow2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents",
+                    "text": "",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/eruz"
+                    },
+                    "title": "Assistance in registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/tariff"
+                    },
+                    "title": "Special Tariff \"Quick Start\"",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "yellow2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents",
+                    "text": "",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "yellow2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/bg"
+                    },
+                    "title": "Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/rosneft/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

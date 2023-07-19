@@ -1,0 +1,65 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "companyFull",
+            "description": "Электронная торговая площадка ТЭК-Торг",
+            "href": "/about"
+        },
+        "menu": [
+            {
+                "text": "О ТЭК-Торг",
+                "href": "/about",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "Работа у нас",
+                "href": "/vacancy",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "Контакты и реквизиты",
+                "href": "/contacts",
+                "id": "",
+                "subLinks": []
+            },
+            {
+                "text": "Новости",
+                "id": "",
+                "subLinks": [
+                    {
+                        "text": "Пресс-центр",
+                        "href": "/news-press"
+                    },
+                    {
+                        "text": "СМИ о нас",
+                        "href": "/news-media"
+                    },
+                    {
+                        "text": "Важные новости",
+                        "href": "/news-important"
+                    },
+                    {
+                        "text": "Анонсы закупок",
+                        "href": "/news-announce"
+                    }
+                ]
+            },
+            {
+                "text": "Партнеры",
+                "href": "/partners",
+                "id": "",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Интернет-магазин",
+            "image": "/images/headerWidgets/aboutCompany.jpg",
+            "link": {
+                "href": "/market"
+            },
+            "textColor": "black"
+        }
+    }
+}

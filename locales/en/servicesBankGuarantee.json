@@ -1,0 +1,361 @@
+{
+    "leadText": {
+        "title": "Bank guarantee",
+        "description": "commercial and public procurement under&nbsp;44/223/185-FZ <br>commission of&nbsp;1.5%",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Home",
+                    "href": "/"
+                },
+                {
+                    "text": "Services and services"
+                },
+                {
+                    "text": "Suppliers",
+                    "href": "/services/service-suppliers"
+                },
+                {
+                    "text": "Bank guarantee",
+                    "href": "/services-bankGuarantee"
+                }
+            ]
+        }
+    },
+    "bannerSlider2": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner/creditOnContract375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner/creditOnContract.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner/creditOnContract768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any guarantees: 44-FZ, 223-FZ, commercial and others.",
+                "text": ["Project in 15 minutes for 1 document All operations online"],
+                "links": [
+                    {
+                        "text": "Arrange with an expert",
+                        "id": "ServicesFormWithTitle",
+                        "bgColor": "black"
+                    },
+                    {
+                        "text": "Check out online",
+                        "href": "https://fin.tektorg.ru/auth/email",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Independent warranty",
+        "text": [
+            "Since&nbsp;January&nbsp;1&nbsp;January 2022 in&nbsp;procurements under&nbsp;44-FZ an independent guarantee has replaced the bank guarantee.",
+            "Bank guarantees are issued exclusively by banks. Independent guarantees are issued not only by the banks from the list of the Ministry of Finance, but also by other financial organizations (clause 1&nbsp;article 45&nbsp;44-FL)."
+        ],
+        "modals": [
+            {
+                "title": "Get Warranty",
+                "id": "ServicesFormWithTitle"
+            }
+        ]
+    },
+    "benefits": {
+        "title": "Fast, profitable and convenient",
+        "cards": {
+            "card": {
+                "title": "Guarantee project in 15 minutes<br>More than 30 partner banks<br>All kinds of contracts",
+                "links": [
+                    {
+                        "text": "Check out online",
+                        "href": "https://fin.tektorg.ru/auth/email",
+                        "isForeign": true
+                    }
+                ],
+                "modal": [
+                    {
+                        "title": "Arrange with an expert",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            },
+            "cardBottom": [
+                {
+                    "title": "Online. Without visiting the office",
+                    "iconName": "finger"
+                },
+                {
+                    "title": "We consider individual requests and conditions",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "title": "No limit on the amount of the guarantee",
+                    "iconName": "bankomat"
+                },
+                {
+                    "title": "Commission of&nbsp;1,5&nbsp;%",
+                    "iconName": "piece"
+                },
+                {
+                    "title": "We work with complex cases all over Russia",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Issuance on weekends",
+                    "iconName": "calendar"
+                }
+            ]
+        }
+    },
+    "infoBlocks": {
+        "sideCard": {
+            "title": "When is a warranty<br> required?",
+            "bg": "blue",
+            "picture": {
+                "src": "/images/blocks/sideCard/card1_375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/blocks/sideCard/card1.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/sideCard/card1_768.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        },
+        "content": [
+            {
+                "text": "Need money to&nbsp;implement the contract, but&nbsp;not&nbsp;to&nbsp;deposit it to the customer",
+                "iconName": "rubles"
+            },
+            {
+                "text": "The amount of collateral for the lots won exceeds the funds available",
+                "iconName": "judgesGavel"
+            },
+            {
+                "text": "The customer is in arrears with payment under a previous contract",
+                "iconName": "blank"
+            },
+            {
+                "text": "Advance on the contract is required",
+                "iconName": "case"
+            }
+        ]
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide2.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Express processing",
+                "text": [
+                    "Fully automated warranty service in a couple of clicks: <br><br>- register on our service<br>- fill out the application form<br>- get the warranty"
+                ],
+                "links": [
+                    {
+                        "text": "Check out online",
+                        "href": "https://fin.tektorg.ru/auth/email",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "tileCards": {
+        "title": "Types of bank guarantees",
+        "tiles": [
+            {
+                "picture": {
+                    "src": "/images/blocks/TileCards/guarantee_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/TileCards/guarantee.jpg",
+                            "breakpoint": "1440"
+                        },
+                        {
+                            "src": "/images/blocks/TileCards/guarantee_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Contract Performance Guarantee",
+                "text": "Security for the application for participation in the procurement in the form of an independent guarantee",
+                "textColor": "white"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Guarantee of advance payment of excise tax"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "VAT refund guarantee"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Guarantee of advance payment of excise tax"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Warranty period"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Advance refund guarantee"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Tax Deferral Guarantee"
+            }
+        ]
+    },
+    "tileCards2": {
+        "tiles": [
+            {
+                "picture": {
+                    "src": "/images/blocks/TileCards/registration_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/TileCards/registration.jpg",
+                            "breakpoint": "1440"
+                        },
+                        {
+                            "src": "/images/blocks/TileCards/registration_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Make warranties with our experts in 3 steps",
+                "textColor": "white"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Application",
+                "text": "From you phone number and TIN, the manager will do the rest"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Solution",
+                "text": "Project in 15 minutes, approval in 1 hour and quick approval of the text guarantee"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Guarantee",
+                "text": "Up to 99% of applications are approved, placed on the registry on the day of issuance if necessary"
+            },
+            {
+                "textColor": "white",
+                "background": "blue",
+                "modal": {
+                    "text": "Issue Guarantee",
+                    "id": "ServicesFormWithTitle"
+                },
+                "iconName": "person"
+            }
+        ]
+    },
+    "infolist": {
+        "title": "5&nbsp;reasons why companies choose our service",
+        "bgColor": "blue",
+        "items": [
+            {
+                "title": "Speed of operation",
+                "text": "You get the draft of bank guarantee in 15 minutes, and the guarantee scan can be issued in an hour after the payment."
+            },
+            {
+                "title": "Reliability",
+                "text": "TEK-Torg&nbsp;&mdash; Federal electronic site, selected and&nbsp;certified by the Ministry of Finance of Russia"
+            },
+            {
+                "title": "Saving time",
+                "text": "Your personal manager will independently prepare the necessary documents and&nbsp;send an application to the&nbsp;banks"
+            },
+            {
+                "title": "Work all over Russia",
+                "text": "We provide services in&nbsp;each region in&nbsp;electronic form, without personal visits and&nbsp;bank visits"
+            },
+            {
+                "title": "Advantageous terms",
+                "text": "We offer minimum rates due to the absence of intermediaries"
+            }
+        ]
+    },
+    "textWImg": {
+        "picture": {
+            "src": "/images/blocks/textWithImage/building.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/textWithImage/building.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "textCard": {
+            "title": "Fixed rate at 2.3%, up to 5&nbsp;million rubles",
+            "text": [
+                "A fixed rate of 2.3% applies to any bank guarantees only for ETP TEC-Torg suppliers. Up to 5&nbsp;RUR 5&nbsp;million a guarantee can be obtained only with a&nbsp;passport."
+            ],
+            "modal": [
+                {
+                    "title": "Get Warranty",
+                    "id": "ServicesFormWithTitle"
+                }
+            ]
+        }
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Still have questions? Ask us",
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

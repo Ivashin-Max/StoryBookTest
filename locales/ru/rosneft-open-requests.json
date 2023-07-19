@@ -1,0 +1,49 @@
+{
+    "lead": {
+        "title": "Открытые запросы",
+        "description": "<p>Открытые запросы &ndash; это поиск инновационных, технических и организационных<br> решений и идей. Оставить свое предложение о сотрудничестве можно, заполнив форму ниже.</p>",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Единое окно",
+                    "href": "/rosneft/edinoe_okno"
+                },
+                {
+                    "text": "Открытые запросы",
+                    "href": "/rosneft/edinoe_okno/otkrytye_zaprosy"
+                }
+            ]
+        }
+    },
+    "banner": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/rosneft/edinoe-okno/otkritie-zaprosi/banner-mobile.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/otkritie-zaprosi/banner-lg.jpeg",
+                            "breakpoint": 1280
+                        },
+                        {
+                            "src": "/images/pages/rosneft/edinoe-okno/otkritie-zaprosi/banner-sm.jpg",
+                            "breakpoint": 768
+                        }
+                    ]
+                },
+                "title": ""
+            }
+        ]
+    }
+}

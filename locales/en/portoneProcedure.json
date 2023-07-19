@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "For clients"
+                },
+                {
+                    "text": "Our customers",
+                    "href": "/clients/organizations"
+                },
+                {
+                    "text": "JSC \"Port One\" (POC Group)",
+                    "href": "/portone"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": "/portone"
+    },
+    "purchasesSlider": {
+        "title": "Similar procedures in&nbsp;other sections"
+    }
+}

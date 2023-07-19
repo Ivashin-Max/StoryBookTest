@@ -1,0 +1,24 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "About company",
+                    "href": "/about"
+                },
+                {
+                    "text": "News"
+                },
+                {
+                    "text": "Mass media about us",
+                    "href": "/news-media"
+                }
+            ]
+        },
+        "title": "Mass media about us"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "leadText": {
+        "title": "Video Materials for Customers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Training"
+                },
+                {
+                    "text": "Video Materials"
+                },
+                {
+                    "text": "For Customers",
+                    "href": "/edu-video-to-customers"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Tariffs",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of property",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Tariffs",
+                    "href": "/sale/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "section": "sale",
+            "title": "Popular procedure for participants",
+            "description": "<p>Participation in procedures of this type is free, and you only need to apply for participation without depositing funds</p>",
+            "price": "For free"
+        },
+        {
+            "nid": "2",
+            "section": "sale",
+            "title": "Standard procedure for Participants",
+            "description": "<p>Participation in unlimited number of procurement procedures. The amount will be blocked in personal account at the time of submitting the application</p>",
+            "price": "1%",
+            "price_comment": "The final amount of the tariff depends on the price of the Lot offered by the Winner (more details in the tariff plan document)",
+            "extra_comment": "Fee from a winner of the procurement procedure"
+        },
+        {
+            "nid": "3",
+            "section": "sale",
+            "title": "Popular procedure for Organizers",
+            "description": "<p>Publication of the procedure notification + information mail out to potential Participants by Operator</p>",
+            "price": "27,400 rubles",
+            "price_comment": "for 1 lot",
+            "extra_comment": "The tariff is activated by choosing &laquo;Popular&raquo; type of procedure"
+        },
+        {
+            "nid": "4",
+            "section": "sale",
+            "title": "Tariff &laquo;Professional&raquo; for organizers 3 months",
+            "description": "<p>Subscription to an unlimited number of publications. Lot restart function is available only during the validity period of the tariff</p>",
+            "price": "61,800 rubles",
+            "price_comment": "3 months",
+            "extra_comment": "Subscription fee for the publication of procedures"
+        },
+        {
+            "nid": "5",
+            "section": "sale",
+            "title": "Tariff &laquo;Professional&raquo; for organizers 6 months",
+            "description": "<p>Subscription to an unlimited number of publications. Lot restart function is available only during the validity period of the tariff</p>",
+            "price": "82,400 rubles",
+            "price_comment": "6 months",
+            "extra_comment": "Subscription fee for the publication of procedures"
+        },
+        {
+            "nid": "6",
+            "section": "sale",
+            "title": "Tariff &laquo;Professional&raquo; for organizers 1 year / 12 months",
+            "description": "<p>Subscription to an unlimited number of publications. Lot restart function is available only during the validity period of the tariff</p>",
+            "price": "160,000 rubles",
+            "price_comment": "1 year",
+            "extra_comment": "Subscription fee for the publication of procedures"
+        },
+        {
+            "nid": "7",
+            "section": "sale",
+            "title": "Standard procedure for Organizers",
+            "description": "<p>Publication of 1 Lot and the procedure notification</p>",
+            "price": "6,000 rubles",
+            "price_comment": "for 1 lot"
+        },
+        {
+            "nid": "8",
+            "section": "sale",
+            "title": "Государственные торги на аренду и продажу лесных участков для Организаторов",
+            "price": "Бесплатно"
+        },
+        {
+            "nid": "9",
+            "section": "sale",
+            "title": "Государственные торги на аренду и продажу лесных участков для Участников",
+            "description": "<p>Сумма блокируется на Л/С при подаче заявки</p>",
+            "price": "1%",
+            "price_comment": "от цены лота, предложенной победителем по итогам проведения процедуры, но не менее 1500 руб. и не более<br> 9 000 руб. Сумма блокируется на Л/С при подаче заявки"
+        },
+        {
+            "nid": "10",
+            "section": "sale",
+            "title": "Аукционы по продаже земельного участка / на право заключения договора аренды земельного участка, находящегося в государственной или муниципальной собственности, проводимые в соответствии с Земельным кодексом Российской Федерации.<br> Тариф для Организаторов",
+            "price": "Бесплатно"
+        },
+        {
+            "nid": "11",
+            "section": "sale",
+            "title": "Аукционы по продаже земельного участка / на право заключения договора аренды земельного участка, находящегося в государственной или муниципальной собственности, проводимые в соответствии с Земельным кодексом Российской Федерации.<br> Тариф для Участников",
+            "price": "1%",
+            "price_comment": "-1% от начальной цены предмета аукциона, но не более 5 000 руб (Без НДС);<br> -1% от начальной цены предмета аукциона, но не более 2 000 руб (с НДС) для МСП (подробная информация содержится в документе тарифного плана)",
+            "extra_comment": "Плата взимается с лица, с которым заключается договор по результатам проведения аукциона, в порядке, предусмотренном постановлением Правительства РФ от 10.05.2018 №564"
+        },
+        {
+            "nid": "12",
+            "section": "sale",
+            "title": "Sale of/Bids for к seized property for Participants",
+            "description": "<p>It is necessary to have the tariff amount on the personal account at the time of application submission</p>",
+            "price": "5% or 10%",
+            "price_comment": "10% of the initial maximum price with the preliminary blocking of funds, 5% of the final price of the contract without preliminary blocking of funds (also valid for procedures from Federal Information System)",
+            "extra_comment": "Fee from a winner"
+        },
+        {
+            "nid": "13",
+            "section": "sale",
+            "title": "Sale of/Bids for seized property for Organizers",
+            "description": "<p>The section publishes biddings for the sale of seized and confiscated property, organized and carried out by the territorial administration of the Federal Agency for State Property Management and specialized organizations</p>",
+            "price": "For free"
+        },
+        {
+            "nid": "14",
+            "section": "sale",
+            "title": "Privatization of state and municipal property for organizers",
+            "price": "For free"
+        },
+        {
+            "nid": "15",
+            "section": "sale",
+            "title": "Privatization of state and municipal property for participants",
+            "price": "For free"
+        },
+        {
+            "nid": "16",
+            "section": "sale",
+            "title": "Conducting auctions of confiscated property for the organizers",
+            "price": "For free"
+        },
+        {
+            "nid": "17",
+            "section": "sale",
+            "title": "Conducting auctions of confiscated property for participants",
+            "price": "1%",
+            "price_comment": "of the NMC contract, but not more than 5000 rubles without VAT (participation is free)"
+        }
+    ],
+    "document": {
+        "title": "Download tariff plan ",
+        "type": "PDF",
+        "size": "464 KB",
+        "file": "/documents/tariffs/sale-tariff/Тарифы_ПИ_2023.pdf"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                        "text": "Enroll",
+                        "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                        "text": "More",
+                        "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Government procurement",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Benefits for Customers"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "backButton": {
+            "text": "Back",
+            "href": "/"
+        },
+        "title": "Benefits for Customers"
+    },
+    "tags": [
+        "All",
+        "Preparation of documentation",
+        "Publication of the notification and submission of an application",
+        "Review of application documents",
+        "Protocol development",
+        "Conclusion of a contract",
+        "Fulfillment, termination, modification of the contract",
+        "Reports, audits"
+    ],
+    "tagsContent": {
+        "advantages": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/sonmc"
+                    },
+                    "title": "The IMP justification services",
+                    "text": "A complex of services to simplify the process of calculating the initial maximum price (Order of the Ministry of Economic Development of the Russian Federation No. 567, Order of the Ministry of Health of the Russian Federation No. 1064n, Order of the Ministry of Health of the Russian Federation No. 450n)",
+                    "iconName": "financialServices"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/pgs"
+                    },
+                    "title": "Verification of compliance with government standards",
+                    "text": "This functionality checks the relevance of the government standards specified in the documentation (GOST, SNiP, SanPiN, RD)",
+                    "iconName": "documentChecked"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/pd"
+                    },
+                    "title": "Search for documentation",
+                    "text": "The service helps to quickly find purchase documentation for further use during carrying out procedures. The search is performed among documents from notifications published in the UIS",
+                    "iconName": "search"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/pnoiz"
+                    },
+                    "title": "Check for restrictions, prohibitions and benefits",
+                    "text": "The functionality allows to quickly pick up OKPD2 / KTRU codes by the desired object of purchase and characteristics, as well as check them for benefits, prohibitions and restrictions and find standard contracts",
+                    "iconName": "checkMark"
+                }
+            ]
+        },
+        "advantages2": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/rsp"
+                    },
+                    "title": "Calculation of time frames of procedures",
+                    "text": "A simple and intuitive calculator to create time frames for purchases under 44-FZ taking into account the latest legislative changes",
+                    "iconName": "bankomat"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/pp"
+                    },
+                    "title": "Attraction of suppliers",
+                    "text": "Increasing competition and the number of participants of procurement procedures through direct calling by marketing center specialists of the Federal Platform TEK-Torg. To use this service, you need to contact the personal manager",
+                    "iconName": "phone"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/apzd"
+                    },
+                    "title": "Automatic verification of procurement documentation",
+                    "text": "The documentation of each notification published in the Government Procurement section on the Federal Platform TEK-Torg is automatically checked for outdated or replaced government standards and norms",
+                    "iconName": "checkbox"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/spp"
+                    },
+                    "title": "Supplier selection service",
+                    "text": "The service generates a list of suppliers, contractors, performers in accordance with the desired object of purchase, indicating contacts for further interaction",
+                    "iconName": "list"
+                }
+            ]
+        },
+        "advantages3": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/oppuz"
+                    },
+                    "title": "Report on verifications of procurement participants",
+                    "text": "At one click of a button, the platform checks all procurement participants in the registers (the Blacklist of Suppliers, SME Register, SRO, 19.28 of the Administrative Code, bankruptcy)",
+                    "iconName": "documentFile"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/pk"
+                    },
+                    "title": "Verification of the counterparty",
+                    "text": "The functionality of comprehensive verification of counterparties allows to get acquainted with detailed information about company, view financial statements, learn the history of contract execution and of the counterparty's participation in purchases, and check them for affiliation",
+                    "iconName": "person"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/rdz"
+                    },
+                    "title": "Recognition of application documents",
+                    "text": "The platform recognizes a number of documents (Certificate of Compliance (RU), Certificate of Origin (ST-1), Licenses, extracts from the register of licenses) as part of the application for participation in procurement for healthcare needs and displays their details in a convenient report, as well as provides links to the relevant registers for subsequent verification",
+                    "iconName": "files"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/iosoz"
+                    },
+                    "title": "Informing about the method of securing the application",
+                    "text": "At the stage of applications review, the participant that provided the application with a bank guarantee is highlighted in a separate color (for subsequent verification)",
+                    "iconName": "flag"
+                }
+            ]
+        },
+        "advantages4": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/opp"
+                    },
+                    "title": "Deferred publication of protocols",
+                    "text": "The ability to postpone sending an electronically signed protocol to the UIS for subsequent adjustments",
+                    "iconName": "timeout"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/ut"
+                    },
+                    "title": "Notifications in Telegram",
+                    "text": "The platform provides the possibility of flexible setting of notifications sent to e-mail and Telegram messenger",
+                    "iconName": "notification"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/mkszp"
+                    },
+                    "title": "Control module for time frames of procurement procedures",
+                    "text": "Control over time frames of the procurement stages is implemented not only through a general list of all procedures, but also through a separate section “Do not forget” that displays only the necessary information about the actions that the customer shall perform on current purchases",
+                    "iconName": "file"
+                }
+            ]
+        },
+        "advantages5": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/arsksup"
+                    },
+                    "title": "Automatic calculation of the contract price on the basis of preferences",
+                    "text": "The platform automatically calculates the amount of the contract to be concluded taking into account the applied preferences and displays this information in the protocol",
+                    "iconName": "bankomat"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/chspz"
+                    },
+                    "title": "Chat with the winner of the procurement procedure",
+                    "text": "Implemented the ability to create chats with the procurement participant recognized as the winner based on the results of review of applications. Besides, it is possible to share files via chat",
+                    "iconName": "conversation"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/spam"
+                    },
+                    "title": "Coordination of the anti-dumping measures application with the Authorized Body",
+                    "text": "The platform makes it possible to send for approval to an Authorized institution/body a request for the application of anti-dumping measures",
+                    "iconName": "signature"
+                }
+            ]
+        },
+        "advantages6": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/zdscfp"
+                    },
+                    "title": "Conclusion of additional agreements through the functionality of the platform",
+                    "text": "The platform provides the ability of concluding additional agreements to the contract in electronic form",
+                    "iconName": "stamp"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/mkeiopk"
+                    },
+                    "title": "Control module of stages and payments under the contract",
+                    "text": "A section containing information on contracts to monitor stages and payments",
+                    "iconName": "checkMark2"
+                }
+            ]
+        },
+        "advantages7": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/posmp"
+                    },
+                    "title": "Preparation of the SMP report",
+                    "text": "The service allows to quickly and easily generate a report on the volume of purchases from small businesses",
+                    "iconName": "documentFile"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/rz"
+                    },
+                    "title": "Procurement register",
+                    "text": "The register contains information on published procedures for preparation of regular analytical reports",
+                    "iconName": "files"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/pz/fpao"
+                    },
+                    "title": "Generation of detailed analytical reports on all purchases of the authorized bodies/the Customer",
+                    "text": "The ability to generate detailed analytical reports on all purchases based on more than 300 criteria and indicators with graphical visualization and the possibility of comparative analysis",
+                    "iconName": "list"
+                }
+            ]
+        }
+    }
+}

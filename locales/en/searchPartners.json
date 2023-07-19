@@ -1,0 +1,97 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Search for partners for collective participation"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Search for partners for collective participation"
+    },
+    "image": {
+        "src": "/images/pages/search-partners/image.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/search-partners/image.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Get information on partners ready for cooperation",
+        "text": [
+            "Submit an&nbsp;application and include your company in&nbsp;the base of&nbsp;suppliers who are ready to&nbsp;participate in&nbsp;procurement as&nbsp;a&nbsp;part of&nbsp;a&nbsp;collective participant."
+        ]
+    },
+    "steps": {
+        "title": "How to use the partners search service",
+        "items": [
+            {
+                "text": "Fill out the application form on the service page"
+            },
+            {
+                "text": "Get information on partners ready for cooperation"
+            }
+        ]
+    },
+    "contactsForm": {
+        "title": "Search for partners for collective participation",
+        "docs": {
+            "title": "Download sample application to fill out",
+            "items": [
+                {
+                    "title": "Application sample",
+                    "type": "DOCX",
+                    "size": "26.8 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/poisk-partnyorov-dlya-kollektivnogo-uchastiya/Заявление на подбор партнёра 18.07.docx"
+                },
+                {
+                    "title": "Requirements of the collective participation agreement",
+                    "type": "DOCX",
+                    "size": "16.1 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/poisk-partnyorov-dlya-kollektivnogo-uchastiya/Требования к соглашению о коллективном участии.docx"
+                },
+                {
+                    "title": "Consent to the provision of information",
+                    "type": "DOCX",
+                    "size": "27.3 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/poisk-partnyorov-dlya-kollektivnogo-uchastiya/Согласие на предоставление сведений.docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

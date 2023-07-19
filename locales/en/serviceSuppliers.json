@@ -1,0 +1,471 @@
+{
+    "leadImg": {
+        "title": "Services<br>for Suppliers",
+        "background": {
+            "src": "/images/blocks/leadImg/services375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/leadImg/services.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/leadImg/services768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "Services"
+            },
+            {
+                "text": "For Suppliers",
+                "href": "/suppliers"
+            }
+        ]
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance",
+        "Financial Services"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents/Unqualified digital signature",
+                    "text": "",
+                    "iconName": "signature",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/eruz"
+                    },
+                    "title": "Assistance in Registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/fast-accreditation"
+                    },
+                    "title": "Express Verification of Accreditation Documents",
+                    "text": "",
+                    "iconName": "file",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/consultdoc"
+                    },
+                    "title": "Verification of Documents for Compliance with Procurement Legislation",
+                    "text": "",
+                    "iconName": "stamp",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "person",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/placement-production"
+                    },
+                    "title": "Placement of products in the online store catalog",
+                    "text": "",
+                    "iconName": "piece",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/bg"
+                    },
+                    "title": " Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/credit-on-procurement"
+                    },
+                    "title": "Credit for Participation in Procurement",
+                    "text": "",
+                    "iconName": "CreditOnProcurement",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/special-account"
+                    },
+                    "title": "Special account",
+                    "text": "",
+                    "iconName": "specAcc",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "piece",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit",
+                    "tag": {
+                        "title": "To Suppliers" 
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring",
+                    "tag": {
+                        "title": "To Suppliers" 
+                    }
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/e-signature-nr"
+                    },
+                    "title": "Electronic signature for non-residents/Unqualified digital signature",
+                    "text": "",
+                    "iconName": "signature",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/eruz"
+                    },
+                    "title": "Assistance in Registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/fast-accreditation"
+                    },
+                    "title": "Express Verification of Accreditation Documents",
+                    "text": "",
+                    "iconName": "file",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/consultdoc"
+                    },
+                    "title": "erification of Documents for Compliance with Procurement Legislation ",
+                    "text": "",
+                    "iconName": "stamp",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "person",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                }
+            ]
+        },
+        "escort": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "person",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/placement-production"
+                    },
+                    "title": "Placement of products in the online store catalog",
+                    "text": "",
+                    "iconName": "piece",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/bg"
+                    },
+                    "title": " Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/special-account"
+                    },
+                    "title": "Special account",
+                    "text": "",
+                    "iconName": "specAcc",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "creditOnDogovor",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/credit-on-procurement"
+                    },
+                    "title": "Credit for Participation in Procurement",
+                    "text": "",
+                    "iconName": "CreditOnProcurement",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit",
+                    "tag": {
+                        "title": "To Suppliers"
+                    }
+                }
+            ]
+        }
+    }
+}

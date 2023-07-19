@@ -1,0 +1,75 @@
+{
+    "lead": {
+        "title": "Единое окно",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Единое окно",
+                    "href": "/rosneft/edinoe_okno"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "Рассмотрение компанией предложений поставщиков и подрядчиков",
+        "text": [
+            "Единое окно позволяет инициировать процесс рассмотрения в&nbsp;компании предложений об&nbsp;использовании производимой продукции/выполняемых работ/оказываемых услуг без направления официальных обращений. Любая организация или физическое лицо может направить предложение о&nbsp;сотрудничестве&nbsp;&mdash; использование оборудования, внедрение новых технологий, оказание услуг, выполнение работ и&nbsp;т.п.",
+            "Для отправки предложения необходимо определить категорию&nbsp;&mdash; Инновационное решение, Идея для инновационного проекта, Выпускаемая продукция/оказываемая услуга/выполняемые работы (раздел &laquo;Предложение о&nbsp;сотрудничестве&raquo;), либо открытые запросы (вопросы, не&nbsp;относящиеся к&nbsp;предыдущим группам). Затем требуется составить заявку по&nbsp;предложенной форме, направить ее&nbsp;в&nbsp;Компанию."
+        ]
+    },
+    "infoCards": {
+        "title": "Для отправки предложения необходимо определить категорию",
+        "cards": {
+            "allLinks": true,
+            "sideCard": {
+                "title": "Предложения о&nbsp;сотрудничестве",
+                "href": "/rosneft/edinoe_okno/predlozheniya_o_sotrudnichestve",
+                "targetBlank": false,
+                "picture": {
+                    "src": "/images/infoCards/2_14_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_14_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_14_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Открытые запросы",
+                    "href": "/rosneft/edinoe_okno/otkrytye_zaprosy",
+                    "targetBlank": false,
+                    "iconName": "signature"
+                },
+                {
+                    "title": "Инновационные<br>решения",
+                    "href": "/rosneft/edinoe_okno/innovaczionnye_resheniya",
+                    "targetBlank": false,
+                    "iconName": "file"
+                },
+                {
+                    "title": "Идея инновационного<br>проекта",
+                    "href": "/rosneft/edinoe_okno/ideya_innovacionnogo_proekta",
+                    "targetBlank": false,
+                    "iconName": "innovation"
+                }
+            ]
+        }
+    }
+}

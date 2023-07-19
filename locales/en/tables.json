@@ -1,0 +1,346 @@
+{
+    "generalInfo": "General information",
+    "paramsAttributes": "Property characteristics",
+    "watchProcedure": "Watch the procedure",
+    "organizerInformation": "Information about the organizer",
+    "unitsInfo": "Purchasing items",
+    "deliveryTerms": "Terms of delivery and payment",
+    "procedureDocumentation": "Procedure documentation",
+    "lotDocumentation": "Lot documentation",
+    "protocols": "Protocols",
+    "documents": "Documents",
+    "procedureNotice": "Procedure notice",
+    "infoProcedureTitle": "Information about the procurement procedure",
+    "infoSubject": "Information about the subject of the purchase",
+    "restrictionsTitle": "List of requirements, regulatory legal acts specifying the features of the application of the national regime",
+    "customerRequirement": "Customer requirement",
+    "criteriasTitle": "Criteria for evaluation",
+    "indicatorsTitle": "Evaluation criteria indicators",
+    "financialSupport": "Financial support for the purchase",
+    "financialSupportRUB": "Financial support for procurement at the expense of budgetary funds (Russian ruble)",
+    "financialSupportStage": "Financial support of the stage (Russian ruble)",
+    "financialSupportCodesRUB": "Financial support for procurement by expense type codes (Russian ruble)",
+    "forParticipants": "Limitations, benefits, requirements for participants and documents to provide",
+    "notEstablished": "Not set",
+    "notEstablished1": "Not set",
+    "established": "Set",
+    "notSpecified": "Not indicated",
+    "required": "Required",
+    "notRequired": "Not required",
+    "withoutSignTrue": "EP is not required for participation",
+    "withoutSignFalse": "EP is required for participation",
+    "explain": "Explanation",
+    "ownershipInfoTitle": "Location of the property",
+    "paramsAttributesTitle": "Property Information",
+    "earnestInfoTitle": "Information about the deposit",
+    "customersTitle": "Customer information",
+    "tenderOptionsTitle": "Information about the auction",
+    "depositsTitle": "Provision",
+    "termsOfSale": "Agreements, requirements for participants, restrictions",
+    "bankAccountName": "Bank guarantee",
+    "submitOffer": "Submit an offer",
+    "missing": "Missing",
+    "financeSource": "Source of financing",
+    "infoProcedure": {
+        "contractTermAdd": "The period during which the winner of the request for quotations or another participant in the request for quotations, with whom the contract is concluded if the winner evades the conclusion of the contract, must sign the contract",
+        "contractConditionsAdd": "Conditions for recognizing the winner of the request for quotations or another participant in the request for quotations that evaded the conclusion of the contract",
+        "place": "Place of application",
+        "appOrder": "Application procedure"
+    },
+    "requirementsLotInfo": {
+        "isBurdenEnabled": "Encumbrance",
+        "burdenDescription": "Description of the encumbrance",
+        "burdenRestrictions": "Restriction of use",
+        "burdenOptions": "Types and parameters of use",
+        "membersQty": "Number of employees of the economic company",
+        "familirizationProcedure": "The procedure for familiarizing buyers with the terms of the contract",
+        "termContract": "Term of the conclusion of the contract",
+        "determingWinners": "The procedure for determining the winners"
+    },
+    "deposits": {
+        "securityDepositEnabled": "Securing the application",
+        "type": "Type of security",
+        "value": "The amount",
+        "name": "Transfer method",
+        "extra": "Additional information"
+    },
+    "deposits2": {
+        "securityDepositEnabled": "Securing the application",
+        "name-security": "Type of application security",
+        "value-security": "The amount of the application security",
+        "contractDepositEnabled": "Securing the contract",
+        "name-contract": "Type of contract enforcement",
+        "value-contract": "The amount of security for the execution of the contract"
+    },
+    "earnestInfo": {
+        "earnestValue": "Deposit amount",
+        "paymentOrderName": "The method of transferring the deposit to the seller",
+        "paymentRequisites": "Account details",
+        "paymentOrderDetails": "Additional information"
+    },
+    "customersInfo": {
+        "fullName": "Customer",
+        "phone": "Contact phone number",
+        "email": "Email address"
+    },
+    "tenderOptions": {
+        "firstOfferWaitTime": "Waiting time for the first price offers",
+        "offersWaitTime": "Waiting time for the second and subsequent price offers",
+        "stepIsExact": "Auction step"
+    },
+    "ownershipInfo": {
+        "addressRegion": "Region",
+        "information": "Information about the property",
+        "typeProperty": "Type of property",
+        "methodAcquaintanceProperty": "The procedure for familiarization with the property"
+    },
+    "deliveryPlace": {
+        "date": "Delivery date",
+        "address": "Delivery address",
+        "term": "Payment and Delivery terms",
+        "isDeliveryPriceIncluded": "The cost of delivery is included in the price"
+    },
+    "docExplain": {
+        "date": "Clarification from",
+        "message": "Response text"
+    },
+    "infoDocumentation": {
+        "isPurchaseObjects": "Is the subject of the contract the delivery of goods necessary for normal life support in the cases specified in part 9 of article 37",
+        "clarificationStartDate": "Date of the beginning of the provision of explanations of the provisions of the documentation",
+        "clarificationEndDate": "End date of providing explanations of the provisions of the documentation",
+        "defaultDocuments": "Documents",
+        "regulationDocuments": "Regulations of the control body",
+        "otherDocuments": "Additional documents",
+        "refusalDocuments": "Documents on cancellation of the procedure"
+    },
+    "infoCustomerRequirementTop": {
+        "positionNumber": "Information about the relationship with the position of the schedule",
+        "purchaseObjectDescription": "Description of the purchase object",
+        "plan2017Number": "The registration number of the schedule",
+        "position2017Number": "Position number in the chart",
+        "purchaseCode": "Purchase identification code",
+        "relativeTermsDays": "Start date of the contract execution",
+        "relativeTerm": "Contract execution period",
+        "notRelativeTermsStartDate": "Start date of the contract execution",
+        "notRelativeTermsEndDate": "End date of contract execution",
+        "startPriceFalse": "Initial (maximum) contract price",
+        "startPriceTrue": "Maximum value of the contract price",
+        "isNonBudgetSelfFundsBudget": "Purchase at the expense of budgetary funds",
+        "isNonBudgetSelfFundsOwn": "Purchase at the expense of the organization's own funds",
+        "budgetFinancingDetailName": "Budget",
+        "budgetFinancingDetailLevel": "Budget level",
+        "budgetFinancingDetail": "The code of the territory of the municipality"
+    },
+    "infoCustomerRequirementBottom": {
+        "budgetObligationsNumber": "Accounting number of the accepted budget commitment",
+        "budgetObligationsDate": "Date of registration of the accepted budget commitment",
+        "address": "Place of delivery of goods, performance of work or provision of services",
+        "term": "Term of contract execution, individual stages of contract execution",
+        "contractPriceFormula": "Contract price formula",
+        "securityDepositEnabled": "The requirement to secure applications",
+        "depositsValueBid": "The amount of collateral for applications",
+        "depositsPayTermsBid": "The procedure for depositing funds as collateral for the application, as well as the terms of the guarantee",
+        "depositsPayRequisitsBid": "Payment details for the transfer of funds in case of evasion of the procurement participant from the conclusion of the contract",
+
+        "contractDepositEnabled": "The requirement to ensure the performance of the contract",
+        "depositsValueContract": "The amount of security for the execution of the contract",
+        "depositsPayTermsContract": "The procedure for providing security for the execution of the contract",
+        "depositsPayRequisitsContract": "Payment details to ensure the execution of the contract",
+        "serviceRequirement": "The requirement to guarantee the quality of goods, work, services",
+        "warrantyDepositEnabled": "The requirement to ensure warranty obligations",
+        "warrantyServiceRequirement": "Information about the requirements for warranty service of goods",
+        "manufacturersWarrantyRequirement": "Product manufacturer's warranty requirements",
+        "warrantyTerm": "The period for which the guarantee is provided and (or) the requirements for the scope of providing guarantees of the quality of goods, work, services",
+        "lcPrice": "Cost of delivery of goods or performance of work",
+        "lcServicePrice": "The cost of subsequent maintenance, operation (if available) during the service life, repair and (or) disposal of the delivered goods or the capital construction object or goods created as a result of the work",
+        "deliveryGuaranteeAmount": "The amount of security for the fulfillment of obligations for the delivery of goods or the performance of work",
+        "serviceGuaranteeAmount": "The amount of security for the fulfillment of obligations for subsequent maintenance, operation (if any) during the service life, repair and (or) disposal of the delivered goods or the capital construction object or goods created as a result of the work",
+        "lifeCyclePrice": "Cost of delivery of goods or performance of work",
+        "lifeCycleServicePrice": "The cost of subsequent maintenance, operation (if available) during the service life, repair and (or) disposal of the delivered goods or the capital construction object or goods created as a result of the work",
+        "bankTreasurySupportRequired": "Banking and/or treasury support of the contract is required",
+        "additionalInformation": "Additional information",
+        "advancePayment": "The amount of the advance as a percentage",
+        "mustPublicDiscussion": "Mandatory public discussion is provided in accordance with article 20 of Federal Law 44-FZ"
+    },
+    "infoSubjectPurchase": {
+        "startPrice": "Initial (maximum) contract price",
+        "restrictions14": "Conditions, prohibitions and restrictions on the admission of goods originating from a foreign state or a group of foreign states, works, services, respectively performed, rendered by foreign persons",
+        "contractLifeCycleInfo": "A life cycle contract will be concluded with the supplier (contractor, contractor)"
+    },
+    "contractLifeCycleInfo": "Reasons for concluding a life cycle contract in accordance with RF PP № 1087 dated 28.11.2013 «On Determining Cases of concluding a life Cycle Contract»",
+    "informationForParticipants": {
+        "preferences": "Advantages",
+        "requirements": "Requirements for participants",
+        "restrictions": "Restrictions and prohibitions"
+    },
+    "organization": {
+        "fullName": "Organizer",
+        "phone": "Contact phone number",
+        "email": "E-mail",
+        "contactFio": "Full name of the contact person"
+    },
+    "organizer": {
+        "fullName": "Name of the organization",
+        "typeName": "Type of organization",
+        "inn": "INN",
+        "kpp": "KPP",
+        "legalAddr": "Place",
+        "postalAddr": "Postal address",
+        "contactPhone": "Contact phone number",
+        "contactEmail": "Email address",
+        "contactPerson": "Responsible official"
+    },
+    "someInfoOrganizer": {
+        "organizerName": "Name of the organizer",
+        "contactPhone": "Contact phone number",
+        "contactEmail": "Email address",
+        "contactPerson": "Full name of the contact person"
+    },
+    "partners": {
+        "organizationName": "Name of company",
+        "inn": "TIN",
+        "registryNumber": "Registration number of the application",
+        "date_include": "Date of entry into the program"
+    },
+    "qualification": {
+        "organizationName": "Company name",
+        "inn": "TIN",
+        "kpp": "TR(R)C"
+    },
+    "organizations": {
+        "organizationName": "Company name",
+        "inn": "TIN",
+        "kpp": "TR(R)C"
+    },
+    "restrictions": {
+        "name": "Type of requirement",
+        "content": "Regulatory legal act",
+        "exception": "Circumstances that allow exclusion from the established prohibitions or restrictions",
+        "banReason": "Justification of the impossibility of prohibition",
+        "note": "Note"
+    },
+    "purchases": {
+        "organizerName": "Organizer",
+        "registryNumber": "Number",
+        "typeName": "Procurement method",
+        "datePublished": "Date of publication",
+        "dateEndRegistration": "Request End Date",
+        "statusName": "Status",
+        "sumPrice": "Starting price"
+    },
+    "purchasesExtra": {
+        "organizerName": "Организатор",
+        "registryNumber": "Number",
+        "typeName": "Procurement method",
+        "datePublished": "Date of publication",
+        "dateEndRegistration": "Request End Date",
+        "statusName": "Status",
+        "timeToEndRegistration": "Time Left",
+        "sumPrice": "Starting price"
+    },
+    "property": {
+        "organizerName": "Organizer",
+        "addressString": "Address",
+        "typeProperty": "Type of property",
+        "statusName": "Status",
+        "startPrice": "Initial price"
+    },
+    "requirements": {
+        "content": "Content of the requirement",
+        "confirmation": "Confirmation of compliance with the requirement",
+        "document": "Document"
+    },
+    "units": {
+        "number": "№",
+        "name": "Name of work, product, service",
+        "type": "Type of purchase object",
+        "unit_price": "Price per unit",
+        "okpd2ktru": "OKPD2/KTRU",
+        "quantity": "Quantity",
+        "okeiName": "Unit of measurement",
+        "sum_price": "Cost"
+    },
+    "unitsMarket": {
+        "number": "№",
+        "name": "Position name",
+        "okeiName": "Unit of measurement",
+        "quantity": "Quantity",
+        "comment": "Comment",
+        "documents": "Investment"
+    },
+    "lotUnits": {
+        "name": "Name",
+        "quantity": "Quantity",
+        "okeiName": "Unit of measurement",
+        "unit_price": "NMC without VAT",
+        "nds": "VAT rate",
+        "simpleRequirements": "Position description"
+    },
+    "lotUnits2": {
+        "okeiName": "Unit of measurement",
+        "quantity": "Quantity",
+        "okpd2": "OKPD2",
+        "okved2": "OKVED2 "
+    },
+    "total": "Total",
+    "executionPaymentPlan": {
+        "totalSum": "Total",
+        "currentYearSum": "year",
+        "firstYearSum": "year",
+        "secondYearSum": "year",
+        "subsecYearsSum": "Amount for the following years"
+    },
+    "executionPaymentPlanKvr": {
+        "kvrCode": "KVR",
+        "totalSum": "Total",
+        "currentYearSum": "year",
+        "firstYearSum": "year",
+        "secondYearSum": "year",
+        "subsecYearsSum": "Amount for the following years"
+    },
+    "executionPaymentPlanKbk": {
+        "kbkCode": "KBK",
+        "totalSum": "Total",
+        "currentYearSum": "year",
+        "firstYearSum": "year",
+        "secondYearSum": "year",
+        "subsecYearsSum": "Amount for the following years"
+    },
+    "criterias": {
+        "name": "Name of the criterion",
+        "value": "Significance of the criterion, %",
+        "measurement_order": "Evaluation procedure",
+        "limit": "Limit value",
+        "add_info": "Additional information"
+    },
+    "indicators": {
+        "name": "The name of the indicator",
+        "value": "Significance of the indicator",
+        "measurement_order": "Evaluation procedure",
+        "add_info": "Additional information",
+        "limit": "Limit value"
+    },
+    "listingQualification": {
+        "qualificationName": "Name of the qualification criterion",
+        "emptyCriteries": "No results",
+        "criteriaOrg": "Company's criteria",
+        "typicalCriterion": "Standard qualification criterion",
+        "enterNameCriteria": "Enter the name of criterion",
+        "serviceCategories": "Service categories",
+        "additionalRequirements": "Additional requirements",
+        "submitApplication": "Submit an application"
+    },
+    "criteries": "Criteria",
+    "requirementsTitle": "Requirements",
+    "period": {
+        "text": "Placement period:&nbsp;",
+        "from": "from&nbsp;",
+        "to": "&nbsp;to&nbsp;",
+        "noLimit": "no expiration"
+    },
+    "stage": "Stage",
+    "periodOfExecution": "Term of execution",
+    "fromDateContract": "from the date of conclusion of the contract",
+    "relativeTermsStart": "Start date of execution",
+    "relativeTerms": "Term of execution"
+}

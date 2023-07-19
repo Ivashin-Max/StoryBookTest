@@ -1,0 +1,53 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Support center<br> for sellers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of property",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Support center"
+                },
+                {
+                    "text": "For sellers"
+                }
+            ]
+        }
+    },
+    "tags": [
+        "General questions",
+        "Section articles"
+    ],
+    "education": {
+        "name": "Training events",
+        "links": [
+            {
+                "href": "/education/courses-customer",
+                "text": "For customers"
+            },
+            {
+                "href": "/education/courses-supplier",
+                "text": "For suppliers"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    }
+}

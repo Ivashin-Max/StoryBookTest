@@ -1,0 +1,54 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "interRAOFull",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция закупок ПАО &laquo;Интер РАО&raquo;",
+            "href": "/inter_rao"
+        },
+        "menu": [
+            {
+                "text": "Закупочные процедуры",
+                "href": "/inter_rao/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Для поставщиков",
+                "href": "/inter_rao/ekosreda",
+                "id": "ecoEnvironment",
+                "subLinks": []
+            },
+            {
+                "text": "Тарифы",
+                "href": "/inter_rao/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "/inter_rao/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Центр поддержки",
+                "href": "/inter_rao/help",
+                "id": "support",
+                "subLinks": []
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "/inter_rao/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

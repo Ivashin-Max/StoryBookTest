@@ -1,0 +1,159 @@
+{
+    "leadText": {
+        "title": "Personal consultation with an expert",
+        "description": "About everything related to 223-FZ, 44-FZ and other types of regulated procurements",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Government procurement",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/44-fz/service"
+                },
+                {
+                    "text": "Personal consultation with an expert",
+                    "href": "/44Fz-icwe"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Register",
+            "id": "ApplicationForm3"
+        }
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any other questions?",
+                "text": [
+                    "Email us at&nbsp;edu@tektorg.ru или<br/>or Call: +7&nbsp;495 734-81-18&nbsp;доп.&nbsp;4512"
+                ],
+                "modal": [
+                    {
+                        "title": "Ask a Question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    },
+    "benefits": {
+        "sideCard": {
+            "title": "When a consultation is needed",
+            "text": "Consultations will be useful to the customers and suppliers working within the framework of 44-FZ, 223-FZ and other regulated procurements",
+            "bg": "blue",
+            "modalbtns": [
+                {
+                    "title": "Submit an application",
+                    "id": "ApplicationForm3"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "You have a specific question that you doubt the answer to",
+                "iconName": "checkMark2"
+            },
+            {
+                "text": "You learn directly \"in the battle\", do not have time to complete a full training, but do not want to make a mistake",
+                "iconName": "file"
+            },
+            {
+                "text": "You are worried about the correctness of a specific application or documentation",
+                "iconName": "checkMark"
+            },
+            {
+                "text": "You want to broaden your horizons and learn about different cases such as your problem",
+                "iconName": "case2"
+            },
+            {
+                "text": "You need a second opinion",
+                "iconName": "feedback"
+            }
+        ]
+    },
+    "five": {
+        "title": "How is the consultation going",
+        "items": [
+            {
+                "text": "We examine your request"
+            },
+            {
+                "text": "We decide whether we can be useful to you, we select a relevant expert"
+            },
+            {
+                "text": "We set a convenient date and time for the consultation"
+            },
+            {
+                "text": "We analyze your situation within one hour using the online communication service"
+            },
+            {
+                "text": "We give recommendations and steps for further work"
+            }
+        ]
+    },
+    "educationLectors": {
+        "title": "Experts",
+        "lectors": [
+            {
+                "nid": "3152",
+                "title": "Kuznetsov Alexander Vladimirovich",
+                "position": "Chief expert of the training center JSC \"TEK-Torg\"",
+                "text": "Has more than 10 years of professional experience in the field of public and commercial procurement.<br/>Author and developer of full-time and distance learning curricula.<br/>Among the trained students are more than 10 thousand entrepreneurs, including SMEs, government officials and local self-government, Rosneft Oil Company PJSC, RosAtom State Corporation, Gazprom PJSC, Inter-RAO PJSC, Rosgeologia JSC.<br/>He has more than 10 years of professional experience in public and commercial procurement.<br/>Author and developer of curricula for full-time and distance learning.<br/>Among the trained students are more than 10 thousand entrepreneurs, including SMEs, employees of government and local governments, PJSC Rosneft Oil Company, GK \" RosAtom, PJSC Gazprom, PJSC Inter-RAO, JSC Rosgeologiya.<br/>More than 10 years of professional experience in public and commercial procurement.<br/>Author and developer of full-time training programs and distance learning.<br/>Among the more than 10 thousand entrepreneurs, including SMEs, employees of authorities and local governments, PJSC NK Rosneft, SC RosAtom, PJSC Gazprom, PJSC Inter-RAO, JSC Rosgeologiya.<br />More than 10 years of professional experience in public and commercial procurement.",
+                "image": "/images/blocks/sliderEducationLectors/kuznetsov1.jpg"
+            },
+            {
+                "nid": "3307",
+                "title": "Chibisov Roman Sergeevich",
+                "position": "Chief expert of the training center JSC \"TEK-Torg\"",
+                "text": "Lecturer-practitioner, expert consultant. An independent expert accredited by the Ministry of Justice of the Russian Federation, authorized to conduct an independent anti-corruption examination of legal acts.<br/>Certified by the Procurement Institute of the Moscow State Law Academy named after O.E. Kutafina is a lecturer in the field of regulated procurement. 14 years of experience in the field of regulated procurement.<br/>Developer of courses, teaching materials, assignments, tests for courses in the field of regulated procurement.",
+                "image": "/images/blocks/sliderEducationLectors/chibisov1.jpg"
+            }
+        ]
+    },
+    "bannerText":{
+        "title": "At the end of the course you will receive",
+        "cards": {
+            "cardLink": {
+                "title": "Straightforward answers to your questions",
+                "fullModalCard": true,
+                "modal": [{
+                    "title": "Submit an application",
+                    "id": "ApplicationForm3"
+                }]
+            },
+            "cardBottom": [
+                {
+                    "title": "Description of possible risks of certain actions",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Tips for the most effective resolution of your situation",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    }
+}

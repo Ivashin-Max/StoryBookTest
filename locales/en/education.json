@@ -1,0 +1,276 @@
+{
+    "leadImg": {
+        "title": "Training",
+        "textColor": "white",
+        "backgroundColor": "blue",
+        "background": {
+            "src": "/images/pages/education/leadImg/lead-sm.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/education/leadImg/lead-lg.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/education/leadImg/lead-md.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "Training"
+            },
+            {
+                "text": "TEK Torg Training Center"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/education/bannerSlider/banner7-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner7.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner7-md.jpg",
+                            "breakpoint": "768"
+                        },
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner7-420.jpg",
+                            "breakpoint": "420"
+                        }
+                    ]
+                },
+                "title": "Supplier's Day for government and corporate customers",
+                "text": "Forum and Exhibition \"GOSZAKAZ 2023\"<br> April 20, Moscow, Skolkovo Innovation Center",
+                "links": [
+                    {
+                        "text": "Register",
+                        "metrikValue": "day postavshik 23",
+                        "href": "https://event.tektorg.ru/denpostavshika",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/pages/education/bannerSlider/banner6-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner6.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner6-md.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Practical seminar: \"Purchase under 223-FL in modern conditions\"",
+                "text": "April 12-14, Moscow. Practice for effective application and current trends.",
+                "links": [
+                    {
+                        "text": "Register",
+                        "metrikValue": "seminar zakupki 223",
+                        "href": "https://edu.tektorg.ru/zakupki2023",
+                        "isForeign": true
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/pages/education/bannerSlider/banner1-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner1-lg.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner1-md.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "How to&nbsp;participate in&nbsp;procurements and make profitable deals",
+                "text": "Sales through tenders under 223-FZ",
+                "links": [
+                    {
+                        "text": "Start Training",
+                        "href": "/education/courses/5693"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/pages/education/bannerSlider/banner2-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner2-lg.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/education/bannerSlider/banner2-md.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "How to&nbsp;participate and win in&nbsp;the Rosneft procurements in&nbsp;2023",
+                "text": "",
+                "links": [
+                    {
+                        "text": "Register",
+                        "href": "https://edu.tektorg.ru/rosneft_kurs?utm_source=education&utm_medium=banner",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerText": {
+        "background": {
+            "src": "/images/blocks/bannerText/blue-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerText/2.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "title": "TEK Torg Training Center",
+        "text": [
+            "<b>We offer comprehensive procurement training based on our own training center.</b>",
+            "Our teachers are experts in the field of procurement, ready to share their unique knowledge and experience.",
+            "Classes are held in modern formats: conferences, webinars, seminars, trainings and distance courses on procurement within the framework of 44-FZ, 223-FZ and commercial bidding.",
+            "Author's training programs are available for both procurement organizers and participants with any initial level of training.",
+            "The training will help you understand in detail the peculiarities of legislation, the algorithms of electronic trading, learn the practice of decisions of control bodies, which will help you avoid mistakes and make your work with procurement as efficient as possible."
+        ]
+    },
+    "education": {
+        "name": "Events and Courses",
+        "links": [
+            {
+                "href": "/education/courses-supplier",
+                "text": "For Suppliers"
+            },
+            {
+                "href": "/education/courses-customer",
+                "text": "For Customers"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    },
+    "videoSlider": {
+        "title": "Video Materials",
+        "links": [
+            {
+                "text": "For Suppliers",
+                "href": "/education/video-supplier"
+            },
+            {
+                "text": "For Customers",
+                "href": "/education/video-customer"
+            }
+        ]
+    },
+    "actualSliderInner": {
+        "title": "Experts articles",
+        "links": [
+            {
+                "text": "For Suppliers",
+                "href": "/education/expert-articles-supliers"
+            },
+            {
+                "text": "For Customers",
+                "href": "/education/expert-articles"
+            }
+        ],
+        "content": {
+            "items": [
+                {
+                    "title": "Тендеры в&nbsp;2022&nbsp;году. Как действовать поставщику в&nbsp;новых условиях?",
+                    "date": "5&nbsp;марта 2022",
+                    "link": {
+                        "text": "Подробнее",
+                        "href": "/education/expert-articles-supliers/article"
+                    },
+                    "linkMore": false,
+                    "bgColor": "gray2",
+                    "textColor": "black",
+                    "dateColor": "black",
+                    "fullWidthTitle": true,
+                    "clamp": 4,
+                    "type": {
+                        "name": "news"
+                    }
+                },
+                {
+                    "title": "Особенности участия в&nbsp;тендерах: три новых тренда в&nbsp;2022&nbsp;г.",
+                    "date": "10&nbsp;августа 2022",
+                    "image": "/images/pages/education/actualSlider/default.jpg",
+                    "link": {
+                        "text": "Подробнее",
+                        "href": "/education/expert-articles/article-2"
+                    },
+                    "linkMore": false,
+                    "fullWidthTitle": true,
+                    "textColor": "white",
+                    "dateColor": "white",
+                    "type": {
+                        "name": "news"
+                    }
+                },
+                {
+                    "title": "Неконкурентные закупки на&nbsp;электронных площадках: разбираемся в&nbsp;нюансах",
+                    "date": "16&nbsp;июня 2022",
+                    "link": {
+                        "text": "Подробнее",
+                        "href": "/education/expert-articles-supliers/article-3"
+                    },
+                    "linkMore": false,
+                    "fullWidthTitle": true,
+                    "bgColor": "gray2",
+                    "textColor": "black",
+                    "dateColor": "black",
+                    "type": {
+                        "name": "news"
+                    }
+                },
+                {
+                    "title": "Осуществление закупок по&nbsp;223-ФЗ в&nbsp;новых реалиях",
+                    "date": "16&nbsp;августа 2022",
+                    "image": "/images/pages/education/actualSlider/default2.jpg",
+                    "link": {
+                        "text": "Подробнее",
+                        "href": "/education/expert-articles/article-4"
+                    },
+                    "linkMore": false,
+                    "fullWidthTitle": true,
+                    "dateColor": "black",
+                    "type": {
+                        "name": "news"
+                    }
+                }
+            ]
+        }
+    },
+    "lectorsTitle": "Experts",
+    "reviewsTitle": "Reviews"
+}

@@ -1,0 +1,105 @@
+{
+    "leadText": {
+        "title": "Catalog",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of property",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Object catalog"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Subscribe to newsletter",
+            "href": "/subscription"
+        }
+    },
+    "backButton": "Back",
+    "tags": ["Commercial property", "Government property", "Arrested property"],
+    "errorMessage": "Nothing was found for your query",
+    "message": {
+        "text": "Attention to&nbsp;users! Register in&nbsp;advance and top up&nbsp;your personal account to&nbsp;participate in&nbsp;the procedure, as&nbsp;registration and crediting of&nbsp;funds can take up&nbsp;to&nbsp;7&nbsp;working days."
+    },
+    "search": {
+        "title": "Search by objects",
+        "searchInput": {
+            "placeholder": "Enter a keyword or type of property (apartment, freight transport, transformer)",
+            "submitText": "Search"
+        },
+        "filters": [
+            {
+                "title": "Location of the property",
+                "type": "text",
+                "fields": [{ "name": "address", "placeholder": "Enter the region / town" }]
+            },
+            {
+                "title": "Statuses of procedures (stages)",
+                "type": "checkbox",
+                "fields": [{ "name": "status" }],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Organizer",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Enter the name of the organization or TIN"
+                },
+                "fields": [{ "name": "organizer" }],
+                "dataName": "organizers"
+            },
+            {
+                "title": "Price, RUB",
+                "type": "price",
+                "fields": [
+                    {
+                        "name": "sumPrice_start",
+                        "label": "From"
+                    },
+                    {
+                        "name": "sumPrice_end",
+                        "label": "To"
+                    }
+                ]
+            }
+        ]
+    },
+    "sort": {
+        "viewList": [
+            {
+                "title": "Block view",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Table view",
+                "icon": "viewTable"
+            }
+        ]
+    },
+    "categoryCards": [
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/immovables.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/transport.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/MTR.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/intangible.jpg"
+        },
+        {
+            "image": "/images/pages/vitrina/procedures/categoryCards/other.jpg"
+        }
+    ]
+}

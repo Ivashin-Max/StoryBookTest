@@ -1,0 +1,17 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "forClients",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Все необходимое для работы на площадке",
+            "href": "/clients/organizations"
+        },
+        "banner": {
+            "title": "Календарь отраслевых мероприятий",
+            "image": "/images/headerWidgets/clients1.jpg",
+            "link": {
+                "href": "https://event.tektorg.ru/calendar"
+            },
+            "textColor": "black"
+        }
+    }
+}

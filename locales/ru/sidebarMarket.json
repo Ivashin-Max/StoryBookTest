@@ -1,0 +1,56 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "marketFull",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция малых и срочных закупок",
+            "href": "/market"
+        },
+        "menu": [
+            {
+                "text": "Закупочные процедуры",
+                "href": "/market/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Тарифы",
+                "href": "/market/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "/market/documents",
+                "id": "documents",
+                "subLinks": []
+            },      
+            {
+                "text": "Центр поддержки",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам",
+                        "href": "/market/customers/help"
+                    },
+                    {
+                        "text": "Поставщикам",
+                        "href": "/market/suppliers/help"
+                    }
+                ]
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "/market/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

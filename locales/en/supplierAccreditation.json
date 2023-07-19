@@ -1,0 +1,77 @@
+{
+  "lead": {
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "ETP Sections"
+        },
+        {
+          "text": "Procurement procedures of Inter RAO",
+          "href": "/inter_rao"
+        },
+        {
+            "text": "Eco-friendly service environment",
+            "href": "/inter_rao/ekosreda"
+        },
+        {
+          "text": "Accreditation of the suppliers"
+        }
+      ]
+    },
+    "lineBottom": true,
+    "title": "Accreditation of the suppliers",
+    "rectLink": {
+        "text": "Apply for accreditation",
+        "href": "https://irao.tektorg.ru/#auth/login",
+        "isForeign": true
+    }
+  },
+  "bannerText": {
+    "title": "Simplify your participation in&nbsp;procurement of&nbsp;the Inter RAO Group companies",
+    "text": [
+      "The accreditation procedure for suppliers of&nbsp;goods, works, services has been developed in&nbsp;order to&nbsp;optimize and improve the efficiency of&nbsp;procurement management mechanisms for timely and full support for the production activities of&nbsp;the Inter RAO Group under the existing centralized supply system, and the protection against unscrupulous suppliers."
+    ]
+  },
+  "steps": {
+    "title": "Necessary steps to&nbsp;pass the accreditation:",
+    "items": [
+      {
+        "text": "Registration on&nbsp;the ETP (creating an&nbsp;account on&nbsp;the electronic trade platform and registration of&nbsp;a&nbsp;legal entity based on&nbsp;two documents)"
+      },
+      {
+        "text": "Replenishment of&nbsp;the account (to&nbsp;apply for accreditation, it&nbsp;is&nbsp;necessary to&nbsp;replenish a&nbsp;personal account for the amount specified in&nbsp;the accreditation procedure)"
+      },
+      {
+        "text": "Analysis of&nbsp;the open accreditation procedures"
+      },
+      {
+        "text": "An&nbsp;application filing"
+      },
+      {
+        "text": "Waiting for the decision of&nbsp;the Customer on&nbsp;your package of&nbsp;documents"
+      }
+    ]
+  },
+  "infoList": {
+    "title": "Accreditation is&nbsp;based on&nbsp;the following basic principles:",
+    "items": [
+      {
+        "title": "Voluntary basis",
+        "text": "Accreditation is&nbsp;carried out in&nbsp;relation to&nbsp;the entities that voluntarily expressed a&nbsp;desire to&nbsp;receive an&nbsp;assessment of&nbsp;their competence in&nbsp;the field of&nbsp;accredited activities, who submitted a&nbsp;written application in&nbsp;the prescribed manner and voluntarily wished to&nbsp;follow the accreditation procedure established by&nbsp;the Company."
+      },
+      {
+        "title": "Accessibility",
+        "text": "General accessibility is&nbsp;achieved by&nbsp;informing the Applicant about the rules and conditions of&nbsp;accreditation."
+      }
+    ]
+  },
+  "rectLink": {
+      "text": "Apply for accreditation",
+      "href": "https://irao.tektorg.ru/#auth/login",
+      "isForeign": true
+  }
+}

@@ -1,0 +1,261 @@
+{
+    "lead": {
+        "title": "Поставщикам",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «НК «Роснефть»",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Поставщикам"
+                }
+            ]
+        }
+    },
+    "pictureBlock":{
+        "picture": {
+            "src": "/images/pages/rosneft/suppliers.jpeg",
+            "sources": [
+                {
+                    "src": "/images/pages/rosneft/suppliers.jpeg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "tagsContent": {
+        "toCustomers": {
+            "titleAdvantages": "Экосистема сервисов. ЭТП ТЭК-Торг оказывает сервис полного цикла для участников закупок",
+            "tabsHeader": ["Подготовка", "Работа на площадке", "Участие в закупках", "Исполнение контракта/договора"],
+            "advantages": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/rosneft/service/e-signature"
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Получение электронной подписи",
+                        "text": "Для работы на площадке и участия в закупках",
+                        "iconName": "financialServices",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/education"
+                        },
+                        "title": "Обучение",
+                        "text": "Представителей компаний-участников ведущими экспертами рынка",
+                        "iconName": "documentChecked"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/services/service-suppliers/special-account"
+                        },
+                        "title": "Заведение специального счета",
+                        "text": "Для участия в госзакупках и закупках госкорпораций",
+                        "iconName": "search"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/rosneft/service/eruz"
+                        },
+                        "title": "Регистрация в ЕРУЗ",
+                        "text": "Поможем правильно оформить доступ для вашей компании",
+                        "iconName": "checkMark"
+                    }
+                ]
+            },
+            "advantages2": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "isForeign": false,
+                            "href": "/procedures"
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Поиск актуальных закупок",
+                        "text": "Для вашей компании",
+                        "iconName": "bankomat",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/fast-accreditation",
+                            "isForeign": false
+                        },
+                        "title": "Ускоренное рассмотрение заявления на аккредитацию",
+                        "text": "На площадке",
+                        "iconName": "phone"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/placement-production",
+                            "isForeign": false
+                        },
+                        "title": "Размещение позиций",
+                        "text": "Из прайс-листа для увеличения продаж через Интернет-магазин",
+                        "iconName": "checkbox"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/consultdoc",
+                            "isForeign": false
+                        },
+                        "title": "Ускоренная проверка",
+                        "text": "Документов на предквалификацию для особых закупок",
+                        "iconName": "list"
+                    }
+                ]
+            },
+            "advantages3": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/rosneft/service/134",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Ускоренный доступ к торгам",
+                        "text": "По платежному поручению",
+                        "iconName": "documentFile",
+                        "textColor": "white"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/rosneft/service/bg",
+                            "isForeign": false
+                        },
+                        "title": "Получение банковских гарантий",
+                        "text": "Для участия в закупках где требуется обеспечение участия или исполнения контракта",
+                        "iconName": "person"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/clients/tariff",
+                            "isForeign": false
+                        },
+                        "title": "Выбор наиболее оптимального тарифа",
+                        "text": "Для участия в закупках на секциях ЭТП ТЭК-Торг",
+                        "iconName": "files"
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/clients/support-suppliers",
+                            "isForeign": false
+                        },
+                        "title": "Помощь участникам закупок",
+                        "text": "В Центре поддержки поставщиков",
+                        "iconName": "flag"
+                    }
+                ]
+            },
+            "advantages4": {
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/edo",
+                            "isForeign": false
+                        },
+                        "image": "/images/blocks/сardSet/4.jpg",
+                        "title": "Подключение электронного документооборота",
+                        "text": "Для ускорения работы и оптимизации затрат",
+                        "iconName": "timeout",
+                        "textColor": "white"
+                    }
+                ]
+            }
+        }
+    },
+    "items": [
+        {
+            "background": {
+                "src": "/images/pages/rosneft-ip/banner.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/rosneft-ip/banner.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            },
+            "title": "Требования в&nbsp;рамках проверки должной осмотрительности в&nbsp;ПАО &laquo;НК &laquo;Роснефть&raquo;",
+            "links": [
+                {
+                    "text": "Требования к Поставщикам ",
+                    "href": "http://zakupki.rosneft.ru/requirement",
+                    "isForeign": true
+                }
+            ]
+        }
+    ],
+    "documents1": [
+        {
+            "nid": "5472",
+            "title": "Публичная позиция Компании",
+            "section": "Роснефть",
+            "group": "Подходы ПАО &laquo;НК &laquo;Роснефть&raquo; к&nbsp;соблюдению прав человека",
+            "file": "/documents/rosneft/suppliers/foreign/Public_Statement_RU.PDF",
+            "type": "PDF",
+            "size": "3.84 MБ"
+        },
+        {
+            "nid": "5473",
+            "title": "Декларация Компании",
+            "section": "Роснефть",
+            "group": "Подходы ПАО &laquo;НК &laquo;Роснефть&raquo; к&nbsp;соблюдению прав человека",
+            "file": "/documents/rosneft/suppliers/foreign/Declaration_RU.PDF",
+            "type": "PDF",
+            "size": "2.89 MБ"
+        },
+        {
+            "nid": "5474",
+            "title": "Кодекс Поставщиков",
+            "section": "Роснефть",
+            "group": "Подходы ПАО &laquo;НК &laquo;Роснефть&raquo; к&nbsp;соблюдению прав человека",
+            "file": "/documents/rosneft/suppliers/foreign/Code_of_Suppliers_RU.PDF",
+            "type": "PDF",
+            "size": "320 КБ"
+        }
+    ],
+    "five": {
+        "title":"Преимущества сервиса ТЭК-Торг",
+        "items": [
+            {
+                "text": "Сотни тендеров каждый день"
+            },
+            {
+                "text": "Закупки по&nbsp;всей России"
+            },
+            {
+                "text": "Круглосуточная служба технической поддержки"
+            },
+            {
+                "text": "Индивидуальный подход к&nbsp;каждому клиенту"
+            }
+        ]
+    }
+}

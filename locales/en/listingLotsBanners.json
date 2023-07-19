@@ -1,0 +1,29 @@
+{
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/vitrina/procedures/bannerSlider/photo-auction-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/vitrina/procedures/bannerSlider/photo-auction-1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/vitrina/procedures/bannerSlider/photo-auction-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Accelerated access to&nbsp;bidding",
+                "text": "Transfer of&nbsp;funds by&nbsp;payment order to&nbsp;your account within 2&nbsp;hours",
+                "links": [
+                    {
+                        "text": "Watch",
+                        "href": "/sale/service/134"
+                    }
+                ]
+            }
+        ]
+    }
+}

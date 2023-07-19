@@ -1,0 +1,47 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Центр поддержки<br> для заказчиков",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Центр поддержки"
+                },
+                {
+                    "text": "Заказчикам",
+                    "href": "/223-fz/help-customers"
+                }
+            ]
+        }
+    },
+    "tags": ["Общие вопросы", "Статьи по секции"],
+    "education": {
+        "name": "Обучающие мероприятия",
+        "links": [
+            {
+                "href": "/education",
+                "text": "Смотреть все"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    }
+}

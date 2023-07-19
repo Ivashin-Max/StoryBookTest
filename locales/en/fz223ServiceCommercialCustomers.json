@@ -1,0 +1,110 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Services for commercial customers"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Services for For Commercial Customers"
+    },
+    "tags": [
+        "All",
+        "Planning",
+        "Preparation",
+        "Carrying Out",
+        "Conclusion of Contract"
+    ],
+    "tagsContent": {
+        "planning": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers/nmc"
+                    },
+                    "title": "Justification of IMP",
+                    "text": "Analysis of price information on purchases, goods and services",
+                    "iconName": "conversation"
+                }
+            ]
+        },
+        "training": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers/digital_helper"
+                    },
+                    "title": "Digital Assistant",
+                    "text": "Full verification of the supplier's status automatically and based on reliable sources",
+                    "iconName": "person"
+                }
+            ]
+        },
+        "holding": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3MarketCentre",
+                    "title": "Marketing Center",
+                    "text": "Ensuring the required level of competition in purchases. Communication and feedback collection from potential procurement participants",
+                    "iconName": "cart"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-customers/outsourcing"
+                    },
+                    "title": "Procurement Outsourcing",
+                    "text": "Comprehensive support at all stages of the procurement process: from the development of documentation to the conclusion of the contract",
+                    "iconName": "timeout"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/education"
+                    },
+                    "title": "Training Center",
+                    "text": "Theory and practice from experts in the field of procurement",
+                    "iconName": "Education"
+                }
+            ]
+        },
+        "agreement": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3ManageDogovor",
+                    "title": "Contract Management",
+                    "text": "Automated contract execution process",
+                    "iconName": "files"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "Send documents without duplication on&nbsp;paper to optimize costs, get documents for free",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    }
+}

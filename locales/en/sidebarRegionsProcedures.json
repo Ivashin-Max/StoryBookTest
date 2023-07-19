@@ -1,0 +1,16 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "RegionProceduresEn",
+            "description": "The electronic trading platform TEK-Torg",
+            "href": "/procedures"
+        },
+        "banner": {
+            "title": "Digital signature at&nbsp;a&nbsp;reduced price",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

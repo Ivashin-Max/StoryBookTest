@@ -1,0 +1,110 @@
+{
+    "leadImg": {
+        "title": "Услуги и сервисы для<br> коммерческих заказчиков",
+        "background": {
+            "src": "/images/blocks/leadImg/services375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/leadImg/services.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/leadImg/services768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Услуги и сервисы"
+            },
+            {
+                "text": "Коммерческим заказчикам",
+                "href": "/property-buyers"
+            }
+        ]
+    },
+    "tags": [
+        "Все",
+        "Планирование",
+        "Подготовка",
+        "Проведение",
+        "Заключение договора"
+    ],
+    "tagsContent": {
+        "planning": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/customers/nmc"
+                    },
+                    "title": "Обоснование НМЦ",
+                    "text": "Подбор и&nbsp;аналитика ценовой информации по&nbsp;состоявшимся закупкам товаров, работ и&nbsp;услуг",
+                    "iconName": "conversation"
+                }
+            ]
+        },
+        "training": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/customers/digital_helper"
+                    },
+                    "title": "Цифровой помощник",
+                    "text": "Полная проверка статуса поставщика автоматизировано и&nbsp;на&nbsp;основании надежных источников",
+                    "iconName": "person"
+                }
+            ]
+        },
+        "holding": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3MarketCentre",
+                    "title": "Маркетинговый центр",
+                    "text": "Обеспечение требуемого уровня конкуренции на&nbsp;закупках. Коммуникация и&nbsp;сбор обратной связи от&nbsp;потенциальных участников закупок",
+                    "iconName": "cart"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/education"
+                    },
+                    "title": "Учебный центр",
+                    "text": "Теория и&nbsp;практика от&nbsp;экспертов в&nbsp;сфере закупок",
+                    "iconName": "Education"
+                }
+            ]
+        },
+        "agreement": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3ManageDogovor",
+                    "title": "Управление договорами",
+                    "text": "Автоматизированный процесс исполнения договора",
+                    "iconName": "files"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "Отправляйте документы без дублирования на&nbsp;бумаге для оптимизации затрат, получайте документы бесплатно",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    }
+}

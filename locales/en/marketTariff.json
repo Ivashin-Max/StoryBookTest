@@ -1,0 +1,98 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Tariffs",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Market",
+                    "href": "/market"
+                },
+                {
+                    "text": "Tariffs",
+                    "href": "/market/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "title": "For customers",
+            "section": "market",
+            "description": "<p>Placing of an unlimited number of orders</p>",
+            "price": "For free"
+        },
+        {
+            "nid": "2",
+            "section": "market",
+            "title": "For suppliers",
+            "description": "<p>Participation in unlimited number of procurement procedures</p>",
+            "price": "1% including VAT",
+            "price_comment": "but not less than 100 rubles and not more than 50 000 rubles of the order value"
+        }
+    ],
+    "document": {
+        "title": "Download tariff plan",
+        "type": "DOCX",
+        "size": "42.5 KB",
+        "file": "/documents/tariffs/market/Тариф Интернет-магазин с 13 марта 2023.pdf"
+    },
+    "bannerSlider": {
+      "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                    "text": "Enroll",
+                    "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                    "text": "More",
+                    "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

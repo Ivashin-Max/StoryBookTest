@@ -1,0 +1,201 @@
+{
+    "leadText": {
+        "title": "Factoring",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/223-fz/service-suppliers"
+                },
+                {
+                    "text": "Factoring",
+                    "href": "/223Fz-factoring"
+                }
+            ]
+        }
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner/bannerSlideFactoring-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner/bannerSlideFactoring.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner/bannerSlideFactoring-md.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Factoring by ETP TEK-Torg",
+                "text": [
+                    "Receive funds under current contracts without deferred payments. Solution within 1 hour, based on the minimum number of documents"
+                ],
+                "modal": [
+                    {
+                        "title": "Get factoring",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            }
+        ]
+    },
+    "example2": {
+        "title": "Factoring is a tool that is used to promptly receive financing without collateral",
+        "program": "<h3>When does the supplier choose factoring:</h3>\r\n\r\n<p>—&nbsp;<span>payment delays in the contracts</span>&nbsp;</p>\r\n\r\n<p>— difficulty in obtaining a loan</p>\r\n\r\n<p>— lack of working capital</p>"
+    },
+    "infoBlock": {
+        "sideCard": {
+            "title": "Online factoring service:",
+            "bg": "blue",
+            "modalbtns": [
+                {
+                    "title": "Get a Consultation",
+                    "id": "callBackForm"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "Fast replenishment of working capital",
+                "iconName": "credit"
+            },
+            {
+                "text": "Elimination of cash gaps",
+                "iconName": "Msp"
+            },
+            {
+                "text": "Increase in the quantity and volume of deliveries of goods, works, services",
+                "iconName": "Stonks"
+            },
+            {
+                "text": "Insurance of the risk of non-payment on the part of the buyer",
+                "iconName": "checkMark2"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "How does factoring work?",
+        "text": [
+            "Your organization, without waiting for payment from the debtor, receives financing for deliveries from the factor after providing the closing document, within 24 hours.",
+            "Then the process proceeds according to the scheme:<br/><br/>1. Delivery of goods or services with deferred payment<br/>2. Assignment of the right of claim for delivery to the factor<br/>3. Financing up to 90% of the delivery amount<br/>4. Payment for the delivered goods to the settlement invoice<br/>5. Transfer of the payment factor to the supplier, minus the commission.<br/>"
+        ],
+        "modals": [
+            {
+                "title": "Submit a request",
+                "id": "ServicesFormWithTitle"
+            }
+        ]
+    },
+    "benefits": {
+        "title": "Advantages of factoring from ETP TEK-Torg",
+        "cards": {
+            "cardLink": {
+                "title": "Online application: solution within 1 hour",
+                "fullModalCard": true,
+                "modal": [
+                    {
+                        "title": "Create",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            },
+            "cardBottom": [
+                {
+                    "title": "Minimum number of documents for processing, no need to open an account with another bank",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Without collateral and a visit to the bank: online throughout Russia",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    },
+    "numbered": {
+        "title": "How it works?",
+        "items": [
+            {
+                "title": "Application form",
+                "description": "Submit a request or call<br/><a href='tel:+7 495 734-81-18'>+7 495 734-81-18</a> ext. 617"
+            },
+            {
+                "title": "Providing information",
+                "description": "Fill in the information for opening the limit"
+            },
+            {
+                "title": "Documents",
+                "description": "Send documents and primary invoices for financing"
+            },
+            {
+                "title": "Payment for deliveries",
+                "description": "Receive payment for the selected deliveries within 24 hours"
+            }
+        ]
+    },
+    "TextWithImage": {
+        "picture": {
+            "src": "/images/banner/textImFactoring.jpg",
+            "sources": [
+                {
+                    "src": "/images/banner/textImFactoring.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "textCard": {
+            "title": "Factoring promotion for the ETP TEK-Torg clients - financing rate from 0.04% a day",
+            "text": [
+                "As part of the promotion, our partner reduces the factoring financing rate for all clients of the TEK-Torg platform: without hidden commissions and overpayments — the rate is from 0.05% per annum a day of financing.",
+                "Convenient — processes are automated in your Personal Account, a personal manager supports you at all stages of work.",
+                "Quickly, without bureaucracy — 2 documents (questionnaire and contract) are enough for the application, a preliminary decision is available on the day of application."
+            ],
+            "modal": [
+                {
+                    "title": "Create",
+                    "id": "ServicesFormWithTitle"
+                }
+            ]
+        }
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any questions?<br>We will help!",
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

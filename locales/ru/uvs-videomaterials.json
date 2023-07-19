@@ -1,0 +1,34 @@
+{
+    "leadText": {
+        "title": "Видеоматериалы",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Реализация углеводородного сырья",
+                    "href": "/tenders"
+                },
+                {
+                    "text": "Иностранным покупателям",
+                    "href": "/uvs-ip"
+                },
+                {
+                    "text": "Видеоматериалы",
+                    "href": "/uvs-videomaterials"
+                }
+            ]
+        }
+    },
+    "playlists": [
+        {
+            "id": "PLtxJDbDu8abTA6VRczxZMt3Ra0BFlE1R0",
+            "image": ""
+        }
+    ]
+}

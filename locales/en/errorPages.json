@@ -1,0 +1,25 @@
+{
+    "techWorks": {
+        "title": "The site is&nbsp;currently unavailable due to&nbsp;scheduled maintenance",
+        "text": "We apologize for any inconvenience caused.<br>For any questions, please contact our support service <a href='mailto:help@tektorg.ru'>help@tektorg.ru</a>"
+    },
+    "oldBrowser": {
+        "title": "Your browser is&nbsp;not supported by&nbsp;the site",
+        "text": "Please use another one for further use of&nbsp;the resource"
+    },
+    "404": {
+        "title": "There is&nbsp;no&nbsp;such page <br> or&nbsp;no&nbsp;longer exists"
+    },
+    "403": {
+        "title": "Access to&nbsp;the page is&nbsp;prohibited"
+    },
+    "500": {
+        "title": "An&nbsp;internal server error has occurred, please try again later"
+    },
+    "procedureNotFound": {
+        "title": "Authorization required",
+        "text": "To&nbsp;view this procedure, go&nbsp;to&nbsp;your personal account"
+    },
+    "defaultText": "Try to&nbsp;restart or&nbsp;use the site menu to&nbsp;search for the desired page",
+    "onMainPage": "To the main page"
+}

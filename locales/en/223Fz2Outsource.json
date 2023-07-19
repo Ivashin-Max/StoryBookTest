@@ -1,0 +1,164 @@
+{
+    "leadText": {
+        "title": "Outsourcing of procurement for the customers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Services for commercial customers",
+                    "href": "/223-fz/service-customers"
+                },
+                {
+                    "text": "Procurement outsourcing"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Consultation",
+            "id": "ApplicationForm3"
+        }
+    },
+    "bannerText": {
+        "title": "Holistic procurement outsourcing",
+        "text": [
+            "It is advisable to involve a specialized organization when there is no contract service in the company, and the volume of procurements is large, or, on the contrary, procurements are rare and there is no need to organize your own procurement service.",
+            "In addition, during the procurement campaign, situations may arise that require more in-depth industry or methodological expertise.",
+            "In both cases, outsourcing work is an effective way to solve the problem in due time, as well as reducing the risk of complaints to the FAS, unscheduled inspections and fines."
+        ],
+        "modals": [
+            {
+                "title": "Submit a Request",
+                "id": "ApplicationForm3"
+            }
+        ]
+    },
+    "benefits": {
+        "title": "WHAT WILL YOU GET?",
+        "cards": {
+            "cardLink": {
+                "title": "Fewer complaints to the FAS and unscheduled inspections"
+            },
+            "cardBottom": [
+                {
+                    "title": "Organizing and conducting procurements without penalties",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Secure and transparent processes",
+                    "iconName": "feedback"
+                },
+                {
+                    "title": "Reduction of labor costs and the costs of labor compensation fund (FOT)",
+                    "iconName": "checkMark"
+                },
+                {
+                    "title": "A personal manager who will answer any questions",
+                    "iconName": "list"
+                },
+                {
+                    "title": "Knowledge and experience of our experts",
+                    "iconName": "signature"
+                }
+            ]
+        }
+    },
+    "cardset": {
+        "title": "The main areas of the services",
+        "cards": [
+            {
+                "modal": [
+                    {
+                        "title": "Learn more",
+                        "id": "ApplicationForm3"
+                    }
+                ],
+                "fullModalCard": true,
+                "image": "/images/blocks/сardSet/1.jpg",
+                "title": "Development and examination of the Procurement Regulations",
+                "description": "Development of the Procurement Regulations considering your interests and needs. Analysis of the Procurement Regulations and development of recommendations for changes.",
+                "textColor": "white"
+            },
+            {
+                "modal": [
+                    {
+                        "title": "Learn more",
+                        "id": "ApplicationForm3"
+                    }
+                ],
+                "fullModalCard": true,
+                "image": "/images/blocks/сardSet/2.jpg",
+                "textColor": "white",
+                "title": "Organization and conduct of procurement",
+                "description": "Full outsourcing (from documentation development to contract conclusion stage): recommendations on the choice of the procurement method, adjustment of the terms of reference, development of documentation, examination of the draft contract, posting information about the procurement on the ETP, in the UIS, participation in the meetings of procurement commissions."
+            }
+        ]
+    },
+    "infolist": {
+        "title": "The Advantages of the TEK-Torg service",
+        "items": [
+            {
+                "title": "Quality",
+                "text": "Many years of experience in procurement. Expertise in carrying out the procurement procedures."
+            },
+            {
+                "title": "Quality assurance",
+                "text": "To provide services, we select experts and are responsible for the work."
+            },
+            {
+                "title": "Insurance",
+                "text": "We manage the risks of organizing and conducting procurements: holistic verification of procurement documentation."
+            },
+            {
+                "title": "Benefit",
+                "text": "Favorable rates for the services."
+            },
+            {
+                "title": "Expertise",
+                "text": "We are hired to get access to expertise in 77 categories. We have worked out each category many times in large companies."
+            },
+            {
+                "title": "Help",
+                "text": "We free the initiators from non-core work - procurements. We remove routine tasks and give you the opportunity to focus on important projects."
+            }
+        ]
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any other questions?<br>Задайте их&nbsp;нам!",
+                "text": [
+                    "For consultation, contact the manager:<br/><a href='+74957348118'>+7 495 734-81-18 ext. 515</a> or <a href='org223@tektorg.ru'>org223@tektorg.ru</a>"
+                ],
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    }
+}

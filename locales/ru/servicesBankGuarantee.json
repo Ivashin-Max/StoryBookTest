@@ -1,0 +1,361 @@
+{
+    "leadText": {
+        "title": "Банковская гарантия",
+        "description": "коммерческие и государственные закупки по&nbsp;44/223/185-ФЗ <br>комиссия от&nbsp;1,5%",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Услуги и сервисы"
+                },
+                {
+                    "text": "Поставщикам",
+                    "href": "/services/service-suppliers"
+                },
+                {
+                    "text": "Банковская гарантия",
+                    "href": "/services-bankGuarantee"
+                }
+            ]
+        }
+    },
+    "bannerSlider2": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner/creditOnContract375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner/creditOnContract.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner/creditOnContract768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Любые гарантии: 44-ФЗ, 223-ФЗ, коммерческие и другие.",
+                "text": ["Проект за 15 минут по 1 документу Все операции онлайн"],
+                "links": [
+                    {
+                        "text": "Оформить с экспертом",
+                        "id": "ServicesFormWithTitle",
+                        "bgColor": "black"
+                    },
+                    {
+                        "text": "Оформить онлайн",
+                        "href": "https://fin.tektorg.ru/auth/email",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Независимая гарантия",
+        "text": [
+            "С&nbsp;1&nbsp;января 2022 года в&nbsp;закупках по&nbsp;44-ФЗ независимая гарантия заменила банковскую.",
+            "Банковские гарантии оформляют исключительно банки. Независимые гарантии выдают не&nbsp;только банки из&nbsp;перечня Минфина, но&nbsp;и&nbsp;другие финансовые организации (п.&nbsp;1&nbsp;ст.&nbsp;45 44-ФЗ)."
+        ],
+        "modals": [
+            {
+                "title": "Получить гарантию",
+                "id": "ServicesFormWithTitle"
+            }
+        ]
+    },
+    "benefits": {
+        "title": "Быстро, выгодно и удобно",
+        "cards": {
+            "card": {
+                "title": "Проект гарантии за 15 минут<br>Более 30 банков-партнеров<br>Все виды договоров",
+                "links": [
+                    {
+                        "text": "Оформить онлайн",
+                        "href": "https://fin.tektorg.ru/auth/email",
+                        "isForeign": true
+                    }
+                ],
+                "modal": [
+                    {
+                        "title": "Оформить с экспертом",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            },
+            "cardBottom": [
+                {
+                    "title": "Онлайн. Без посещения офиса",
+                    "iconName": "finger"
+                },
+                {
+                    "title": "Рассматриваем  индивидуальные запросы и условия",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "title": "Без ограничений по сумме гарантии",
+                    "iconName": "bankomat"
+                },
+                {
+                    "title": "Комисссия от&nbsp;1,5&nbsp;%",
+                    "iconName": "piece"
+                },
+                {
+                    "title": "Работаем со&nbsp;сложными кейсами по&nbsp;всей России",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Выдача в выходные дни",
+                    "iconName": "calendar"
+                }
+            ]
+        }
+    },
+    "infoBlocks": {
+        "sideCard": {
+            "title": "Когда требуется<br>гарантия?",
+            "bg": "blue",
+            "picture": {
+                "src": "/images/blocks/sideCard/card1_375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/blocks/sideCard/card1.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/sideCard/card1_768.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        },
+        "content": [
+            {
+                "text": "Требуются деньги на&nbsp;реализацию контракта, а&nbsp;не&nbsp;на&nbsp;депозит заказчику",
+                "iconName": "rubles"
+            },
+            {
+                "text": "Сумма обеспечения выигранных лотов превышает имеющиеся в&nbsp;наличии средства",
+                "iconName": "judgesGavel"
+            },
+            {
+                "text": "Заказчик задерживает оплату по&nbsp;предыдущему контракту",
+                "iconName": "blank"
+            },
+            {
+                "text": "Требуется аванс по&nbsp;контракту",
+                "iconName": "case"
+            }
+        ]
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide2.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Экспресс оформление",
+                "text": [
+                    "Полностью автоматизированный сервис оформления гарантий в пару кликов:<br><br>— зарегистрируйтесь на нашем сервисе<br>— заполните форму заявки<br>— получите гарантию"
+                ],
+                "links": [
+                    {
+                        "text": "Оформить онлайн",
+                        "href": "https://fin.tektorg.ru/auth/email",
+                        "isForeign": true
+                    }
+                ]
+            }
+        ]
+    },
+    "tileCards": {
+        "title": "Виды банковских гарантий",
+        "tiles": [
+            {
+                "picture": {
+                    "src": "/images/blocks/TileCards/guarantee_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/TileCards/guarantee.jpg",
+                            "breakpoint": "1440"
+                        },
+                        {
+                            "src": "/images/blocks/TileCards/guarantee_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Гарантия на&nbsp;участие",
+                "text": "Обеспечение заявки на участие в закупке в виде независимой гарантии",
+                "textColor": "white"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Гарантия на исполнение договора"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Гарантия на возврат НДС"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Гарантия авансового платежа акциза"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Гарантия на гарантийный период"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Гарантия на возврат аванса"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Гарантия отсрочки в выплате налогов"
+            }
+        ]
+    },
+    "tileCards2": {
+        "tiles": [
+            {
+                "picture": {
+                    "src": "/images/blocks/TileCards/registration_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/TileCards/registration.jpg",
+                            "breakpoint": "1440"
+                        },
+                        {
+                            "src": "/images/blocks/TileCards/registration_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Оформляйте гарантии с нашими экспертами в 3 шага",
+                "textColor": "white"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Заявка",
+                "text": "От вас номер телефона и ИНН, остальное сделает менеджер"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Решение",
+                "text": "Проект за 15 минут, одобрение за 1 час и быстрое согласование текста гарантии"
+            },
+            {
+                "background": "gray2",
+                "textColor": "black",
+                "title": "Гарантия",
+                "text": "До 99% заявок получают одобрение, размещаем в реестре в день выдачи при необходимости"
+            },
+            {
+                "textColor": "white",
+                "background": "blue",
+                "modal": {
+                    "text": "Оформить гарантию",
+                    "id": "ServicesFormWithTitle"
+                },
+                "iconName": "person"
+            }
+        ]
+    },
+    "infolist": {
+        "title": "5&nbsp;причин, почему компании выбирают наш сервис",
+        "bgColor": "blue",
+        "items": [
+            {
+                "title": "Скорость работы",
+                "text": "Проект банковской гарантии вы&nbsp;получаете в&nbsp;течение 15&nbsp;минут, а&nbsp;выпуск скана гарантии возможен уже через час после оплаты"
+            },
+            {
+                "title": "Надежность",
+                "text": "ТЭК-Торг&nbsp;&mdash; Федеральная электронная площадка, отобранная и&nbsp;сертифицированная Министерством финансов России"
+            },
+            {
+                "title": "Экономия времени",
+                "text": "Ваш персональный менеджер самостоятельно подготовит необходимые документы и&nbsp;отправит заявку в&nbsp;банки"
+            },
+            {
+                "title": "Работа по&nbsp;всей России",
+                "text": "Предоставляем услуги в&nbsp;каждом регионе в&nbsp;электронной форме, без личных визитов и&nbsp;посещения банков"
+            },
+            {
+                "title": "Выгодные условия",
+                "text": "Предлагаем минимальные тарифы ввиду отсутствия посредников"
+            }
+        ]
+    },
+    "textWImg": {
+        "picture": {
+            "src": "/images/blocks/textWithImage/building.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/textWithImage/building.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "textCard": {
+            "title": "Фиксированная ставка под 2,3%, до&nbsp;5&nbsp;млн. рублей",
+            "text": [
+                "Только для поставщиков ЭТП ТЭК-Торг на&nbsp;любые банковские гарантии действует фиксированная ставка под 2,3%. До&nbsp;5&nbsp;млн рублей гарантию можно получить только по&nbsp;паспорту."
+            ],
+            "modal": [
+                {
+                    "title": "Получить гарантию",
+                    "id": "ServicesFormWithTitle"
+                }
+            ]
+        }
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Остались вопросы? Задайте их нам",
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,617 @@
+{
+    "leadImg": {
+        "title": "223-ФЗ<br>и Коммерческие закупки",
+        "background": {
+            "src": "/images/pages/223-fz/leadImg/223-fz_375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/223-fz/leadImg/223-fz_1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/223-fz/leadImg/223-fz_768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Торговые секции"
+            },
+            {
+                "text": "223-ФЗ и Коммерческие закупки"
+            }
+        ]
+    },
+    "tags": ["Заказчикам 223-ФЗ", "Коммерческим заказчикам"],
+    "infoList": {
+        "title": "Вместе с функционалом электронной площадки  Заказчик получает",
+        "items": [
+            {
+                "title": "Поддержка",
+                "text": "Методологическая, техническая и юридическая"
+            },
+            {
+                "title": "Забота",
+                "text": "У каждого заказчика есть персональный менеджер"
+            },
+            {
+                "title": "Контроль процесса",
+                "text": "Аналитические инструменты контроля и выполнения показателей отдела закупок"
+            },
+            {
+                "title": "Свободное время",
+                "text": "Набор бесплатных сервисов для автоматизации работы и сокращения трудозатрат"
+            }
+        ],
+        "links": [
+            {
+                "href": "https://zakupki.tektorg.ru/#auth/login",
+                "text": "Начать работу",
+                "isForeign": true
+            }
+        ],
+        "modals": [
+            {
+                "id": "ApplicationForm3",
+                "title": "Связаться с менеджером"
+            }
+        ]
+    },
+    "forCustomers223fz": {
+        "infoBlockWithIcons": {
+            "sideCard": {
+                "title": "Цифровая платформа для проведения ваших закупок<br><br>Секция создана, чтобы",
+                "bg": "blue"
+            },
+            "content": [
+                {
+                    "text": "Анонсировать закупки и приглашать к участию надежных исполнителей",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "text": "Проводить сбор и анализ обратной связи от рынка",
+                    "iconName": "feedback"
+                },
+                {
+                    "text": "Эффективно организовать работу отдела закупок",
+                    "iconName": "documentChecked"
+                },
+                {
+                    "text": "Построить систему внутренней отчетности и отчетности для вышестоящего руководства",
+                    "iconName": "documentList"
+                },
+                {
+                    "text": "Избежать штрафов и предписаний УФАС",
+                    "iconName": "judgesGavel"
+                },
+                {
+                    "text": "Получить методологическую и юридическую поддержку",
+                    "iconName": "bag"
+                },
+                {
+                    "text": "Минимизировать риски срыва сроков поставки, выполнения работ и оказания услуг",
+                    "iconName": "checkMark2"
+                }
+            ]
+        },
+        "featuresAndServices": {
+            "stepsTabs": ["Планирование", "Подготовка", "Проведение", "Заключение договора", "Анализ и контроль"],
+            "planning": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "https://www.youtube.com/watch?v=h7HshJA7umk",
+                            "isForeign": true
+                        },
+                        "title": "Сервис планирования закупочных процедур",
+                        "text": "Расширенные возможности при работе с планом закупки по 223-ФЗ",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "piece",
+                        "targetBlank": true
+                    },
+                    {
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/nmc"
+                        },
+                        "targetBlank": false,
+                        "title": "Обоснование НМЦ",
+                        "text": "Аналитика ценовой информации по закупкам, товарам и услугам",
+                        "iconName": "conversation"
+                    }
+                ]
+            },
+            "preparation": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Цифровой помощник",
+                        "text": "Полная проверка статуса поставщика автоматизированно и на основании надежных источников",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "person",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/digital_helper"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "conducting": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Маркетинговый центр",
+                        "text": "Обеспечение требуемого уровня конкуренции на закупках. Коммуникация и сбор обратной связи от потенциальных участников закупок.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "cart",
+                        "modalId": "ApplicationForm3MarketCentre"
+                    },
+                    {
+                        "title": "Аутсорсинг закупок",
+                        "text": "Комплексное сопровождение на всех этапах закупочного процесса: от разработки документации до заключения договора.",
+                        "iconName": "timeout",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/outsourcing"
+                        },
+                        "targetBlank": false
+                    },
+                    {
+                        "title": "Комьюнити по закупкам 223-ФЗ",
+                        "text": "Активное комьюнити, к которому за 1,5 года присоединились больше 5000 человек:<br><br> - полезные материалы<br> - актуальные новости<br> - живое общение с экспертами и практиками",
+                        "iconName": "commercialPurchases",
+                        "link": {
+                            "text": "",
+                            "href": "https://vk.com/zakupo4naya",
+                            "isForeign": true
+                        },
+                        "targetBlank": true
+                    },
+                    {
+                        "title": "Учебный центр",
+                        "text": "Теория и практика от экспертов в сфере закупок",
+                        "iconName": "Education",
+                        "link": {
+                            "text": "",
+                            "href": "/education"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "contract": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Управление договорами",
+                        "text": "Автоматизированный процесс исполнения договора",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "files",
+                        "modalId": "ApplicationForm3ManageDogovor"
+                    },
+                    {
+                        "title": "Электронный документооборот",
+                        "text": "Отправляйте документы без дублирования на бумаге для оптимизации затрат, получайте документы бесплатно",
+                        "iconName": "feedback",
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/edo"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "analysis": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Отчетность",
+                        "text": "Ключевые показатели эффективности вашей закупочной деятельности в качественном визуальном представлении",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "blank",
+                        "link": {
+                            "text": "",
+                            "href": "https://youtu.be/gfTbwvvmxaE",
+                            "isForeign": true
+                        },
+                        "targetBlank": false
+                    },
+                    {
+                        "title": "Нормализация нормативного справочника информации (НСИ)",
+                        "text": "Сформируйте собственный справочник для работы с товарами, работами и услугами на всех этапах жизненного цикла компании, включая бюджетирование, закупки, бухгалтерскую отчетность",
+                        "iconName": "documentFile",
+                        "modalId": "ApplicationForm3NSI"
+                    },
+                    {
+                        "title": "Аудит закупочной деятельности организации",
+                        "text": "Подготовьтесь к любой проверке с нашей помощью",
+                        "iconName": "list",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/audit"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            }
+        }
+    },
+    "forСommercialCustomers": {
+        "infoBlockWithIcons": {
+            "sideCard": {
+                "title": "Цифровая платформа для проведения ваших закупок<br><br>Секция создана, чтобы",
+                "bg": "blue"
+            },
+            "content": [
+                {
+                    "text": "Анонсировать закупки и приглашать к участию надежных исполнителей",
+                    "iconName": "documentPencil"
+                },
+                {
+                    "text": "Проводить сбор и анализ обратной связи от рынка",
+                    "iconName": "feedback"
+                },
+                {
+                    "text": "Эффективно организовать работу отдела закупок",
+                    "iconName": "documentChecked"
+                },
+                {
+                    "text": "Построить систему внутренней отчетности и отчетности для вышестоящего руководства",
+                    "iconName": "documentList"
+                },
+                {
+                    "text": "Получить методологическую и юридическую поддержку",
+                    "iconName": "bag"
+                },
+                {
+                    "text": "Минимизировать риски срыва сроков поставки, выполнения работ и оказания услуг",
+                    "iconName": "checkMark2"
+                }
+            ]
+        },
+        "featuresAndServices": {
+            "stepsTabs": ["Планирование", "Подготовка", "Проведение", "Заключение договора"],
+            "planning": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Обоснование НМЦ",
+                        "text": "Подбор и аналитика ценовой информации по состоявшимся закупкам товаров, работ и услуг",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "conversation",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/nmc"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "preparation": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Цифровой помощник",
+                        "text": "Полная проверка статуса поставщика автоматизированно и на основании надежных источников",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "person",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/digital_helper"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "conducting": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Маркетинговый центр",
+                        "text": "Обеспечение требуемого уровня конкуренции на закупках. Коммуникация и сбор обратной связи от потенциальных участников закупок.",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "cart",
+                        "modalId": "ApplicationForm3MarketCentre"
+                    },
+                    {
+                        "title": "Аутсорсинг закупок",
+                        "text": "Комплексное сопровождение на всех этапах закупочного процесса: от разработки документации до заключения договора.",
+                        "iconName": "clockArrow",
+                        "link": {
+                            "text": "",
+                            "href": "/223-fz/service-customers-223-fz/outsourcing"
+                        },
+                        "targetBlank": false
+                    },
+                    {
+                        "title": "Учебный центр",
+                        "text": "Теория и практика от экспертов в сфере закупок",
+                        "iconName": "Education",
+                        "link": {
+                            "text": "",
+                            "href": "/education"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            },
+            "contract": {
+                "colorSection": "blue",
+                "cards": [
+                    {
+                        "title": "Управление договорами",
+                        "text": "Автоматизированный процесс исполнения договора",
+                        "bgColor": "blue",
+                        "textColor": "white",
+                        "iconName": "files",
+                        "modalId": "ApplicationForm3ManageDogovor"
+                    },
+                    {
+                        "title": "Электронный документооборот",
+                        "text": "Отправляйте документы без дублирования на бумаге для оптимизации затрат, получайте документы бесплатно",
+                        "iconName": "feedback",
+                        "link": {
+                            "text": "",
+                            "href": "/services/service-suppliers/edo"
+                        },
+                        "targetBlank": false
+                    }
+                ]
+            }
+        }
+    },
+    "indicatorsInner": {
+        "wrapper": {
+            "name": "Наши достижения"
+        },
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "3,2",
+                        "text": "заявки<br>на лот"
+                    },
+                    "items": [
+                        {
+                            "text": "Средняя конкуренция"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/1.jpg"
+                },
+                {
+                    "head": {
+                        "number": "&gt;880",
+                        "text": "тыс."
+                    },
+                    "items": [
+                        {
+                            "text": "Поставщиков в базе"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/2.jpg"
+                },
+                {
+                    "head": {
+                        "number": "20,35",
+                        "text": "трлн руб."
+                    },
+                    "items": [
+                        {
+                            "text": "Опубликованных закупок"
+                        }
+                    ],
+                    "image": "/images/blocks/statistics/3.jpg"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "&#8470;1",
+                        "text": "в&nbsp;РФ"
+                    },
+                    "items": [
+                        {
+                            "text": "Наивысший уровень качества услуг в области проведения корпоративных закупок"
+                        },
+                        {
+                            "text": "Техническая стабильность и скорость работы ЭТП"
+                        },
+                        {
+                            "text": "Уровень информационной безопасности"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "&#8470;2",
+                        "text": "в&nbsp;РФ"
+                    },
+                    "items": [
+                        {
+                            "text": "Удобство и полнота возможностей контрольных и аналитических инструментов"
+                        },
+                        {
+                            "text": "Гибкость и широта торгово-закупочного функционала"
+                        },
+                        {
+                            "text": "Широта и качество дополнительных сервисов, предоставляемых ЭТП"
+                        },
+                        {
+                            "text": "Удобство навигации по сайту ЭТП"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "achievements": {
+        "name": "Стабильная динамика роста",
+        "cards": {
+            "cardsTop": [
+                {
+                    "head": {
+                        "number": "3,2",
+                        "text": "заявки на лот"
+                    },
+                    "items": [
+                        {
+                            "text": "Средняя конкуренция в закупках 223-ФЗ"
+                        }
+                    ],
+                    "image": "/images/pages/223-fz/achievements/1.png"
+                },
+                {
+                    "head": {
+                        "number": "&#62;720",
+                        "text": "тыс."
+                    },
+                    "items": [
+                        {
+                            "text": "Поставщиков в базе"
+                        }
+                    ],
+                    "image": "/images/pages/223-fz/achievements/2.png"
+                },
+                {
+                    "head": {
+                        "number": "15,5",
+                        "text": "трлн. руб"
+                    },
+                    "items": [
+                        {
+                            "text": "Опубликованных закупок"
+                        }
+                    ],
+                    "image": "/images/pages/223-fz/achievements/3.png"
+                }
+            ],
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "&#8470;1",
+                        "text": "в&nbsp;РФ"
+                    },
+                    "items": [
+                        {
+                            "text": "Наивысший уровень качества услуг в области проведения корпоративных закупок"
+                        },
+                        {
+                            "text": "Техническая стабильность и скорость работы ЭТП"
+                        },
+                        {
+                            "text": "Уровень информационной безопасности"
+                        }
+                    ]
+                },
+                {
+                    "head": {
+                        "number": "&#8470;2",
+                        "text": "в&nbsp;РФ"
+                    },
+                    "items": [
+                        {
+                            "text": "Удобство и полнота возможностей контрольных и аналитических инструментов"
+                        },
+                        {
+                            "text": "Гибкость и широта торгово-закупочного функционала"
+                        },
+                        {
+                            "text": "Широта и качество дополнительных сервисов, предоставляемых ЭТП"
+                        },
+                        {
+                            "text": "Широта и качество дополнительных сервисов, предоставляемых ЭТП"
+                        },
+                        {
+                            "text": "Удобство навигации по сайту ЭТП"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "partners": {
+        "title": "Нам уже доверяют",
+        "links": [
+            {
+                "text": "Смотреть все",
+                "href": "/clients/organizations"
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner2/d-314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner2/d-1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner2/d-680.jpg",
+                            "breakpoint": "680"
+                        },
+                        {
+                            "src": "/images/banner2/d-420.jpg",
+                            "breakpoint": "420"
+                        }
+                    ]
+                },
+                "title": "Цифровой помощник",
+                "text": "Полезные сервисы и услуги для заказчика 223-ФЗ",
+                "links": [
+                    {
+                        "text": "Посмотреть",
+                        "href": "/223-fz/service-customers-223-fz/digital_helper"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/banner2/t-314.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner2/t-1318.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner2/t-680.jpg",
+                            "breakpoint": "680"
+                        },
+                        {
+                            "src": "/images/banner2/t-420.jpg",
+                            "breakpoint": "420"
+                        }
+                    ]
+                },
+                "title": "Ускоренный доступ к торгам",
+                "text": "Зачисление денежных средств по платежному поручению на ваш счет в течение 2 часов",
+                "links": [
+                    {
+                        "text": "Подробнее",
+                        "href": "/223-fz/service-suppliers/134"
+                    }
+                ]
+            }
+        ]
+    }
+}

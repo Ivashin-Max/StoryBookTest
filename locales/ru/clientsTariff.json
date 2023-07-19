@@ -1,0 +1,109 @@
+{
+    "leadImg": {
+        "title": "Тарифы",
+        "background": {
+            "src": "/images/pages/tariff/leadImg/tariffs-lead-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/tariff/leadImg/tariffs-lead.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/tariff/leadImg/tariffs-lead-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Клиентам"
+            },
+            {
+                "text": "Тарифы",
+                "href": "/clients/tariff"
+            }
+        ]
+    },
+    "spoilers": [
+        {
+            "title": "Закупки ПАО &laquo;НК &laquo;Роснефть&raquo;",
+            "iconName": "rosneft"
+        },
+        {
+            "title": "Государственные закупки",
+            "iconName": "44fz"
+        },
+        {
+            "title": "Закупки ПАО &laquo;Интер РАО&raquo;",
+            "iconName": "interRao"
+        },
+        {
+            "title": "223-ФЗ и Коммерческие закупки",
+            "iconName": "fz223icon"
+        },
+        {
+            "title": "Интернет-магазин",
+            "iconName": "market"
+        },
+        {
+            "title": "Продажа имущества",
+            "iconName": "sale"
+        }
+    ],
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Индивидуальная консультация",
+                "text": "С экспертами закупочной отрасли",
+                "links": [
+                    {
+                        "text": "Записаться",
+                        "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Цифровой помощник",
+                "text": "Полезные сервисы и услуги для заказчика 223-ФЗ",
+                "links": [
+                    {
+                        "text": "Посмотреть",
+                        "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

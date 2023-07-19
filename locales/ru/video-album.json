@@ -1,0 +1,27 @@
+{
+    "leadText": {
+        "title": "",
+        "rectLink": {
+            "text": "Наш YouTube-канал",
+            "href": "https://www.youtube.com/@etptektorg",
+            "isForeign": true
+        },
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Обучение",
+                    "href": "/education"
+                },
+                {
+                    "text": "Видеоматериалы"
+                }
+            ]
+        }
+    },
+    "videoMaterialsCustomers": "Заказчикам",
+    "videoMaterialsSuppliers": "Поставщикам"
+}

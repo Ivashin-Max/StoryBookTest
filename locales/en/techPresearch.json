@@ -1,0 +1,85 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Eco-friendly service environment",
+                    "href": "/inter_rao/ekosreda"
+                },
+                {
+                    "text": "Preliminary search for technical specification"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Preliminary search for technical specification"
+    },
+    "image": {
+        "src": "/images/pages/techPresearch/picture.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/techPresearch/picture.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Selection of&nbsp;requirements for the subject of&nbsp;procurement of&nbsp;companies of&nbsp;the Inter RAO Group",
+        "text": [
+            "Get information about the basic requirements for participants, the terms of&nbsp;the contract and other key procurement parameters of&nbsp;the same nomenclature group for the preliminary preparation for participation in&nbsp;the procurement of&nbsp;the Inter RAO Group."
+        ]
+    },
+    "steps": {
+        "title": "Necessary steps to get the service",
+        "items": [
+            {
+                "text": "Fill out the application form on&nbsp;the service page"
+            },
+            {
+                "text": "Get information about the basic requirements for participants, the terms of&nbsp;the contract and other basic parameters of&nbsp;the procurement of&nbsp;a&nbsp;similar nomenclature"
+            }
+        ]
+    },
+    "contactsForm": {
+        "title": "Fill in the contact details",
+        "docs": {
+            "title": "Download sample application to fill out",
+            "items": [
+                {
+                    "title": "Pick up the planned need",
+                    "type": "DOCX",
+                    "size": "16 KB",
+                    "httpLink": "/documents/inter-rao/ekosreda/poisk-tekhnicheskogo-zadaniya/Подбрать запланированную потребность.docx"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    }
+}

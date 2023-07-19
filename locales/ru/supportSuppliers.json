@@ -1,0 +1,82 @@
+{
+    "leadImg": {
+        "title": "Центр поддержки<br> для поставщиков<br> и покупателей",
+        "background": {
+            "src": "/images/pages/support/leadImg/lead_375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/support/leadImg/lead_1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/support/leadImg/lead_768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Клиентам"
+            },
+            {
+                "text": "Центр поддержки"
+            },
+            {
+                "text": "Поставщикам и покупателям"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Экспертная помощь для поставщиков и покупателей",
+        "text": ["Во всех вопросах, касающихся проведения и участия в закупках, получения ЭП и работы на наших секциях"],
+        "modals": [
+            {
+                "title": "Задать вопрос",
+                "id": "askQuestionForm"
+            }
+        ],
+        "background": {
+            "src": "/images/blocks/bannerText/blue-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/bannerText/2.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "tags": [
+        "Общие вопросы",
+        "Закупки ПАО &laquo;НК &laquo;Роснефть&raquo;",
+        "Государственные закупки",
+        "Закупки ПАО &laquo;Интер &laquo;РАО&raquo;",
+        "223-ФЗ и Коммерческие закупки",
+        "Интернет-магазин",
+        "Продажа имущества",
+        "Реализация углеводородного сырья"
+    ],
+    "education": {
+        "name": "Обучающие мероприятия",
+        "links": [
+            {
+                "href": "/education",
+                "text": "Смотреть все"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    }
+}

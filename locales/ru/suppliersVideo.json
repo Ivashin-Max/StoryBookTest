@@ -1,0 +1,28 @@
+{
+  "lead": {
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Торговые секции"
+        },
+        {
+          "text": "Закупки ПАО «НК «Роснефть»",
+          "href": "/rosneft"
+        },
+        {
+          "text": "Иностранным поставщикам",
+          "href": "/rosneft/suppliers-foreign"
+        },
+        {
+          "text": "Видеоматериалы"
+        }
+      ]
+    },
+    "lineBottom": true,
+    "title": "Видеоматериалы"
+  }
+}

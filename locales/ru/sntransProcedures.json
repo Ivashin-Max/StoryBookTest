@@ -1,0 +1,208 @@
+{
+    "leadImg": {
+        "title": "АО «Спецнефтетранс»",
+        "background": {
+            "src": "/images/pages/sntrans/leadImg/lead-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/sntrans/leadImg/lead-1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/sntrans/leadImg/lead-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "widgets": [
+            {
+                "type": "link",
+                "href": "http://sntrans.ru/",
+                "text": "Перейти на сайт организатора",
+                "isForeign": true
+            }
+        ]
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "Клиентам"
+            },
+            {
+                "text": "Наши заказчики",
+                "href": "/clients/organizations"
+            },
+            {
+                "text": "АО «Спецнефтетранс»"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "АО «Спецнефтетранс»",
+        "text": [
+            "АО&nbsp;&laquo;Спецнефтетранс&raquo; оказывает услуги автотранспортно-технологического обеспечения производственных процессов в&nbsp;нефтегазовой и&nbsp;других отраслях народного хозяйства.",
+            "Компания &laquo;Спецнефтетранс&raquo; была создана в&nbsp;2005 году на&nbsp;базе автотранспортных активов ПАО &laquo;ЛУКОЙЛ&raquo;.",
+            "Состав компании:",
+            "&mdash; 20 дочерних общества",
+            "&mdash; 11000 человек",
+            "&mdash; 7600 единиц техники",
+            "География деятельности Группы компаний &laquo;Спецнефтетранс&raquo;&nbsp;&mdash; 34&nbsp;региона России: от&nbsp;Балтики до&nbsp;Ямала, от&nbsp;Каспия до&nbsp;Баренцева моря."
+        ]
+    },
+    "leadText": {
+        "lineBottom": false,
+        "title": "Поиск",
+        "rectLink": {
+            "text": "Подписаться на закупки",
+            "href": "/subscription"
+        }
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или номер процедуры",
+            "submitText": "Найти"
+        },
+        "errorMessage": "По вашему запросу ничего не найдено",
+        "filters": [
+            {
+                "title": "Способ определения поставщика (покупателя)",
+                "type": "checkbox",
+                "fields": [{ "name": "types" }],
+                "dataName": "types"
+            },
+            {
+                "title": "Статусы процедур (стадии)",
+                "type": "checkbox",
+                "fields": [{ "name": "status" }],
+                "dataName": "statuses"
+            },
+            {
+                "title": "Цена, ₽",
+                "type": "price",
+                "fields": [
+                    { "name": "sumPrice_start", "label": "От" },
+                    { "name": "sumPrice_end", "label": "До" }
+                ]
+            },
+            {
+                "title": "Дата",
+                "type": "date",
+                "fields": [
+                    { "name": "datePublished", "label": "Публикация процедуры" },
+                    { "name": "dateEndRegistration", "label": "Окончание приема заявок" }
+                ]
+            },
+            {
+                "title": "Код классификатора ОКПД2 (для лота)",
+                "type": "checkboxTree",
+                "search": {
+                    "placeholder": "Введите наименование товара, работы, услуги или код ОКПД2"
+                },
+                "fields": [{ "name": "okpd" }],
+                "dataName": "okpd"
+            },
+            {
+                "title": "Код классификатора ОКВЭД2 (для лота)",
+                "type": "checkboxTree",
+                "search": {
+                    "placeholder": "Введите наименование товара, работы, услуги или код ОКВЭД2"
+                },
+                "fields": [{ "name": "okved" }],
+                "dataName": "okved"
+            },
+            {
+                "title": "МСП",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "msp",
+                        "data": [
+                            {
+                                "label": "Все",
+                                "value": ""
+                            },
+                            {
+                                "label": "Для МСП",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Для не МСП",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Обеспечение",
+                "type": "radio",
+                "fields": [
+                    {
+                        "name": "deposit",
+                        "data": [
+                            {
+                                "label": "Все",
+                                "value": ""
+                            },
+                            {
+                                "label": "С обеспечением",
+                                "value": "true"
+                            },
+                            {
+                                "label": "Без обеспечения",
+                                "value": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Регион организатора",
+                "type": "checkbox",
+                "search": {
+                    "placeholder": "Введите наименование или код региона"
+                },
+                "fields": [{ "name": "regionCodes" }],
+                "dataName": "regions"
+            }
+        ]
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "По актуальности",
+                "property": "actual"
+            },
+            {
+                "name": "По возрастанию цены",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "По убыванию цены",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "Сначала новые",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Сначала старые",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Карточный вид",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Табличный вид",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

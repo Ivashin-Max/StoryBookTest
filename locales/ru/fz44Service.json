@@ -1,0 +1,271 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Государственные закупки",
+                    "href": "/44-fz"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков",
+                    "href": "/service"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы для поставщиков"
+    },
+    "tags": [
+        "Все",
+        "Легкий старт",
+        "Сопровождение",
+        "Финансовые услуги"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/eruz"
+                    },
+                    "title": "Регистрация в ЕРУЗ",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/consultdoc"
+                    },
+                    "title": "Проверка документов на соответствие законодательству о закупках",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "person"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/special-account"
+                    },
+                    "title": "Специальный счет",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/credit-on-contract"
+                    },
+                    "title": "Кредит на исполнение контракта",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/bg"
+                    },
+                    "title": "Банковская/независимая гарантия",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/credit-on-procurement"
+                    },
+                    "title": "Кредит на участие в закупках",
+                    "text": "",
+                    "iconName": "CreditOnProcurement"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/eruz"
+                    },
+                    "title": "Регистрация в ЕРУЗ",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/consultdoc"
+                    },
+                    "title": "Проверка документов на соответствие законодательству о закупках",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "person"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/icwe"
+                    },
+                    "title": "Индивидуальная консультация с экспертом",
+                    "text": "",
+                    "iconName": "person"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/special-account"
+                    },
+                    "title": "Специальный счет",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/credit-on-contract"
+                    },
+                    "title": "Кредит на исполнение контракта",
+                    "text": "",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/bg"
+                    },
+                    "title": "Банковская/независимая гарантия",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/credit-on-procurement"
+                    },
+                    "title": "Кредит на участие в закупках",
+                    "text": "",
+                    "iconName": "CreditOnProcurement"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/44-fz/service/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

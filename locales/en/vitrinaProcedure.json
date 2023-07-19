@@ -1,0 +1,106 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Sale of property",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Object catalog",
+                    "href": "/vitrina/procedures"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of objects",
+        "href": "/vitrina/procedures"
+    },
+    "infoTable": {
+        "header": "Information and terms of&nbsp;the procedure",
+        "titles": {
+            "registryNumber": "Procedure number",
+            "title": "Name of the procedure",
+            "typeName": "Type of procedure",
+            "statusName": "Current stage",
+            "earnestInfo": "It is necessary to make a deposit",
+            "deposits": "It is necessary to make a provision for participation",
+            "withoutSign": "EP requirement",
+            "isPopular": "There is no fee for participation"
+        }
+    },
+    "earnestInfo": {
+        "header": "Deposit",
+        "titles": {
+            "earnestValue": "Deposit amount, currency",
+            "paymentOrderName": "The method of transferring the deposit to the seller",
+            "paymentRequisites": "Account details",
+            "paymentOrderDetails": "Additional information"
+        }
+    },
+    "tableWithUnits": {
+        "header": "Lot positions",
+        "titles": {
+            "splittableLot": "Divisible lot",
+            "videoLink": "Video"
+        }
+    },
+    "contacts": {
+        "wrapper": {
+            "name": "Contacts"
+        },
+        "blocks": [
+            {
+                "title": "For&nbsp;questions<br>property purchase",
+                "bg": "gray2",
+                "sections": [
+                    {
+                        "title": "TEK-Torg, &laquo;Sale of&nbsp;property&raquo;:",
+                        "items": []
+                    },
+                    {
+                        "title": "Transport",
+                        "items": [
+                            {
+                                "phone": "+7 999 926-52-05"
+                            },
+                            {
+                                "mail": "sale@tektorg.ru"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "MTR and Equipment",
+                        "items": [
+                            {
+                                "phone": "+7 999 926-52-27"
+                            },
+                            {
+                                "mail": "sale@tektorg.ru"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Realty",
+                        "items": [
+                            {
+                                "phone": "+7 908 305-74-57"
+                            },
+                            {
+                                "mail": "sale@tektorg.ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

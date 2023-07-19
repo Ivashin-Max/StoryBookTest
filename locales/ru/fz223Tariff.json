@@ -1,0 +1,117 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Тарифы",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Тарифы",
+                    "href": "/223-fz/tariff"
+                }
+            ]
+        }
+    },
+    "tariffs": [
+        {
+            "nid": "1",
+            "title": "Победитель",
+            "section": "223-fz",
+            "description": "<p>Возможность участия в неограниченном количестве закупочных процедур</p>",
+            "price": "14 400&thinsp;₽",
+            "price_comment": "Плата взимается за каждый Лот, в котором Участник был признан победителем закупочной процедуры",
+            "extra_comment": "Сумма блокируется на Л/С при подаче заявки.<br> Сбор не взимается при закупках с НМЦ не более 150 000 руб. (с НДС)"
+        },
+        {
+            "nid": "2",
+            "section": "223-fz",
+            "title": "Процедура только для МСП",
+            "description": "<p>Процедура, участниками которой могут быть только субъекты МСП в соотв. со ст. 3.4 ФЗ №223</p>",
+            "price": "1%",
+            "price_comment": "от НМЦ контракта, но не более 5 000 руб. (без НДС)",
+            "extra_comment": "Сбор с лица, с которым заключается контракт по результатам закупки*.<br> Средства списываются со спецсчета"
+        },
+        {
+            "nid": "3",
+            "section": "223-fz",
+            "title": "Партнерский",
+            "description": "<p>Возможность участия в&nbsp;неограниченном количестве закупочных процедур</p> <p>Персональный менеджер</p> <p>Подбор закупок на&nbsp;ЭТП ТЭК-Торг (до&nbsp;5&nbsp;запросов/месяц)</p> <p>Ускоренный доступ к&nbsp;торгам на&nbsp;любой секции ЭТП ТЭК-Торг</p> <p>Полное сопровождение по&nbsp;услуге &laquo;Банковская гарантия&raquo;<p>Специальные условия при проведении маркетинговых акций на&nbsp;услуги АО&nbsp;&laquo;ТЭК-Торг&raquo; и&nbsp;партнёров</p>",
+            "price": "299 000&thinsp;₽",
+            "price_comment": "1 год"
+        },
+        {
+            "nid": "4",
+            "section": "223-fz",
+            "title": "Партнерский 3 месяца",
+            "description": "<p>Возможность участия в неограниченном количестве закупочных процедур</p>",
+            "price": "90 000&thinsp;₽",
+            "price_comment": "3 мес"
+        }
+    ],
+    "document": {
+        "title": "Скачать тарифный план",
+        "type": "DOCX",
+        "size": "20.5 КБ",
+        "file": "/documents/tariffs/223-fz/Тарифный план Секции 223 и Коммерческие закупки c 15 марта 2023 г-3.docx"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Индивидуальная консультация",
+                "text": "С экспертами закупочной отрасли",
+                "links": [
+                    {
+                    "text": "Записаться",
+                    "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                        "breakpoint": "768"
+                    }
+                    ]
+                },
+                "title": "Цифровой помощник",
+                "text": "Полезные сервисы и услуги для заказчика 223-ФЗ",
+                "links": [
+                    {
+                    "text": "Посмотреть",
+                    "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

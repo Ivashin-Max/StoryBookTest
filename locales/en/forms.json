@@ -1,0 +1,1678 @@
+{
+    "regionOptions": [
+        {
+            "code": "100",
+            "title": "All of Russia"
+        },
+        {
+            "code": "01",
+            "title": "Republic of Adygea"
+        },
+        {
+            "code": "02",
+            "title": "Republic of Bashkortostan"
+        },
+        {
+            "code": "03",
+            "title": "Republic of Buryatia"
+        },
+        {
+            "code": "04",
+            "title": "Altai Krai"
+        },
+        {
+            "code": "05",
+            "title": "Republic of Dagestan"
+        },
+        {
+            "code": "06",
+            "title": "Republic of Ingushetia"
+        },
+        {
+            "code": "07",
+            "title": "Kabardino-Balkarian Republic"
+        },
+        {
+            "code": "08",
+            "title": "Republic of Kalmykia"
+        },
+        {
+            "code": "09",
+            "title": "Karachay-Cherkess Republic"
+        },
+        {
+            "code": "10",
+            "title": "Republic of Karelia"
+        },
+        {
+            "code": "11",
+            "title": "Komi Republic"
+        },
+        {
+            "code": "12",
+            "title": "Mari El Republic"
+        },
+        {
+            "code": "13",
+            "title": "Republic of Mordovia"
+        },
+        {
+            "code": "14",
+            "title": "Republic of Sakha (Yakutia)"
+        },
+        {
+            "code": "15",
+            "title": "Republic of North Ossetia — Alania"
+        },
+        {
+            "code": "16",
+            "title": "Republic of Tatarstan"
+        },
+        {
+            "code": "17",
+            "title": "Tyva Republic"
+        },
+        {
+            "code": "18",
+            "title": "Udmurt Republic"
+        },
+        {
+            "code": "19",
+            "title": "Republic of Khakassia"
+        },
+        {
+            "code": "20",
+            "title": "Chechen Republic"
+        },
+        {
+            "code": "21",
+            "title": "Chuvash Republic"
+        },
+        {
+            "code": "22",
+            "title": "Altai Krai"
+        },
+        {
+            "code": "23",
+            "title": "Krasnodar Krai"
+        },
+        {
+            "code": "24",
+            "title": "Krasnoyarsk Krai"
+        },
+        {
+            "code": "25",
+            "title": "Primorsky Krai"
+        },
+        {
+            "code": "26",
+            "title": "Stavropol Krai"
+        },
+        {
+            "code": "27",
+            "title": "Khabarovsk region"
+        },
+        {
+            "code": "28",
+            "title": "Amur Oblast"
+        },
+        {
+            "code": "29",
+            "title": "Arkhangelsk Oblast"
+        },
+        {
+            "code": "30",
+            "title": "Astrakhan Oblast"
+        },
+        {
+            "code": "31",
+            "title": "Belgorod Oblast"
+        },
+        {
+            "code": "32",
+            "title": "Bryansk Oblast"
+        },
+        {
+            "code": "33",
+            "title": "Vladimir Oblast"
+        },
+        {
+            "code": "34",
+            "title": "Volgograd Oblast"
+        },
+        {
+            "code": "35",
+            "title": "Vologda Oblast"
+        },
+        {
+            "code": "36",
+            "title": "Voronezh Oblast"
+        },
+        {
+            "code": "37",
+            "title": "Ivanovo Oblast"
+        },
+        {
+            "code": "38",
+            "title": "Irkutsk Oblast"
+        },
+        {
+            "code": "39",
+            "title": "Kaliningrad Oblast"
+        },
+        {
+            "code": "40",
+            "title": "Kaluga Oblast"
+        },
+        {
+            "code": "41",
+            "title": "Kamchatka Krai"
+        },
+        {
+            "code": "42",
+            "title": "Kemerovo Oblast"
+        },
+        {
+            "code": "43",
+            "title": "Kirov Oblast"
+        },
+        {
+            "code": "44",
+            "title": "Kostroma Oblast"
+        },
+        {
+            "code": "45",
+            "title": "Kurgan Oblast"
+        },
+        {
+            "code": "46",
+            "title": "Kursk Oblast"
+        },
+        {
+            "code": "47",
+            "title": "Leningrad Oblast"
+        },
+        {
+            "code": "48",
+            "title": "Lipetsk Oblast"
+        },
+        {
+            "code": "49",
+            "title": "Magadan Oblast"
+        },
+        {
+            "code": "50",
+            "title": "Moscow Oblast"
+        },
+        {
+            "code": "51",
+            "title": "Murmansk Oblast"
+        },
+        {
+            "code": "52",
+            "title": "Nizhny Novgorod Oblast"
+        },
+        {
+            "code": "53",
+            "title": "Novgorod Oblast"
+        },
+        {
+            "code": "54",
+            "title": "Novosibirsk Oblast"
+        },
+        {
+            "code": "55",
+            "title": "Omsk Oblast"
+        },
+        {
+            "code": "56",
+            "title": "Orenburg Oblast"
+        },
+        {
+            "code": "57",
+            "title": "Oryol Oblast"
+        },
+        {
+            "code": "58",
+            "title": "Penza Oblast"
+        },
+        {
+            "code": "59",
+            "title": "Perm Krai"
+        },
+        {
+            "code": "60",
+            "title": "Pskov Oblast"
+        },
+        {
+            "code": "61",
+            "title": "Rostov Oblast"
+        },
+        {
+            "code": "62",
+            "title": "Ryazan Oblast"
+        },
+        {
+            "code": "63",
+            "title": "Samara Oblast"
+        },
+        {
+            "code": "64",
+            "title": "Saratov Oblast"
+        },
+        {
+            "code": "65",
+            "title": "Sakhalin Oblast"
+        },
+        {
+            "code": "66",
+            "title": "Sverdlovsk Oblast"
+        },
+        {
+            "code": "67",
+            "title": "Smolensk Oblast"
+        },
+        {
+            "code": "68",
+            "title": "Tambov Oblast"
+        },
+        {
+            "code": "69",
+            "title": "Tver Oblast"
+        },
+        {
+            "code": "70",
+            "title": "Tomsk Oblast"
+        },
+        {
+            "code": "71",
+            "title": "Tula Oblast"
+        },
+        {
+            "code": "72",
+            "title": "Tyumen Oblast"
+        },
+        {
+            "code": "73",
+            "title": "Ulyanovsk Oblast"
+        },
+        {
+            "code": "74",
+            "title": "Chelyabinsk Oblast"
+        },
+        {
+            "code": "75",
+            "title": "Zabaykalsky Krai"
+        },
+        {
+            "code": "76",
+            "title": "Yaroslavl Oblast"
+        },
+        {
+            "code": "77",
+            "title": "Moscow"
+        },
+        {
+            "code": "78",
+            "title": "St. Petersburg"
+        },
+        {
+            "code": "79",
+            "title": "Jewish Autonomous Oblast"
+        },
+        {
+            "code": "83",
+            "title": "Nenets Autonomous Okrug"
+        },
+        {
+            "code": "86",
+            "title": "Khanty-Mansiysk Autonomous Okrug Ugra"
+        },
+        {
+            "code": "87",
+            "title": "Chukotka Autonomous Okrug"
+        },
+        {
+            "code": "89",
+            "title": "Yamal-Nenets Autonomous Okrug"
+        },
+        {
+            "code": "91",
+            "title": "Republic of Crimea"
+        },
+        {
+            "code": "92",
+            "title": "Sevastopol"
+        },
+        {
+            "code": "99",
+            "title": "Baikonur"
+        }
+    ],
+    "workSpecialization": [
+        {
+            "code": "4501",
+            "title": "4501 : Services for project engineering, for design and pre-design developments, development of a basic project (pre-FEED, FEED). Services for design and pre-design developments, coordination of individual parts of the project (emergency response plan, oil spill response plan, etc.)"
+        },
+        {
+            "code": "4502",
+            "title": "4502 Сonstruction control at construction sites (external technical supervision)"
+        },
+        {
+            "code": "4504",
+            "title": "4504 Technical customer services (capital construction project management)"
+        },
+        {
+            "code": "4505",
+            "title": "Rendering of turnkey complex services - EPC contracts and turnkey contracts for the construction of facilities, including: engineering surveys, design, supply of equipment and materials, construction organization and management, CIW (construction and installation works), commissioning activities"
+        },
+        {
+            "code": "4506",
+            "title": "4506 Services for the inspection and diagnosis of buildings and structures"
+        },
+        {
+            "code": "4507",
+            "title": "4507 Construction of business support facilities, social and infrastructure development facilities, including repair and reconstruction. Reconstruction of office premises"
+        },
+        {
+            "code": "4510",
+            "title": "4510 Architectural supervision at construction sites"
+        },
+        {
+            "code": "4511",
+            "title": "4511 Construction, reconstruction and installation of administrative and household complexes of social facilities (A&LQ, rotational villages and shift camps, household premises in the fields), other infrastructure facilities (field support bases, production service bases, mechanical repair shops, storage facilities, POL bases)"
+        },
+        {
+            "code": "4512",
+            "title": "4512 Commissioning activities at construction and reconstruction sites"
+        },
+        {
+            "code": "4513",
+            "title": "4513 Design and survey work and engineering services at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4516",
+            "title": "4516 Expertise of design and estimate documentation"
+        },
+        {
+            "code": "4517",
+            "title": "4517 Construction and reconstruction (including modernization, technical re-equipment, etc.) of TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4518",
+            "title": "4518 Construction and reconstruction of highways (overtaking lanes, entries and departures, road surface of the site, etc.) at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4519",
+            "title": "4519 Installation and replacement of technological equipment and pipelines at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4520",
+            "title": "4520 General construction and finishing works (including redevelopment, facing, etc.) at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4521",
+            "title": "4521 Installation of external and internal engineering networks (water supply, drainage, heating, installation of wells, etc.) at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4522",
+            "title": "4522 Installation and reconstruction of a ventilation and air conditioning system"
+        },
+        {
+            "code": "4523",
+            "title": "4523 Installation and replacement of other equipment at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4524",
+            "title": "4524 Installation and replacement of electrical / power equipment, installation of internal and external electrical networks at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4525",
+            "title": "4525 Installation of security and fire alarm systems, fire automatics, CCTV at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4526",
+            "title": "4526 Installation of instrumentation and automated process control systems at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4527",
+            "title": "4527 Installation and replacement of sewage treatment plants at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4528",
+            "title": "4528 Construction of LPG, CNG and compressed natural main gas sections at TANK FARM and PRS / gas station facilities"
+        },
+        {
+            "code": "4529",
+            "title": "4529 Design and survey work and engineering services at oil refinery facilities (petrochemicals)"
+        },
+        {
+            "code": "4533",
+            "title": "4533 Construction and reconstruction of automobile and on-site access roads at oil refinery facilities (petrochemicals)"
+        },
+        {
+            "code": "4534",
+            "title": "4534 Construction and reconstruction of non-public railways"
+        },
+        {
+            "code": "4535",
+            "title": "4535 Construction and reconstruction of technological pipelines at oil refinery facilities (petrochemicals)"
+        },
+        {
+            "code": "4536",
+            "title": "4536 Construction and reconstruction of the main technological units at oil refinery facilities (petrochemicals)"
+        },
+        {
+            "code": "4537",
+            "title": "4537 Construction and reconstruction of plant facilities at oil refinery facilities (petrochemicals)"
+        },
+        {
+            "code": "4538",
+            "title": "4538 Installation of security systems (alarms, video surveillance and access control, protection of information resources, etc.)"
+        },
+        {
+            "code": "4539",
+            "title": "4539 Construction, reconstruction and installation of environmental safety facilities (including waste storage and processing units, temporary storage and disposal of industrial and household waste units, household and industrial wastewater treatment, etc.)"
+        },
+        {
+            "code": "4540",
+            "title": "4540 Construction, reconstruction and installation of an automation system, telemechanization and communication, including automation of technological processes, industrial control systems, instrumentation and automation systems, technological / commercial accounting, communication and warning systems, LANs, etc."
+        },
+        {
+            "code": "4541",
+            "title": "4541 Construction, reconstruction and installation of energy facilities (electrical networks, electrical substation, switchyard, transforming substation etc.) at oil refinery facilities (petrochemicals)"
+        },
+        {
+            "code": "4542",
+            "title": "4542 Construction, reconstruction and installation of energy generating facilities, power plants (gas engine power plants (GEPP), gas turbine power plants (GTPP), boiler houses, etc.)"
+        },
+        {
+            "code": "4543",
+            "title": "4543 Construction and reconstruction of power transmission lines"
+        },
+        {
+            "code": "4545",
+            "title": "4545 Construction, reconstruction and installation of tanks and tank farms"
+        },
+        {
+            "code": "4546",
+            "title": "4546 Construction, reconstruction and installation of flare facilities at oil refinery facilities (petrochemicals)"
+        },
+        {
+            "code": "4547",
+            "title": "4547 Engineering work (land management, bank protection, etc.)"
+        },
+        {
+            "code": "4548",
+            "title": "4548 Design and survey work and engineering services at oil and gas facilities / at OGD facilities"
+        },
+        {
+            "code": "4551",
+            "title": "4551 Construction and maintenance of winter roads, ice crossings at oil and gas facilities / at OGD facilities"
+        },
+        {
+            "code": "4552",
+            "title": "4552 Construction of cluster foundations, sites and access roads to them"
+        },
+        {
+            "code": "4554",
+            "title": "4554 Construction and reconstruction of bridges, bridge crossings, culverts (construction) at oil and gas facilities / at OGD facilities"
+        },
+        {
+            "code": "4555",
+            "title": "4555 Arrangement of cluster sites/foundations and single wells at oil and gas facilities / at OGD facilities"
+        },
+        {
+            "code": "4556",
+            "title": "4556 Construction and reconstruction of infield pipelines at oil and gas facilities / at OGD facilities"
+        },
+        {
+            "code": "4557",
+            "title": "4557 Construction, reconstruction of site structures and oil and gas production complexes (CPF, OTU, BCS, PWDU, CPS, CQCS, GCS, GTU, IOGTU, GQCS, etc.) at oil and gas facilities / at OGD facilities"
+        },
+        {
+            "code": "4566",
+            "title": "4566 Construction and reconstruction of airports, heliports"
+        },
+        {
+            "code": "4567",
+            "title": "4567 Extraction of abundant minerals by water-jet ground mining"
+        },
+        {
+            "code": "4568",
+            "title": "4568 Services for the preparation of a construction site prior to construction, incl. logging operations"
+        },
+        {
+            "code": "4569",
+            "title": "4569 Piling work"
+        },
+        {
+            "code": "4570",
+            "title": "4570 Liquidation of objects, buildings and structures, dismantling of structures, incl. recultivation"
+        },
+        {
+            "code": "4571",
+            "title": "4571 Construction and reconstruction of main and interfield pipelines"
+        },
+        {
+            "code": "4572",
+            "title": "4572 Design and survey work and engineering services at marine terminal facilities"
+        },
+        {
+            "code": "4576",
+            "title": "4576 Construction and reconstruction at marine terminal facilities"
+        },
+        {
+            "code": "4577",
+            "title": "4577 Performance of hydraulic work at marine terminal facilities"
+        },
+        {
+            "code": "4579",
+            "title": "4579 Provision of temporary energy supply services with diesel power generation"
+        },
+        {
+            "code": "4580",
+            "title": "4580 Provision of temporary energy supply services with gas power generation"
+        },
+        {
+            "code": "4581",
+            "title": "4581 Construction of underpasses using directional drilling"
+        },
+        {
+            "code": "4582",
+            "title": "4582 Extraction of crushed stone, gravel, sand (by dry ground mining)"
+        },
+        {
+            "code": "4583",
+            "title": "4583 Design and survey work and engineering services at non-production facilities (buildings, structures, housing facilities, socio-cultural and communal services, as well as other capital construction projects for non-production purposes)"
+        },
+        {
+            "code": "4584",
+            "title": "4584 Major repairs according to the downtime schedule at oil refining and petrochemical facilities"
+        }
+    ],
+    "userType": [
+        {
+            "value": "naturalPerson",
+            "label": "ФЛ"
+        },
+        {
+            "value": "legalEntity",
+            "label": "ЮЛ/ИП"
+        }
+    ],
+    "optionsKindOfActivity": [
+        {
+            "label": "МТР",
+            "options": [
+                {
+                    "value": "Класс 01 \"Трубы металлические\"",
+                    "label": "Класс 01 \"Трубы металлические\""
+                },
+                {
+                    "value": "Класс 02 \"Детали трубопроводов металлические\"",
+                    "label": "Класс 02 \"Детали трубопроводов металлические\""
+                },
+                {
+                    "value": "Класс 03 \"Металл и прокат черных металлов\"",
+                    "label": "Класс 03 \"Металл и прокат черных металлов\""
+                },
+                {
+                    "value": "Класс 04 \"Прокат, сырье, сплавы и изделия из цветных металлов\"",
+                    "label": "Класс 04 \"Прокат, сырье, сплавы и изделия из цветных металлов\""
+                },
+                {
+                    "value": "Класс 05 \"Металлопродукция\"",
+                    "label": "Класс 05 \"Металлопродукция\""
+                },
+                {
+                    "value": "Класс 06 \"Арматура промышленная трубопроводная\"",
+                    "label": "Класс 06 \"Арматура промышленная трубопроводная\""
+                },
+                {
+                    "value": "Класс 07 \"Оборудование химическое и нефтегазоперерабатывающее\"",
+                    "label": "Класс 07 \"Оборудование химическое и нефтегазоперерабатывающее\""
+                },
+                {
+                    "value": "Класс 08 \"Оборудование буровое и нефтепромысловое\"",
+                    "label": "Класс 08 \"Оборудование буровое и нефтепромысловое\""
+                },
+                {
+                    "value": "Класс 09 \"Насосно-компрессорное оборудование\"",
+                    "label": "Класс 09 \"Насосно-компрессорное оборудование\""
+                },
+                {
+                    "value": "Класс 11 \"Продукция кабельная\"",
+                    "label": "Класс 11 \"Продукция кабельная\""
+                },
+                {
+                    "value": "Класс 12 \"Электротехническое оборудование\"",
+                    "label": "Класс 12 \"Электротехническое оборудование\""
+                },
+                {
+                    "value": "Класс 13 \"Оборудование металло- и деревообрабатывающее\"",
+                    "label": "Класс 13 \"Оборудование металло- и деревообрабатывающее\""
+                },
+                {
+                    "value": "Класс 14 \"Техника пожарная\"",
+                    "label": "Класс 14 \"Техника пожарная\""
+                },
+                {
+                    "value": "Класс 15 \"Оборудование для кондиционирования воздуха и вентиляции\"",
+                    "label": "Класс 15 \"Оборудование для кондиционирования воздуха и вентиляции\""
+                },
+                {
+                    "value": "Класс 17 \"Оборудование грузоподъемное\"",
+                    "label": "Класс 17 \"Оборудование грузоподъемное\""
+                },
+                {
+                    "value": "Класс 18 \"Оборудование энергетическое\"",
+                    "label": "Класс 18 \"Оборудование энергетическое\""
+                },
+                {
+                    "value": "Класс 19 \"Оборудование и посуда лабораторные\"",
+                    "label": "Класс 19 \"Оборудование и посуда лабораторные\""
+                },
+                {
+                    "value": "Класс 20 \"Подшипники\"",
+                    "label": "Класс 20 \"Подшипники\""
+                },
+                {
+                    "value": "Класс 21 \"Шины\"",
+                    "label": "Класс 21 \"Шины\""
+                },
+                {
+                    "value": "Класс 22 \"Автотранспорт, спецтехника, запасные части, гаражное оборудование.\"",
+                    "label": "Класс 22 \"Автотранспорт, спецтехника, запасные части, гаражное оборудование.\""
+                },
+                {
+                    "value": "Класс 23 \"Здания и помещения цельноперевозные, контейнерного типа и сборно-разборные\"",
+                    "label": "Класс 23 \"Здания и помещения цельноперевозные, контейнерного типа и сборно-разборные\""
+                },
+                {
+                    "value": "Класс 25 \"КИП и средства автоматизации\"",
+                    "label": "Класс 25 \"КИП и средства автоматизации\""
+                },
+                {
+                    "value": "Класс 26 \"Нефть, нефтепродукты, газ\"",
+                    "label": "Класс 26 \"Нефть, нефтепродукты, газ\""
+                },
+                {
+                    "value": "Класс 27 \"Продукция химическая\"",
+                    "label": "Класс 27 \"Продукция химическая\""
+                },
+                {
+                    "value": "Класс 28 \"Резино-техническая и асбестовая продукция\"",
+                    "label": "Класс 28 \"Резино-техническая и асбестовая продукция\""
+                },
+                {
+                    "value": "Класс 29 \"Полимеры, пластмассы, химволокона и каучуки\"",
+                    "label": "Класс 29 \"Полимеры, пластмассы, химволокона и каучуки\""
+                },
+                {
+                    "value": "Класс 30 \"Лакокрасочные материалы\"",
+                    "label": "Класс 30 \"Лакокрасочные материалы\""
+                },
+                {
+                    "value": "Класс 31 \"Металлоконструкция и сооружения строительные\"",
+                    "label": "Класс 31 \"Металлоконструкция и сооружения строительные\""
+                },
+                {
+                    "value": "Класс 32 \"Конструкция и детали сборные железобетонные\"",
+                    "label": "Класс 32 \"Конструкция и детали сборные железобетонные\""
+                },
+                {
+                    "value": "Класс 33 \"Материалы строительные (кроме ЖБ)\"",
+                    "label": "Класс 33 \"Материалы строительные (кроме ЖБ)\""
+                },
+                {
+                    "value": "Класс 34 \"Продукция лесной и деревообрабатывающей промышленности\"",
+                    "label": "Класс 34 \"Продукция лесной и деревообрабатывающей промышленности\""
+                },
+                {
+                    "value": "Класс 35 \"Продукция электронной промышленности\"",
+                    "label": "Класс 35 \"Продукция электронной промышленности\""
+                },
+                {
+                    "value": "Класс 36 \"Вычислительная техника\"",
+                    "label": "Класс 36 \"Вычислительная техника\""
+                },
+                {
+                    "value": "Класс 37 \"Оргтехника\"",
+                    "label": "Класс 37 \"Оргтехника\""
+                },
+                {
+                    "value": "Класс 38 \"Средства связи, радиолокации и навигации\"",
+                    "label": "Класс 38 \"Средства связи, радиолокации и навигации\""
+                },
+                {
+                    "value": "Класс 39 \"Инструмент\"",
+                    "label": "Класс 39 \"Инструмент\""
+                },
+                {
+                    "value": "Класс 40 \"Спецодежда и средства индивидуальной защиты\"",
+                    "label": "Класс 40 \"Спецодежда и средства индивидуальной защиты\""
+                },
+                {
+                    "value": "Класс 44 \" Оборудование и инвентарь спортивные\"",
+                    "label": "Класс 44 \" Оборудование и инвентарь спортивные\""
+                },
+                {
+                    "value": "Класс 45 \"Мебель\"",
+                    "label": "Класс 45 \"Мебель\""
+                },
+                {
+                    "value": "Класс 46 \"Канцтовары\"",
+                    "label": "Класс 46 \"Канцтовары\""
+                },
+                {
+                    "value": "Класс 47 \"Посуда\"",
+                    "label": "Класс 47 \"Посуда\""
+                },
+                {
+                    "value": "Класс 48 \"Сантехника\"",
+                    "label": "Класс 48 \"Сантехника\""
+                },
+                {
+                    "value": "Класс 49 \"Медицинское оборудование и медикаменты\"",
+                    "label": "Класс 49 \"Медицинское оборудование и медикаменты\""
+                },
+                {
+                    "value": "Класс 50 \"Хозтовары\"",
+                    "label": "Класс 50 \"Хозтовары\""
+                },
+                {
+                    "value": "Класс 51 \"Бытовая техника\"",
+                    "label": "Класс 51 \"Бытовая техника\""
+                },
+                {
+                    "value": "Класс 54 \"Предметы интерьера и домашнего обихода\"",
+                    "label": "Класс 54 \"Предметы интерьера и домашнего обихода\""
+                },
+                {
+                    "value": "Класс 55 \"Оборудование, знаки и средства по техник…, охране труда и безопасности дорожного движения\"",
+                    "label": "Класс 55 \"Оборудование, знаки и средства по техник…, охране труда и безопасности дорожного движения\""
+                },
+                {
+                    "value": "Класс 57 \"Продукция полиграфическая\"",
+                    "label": "Класс 57 \"Продукция полиграфическая\""
+                },
+                {
+                    "value": "Класс 58 \"Продукция пищевой промышленности\"",
+                    "label": "Класс 58 \"Продукция пищевой промышленности\""
+                },
+                {
+                    "value": "Класс 59 \"Оборудование для обучения специалистов аварийно-спасательных служб\"",
+                    "label": "Класс 59 \"Оборудование для обучения специалистов аварийно-спасательных служб\""
+                },
+                {
+                    "value": "Класс 60 \"Техника авиационная и судовая\"",
+                    "label": "Класс 60 \"Техника авиационная и судовая\""
+                },
+                {
+                    "value": "Класс 61 \"Оружие, взрывные устройства, взрывчатые вещества\"",
+                    "label": "Класс 61 \"Оружие, взрывные устройства, взрывчатые вещества\""
+                },
+                {
+                    "value": "Класс 65 \"Тара\"",
+                    "label": "Класс 65 \"Тара\""
+                },
+                {
+                    "value": "Класс 67 \"Оборудование в рамках реконструкции, строительства и ремонта АЗС и нефтебаз\"",
+                    "label": "Класс 67 \"Оборудование в рамках реконструкции, строительства и ремонта АЗС и нефтебаз\""
+                }
+            ]
+        },
+        {
+            "label": "Нефтепромысловые услуги",
+            "options": [
+                {
+                    "value": "ЗБС",
+                    "label": "ЗБС"
+                },
+                {
+                    "value": "Сопутствующие услуги при Бурении и ЗБС",
+                    "label": "Сопутствующие услуги при Бурении и ЗБС"
+                },
+                {
+                    "value": "Эксплуатационное бурение",
+                    "label": "Эксплуатационное бурение"
+                },
+                {
+                    "value": "Разведочное бурение",
+                    "label": "Разведочное бурение"
+                },
+                {
+                    "value": "Сейсмика",
+                    "label": "Сейсмика"
+                },
+                {
+                    "value": "ГИС, ГИРС, ПВР, ГМЩП",
+                    "label": "ГИС, ГИРС, ПВР, ГМЩП"
+                },
+                {
+                    "value": "ГРП",
+                    "label": "ГРП"
+                },
+                {
+                    "value": "ГНКТ",
+                    "label": "ГНКТ"
+                },
+                {
+                    "value": "ТКРС, освоение",
+                    "label": "ТКРС, освоение"
+                },
+                {
+                    "value": "Транспорт",
+                    "label": "Транспорт"
+                },
+                {
+                    "value": "Дороги",
+                    "label": "Дороги"
+                },
+                {
+                    "value": "Добыча",
+                    "label": "Добыча"
+                },
+                {
+                    "value": "Химизация",
+                    "label": "Химизация"
+                },
+                {
+                    "value": "Механика. Ремонт и обслуживание. Контроль и диагностика.",
+                    "label": "Механика. Ремонт и обслуживание. Контроль и диагностика."
+                },
+                {
+                    "value": "Промышленная безопасность",
+                    "label": "Промышленная безопасность"
+                },
+                {
+                    "value": "Операторские / Агентские",
+                    "label": "Операторские / Агентские"
+                },
+                {
+                    "value": "НИР по геологии",
+                    "label": "НИР по геологии"
+                },
+                {
+                    "value": "Услуги, связанные с разработкой месторождения",
+                    "label": "Услуги, связанные с разработкой месторождения"
+                },
+                {
+                    "value": "Прочие услуги по геологии",
+                    "label": "Прочие услуги по геологии"
+                },
+                {
+                    "value": "Прочее нефтепромысловые услуги",
+                    "label": "Прочее нефтепромысловые услуги"
+                },
+                {
+                    "value": "Энергетика",
+                    "label": "Энергетика"
+                }
+            ]
+        },
+        {
+            "label": "Строительные услуги",
+            "options": [
+                {
+                    "value": "СМР",
+                    "label": "СМР"
+                },
+                {
+                    "value": "ПИР",
+                    "label": "ПИР"
+                },
+                {
+                    "value": "Комплексные услуги (EPC/EPCM)",
+                    "label": "Комплексные услуги (EPC/EPCM)"
+                },
+                {
+                    "value": "КР (капитальный ремонт)",
+                    "label": "КР (капитальный ремонт)"
+                },
+                {
+                    "value": "Лицензиар",
+                    "label": "Лицензиар"
+                },
+                {
+                    "value": "ЗУР (землеуcтроительные работы)",
+                    "label": "ЗУР (землеуcтроительные работы)"
+                },
+                {
+                    "value": "Объект обеспечения бизнеса (непроизв. объект)",
+                    "label": "Объект обеспечения бизнеса (непроизв. объект)"
+                },
+                {
+                    "value": "Авторский надзор, технадзор, строительный контроль",
+                    "label": "Авторский надзор, технадзор, строительный контроль"
+                },
+                {
+                    "value": "Энергообеспечение в капитальном строительстве",
+                    "label": "Энергообеспечение в капитальном строительстве"
+                }
+            ]
+        },
+        {
+            "label": "Непроизводственные услуги",
+            "options": [
+                {
+                    "value": "Финансовые, аудиторские и консалтинговые услуги",
+                    "label": "Финансовые, аудиторские и консалтинговые услуги"
+                },
+                {
+                    "value": "Услуги страхования",
+                    "label": "Услуги страхования"
+                },
+                {
+                    "value": "Ж/д и сопутствующие услуги",
+                    "label": "Ж/д и сопутствующие услуги"
+                },
+                {
+                    "value": "Авиационные услуги",
+                    "label": "Авиационные услуги"
+                },
+                {
+                    "value": "Услуги социально-бытового характера",
+                    "label": "Услуги социально-бытового характера"
+                },
+                {
+                    "value": "Общехозяйственные услуги",
+                    "label": "Общехозяйственные услуги"
+                },
+                {
+                    "value": "Услуги ИТ",
+                    "label": "Услуги ИТ"
+                },
+                {
+                    "value": "Услуги по обеспечению безопасности",
+                    "label": "Услуги по обеспечению безопасности"
+                },
+                {
+                    "value": "Услуги энерго- и электроснабжения (ОРЕХ)",
+                    "label": "Услуги энерго- и электроснабжения (ОРЕХ)"
+                },
+                {
+                    "value": "Услуги связанные с реализацией ЦИП и НИР",
+                    "label": "Услуги связанные с реализацией ЦИП и НИР"
+                },
+                {
+                    "value": "Поставка нефти, газа, нефтепродуктов (ресурс)",
+                    "label": "Поставка нефти, газа, нефтепродуктов (ресурс)"
+                },
+                {
+                    "value": "Поставка нефти, газа, нефтепродуктов (услуги)",
+                    "label": "Поставка нефти, газа, нефтепродуктов (услуги)"
+                },
+                {
+                    "value": "Поставка товаров для перепродажи в розницу",
+                    "label": "Поставка товаров для перепродажи в розницу"
+                },
+                {
+                    "value": "Культурные мероприятия и рекламная деятельность",
+                    "label": "Культурные мероприятия и рекламная деятельность"
+                },
+                {
+                    "value": "Покупка (аренда) имущества",
+                    "label": "Покупка (аренда) имущества"
+                },
+                {
+                    "value": "Кадры, обучение",
+                    "label": "Кадры, обучение"
+                },
+                {
+                    "value": "Услуги связанные с экологией и охраной труда",
+                    "label": "Услуги связанные с экологией и охраной труда"
+                },
+                {
+                    "value": "Прочие непроизводственные услуги",
+                    "label": "Прочие непроизводственные услуги"
+                }
+            ]
+        },
+        {
+            "label": "Иное",
+            "options": [
+                {
+                    "value": "Иное",
+                    "label": "Иное"
+                }
+            ]
+        }
+    ],
+    "optionsInnovationDirection": [
+        {
+            "label": "Geological exploration and formation tests",
+            "value": "Геологоразведка и исследование пластов"
+        },
+        {
+            "label": "Geology and field development",
+            "value": "Геология и разработка месторождений"
+        },
+        {
+            "label": "Well site construction",
+            "value": "Строительство скважин"
+        },
+        {
+            "label": "Technologies for oil and gas production",
+            "value": "Технологии добычи нефти и газа"
+        },
+        {
+            "label": "Construction and operation of ground infrastructure facilities",
+            "value": "Строительство и эксплуатация объектов наземной инфраструктуры"
+        },
+        {
+            "label": "Unconventional sources of hydrocarbons (viscous oils, bazhen, gas hydrates, oil from coal)",
+            "value": "Нетрадиционные источники углеводородов (вязкие нефти, бажен, газогидраты, нефть из угля)"
+        },
+        {
+            "label": "Non-hydrocarbon raw materials",
+            "value": "Неуглеводородное сырье"
+        },
+        {
+            "label": "Shelves",
+            "value": "Шельфы"
+        },
+        {
+            "label": "Upstream Information Technology",
+            "value": "Информационные технологии Upstream"
+        },
+        {
+            "label": "Technologies of oil refining",
+            "value": "Технологии нефтепереработки"
+        },
+        {
+            "label": "Technologies of petrochemicals, GTL",
+            "value": "Технологии нефтегазохимии GTL"
+        },
+        {
+            "label": "Own catalysts",
+            "value": "Собственные катализаторы"
+        },
+        {
+            "label": "Development of new refining products",
+            "value": "Разработка новых продуктов нефтепереработки"
+        },
+        {
+            "label": "Processing of heavy oil residues",
+            "value": "Переработка тяжелых нефтяных остатков"
+        },
+        {
+            "label": "Information Technology Downstream",
+            "value": "Информационные технологии Downstream"
+        },
+        {
+            "label": "Engineering support for the introduction of new technologies KNIPI",
+            "value": "Инжиниринговая поддержка внедрения новых технологий КНИПИ"
+        },
+        {
+            "label": "Energy saving",
+            "value": "Энергосбережение"
+        },
+        {
+            "label": "Ecology",
+            "value": "Экология"
+        },
+        {
+            "label": "Alternative energy",
+            "value": "Альтернативная энергетика"
+        },
+        {
+            "label": "Knowledge dissemination systems and corporate information technologies",
+            "value": "Системы распространения знаний и общекорпоративные информационные технологии"
+        }
+    ],
+    "servicesForm": {
+        "title": "Заказать услугу",
+        "description": "Услуга услуга услуга",
+        "id": "ApplicationForm3"
+    },
+    "ApplicationForm3": {
+        "title": "Заказать услугу",
+        "description": "Эл. подпись",
+        "id": "ApplicationForm3"
+    },
+    "optionsKindOfExpertise": [
+        {
+            "label": "Legal expertise",
+            "value": "Legal expertise"
+        },
+        {
+            "label": "Expertise of business reputation",
+            "value": "Expertise of business reputation"
+        }
+    ],
+    "subscribeForm": {
+        "title": "Подписаться на новости",
+        "text": "Мы нацелены на развитие партнерских отношений. Если вы хотите стать партнером АО «ТЭК-Торг» или разместить информацию на сайте, присылайте Вашу заявку",
+        "confirmMessage": "Нажимая на кнопку вы соглашаетесь с <a href='#' target='_blank' rel='noreferrer' >политикой конфиденциальности<a>",
+        "picture": {
+            "src": "/images/forms/subscribe/375.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/subscribe/1920.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/subscribe/375.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "educationCourseForm": {
+        "title": "Corporate training for employees of your company",
+        "text": "An&nbsp;individual training program is&nbsp;tailored to&nbsp;the needs of&nbsp;your company",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "applicationForm1": {
+        "title": "Оставить заявку на консультацию",
+        "text": "Федеральная электронная площадка «Тэк-торг» представляет бизнес-приложение для всех участников закупок",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "applicationForm2": {
+        "title": "We invite you to cooperation",
+        "text": "We are committed to developing partnerships. If you want to become a partner of TEK-Torg JSC or post information on the site, send your application.",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "applicationForm3": {
+        "title": "Регистрация на практический курс",
+        "text": "27 Сентября 2022, онлайн",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "applicationForm4": {
+        "title": "Request a consultation",
+        "text": "We can answer all your questions about using the ETP, from setting up a PC to signing a contract. We’re making procurement more accessible",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "contactsForm1": {
+        "title": "Заполните контактные данные",
+        "docs": {
+            "title": "Скачайте образец заявки для заполнения",
+            "items": [
+                {
+                    "nid": "1112",
+                    "description": "На выявление потребности товаров, работ, услуг ",
+                    "file": "#",
+                    "type": "PDF",
+                    "size": "60.89 КБ"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "contactsForm2": {
+        "title": "Заполните контактные данные",
+        "docs": {
+            "title": "Скачайте образец заявки для заполнения",
+            "items": [
+                {
+                    "nid": "1112",
+                    "description": "На экспертизу деловой репутации",
+                    "file": "#",
+                    "type": "PDF",
+                    "size": "60.89 КБ"
+                },
+                {
+                    "nid": "12",
+                    "description": "На юридическую экспертизу",
+                    "file": "#",
+                    "type": "PDF",
+                    "size": "60.89 КБ"
+                },
+                {
+                    "nid": "13",
+                    "description": "Список документов для юр. экспертизы",
+                    "file": "#",
+                    "type": "PDF",
+                    "size": "60.89 КБ"
+                }
+            ]
+        },
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "questionnaireForm": {
+        "title": "Заполните форму анкеты",
+        "text": "Предложения о сотрудничестве с ПАО «НК «Роснефть», представляющие потенциальный интерес для Компании и соответствующие ее актуальным направлениям деятельности, отправляются в виде информационной справки о товарах, работах, услугах, в формате официальных писем. Вы можете оставить свое предложение, заполнив форму ниже.",
+        "fileTitle": "Attach files containing descriptions of innovative, technical and organizational solutions and ideas"
+    },
+    "openRequestForm": {
+        "title": "Proposal for cooperation",
+        "fileTitle": "Attach files containing descriptions of innovative, technical and organizational solutions and ideas"
+    },
+    "innovationProjectIdeaForm": {
+        "title": "Fill out the application form"
+    },
+    "contractorQuestionnaireForm1": {
+        "title": "Заполните поля"
+    },
+    "requestForm1": {
+        "title": "Чтобы начать работать в Диадоке, просто оставьте заявку",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "stepForm1": {
+        "headers": ["General information", "Specializations", "Region", "Shift work"],
+        "items": [
+            {
+                "title": "Заполните поля"
+            },
+            {
+                "text": "Please select the specialization of your organization by type of construction work *"
+            },
+            {
+                "text": "Please, select the regions of the Russian Federation in which your organization is ready to provide construction assistance services *"
+            },
+            {
+                "text": "Willingness to work in shifts *"
+            }
+        ]
+    },
+    "stepForm2": {
+        "headers": [
+            "Company identification",
+            "Upload the technical and commercial offer",
+            "Download technical documentation",
+            "Upload the price list of&nbsp;the company"
+        ],
+        "items": [
+            {
+                "title": "Заполните поля",
+                "subTitle": "Participation in&nbsp;procurement&nbsp;/ supplies for the companies of&nbsp;the Inter RAO Group"
+            },
+            {
+                "docs": {
+                    "title": "To&nbsp;upload the TCO, download, fill out and attach the filled template",
+                    "items": [
+                        {
+                            "nid": "4887",
+                            "title": "Template TCO",
+                            "file": "#",
+                            "type": "PDF",
+                            "size": "69.89 KB"
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "You can send technical documentation for stock items specified in&nbsp;the template of&nbsp;a&nbsp;technical and commercial proposal"
+            },
+            {
+                "text": "You can send the general price list of&nbsp;your company"
+            }
+        ]
+    },
+    "stepForm3": {
+        "title": "Send a presentation",
+        "text": "Your presentation shall be reviewed by the Supply Center of Inter RAO. Inter RAO Supply Center, then it&nbsp;is&nbsp;sent in&nbsp;accordance with the activity area to&nbsp;a&nbsp;wide range of&nbsp;technical specialists from production facilities and management companies. After studying the presentation materials, the conclusions of&nbsp;experts and questions are sent to&nbsp;your address.",
+        "descr": "For advice on&nbsp;the work of&nbsp;The Single Window for Technologies Presentation, please contact the Directorate for work with suppliers and authorities of&nbsp;the Inter RAO Supply Center: Yuriy Vitalievich Domoratskiy, the Head of&nbsp;the Division (phone: +7 495 664-88-40&nbsp;ext.&nbsp;2763, e-mail: domoratskiy_yv@interrao.ru).",
+        "headers": ["Company identification", "The essence of the proposals", "Contacts"],
+        "titles": {
+            "radio1": "Participation in&nbsp;procurement&nbsp;/ supplies for the companies of&nbsp;the Inter RAO Group",
+            "radio2": "Willingness to&nbsp;provide products for trial operation",
+            "materials1": "Please attach all available materials that reveal the essence of the offer",
+            "loadTKP": "Upload the technical and commercial offer",
+            "webinarTheme": "Topic of the webinar"
+        },
+        "docs": {
+            "title": "To upload the TCO, download, fill out and attach the filled template *",
+            "items": [
+                {
+                    "nid": "4887",
+                    "title": "Template TCO",
+                    "file": "/documents/TKP_shablon.xlsx",
+                    "type": "xlsx",
+                    "size": "60.89 KB"
+                }
+            ]
+        },
+        "selectOfferOptions": [
+            {
+                "value": "offer",
+                "label": "Offer for the company"
+            },
+            {
+                "value": "importSubstitution",
+                "label": "Import substitution"
+            },
+            {
+                "value": "innovateProduct",
+                "label": "Innovative products/technologies"
+            },
+            {
+                "value": "highTech",
+                "label": "High-tech products"
+            },
+            {
+                "value": "other",
+                "label": "Other"
+            }
+        ],
+        "selectIndustryOptions": [
+            {
+                "value": "powerGeneration",
+                "label": "Power generation"
+            },
+            {
+                "value": "heatGeneration",
+                "label": "Heat generation/heat supply"
+            },
+            {
+                "value": "energySupplyCompanies",
+                "label": "Power supply companies"
+            },
+            {
+                "value": "other",
+                "label": "Other"
+            }
+        ],
+        "selectActivityOptions": [
+            {
+                "value": "repairs",
+                "label": "Repairs"
+            },
+            {
+                "value": "technicalReEquipment",
+                "label": "Technical re-equipment"
+            },
+            {
+                "value": "newConstruction",
+                "label": "New construction"
+            },
+            {
+                "value": "operationObjects",
+                "label": "Operation of objects"
+            },
+            {
+                "value": "automation",
+                "label": "Automation"
+            },
+            {
+                "value": "other",
+                "label": "Other"
+            }
+        ],
+        "selectActivityOptionsEnergy": [
+            {
+                "value": "operationObjects",
+                "label": "Operation of objects"
+            },
+            {
+                "value": "informationTechnology",
+                "label": "Information Technology"
+            },
+            {
+                "value": "commercialEnergySales",
+                "label": "Commercial energy sales activities"
+            },
+            {
+                "value": "other",
+                "label": "Other"
+            }
+        ]
+    },
+    "stepForm4": {
+        "title": "Application for holding a webinar",
+        "text": "The platform for holding a&nbsp;webinar on&nbsp;the ZOOM platform is&nbsp;provided by&nbsp;the partner&nbsp;&mdash; the Electronic Trading Platform TEK-Torg. After the formation of&nbsp;the webinar program, participants and applicants will receive information about the conference and contacts of&nbsp;the moderator. No&nbsp;more than 15&nbsp;minutes are allotted for the presentation (controlled by&nbsp;the moderator), while the time for discussion is&nbsp;not limited. All materials for preliminary viewing should be&nbsp;provided in&nbsp;advance (prerequisite). Priority in&nbsp;providing the opportunity to&nbsp;hold webinars is&nbsp;given to&nbsp;Russian manufacturers and suppliers.",
+        "descr": "For advice on&nbsp;the work of&nbsp;The Single Window for Technologies Presentation, please contact the Directorate for work with suppliers and authorities of&nbsp;the Inter RAO Supply Center: Yuriy Vitalievich Domoratskiy, the Head of&nbsp;the Division (phone: +7 495 664-88-40&nbsp;ext.&nbsp;2763, e-mail: domoratskiy_yv@interrao.ru).",
+        "headers": ["Company identification", "The essence of the proposals", "Contacts"],
+        "titles": {
+            "radio1": "Участие в закупках/поставках для компаний Группы «Интер РАО» *",
+            "radio2": "Готовность предоставить продукцию в опытную эксплуатацию",
+            "materials1": "Материалы, раскрывающие суть предложения",
+            "loadTKP": "Загрузить ТКП",
+            "webinarTheme": "Тема вебинара",
+            "speakers": "Speakers",
+            "responsible": "Responsible for the webinar"
+        },
+        "docs": {
+            "title": "Для загрузки ТКП скачайте, заполните и прикрепите заполненный шаблон *",
+            "items": [
+                {
+                    "nid": "4887",
+                    "description": "Template TCO_0",
+                    "file": "/documents/TKP_shablon.xlsx",
+                    "type": "xlsx",
+                    "size": "60.89 КБ"
+                }
+            ]
+        },
+        "selectOfferOptions": [
+            {
+                "value": "other",
+                "label": "Иное"
+            },
+            {
+                "value": "Импортозамещение",
+                "label": "Импортозамещение"
+            },
+            {
+                "value": "Инновационная продукция/технологии",
+                "label": "Инновационная продукция/технологии"
+            },
+            {
+                "value": "Высокотехнологичная продукция",
+                "label": "Высокотехнологичная продукция"
+            }
+        ],
+        "selectIndustryOptions": [
+            {
+                "value": "other",
+                "label": "Иное"
+            },
+            {
+                "value": "Электрогенерация",
+                "label": "Электрогенерация"
+            },
+            {
+                "value": "Теплогенерация/теплоснабжение",
+                "label": "Теплогенерация/теплоснабжение"
+            },
+            {
+                "value": "Энергосбытовые компании",
+                "label": "Энергосбытовые компании"
+            }
+        ],
+        "selectActivityOptions": [
+            {
+                "value": "other",
+                "label": "Иное"
+            },
+            {
+                "value": "Ремонт",
+                "label": "Ремонт"
+            },
+            {
+                "value": "Техническое перевооружение",
+                "label": "Техническое перевооружение"
+            },
+            {
+                "value": "Новое строительство",
+                "label": "Новое строительство"
+            },
+            {
+                "value": "Эксплуатация объектов",
+                "label": "Эксплуатация объектов"
+            },
+            {
+                "value": "Автоматизация",
+                "label": "Автоматизация"
+            }
+        ]
+    },
+    "purchaseSubscribeForm": {
+        "titles": {
+            "Contacts": "Contact details",
+            "ParamsSubscribe": "Subscription parameters"
+        },
+        "spoilers": [
+            {
+                "title": "OKPD2 classifier code (for Lot)",
+                "search": {
+                    "placeholder": "Enter the name of the product, work, service or code OKPD2 "
+                },
+                "dataName": "okpd"
+            },
+            {
+                "title": "The region",
+                "search": {
+                    "placeholder": "Enter the name of the region"
+                },
+                "dataName": "regions"
+            },
+            {
+                "title": "The section",
+                "dataName": "tradeSections"
+            }
+        ]
+    },
+    "objectsSubscribeForm": {
+        "titles": {
+            "Contacts": "Contact details",
+            "ParamsSubscribe": "Subscription options"
+        },
+        "spoilers": [
+            {
+                "title": "Enter the name of the property category",
+                "search": {
+                    "placeholder": "Enter the name of the property category"
+                },
+                "dataName": "property-types"
+            },
+            {
+                "title": "The regions",
+                "search": {
+                    "placeholder": "Enter the name of the region"
+                },
+                "dataName": "regions"
+            }
+        ]
+    }
+}

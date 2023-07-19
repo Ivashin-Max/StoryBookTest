@@ -1,0 +1,494 @@
+{
+    "leadImg": {
+        "title": "Продажа имущества",
+        "textColor": "white",
+        "backgroundColor": "blue",
+        "background": {
+            "src": "/images/pages/sale-main/leadImg-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/sale-main/leadImg-1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/sale-main/leadImg-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Продажа имущества"
+                }
+            ]
+        }
+    },
+    "tags": ["Покупателям", "Продавцам"],
+    "tagsContent": {
+        "toBuyers": {
+            "infoBlockWithIcons": {
+                "sideCard": {
+                    "title": "Выигрывайте - покупая",
+                    "bg": "blue"
+                },
+                "content": [
+                    {
+                        "text": "Обширный спектр имущества",
+                        "iconName": "file"
+                    },
+                    {
+                        "text": "Безопасные сделки",
+                        "iconName": "documentChecked"
+                    },
+                    {
+                        "text": "Объекты по всей территории РФ",
+                        "iconName": "list"
+                    },
+                    {
+                        "text": "Поддержка персонального менеджера",
+                        "iconName": "checkMark2"
+                    },
+                    {
+                        "text": "Цену определяет покупатель",
+                        "iconName": "bag"
+                    }
+                ]
+            },
+            "leadText": {
+                "lineBottom": false,
+                "title": "Поиск по процедурам",
+                "rectLink": {
+                    "text": "Подписаться на новые объекты",
+                    "href": "/subscription?tag=objects"
+                }
+            },
+            "search": {
+                "searchInput": {
+                    "placeholder": "Введите ключевое слово или номер процедуры",
+                    "submitText": "Найти"
+                },
+                "link": {
+                    "text": "Расширенный поиск",
+                    "href": "/sale/procedures"
+                }
+            },
+            "backButton": "В начало",
+            "catalog": {
+                "leadText": {
+                    "lineBottom": false,
+                    "title": "Категории объектов"
+                },
+                "cards": [
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/immovables.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/transport.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/intangible.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/other.jpg"
+                    },
+                    {
+                        "image": "/images/pages/vitrina/procedures/categoryCards/MTR.jpg"
+                    }
+                ]
+            },
+            "advertisementBanners": {
+                "items": [
+                    {
+                        "title": "Будьте в&nbsp;курсе<br>последних изменений",
+                        "description": "Подпишитесь на&nbsp;рассылку<br>интересных предложений<br>по&nbsp;вашим товарным категориям",
+                        "image": "/images/pages/sale-main/advertisementBanners.jpg",
+                        "textColor": "black",
+                        "link": {
+                            "text": "Подписаться",
+                            "href": "/subscription"
+                        }
+                    },
+                    {
+                        "title": "В каталог объектов",
+                        "image": "/images/blocks/advertisementBanners/helper.jpg",
+                        "link": {
+                            "text": "Подробнее",
+                            "href": "/vitrina/procedures"
+                        },
+                        "linkBg": false
+                    }
+                ]
+            },
+            "stepsStatic": {
+                "title": "Этапы покупки имущества",
+                "items": [
+                    {
+                        "text": "Найти<br>нужное имущество"
+                    },
+                    {
+                        "text": "Пройти регистрацию"
+                    },
+                    {
+                        "text": "Подать заявку<br>на участие в торгах"
+                    },
+                    {
+                        "text": "Победить в торгах"
+                    },
+                    {
+                        "text": "Сделка<br>купли-продажи"
+                    }
+                ]
+            },
+            "customers": {
+                "title": "Здесь продают имущество",
+                "links": [
+                    {
+                        "text": "Смотреть все",
+                        "href": "/clients/organizations"
+                    }
+                ]
+            },
+            "contacts": {
+                "wrapper": {
+                    "name": "Контакты",
+                    "bg": "gray2"
+                },
+                "blocks": [
+                    {
+                        "title": "По&nbsp;вопросам<br>покупки имущества",
+                        "sections": [
+                            {
+                                "title": "Транспорт",
+                                "items": [
+                                    {
+                                        "phone": "+7 999 926-52-05"
+                                    },
+                                    {
+                                        "mail": "sale@tektorg.ru"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "МТР и&nbsp;Оборудование",
+                                "items": [
+                                    {
+                                        "phone": "+7 999 926-52-27"
+                                    },
+                                    {
+                                        "mail": "sale@tektorg.ru"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Недвижимость",
+                                "items": [
+                                    {
+                                        "phone": "+7 908 305-74-57"
+                                    },
+                                    {
+                                        "mail": "sale@tektorg.ru"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "advertising": {
+                "items": [
+                    {
+                        "background": {
+                            "src": "/images/blocks/bannerSlider/calendar-slide-375.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/blocks/bannerSlider/calendar-slide-1920.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/blocks/bannerSlider/calendar-slide-768.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "Календарь отраслевых мероприятий",
+                        "text": "Самые важные федеральные мероприятия в одном месте",
+                        "links": [
+                            {
+                                "text": "Подробнее",
+                                "href": "/calendar"
+                            }
+                        ]
+                    },
+                    {
+                        "background": {
+                            "src": "/images/blocks/bannerSlider/trade-slide-375.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/blocks/bannerSlider/trade-slide-1920.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/blocks/bannerSlider/trade-slide-768.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "Ускоренный доступ к торгам",
+                        "text": "Зачисление денежных средств по платежному поручению на ваш счет в течение 2 часов",
+                        "links": [
+                            {
+                                "text": "Посмотреть",
+                                "href": "/sale/service/134"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "toSellers": {
+            "bannerText": {
+                "title": "Продавцам",
+                "text": [
+                    "Секция &laquo;Продажа имущества&raquo; предназначена для эффективной реализации невостребованных запасов, не&nbsp;вовлеченного в&nbsp;производство оборудования и&nbsp;материалов, а&nbsp;также для реализации движимого и&nbsp;недвижимого имущества,<br><span class='noWrap'>в т. ч.</span> акций.<br>Также секция предназначена для размещения различных видов государственных торгов, в&nbsp;том числе арестованным и&nbsp;конфискованным имуществом."
+                ]
+            },
+            "infoBlockWithIcons": {
+                "sideCard": {
+                    "title": "Преимущества<br>работы с&nbsp;нами",
+                    "bg": "blue",
+                    "modalbtns": [
+                        {
+                            "title": "Заказать звонок",
+                            "id": "ApplicationForm3"
+                        }
+                    ]
+                },
+                "content": [
+                    {
+                        "text": "Консультирование по&nbsp;размещению лотов",
+                        "iconName": "conversation"
+                    },
+                    {
+                        "text": "Продвижение процедур на&nbsp;сторонних агрегаторах",
+                        "iconName": "rocket"
+                    },
+                    {
+                        "text": "Рассылка уведомлений о&nbsp;публикуемых процедурах и&nbsp;коммерческих предложений по&nbsp;базе потенциальных покупателей, выбранных из&nbsp;организаций, сотрудничающих с&nbsp;ЭТП <span class='noWrap'>ТЭК-Торг</span>, и&nbsp;внешних потенциально заинтересованных компаний",
+                        "iconName": "notification"
+                    },
+                    {
+                        "text": "Продвижение через социальные сети <span class='noWrap'>ТЭК-Торг</span>",
+                        "iconName": "person"
+                    },
+                    {
+                        "text": "Предоставление обратной связи от&nbsp;потенциальных покупателей для принятия решений по&nbsp;корректировке информации о&nbsp;лотах",
+                        "iconName": "feedback"
+                    }
+                ]
+            },
+            "infoList": {
+                "title": "Как мы&nbsp;продаем",
+                "items": [
+                    {
+                        "title": "Электронная площадка",
+                        "text": "Инструменты продвижения на&nbsp;электронной площадке (реклама, поднятие и&nbsp;выделение лотов)"
+                    },
+                    {
+                        "title": "Агрегаторы",
+                        "text": "Продвижение имущества на&nbsp;сторонних агрегаторах:",
+                        "list": [
+                            "&nbsp;транспортные средства&nbsp;&mdash; Авито, Drom.ru, Nelikvidi.com, Metaprom.ru и&nbsp;другие агрегаторы",
+                            "&nbsp;НВЛ&nbsp;&mdash; Nelikvidi.com, Metaprom.ru, tek-ads.ru и&nbsp;другие агрегаторы",
+                            "&nbsp;недвижимость&nbsp;&mdash; Авито, Яндекс Недвижимость, ЦИАН, Домофонд.ру и&nbsp;другие агрегаторы"
+                        ]
+                    },
+                    {
+                        "title": "Рассылка",
+                        "text": "Рассылка уведомлений о&nbsp;публикуемых процедурах и&nbsp;коммерческих предложений по&nbsp;базе потенциальных покупателей, выбранных из&nbsp;организаций, сотрудничающих с&nbsp;ЭТП ТЭК-Торг, и&nbsp;внешних потенциально заинтересованных компаний"
+                    },
+                    {
+                        "title": "Социальные сети",
+                        "text": "Сообщества в&nbsp;социальных сетях<br>(ТГ, VK)"
+                    }
+                ]
+            },
+            "advertising2": {
+                "items": [
+                    {
+                        "background": {
+                            "src": "/images/blocks/bannerSlider/fin-services-375.jpg",
+                            "sources": [
+                                {
+                                    "src": "/images/blocks/bannerSlider/fin-services-1920.jpg",
+                                    "breakpoint": "1280"
+                                },
+                                {
+                                    "src": "/images/blocks/bannerSlider/fin-services-768.jpg",
+                                    "breakpoint": "768"
+                                }
+                            ]
+                        },
+                        "title": "Как начать",
+                        "text": "Курс от&nbsp;экспертов в&nbsp;отрасли,<br>авторские материалы, доступ 24/7",
+                        "links": [
+                            {
+                                "text": "Подробнее",
+                                "href": "https://sale.tektorg.ru/#front/register",
+                                "isForeign": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            "indicatorsInner": {
+                "wrapper": {
+                    "name": "Статистика секции в цифрах"
+                },
+                "cards": {
+                    "cardsTop": [
+                        {
+                            "head": {
+                                "number": "3,7",
+                                "text": "заявки<br>на лот"
+                            },
+                            "items": [
+                                {
+                                    "text": "Средняя конкуренция"
+                                }
+                            ],
+                            "image": "/images/blocks/statistics/1.jpg"
+                        },
+                        {
+                            "head": {
+                                "number": "25",
+                                "text": "%"
+                            },
+                            "items": [
+                                {
+                                    "text": "Среднее увеличение стоимости<br>лота за&nbsp;счет проведения аукциона"
+                                }
+                            ],
+                            "image": "/images/blocks/statistics/2.jpg"
+                        },
+                        {
+                            "head": {
+                                "number": "17 889",
+                                "text": ""
+                            },
+                            "items": [
+                                {
+                                    "text": "Опубликованных лотов"
+                                }
+                            ],
+                            "image": "/images/blocks/statistics/3.jpg"
+                        }
+                    ],
+                    "cardsBottom": [
+                        {
+                            "head": {
+                                "number": "520 000",
+                                "text": "покупателей"
+                            },
+                            "items": [
+                                {
+                                    "text": "Зарегистрировано в&nbsp;Секции"
+                                }
+                            ]
+                        },
+                        {
+                            "head": {
+                                "number": "55,3",
+                                "text": "млрд руб"
+                            },
+                            "items": [
+                                {
+                                    "text": "Общая сумма реализованного имущества с&nbsp;2017 года"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "stepsStatic": {
+                "title": "5 шагов для продажи имущества",
+                "items": [
+                    {
+                        "text": "Регистрация<br>на&nbsp;ЭТП"
+                    },
+                    {
+                        "text": "Публикация лотов"
+                    },
+                    {
+                        "text": "Продвижение на&nbsp;внешних ресурсах и&nbsp;информационная рассылка"
+                    },
+                    {
+                        "text": "Проведение торгов"
+                    },
+                    {
+                        "text": "Заключение договора между заказчиком и&nbsp;покупателем"
+                    }
+                ]
+            },
+            "bannerText2": {
+                "title": "Зарегистрируйтесь в&nbsp;секции сейчас<br>и&nbsp;получите до&nbsp;3х бесплатных процедур",
+                "background": {
+                    "src": "/images/blocks/bannerText/4-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerText/4.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "text": [""],
+                "links": [
+                    {
+                        "text": "Зарегистрироваться",
+                        "href": "https://sale.tektorg.ru/#front/register",
+                        "isForeign": true
+                    }
+                ],
+                "modals": [
+                    {
+                        "title": "Заказать звонок",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            },
+            "contacts": {
+                "wrapper": {
+                    "name": "Контакты",
+                    "bg": "gray2"
+                },
+                "blocks": [
+                    {
+                        "title": "По&nbsp;вопросам<br>продажи имущества",
+                        "sections": [
+                            {
+                                "title": "Румянцев Сергей Анатольевич, Директор по реализации имущества",
+                                "items": [
+                                    {
+                                        "phone": "+7 (495)734-81-18 доб. 7723"
+                                    },
+                                    {
+                                        "mail": "s.rumyantsev@tektorg.ru"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

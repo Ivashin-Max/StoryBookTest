@@ -1,0 +1,110 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Продажа имущества",
+                    "href": "/sale"
+                },
+                {
+                    "text": "Услуги и сервисы для покупателей",
+                    "href": "/service"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы для покупателей"
+    },
+    "tags": [
+        "Все",
+        "Легкий старт",
+        "Сопровождение"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/134"
+                    },
+                    "title": "Ускоренный доступ к торгам",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/134"
+                    },
+                    "title": "Ускоренный доступ к торгам",
+                    "text": "",
+                    "iconName": "rocket"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/sale/service/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    }
+}

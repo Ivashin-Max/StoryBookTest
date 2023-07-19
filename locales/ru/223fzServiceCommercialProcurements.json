@@ -1,0 +1,289 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "223-ФЗ и Коммерческие закупки",
+                    "href": "/223-fz"
+                },
+                {
+                  "text": "Услуги и сервисы для поставщиков",
+                  "href": "/223fz-commercial-procurements"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Услуги и сервисы для поставщиков"
+    },
+    "tags": [
+        "Все",
+        "Легкий старт",
+        "Сопровождение",
+        "Финансовые услуги"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },{
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/fast-accreditation"
+                    },
+                    "title": "Ускоренная проверка документов на аккредитацию",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/eruz"
+                    },
+                    "title": "Регистрация в ЕРУЗ",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+               
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/134"
+                    },
+                    "title": "Ускоренный доступ к торгам",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/icwe"
+                    },
+                    "title": "Индивидуальная консультация <br>с экспертом",
+                    "text": "",
+                    "iconName": "icwe"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/factoring"
+                    },
+                    "title": "Факторинг",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-contract"
+                    },
+                    "title": "Кредит на исполнение договора",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/bg"
+                    },
+                    "title": "Банковская/независимая гарантия",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-procurement"
+                    },
+                    "title": "Кредит на участие в закупках",
+                    "text": "",
+                    "iconName": "CreditOnProcurement"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },{
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/fast-accreditation"
+                    },
+                    "title": "Ускоренная проверка документов на аккредитацию",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/eruz"
+                    },
+                    "title": "Регистрация в ЕРУЗ",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+               
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/134"
+                    },
+                    "title": "Ускоренный доступ к торгам",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/icwe"
+                    },
+                    "title": "Индивидуальная консультация <br>с экспертом",
+                    "text": "",
+                    "iconName": "icwe"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/e-signature"
+                    },
+                    "title": "Электронная подпись",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/accompany-tenders"
+                    },
+                    "title": "Сопровождение тендеров участников закупок",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/edo"
+                    },
+                    "title": "Электронный документооборот",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/icwe"
+                    },
+                    "title": "Индивидуальная консультация <br>с экспертом",
+                    "text": "",
+                    "iconName": "icwe"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/factoring"
+                    },
+                    "title": "Факторинг",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-contract"
+                    },
+                    "title": "Кредит на исполнение договора",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/bg"
+                    },
+                    "title": "Банковская/независимая гарантия",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit-on-procurement"
+                    },
+                    "title": "Кредит на участие в закупках",
+                    "text": "",
+                    "iconName": "CreditOnProcurement"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/223-fz/service-suppliers/credit"
+                    },
+                    "title": "Кредит на пополнение оборотных средств",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

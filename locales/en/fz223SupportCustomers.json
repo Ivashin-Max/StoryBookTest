@@ -1,0 +1,47 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Support center<br> for customers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Support center"
+                },
+                {
+                    "text": "For customers",
+                    "href": "/223-fz/help-customers"
+                }
+            ]
+        }
+    },
+    "tags": ["General questions", "Section articles"],
+    "education": {
+        "name": "Training events",
+        "links": [
+            {
+                "href": "/education",
+                "text": "View all"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    }
+}

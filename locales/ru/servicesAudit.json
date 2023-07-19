@@ -1,0 +1,32 @@
+{
+  "leadText": {
+    "title": "Аудит закупочной деятельности организации",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Услуги и сервисы",
+          "href": "#"
+        },
+        {
+          "text": "Аудит закупочной деятельности организации",
+          "href": "#"
+        }
+      ]
+    }
+  },
+  "bannerText": {
+    "title": "Подготовьтесь к любой проверке с нашей помощью",
+    "text":[""],
+    "links": [
+      {
+        "text": "Подробнее",
+        "href": "https://www.tektorg.ru/223-fz/digital_helper/outsourcing",
+        "isForeign": true
+      }
+    ]
+  }
+}

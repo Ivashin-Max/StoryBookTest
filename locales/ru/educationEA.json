@@ -1,0 +1,60 @@
+{
+    "leadText": {
+        "title": "Статьи экспертов для заказчиков",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Обучение"
+                },
+                {
+                    "text": "Статьи экспертов"
+                },
+                {
+                    "text": "Статьи экспертов для заказчиков"
+                }
+            ]
+        }
+    },
+    "content": {
+        "items": [
+            {
+                "title": "Изменения в государственно-корпоративных закупках (Закон No223-ФЗ)",
+                "date": "6 фев 2023",
+                "link": {
+                    "text": "Подробнее",
+                    "href": "/education/expert-articles/article-5"
+                },
+                "bgColor": "gray2",
+                "textColor": "black"
+            },
+            {
+                "title": "Осуществление закупок по&nbsp;223-ФЗ в&nbsp;новых реалиях",
+                "date": "16&nbsp;авг 2022",
+                "link": {
+                    "text": "Подробнее",
+                    "href": "/education/expert-articles/article-4"
+                },
+                "bgColor": "gray2",
+                "textColor": "black"
+            },
+            {
+                "title": "Особенности участия в&nbsp;тендерах: три новых тренда в&nbsp;2022&nbsp;г",
+                "date": "10&nbsp;авг 2022",
+                "image": "/images/blocks/actualSlider/2.jpg",
+                "link": {
+                    "text": "Подробнее",
+                    "href": "/education/expert-articles/article-2"
+                },
+                "bgColor": "gray2",
+                "textColor": "black",
+                "dateColor": "white",
+                "clamp": 4,
+                "titleBg": true
+            }
+        ]
+    }
+}

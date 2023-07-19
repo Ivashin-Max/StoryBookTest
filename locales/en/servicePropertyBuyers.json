@@ -1,0 +1,118 @@
+{
+    "leadImg": {
+        "title": "Services<br> for property buyers",
+        "background": {
+            "src": "/images/blocks/leadImg/services375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/leadImg/services.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/leadImg/services768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "Services"
+            },
+            {
+                "text": "For property buyers",
+                "href": "/property-buyers"
+            }
+        ]
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-property-buyers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-property-buyers/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-property-buyers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/services/service-property-buyers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-property-buyers/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/en/services/service-property-buyers/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-property-buyers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    }
+}

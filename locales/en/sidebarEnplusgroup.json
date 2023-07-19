@@ -1,0 +1,17 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "enplusgroup",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция ПАО «En+ Group»",
+            "href": "/clients/organizations"
+        },
+        "banner": {
+            "title": "Календарь отраслевых мероприятий",
+            "image": "/images/headerWidgets/clients1.jpg",
+            "link": {
+                "href": "https://event.tektorg.ru/calendar"
+            },
+            "textColor": "black"
+        }
+    }
+}

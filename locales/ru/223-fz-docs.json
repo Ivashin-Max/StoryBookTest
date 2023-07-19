@@ -1,0 +1,135 @@
+{
+  "leadText": {
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "Торговые секции"
+        },
+        {
+          "text": "223-ФЗ и Коммерческие закупки",
+          "href": "/223-fz"
+        },
+        {
+          "text": "Документы",
+          "href": "#"
+        }
+      ]
+    },
+    "title": "Документы"
+  },
+
+  "sidebar": {
+    "header": {
+      "logo": "feedback",
+      "logoText": "Интер РАО",
+      "description": "Электронная торговая площадка ТЭК-Торг",
+      "href": "#"
+    },
+    "menu": [
+      {
+        "text": "Каталог",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Процедуры реализации",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Тарифы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Документы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Продавцам",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Центр поддержки",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      },
+      {
+        "text": "Услуги и сервисы",
+        "href": "#",
+        "id": "",
+        "subLinks": []
+      }
+    ],
+    "banner": {
+      "title": "Цифровой помощник",
+      "image": "/images/blocks/sidebar/bg1.jpg",
+      "link": {
+        "text": "",
+        "href": "#"
+      }
+    }
+  },
+  "bannerSlider": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Индивидуальная консультация",
+        "text": "С экспертами закупочной отрасли",
+        "links": [
+          {
+            "text": "Записаться",
+            "href": "/services/service-suppliers/icwe"
+          }
+        ]
+      },
+      {
+        "background": {
+          "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Цифровой помощник",
+        "text": "Полезные сервисы и услуги для заказчика 223-ФЗ",
+        "links": [
+          {
+            "text": "Посмотреть",
+            "href": "/services/customers-223-fz/digital_helper"
+          }
+        ]
+      }
+    ]
+  }
+}

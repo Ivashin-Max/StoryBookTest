@@ -1,0 +1,38 @@
+{
+  "lead": {
+      "title": "CIW contractor questionnaire",
+      "breadcrumbs": {
+          "crumbs": [
+              {
+                "text": "Main",
+                "href": "/"
+              },
+              {
+                  "text": "ETP Sections"
+              },
+              {
+                  "text": "Procurement procedures of Rosneft",
+                  "href": "/rosneft"
+              },
+              {
+                  "text": "CIW contractor questionnaire"
+              }
+          ]
+      }
+  },
+  "bannerText": {
+      "title": "Rosneft invites you to participate in market survey",
+      "text": [
+          "Within the framework of expanding the market and updating the base of contracting organizations, in terms of clarifying the specialization by type of construction work, the possibility of providing services by regions of the Russian Federation and the Rosneft group of companies, including those related to shift work, we suggest you take a survey in the form of six questions. Based on the results of the survey, it is planned to increase the accuracy of the targeted mailing of invitations to participate in the Rosneft CIW procurement published on the ETP TEK-Torg."
+      ]
+  },
+  "picture": {
+      "src": "/images/pages/rosneft-apsmr/picture.jpg",
+      "sources": [
+          {
+              "src": "/images/pages/rosneft-apsmr/picture.jpg",
+              "breakpoint": "768"
+          }
+      ]
+  }
+}

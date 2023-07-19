@@ -1,0 +1,256 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Обучение"
+                },
+                {
+                    "text": "Мероприятия и курсы"
+                }
+            ]
+        },
+        "backButton": {
+            "text": "Назад",
+            "href": "/education"
+        },
+        "rectLink": {
+            "text": "Регистрация на курс",
+            "scrollToSelector": "#applicationForm3"
+        }
+    },
+    "courseForm": {
+        "title": "Регистрация на курс",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "bannerSlider2": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Остались вопросы?<br>Задайте их&nbsp;нам!",
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    },
+    "textWithImage": {
+        "picture": {
+            "src": "/images/blocks/textWithImage/certificate.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/textWithImage/certificate.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "textCard": {
+            "title": "",
+            "text": [
+                ""
+            ],
+            "document": {
+                "nid": "",
+                "title": "Именной сертификат",
+                "file": "",
+                "type": "",
+                "size": ""
+            }
+        }
+    },
+    "benefitsCards": {
+        "title": "Преимущества",
+        "content": {
+            "sideCard": {
+                "title": "",
+                "picture": {
+                    "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "",
+                    "iconName": "signature",
+                    "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+                },
+                {
+                    "title": "",
+                    "iconName": "blank",
+                    "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+                },
+                {
+                    "title": "",
+                    "iconName": "case"
+                },
+                {
+                    "title": "",
+                    "image": "/images/blocks/benefitsCards/5.2.13.2_1920.jpg"
+                }
+            ]
+        }
+    },
+    "discountBanner": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Скидка 50%",
+                "text": "При оплате курса до&nbsp;25 сентября",
+                "links": [
+                    {
+                        "text": "Получить скидку",
+                        "href": "#"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Скидка 50%",
+                "text": "При оплате курса до&nbsp;25 сентября",
+                "links": [
+                    {
+                        "text": "Получить скидку",
+                        "href": "#"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Скидка 50%",
+                "text": "При оплате курса до&nbsp;25 сентября",
+                "links": [
+                    {
+                        "text": "Получить скидку",
+                        "href": "#"
+                    }
+                ]
+            }
+        ]
+    },
+    "contacts": {
+        "wrapper": {
+            "name": "Контакты",
+            "bg": "gray2"
+        },
+        "blocks": [
+            {
+                "title": "Учебный центр",
+                "sections": [
+                    {
+                        "title": "Телефон",
+                        "items": [
+                            {
+                                "phone": "+7 495 734-81-18"
+                            }
+                        ],
+                        "extensionNumber": {
+                            "title": "доб.",
+                            "items": [
+                                {
+                                    "phone": "4512"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Электронная почта",
+                        "items": [
+                            {
+                                "mail": "edu@tektorg.ru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "programCourseTitle": "Программа курса",
+    "targetsCourseTitle": "Цели курса",
+    "lectorsTitle": "Преподаватели курса",
+    "reviewsTitle": "Клиенты о нас",
+    "moreInfo": "Подробнее",
+    "registerModal": {
+        "text": "Зарегистрироваться",
+        "id": "ApplicationForm3"
+    }
+}

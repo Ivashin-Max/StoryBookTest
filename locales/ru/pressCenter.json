@@ -1,0 +1,114 @@
+{
+    "leadText": {
+        "title": "Пресс-центр",
+        "breadcrumbs": [
+            {
+                "text": "Главная",
+                "href": "/"
+            },
+            {
+                "text": "О компании"
+            },
+            {
+                "text": "Новости"
+            },
+            {
+                "text": "Пресс-центр"
+            }
+        ]
+    },
+    "subscribeForm": {
+        "title": "Подписаться на новости",
+        "text": "Мы нацелены на развитие партнерских отношений. Если вы хотите стать партнером АО «ТЭК-Торг» или разместить информацию на сайте, присылайте Вашу заявку",
+        "confirmMessage": "Нажимая на кнопку вы соглашаетесь с <a href='/documents/tektorg_private_data_policy.pdf' target='_blank' rel='noreferrer'>политикой конфиденциальности<a>",
+        "picture": {
+            "src": "/images/forms/subscribe/375.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/subscribe/1920.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/subscribe/375.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "social": {
+        "title": "Следите за&nbsp;нашими новостями в&nbsp;социальных сетях",
+        "socials": [
+            {
+                "href": "https://vk.com/etptektorg",
+                "name": "vk",
+                "text": "Вконтакте. ЭТП ТЭК-Торг",
+                "targetBlank": true
+            },
+            {
+                "href": "https://vk.com/tektorg_sale",
+                "name": "vk",
+                "text": "Вконтакте.  «Продажа имущества»",
+                "targetBlank": true
+            },
+            {
+                "href": "https://vk.com/zakupo4naya",
+                "name": "vk",
+                "text": "Вконтакте. «Закупочная»",
+                "targetBlank": true
+            },
+            {
+                "href": "https://t.me/etp_tektorg",
+                "name": "telegram",
+                "text": "Телеграм. ЭТП ТЭК-Торг",
+                "targetBlank": true
+            },
+            {
+                "href": "https://www.youtube.com/channel/UCeLnNU7xlGjp_0nVaDBUWOg",
+                "name": "youtube",
+                "text": "YouTube. ЭТП ТЭК-Торг",
+                "targetBlank": true
+            }
+        ]
+    },
+    "search": {
+        "searchInput": {
+            "placeholder": "Введите ключевое слово или новость",
+            "submitText": "Найти"
+        },
+        "errorMessage": "По вашему запросу ничего не найдено"
+    },
+    "sort": {
+        "sortList": [
+            {
+                "name": "По актуальности",
+                "property": "actual"
+            },
+            {
+                "name": "По возрастанию цены",
+                "property": "procedure_price_asc"
+            },
+            {
+                "name": "По убыванию цены",
+                "property": "procedure_price_desc"
+            },
+            {
+                "name": "Сначала новые",
+                "property": "datePublished_desc"
+            },
+            {
+                "name": "Сначала старые",
+                "property": "datePublished_asc"
+            }
+        ],
+        "viewList": [
+            {
+                "title": "Карточный вид",
+                "icon": "viewCard"
+            },
+            {
+                "title": "Табличный вид",
+                "icon": "viewTable"
+            }
+        ]
+    }
+}

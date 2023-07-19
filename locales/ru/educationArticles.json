@@ -1,0 +1,44 @@
+{
+    "breadcrumbsCustomers": [
+        {
+            "text": "Главная",
+            "href": "/"
+        },
+        {
+            "text": "Обучение"
+        },
+        {
+            "text": "Статьи экспертов"
+        },
+        {
+            "text": "Статьи экспертов для поставщиков",
+            "href": "/education/expert-articles"
+        }
+    ],
+    "breadcrumbsSupliers": [
+        {
+            "text": "Главная",
+            "href": "/"
+        },
+        {
+            "text": "Обучение"
+        },
+        {
+            "text": "Статьи экспертов"
+        },
+        {
+            "text": "Статьи экспертов для поставщиков",
+            "href": "/education/expert-articles-supliers"
+        }
+    ],
+    "othersArticles": {
+        "title": "Другие статьи",
+        "links": [
+            {
+                "text": "Смотреть все",
+                "href": "https://vc.ru/u/716262-tek-torg",
+                "isForeign": true
+            }
+        ]
+    }
+}

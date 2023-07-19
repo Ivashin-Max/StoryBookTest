@@ -1,0 +1,179 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Services"
+                },
+                {
+                    "text": "For suppliers",
+                    "href": "/services/service-suppliers"
+                },
+                {
+                    "text": "Assistance in Registering in URPP",
+                    "href": "/services/service-suppliers/eruz"
+                }
+            ]
+        },
+        "title": "Registration in URPP/UIS in 1 day",
+        "description": "Express accreditation for participation in procurement under 44-FZ, 223-FZ and 615-PP RF",
+        "rectLink": {
+            "text": "Submit a Request",
+            "id": "ApplicationForm3"
+        }
+    },
+    "applicationForm3": {
+        "title": "Registering in URPP",
+        "title2": "To order the service",
+        "picture": {
+            "src": "/images/forms/maskBg1-320.jpg",
+            "sources": [
+                {
+                    "src": "/images/forms/maskBg1.jpg",
+                    "breakpoint": "1200"
+                },
+                {
+                    "src": "/images/forms/maskBg1-768.jpg",
+                    "breakpoint": "768"
+                },
+                {
+                    "src": "/images/forms/maskBg1-320.jpg",
+                    "breakpoint": "300"
+                }
+            ]
+        }
+    },
+    "example2": {
+        "bigDescription": true,
+        "cards": {
+            "sideCard": {
+                "title": "There is only one registration for trading on 8 federal trading platforms",
+                "text": "According to the requirements of the 504-FZ, registration in URPP is a prerequisite for participation in electronic procedures",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "text": "To register in URPP, the following documents are required:<br/><br/>— For legal entities — the Charter and the decision to approve the transaction.<br/>— For sole proprietors and individuals — all passport pages.<br/>— For foreign persons — founding documents and their translation into Russian.<br/><br/>A qualified digital signature is also required. <a href='/en/services/service-suppliers/e-signature'>We will help you to issue the DS in the correct VC.</a>"
+                },
+                {
+                    "text": "To get URPP accreditation, subnit a request in the information system.<br/><br/>Please note: it is better to submit an application a few weeks before the planned tender, since the entire registration process takes up to 16 days."
+                }
+            ]
+        }
+    },
+    "benefits": {
+        "title": "Professional support in the UIS registration",
+        "content": {
+            "sideCard": {
+                "title": "We consult and give recommendations during the URPP registration",
+                "picture": {
+                    "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "We consult and give recommendations during the preparation of documentation",
+                    "iconName": "signature",
+                    "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+                },
+                {
+                    "title": "We check for compliance with the legislation of the Russian Federation of documents and information provided by the Supplier for UIS registration",
+                    "iconName": "feedback",
+                    "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+                },
+                {
+                    "title": "We are setting up the Supplier's workplace, which is used for registration in the UIS and filling in the registration information",
+                    "iconName": "list"
+                }
+            ]
+        }
+    },
+    "five": {
+        "title": "Step-by-step plan for URPP registration",
+        "modals": [
+            {
+                "text": "Submit a Request",
+                "id": "ApplicationForm3"
+            }
+        ],
+        "items": [
+            {
+                "text": "Submit a request for UIS registration — we will process it within 20 minutes"
+            },
+            {
+                "text": "Get consultation of an expert"
+            },
+            {
+                "text": "Pay for the service — the cost of URPP registration is 4990 rub"
+            },
+            {
+                "text": "Get the result"
+            }
+        ]
+    },
+    "list": {
+        "title": "You will need",
+        "items": [
+            "<a href='/en/services/service-suppliers/e-signature'>Qualified DS</a> in the name of the head of the company — according to the data of the extract of the Unified State Register of Legal Entities",
+            "<a href='/en/services/service-suppliers/e-signature'>Qualified DSs of employees</a> responsible for procurement: in order to submit an application and participate in the procedures",
+            "Power of attorney for employees involved in procurement",
+            "Founding documents for legal entities or sole proprietors",
+            "A short wait — the time to the required purchase is from 3 to 16 days",
+            "Contacts of technical support of Public Services (Gosuslugi), UIS and federal ETPs. It may be necessary to clarify the information during registration",
+            "Patience and attentiveness"
+        ]
+    },
+    "bannerSliderLast": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any questions? We will help",
+                "text": "Call: <a href='tel:+74957348118'>+7 495 734-81-18</a>",
+                "modal": [
+                    {
+                        "title": "Request a call",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    }
+}

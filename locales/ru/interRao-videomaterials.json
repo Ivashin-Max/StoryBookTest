@@ -1,0 +1,31 @@
+{
+  "leadText": {
+      "title": "Видеоматериалы",
+      "breadcrumbs": {
+          "crumbs": [
+              {
+                  "text": "Главная",
+                  "href": "/"
+              },
+              {
+                  "text": "Видеоматериалы",
+                  "href": "/uvs-videomaterials"
+              }
+          ]
+      }
+  },
+  "playlists": [
+      {
+          "id": "PLtxJDbDu8abRi45UcHbO1y3Wyz4TR1lnn",
+          "image": ""
+      },
+      {
+        "id": "PLtxJDbDu8abTpa3llqeTtqSdS86O5Cq0Q",
+        "image": ""
+      },
+      {
+        "id": "PLtxJDbDu8abQ2yRqoddR0g5imhwZ7IvlW",
+        "image": ""
+      }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+    "lead": {
+        "title": "For foreign suppliers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "For foreign suppliers",
+                    "href": "/rosneft/suppliers-foreign"
+                }
+            ]
+        }
+    },
+    "bannerText": {
+        "title": "Rosneft OC PJSC is the largest consumer of goods, works, and services.",
+        "text": [
+            "The Company implements a model of partnership with suppliers and contractors that complies with international standards in terms of organization level and efficiency of supply.",
+            "The Company develops cooperation with suppliers and contractors through long-term contracts that ensure the stability of the development of the oil and gas industry, mechanical engineering, the service market, ensures provision of jobs for workers in all industries, and creates conditions for the development of new technologies."
+        ]
+    },
+    "documents1": [
+        {
+            "nid": "5470",
+            "title": "Procurement regulations",
+            "section": "Роснефть",
+            "group": "Detailed information on principles of procurement activity organization in Rosneft",
+            "file": "/documents/rosneft/suppliers/foreign/Положение%20о%20закупке.pdf",
+            "type": "PDF",
+            "size": "2.8 MB"
+        },
+        {
+            "nid": "5472",
+            "title": "Public Statement",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/rosneft/suppliers/foreign/Public_Statement_RU.PDF",
+            "type": "PDF",
+            "size": "3.84 MB"
+        },
+        {
+            "nid": "5473",
+            "title": "Corporate Declaration",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/rosneft/suppliers/foreign/Declaration_RU.PDF",
+            "type": "PDF",
+            "size": "2.89 KB"
+        },
+        {
+            "nid": "5474",
+            "title": "Code of Suppliers",
+            "section": "Роснефть",
+            "group": "Rosneft Human rights Observance",
+            "file": "/documents/rosneft/suppliers/foreign/Code_of_Suppliers_RU.PDF",
+            "type": "PDF",
+            "size": "320 КБ"
+        }
+    ],
+    "items": [
+        {
+            "background": {
+                "src": "/images/pages/rosneft-ip/banner.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/rosneft-ip/banner.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            },
+            "title": "Rosneft Requirements in terms of due diligence",
+            "links": [
+                {
+                    "text": "Requirements for Suppliers",
+                    "href": "http://zakupki.rosneft.ru/requirement",
+                    "isForeign": true
+                }
+            ]
+        }
+    ],
+    "five": {
+        "title": "Obtaining a digital signature by Non-residents of the Russian Federation / 4 steps to obtain a digital signature by Non-residents of the Russian Federation",
+        "links": [
+            {
+                "text": "Instructions for obtaining the DS",
+                "href": "/rosneft/e-signature-nr",
+                "isForeign": false
+            }
+        ],
+        "items": [
+            {
+                "text": "Registration",
+                "href": "/rosneft/service/e-signature-nr",
+                "isForeign": true
+            },
+            {
+                "text": "Creation of a request and payment",
+                "isForeign": true
+            },
+            {
+                "text": "Generation of the certificate",
+                "isForeign": true
+            },
+            {
+                "text": "Sending the necessary documentation",
+                "isForeign": true
+            }
+        ]
+    },
+    "videos": {
+        "wrapper": {
+            "title": "Training video materials",
+            "links": [
+                {
+                    "href": "/rosneft/educational-videos",
+                    "text": "View all",
+                    "isForeign": false
+                }
+            ]
+        },
+        "content": {
+            "items": []
+        }
+    },
+    "tagsTitleSuppliers": "For Suppliers",
+    "tagsTitleCustomers": "For Customers"
+}

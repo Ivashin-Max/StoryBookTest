@@ -1,0 +1,17 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "allProcedures2",
+            "description": "The electronic trading platform TEK-Torg",
+            "href": "#"
+        },
+        "banner": {
+            "title": "Цифровой помощник",
+            "image": "/images/blocks/sidebar/bg1.jpg",
+            "link": {
+                "text": "",
+                "href": "#"
+            }
+        }
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "lead": {
+        "title": "Express Verification of Accreditation Documents",
+        "description": "Verification within 2 hours",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "223-FZ and Commercial Procurement",
+                    "href": "/223-fz"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/223-fz/service-suppliers"
+                },
+                {
+                    "text": "Express Verification of Accreditation Documents",
+                    "href": "/rosneft/service/e-signature-nr"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Submit a Request",
+            "id": "ApplicationForm3"
+        }
+    },
+    "example5": {
+        "cards": {
+            "sideCard": {
+                "title": "PLEASE NOTE",
+                "text": "that in accordance with Law No. 223-FZ (for procurement procedures in which only SMEs can participate), an application for accreditation is reviewed by the operator within 5 working days.",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+                {
+                    "title": "Procurement Procedures of Inter RAO",
+                    "href": "/inter_rao/procedures"
+                },
+                {
+                    "title": "Commercial Procurement and 223-FZ",
+                    "href": "/223-fz/procedures"
+                }
+            ]
+        }
+    },
+    "example2": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/fastAcr375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/fastAcr.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/fastAcr768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "",
+                "text": "Use the “Express Verification of Documents for Accreditation” service.<br>For Participants of the Sections:<br>— Procurement Procedures of Inter RAO;<br>— Commercial Procurement and 223-FZ.<br>The service is provided on the terms of the public offer.",
+                "modal": [
+                    {
+                        "title": "Submit a Request",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    },
+    "infBlock": {
+        "cards": {
+            "cardLink": {
+                "title": "We will promptly review your documents and help you to participate in the tender on the same day"
+            },
+            "cardBottom": [
+                {
+                    "title": "Go through the simplified procedure to get the service",
+                    "iconName": "judgesGavel"
+                },
+                {
+                    "title": "Get a customized solution to your request",
+                    "iconName": "person"
+                },
+                {
+                    "title": "Get accredited within just 2 hours",
+                    "iconName": "rocket"
+                }
+            ]
+        }
+    },
+    "three": {
+        "title": "How to get accredited within 2 hours?",
+        "items": [
+            {
+                "text": "Leave a Request online or by phone <a class='noWrap' href='tel:+74957348118'>+7 495 734-81-18</a>"
+            },
+            {
+                "text": "Pay for the Service"
+            },
+            {
+                "text": "Get accredited within 2 hours"
+            }
+        ]
+    },
+    "example3": {
+        "wrapper": {
+            "name": "Price"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "9000",
+                        "text": "rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "Accelerated review of documents for accreditation in Sections “Procurement Procedures of Inter RAO” and “Commercial Procurement and 223-FZ”"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "advBanner": {
+        "items": [
+            {
+                "title": "One-time transfer of funds to the participant's personal account on a payment order marked by the bank as executed.",
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "text": "",
+                "links": [
+                    {
+                        "text": "Перейти",
+                        "href": "/inter_rao/service/134"
+                    }
+                ]
+            },
+            {
+                "title": "Special “Quick Start” tariff! If you do not have time to take part in interesting procedure at the Rosneft section?",
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "text": "",
+                "links": [
+                    {
+                        "text": "View",
+                        "href": "/rosneft/service/tariff"
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any questions?<br>We will help!",
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

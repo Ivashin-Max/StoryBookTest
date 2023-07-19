@@ -1,0 +1,28 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Мероприятия и курсы<br> для заказчиков",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Обучение"
+                },
+                {
+                    "text": "Мероприятия и курсы"
+                },
+                {
+                    "text": "Заказчикам",
+                    "href": "/education/courses-customer"
+                }
+            ]
+        }
+    },
+    "tags": ["Мероприятия", "Курсы"],
+    "calendar": {
+        "text": "Ближайшие мероприятия"
+    }
+}

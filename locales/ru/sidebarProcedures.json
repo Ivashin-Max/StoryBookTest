@@ -1,0 +1,16 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "allProcedures",
+            "description": "Электронная торговая площадка ТЭК-Торг",
+            "href": "/procedures"
+        },
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}

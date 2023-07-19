@@ -1,0 +1,184 @@
+{
+    "leadText": {
+        "title": "Working capital replenishment loan",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Market",
+                    "href": "/market"
+                },
+                {
+                    "text": "Services for suppliers",
+                    "href": "/market/service"
+                },
+                {
+                    "text": "Working capital replenishment loan"
+                }
+            ]
+        },
+        "description": "A working capital replenishment loan is a loan that organizations can receive to support the financial processes of a company. Credit facility allows you to expand the material and technical base, increase production volumes, increase sales, and hence the company's profit without raising the founders' own funds or using the organization's funds."
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner/credit375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner/credit.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner/credit768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Credit facilities for any purpose of the organization",
+                "text": [
+                    "The decision is made starting from 8 working hours.<br/>The rate is from 9% per annum.<br/>The package of documents for suppliers is minimal!"
+                ],
+                "modal": [
+                    {
+                        "title": "Get financing",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            }
+        ]
+    },
+    "infBlock": {
+        "title": "Conditions:",
+        "content": {
+            "sideCard": {
+                "title": "Amount up to 2,000,000,000 rubles",
+                "picture": {
+                    "src": "/images/blocks/benefitsCards/5.2.13.1_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/benefitsCards/5.2.13.1_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "cards": [
+             {
+                "title": "The rate from 9% per annum",
+                "iconName": "signature",
+                "image": "/images/blocks/benefitsCards/5.2.13.3_1920.jpg"
+            },
+            {
+                "title": "Up to 36 months",
+                "iconName": "feedback",
+                "image": "/images/blocks/benefitsCards/5.2.13.4_1920.jpg"
+            },
+            {
+                "title": "Remotely, without collateral",
+                "iconName": "list"
+            },
+            {
+                "title": "Fully electronic document management",
+                "image": "/images/blocks/benefitsCards/5.2.13.2_1920.jpg"
+            }
+        ]
+    }
+    },
+    "benefits": {
+            "sideCard": {
+                "title": "Key advantages of TEK-Torg in obtaining a product",
+                "picture": {
+                    "src": "/images/infoCards/2_11_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/infoCards/2_11_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/infoCards/2_11_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                }
+            },
+            "content": [
+                {
+                    "text": "The ability to participate in several contests at once",
+                    "iconName": "case2"
+                },
+                {
+                    "text": "The ability not to extract funds from the company's turnover",
+                    "iconName": "feedback"
+                },
+                {
+                    "text": "No deposit or visiting the company",
+                    "iconName": "checkMark"
+                },
+                {
+                    "text": "The possibility of setting an individual repayment schedule for the credit",
+                    "iconName": "list"
+                }
+            ]
+    },
+    "three": {
+        "title": "How it works",
+        "modals" : [
+            {
+                "text":"Submit a Request",
+                "id":"ServicesFormWithTitle"
+            }
+        ],
+        "items": [
+            {
+                "text": "Fill out the application. Specify the INN and the link to the auction"
+            },
+            {
+                "text": "Get a preliminary decision"
+            },
+            {
+                "text": "Sign the loan agreements with the DS"
+            },
+            {
+                "text": "Get a loan"
+            }
+        ]
+    },
+    "example3": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any questions?<br/>We will help",
+                "text": "",
+                "modal": [
+                    {
+                        "title": "Ask a question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "leadText": {
+        "title": "",
+        "rectLink": {
+            "text": "Our YouTube-channel",
+            "href": "https://www.youtube.com/@etptektorg",
+            "isForeign": true
+        },
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "Training"
+                },
+                {
+                    "text": "Video Materials"
+                }
+            ]
+        }
+    },
+    "videoMaterialsCustomers": "For Customers",
+    "videoMaterialsSuppliers": "For Suppliers"
+}

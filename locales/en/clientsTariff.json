@@ -1,0 +1,109 @@
+{
+    "leadImg": {
+        "title": "Tariffs",
+        "background": {
+            "src": "/images/pages/tariff/leadImg/tariffs-lead-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/tariff/leadImg/tariffs-lead.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/tariff/leadImg/tariffs-lead-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "For clients"
+            },
+            {
+                "text": "Tariffs",
+                "href": "/clients/tariff"
+            }
+        ]
+    },
+    "spoilers": [
+        {
+            "title": "Procurement Procedures of Rosneft",
+            "iconName": "rosneft"
+        },
+        {
+            "title": "Government procurement",
+            "iconName": "44fz"
+        },
+        {
+            "title": "Procurement procedures of Inter RAO",
+            "iconName": "interRao"
+        },
+        {
+            "title": "223-FZ and Commercial Procurement",
+            "iconName": "fz223icon"
+        },
+        {
+            "title": "Market",
+            "iconName": "market"
+        },
+        {
+            "title": "Sale of property",
+            "iconName": "sale"
+        }
+    ],
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/oldman-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/oldman-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Individual consultation",
+                "text": "With procurement industry experts",
+                "links": [
+                    {
+                        "text": "Enroll",
+                        "href": "/services/service-suppliers/icwe"
+                    }
+                ]
+            },
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/helper-slide-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/helper-slide-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Digital assistant",
+                "text": "Useful services and services for the customer 223-FZ",
+                "links": [
+                    {
+                        "text": "More",
+                        "href": "/services/customers-223-fz/digital_helper"
+                    }
+                ]
+            }
+        ]
+    }
+}

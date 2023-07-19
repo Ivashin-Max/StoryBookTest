@@ -1,0 +1,53 @@
+{
+    "leadText": {
+        "lineBottom": true,
+        "title": "Центр поддержки<br> для заказчиков",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Интернет-магазин",
+                    "href": "/market"
+                },
+                {
+                    "text": "Центр поддержки"
+                },
+                {
+                    "text": "Заказчикам"
+                }
+            ]
+        }
+    },
+    "tags": [
+        "Общие вопросы",
+        "Статьи по секции"
+    ],
+    "education": {
+        "name": "Обучающие мероприятия",
+        "links": [
+            {
+                "href": "/education/courses-customer",
+                "text": "Заказчикам"
+            },
+            {
+                "href": "/education/courses-supplier",
+                "text": "Поставщикам"
+            }
+        ],
+        "educationsEvents": {
+            "images": [
+                "/images/index/educationsEvents/1.jpg",
+                "/images/index/educationsEvents/2.jpg",
+                "/images/index/educationsEvents/3.jpg",
+                "/images/index/educationsEvents/4.jpg",
+                "/images/index/educationsEvents/5.jpg"
+            ]
+        }
+    }
+}

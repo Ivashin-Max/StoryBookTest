@@ -1,0 +1,53 @@
+{
+    "lead": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft/"
+                },
+                {
+                    "text": "Import substitution",
+                    "href": "/rosneft/importozameshchenie"
+                },
+                {
+                    "text": "Pilot tests at the Rosneft site",
+                    "href": "/rosneft/importozameshchenie/op_ispytaniya"
+                }
+            ]
+        },
+        "title": "Pilot tests at the Rosneft site",
+        "description": "One of the measures for import substitution and localization is pilot testing of products of Russian manufacturers at the Company's sites to confirm the products&rsquo; technical readiness."
+    },
+    "list": {
+        "title": "Pilot testing is performed to allow new equipment/technologies to be used in production activities and is carried out in the following cases:",
+        "items": [
+            "New equipment/technology is offered on the market but has no experience of using in the Rosneft Group companies – to confirm the declared technical and other characteristics.",
+            "New equipment/technology is offered on the market and has experience of using in the Company, but in significantly different geological, technical and/or technological conditions - to confirm the applicability of new equipment/technologies in specific geological, technical and/or technological conditions of the Rosneft Group companies.",
+            "New equipment/technology is in the stage of development completion, there is confirmation of its operability within the framework of bench/factory/laboratory tests, there is no experience of using new equipment/technologies in industrial (field) conditions – for testing new technologies (new equipment), adapting to the conditions of the Rosneft Group Companies, obtaining by the Group of competitive advantages from the market-leading introduction new equipment/technologies."
+        ]
+    },
+    "pictureBlock": {
+        "picture": {
+            "src": "/images/pages/rosneft/importozameshchenie/op_ispytaniya/picture.png",
+            "sources": [
+                {
+                    "src": "/images/pages/rosneft/importozameshchenie/op_ispytaniya/picture.png",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "contactsForm": {
+        "title": "Send a request",
+        "text": "If&nbsp;you are interested in&nbsp;pilot testing of&nbsp;new equipment/technologies at&nbsp;the Company&rsquo;s sites, prepare an&nbsp;official appeal to&nbsp;Rosneft signed by&nbsp;the head.",
+        "inputFileTitle": "Attach official appeal"
+    }
+}

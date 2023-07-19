@@ -1,0 +1,211 @@
+{
+  "leadText": {
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "ETP Sections"
+            },
+            {
+                "text": "Government procurement",
+                "href": "/44-fz"
+            },
+            {
+                "text": "Services for suppliers",
+                "href": "/44-fz/service"
+            },
+            {
+                "text": "Electronic Document Management"
+            }
+        ]
+    },
+    "title": "Electronic Document Management",
+    "description": "",
+    "rectLink": {
+        "text": "Closing Documents",
+        "href": "/clients/accounting-docs"
+    }
+},
+"bannerSlider": {
+    "items": [
+        {
+            "background": {
+                "src": "/images/pages/services-edo/bannerSlider/slide.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/services-edo/bannerSlider/slide.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            },
+            "title": "Documents from JSC &quot;TEK&nbsp;-&nbsp;Torg&quot;<br>are fast and free.",
+            "text": "Use ETP Electronic document management and optimize the process of participation in tenders.",
+            "modal": [
+                {
+                    "title": "Connect EDO",
+                    "id": "ApplicationForm3"
+                }
+            ]
+        }
+    ]
+},
+"serviceBenefits": {
+    "title": "Why you need Electronic<br>Document Management",
+    "cards": {
+        "cardLink": {
+            "title": "Receive documents from JSC \"TEK-Torg\" quickly and for free using Contour.Diadok",
+            "fullModalCard": true,
+            "modal": [
+                {
+                    "title": "Join EDM",
+                    "id": "ApplicationForm3"
+                }
+            ]
+        },
+        "cardBottom": [
+            {
+                "title": "Electronic documents are signed with a qualified digital signature immediately in Contour.Diadok",
+                "iconName": "case2"
+            },
+            {
+                "title": "The documents are originals, they do not need to be printed. The Federal Tax Service and the courts accept them as originals",
+                "iconName": "feedback"
+            },
+            {
+                "title": "Documents are instantly delivered to counterparties to any region",
+                "iconName": "checkMark"
+            },
+            {
+                "title": "Paper, printing, shipping and storage costs are reduced. Savings up to 80 %",
+                "iconName": "list"
+            },
+            {
+                "title": "Simple and flexible configuration of access to documents with differentiation of visibility, approval and signing functions",
+                "iconName": "signature"
+            },
+            {
+                "title": "Your counterparties shall be using Diadoc",
+                "iconName": "documentChecked"
+            }
+        ]
+    }
+},
+"indicatorsInner": {
+    "wrapper": {
+        "name": "Tariffs are only for participants of the ETP \"TEK-Torg\""
+    },
+    "cards": {
+        "cardsBottom": [
+            {
+                "head": {
+                    "number": "1200",
+                    "text": "outgoing"
+                },
+                "items": [
+                    {
+                        "text": "Connection to the EDM system is free of charge.<br>All incoming — 0 rubles!"
+                    }
+                ]
+            },
+            {
+                "head": {
+                    "number": "7800",
+                    "text": "rubles"
+                },
+                "items": [
+                    {
+                        "text": "Only outgoing transactions are charged. 6.5 rubles per document"
+                    }
+                ]
+            }
+        ]
+    }
+},
+"serviceTariffs": {
+    "wrapper": {
+        "title": "Save with EDM",
+        "modals": [
+            {
+                "id": "ApplicationForm3",
+                "text": "Join to EDO"
+            }
+        ]
+    },
+    "tariffs": [
+        {
+            "nid": "30",
+            "title": "Save 25,400 ₽<br>per year with EDM",
+            "section": "rosneft",
+            "description": "<p>We have calculated the average monthly traffic of documents on ETP for one supplier</p>",
+            "price": "5 documents | package<br>50 packages | month<br>50 rubles | average delivery price"
+        },
+        {
+            "nid": "31",
+            "title": "Paper <br>document management",
+            "section": "rosneft",
+            "description": "<p>That's how much you spend annually on printing and delivering 1,800 documents. As we calculated</p>",
+            "price_comment": "1 year",
+            "price": "38 200 ₽"
+        },
+        {
+            "nid": "751",
+            "title": "The annual tariff<br>of Diadoc",
+            "section": "rosneft",
+            "description": "<p>2000 outgoing documents, incoming — free of charge. Price without integration</p>",
+            "price_comment": "1 year",
+            "price": "12&thinsp;800&thinsp;₽"
+        }
+    ]
+},
+"bannerSlider2": {
+    "items": [
+        {
+            "background": {
+                "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            },
+            "title": "Any other questions?<br>Ask us!",
+            "modal": [
+                {
+                    "title": "Ask a Question",
+                    "id": "askQuestionForm"
+                }
+            ]
+        }
+    ]
+},
+"textWithImage": {
+    "picture": {
+        "src": "/images/pages/interRao/edoTextImg.jpg",
+        "sources": [
+            {
+                "src": "/images/pages/interRao/edoTextImg.jpg",
+                "breakpoint": "768"
+            }
+        ]
+    },
+    "textCard": {
+        "title": "Do you have digital signature?",
+        "text": [
+            "To work in EDM, you need a qualified digital signature (QDS). If you participate in the procedures, submit tax reports via the Internet, most likely, you have it.",
+            "Our managers will help you figure out whether you need to purchase a new one or update the current digital signature in a trusted VC of the Federal Tax Service."
+        ],
+        "link": {
+            "text": "Submit a Request",
+            "href": "/44-fz/service/e-signature"
+        }
+    }
+}
+}

@@ -1,0 +1,46 @@
+{
+    "lead": {
+        "title": "Cooperation offers",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "The single window (one-stop shop)",
+                    "href": "/rosneft/edinoe_okno"
+                },
+                {
+                    "text": "Cooperation offers"
+                }
+            ]
+        }
+    },
+    "questionnaireForm": {
+        "title": "Fill out the application form",
+        "text": [
+            "Offers of&nbsp;cooperation with Rosneft, which are of&nbsp;potential interest to&nbsp;the Company and correspond to&nbsp;its current areas of&nbsp;activity, are sent in&nbsp;the format of&nbsp;official letters containing information note on&nbsp;the goods, works, services. You can submit your offer by&nbsp;filling out the form below."
+        ]
+    },
+    "items": [
+        {
+            "background": {
+                "src": "/images/pages/rosneft-ps/rosneft-ps.jpg",
+                "sources": [
+                    {
+                        "src": "/images/pages/rosneft-ps/rosneft-ps.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        }
+    ]
+}

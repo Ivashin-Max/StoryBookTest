@@ -1,0 +1,167 @@
+{
+    "lead": {
+        "title": "Express Access to the Procedures",
+        "description": "One-time transfer of funds to the participant's personal account on a payment order marked by the bank as executed. Express access to biddings Crediting funds to your account within 2 hours",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Inter RAO",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Services",
+                    "href": "/inter_rao/service"
+                },
+                {
+                    "text": "Express Access to the Procedures",
+                    "href": "/services-fasterAccessTrading"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Submit a Request",
+            "id": "ApplicationForm3"
+        }
+    },
+    "exmpl2": {
+        "title": "Services are provided in the sections:",
+        "socials": [
+            {
+                "scrollToSelector": "#first",
+                "name": "rosneft",
+                "text": "Rosneft"
+            },
+            {
+                "scrollToSelector": "#second",
+                "name": "interrao",
+                "text": "Procurement procedures of Inter RAO"
+            },
+            {
+                "scrollToSelector": "#second",
+                "name": "fz223icon",
+                "text": "223-FZ and Commercial Procurement"
+            },
+            {
+                "scrollToSelector": "#first",
+                "name": "saleColorful",
+                "text": "Sale of property"
+            }
+        ]
+    },
+    "five": {
+        "title": "Connect service for sections: Sale of property and Rosneft",
+        "items": [
+            {
+                "text": "In the personal account on the ETP, the Participant shall in the \"Finance\"section/\"Connecting services\" click the \"+\" icon in the \"Operations\" block."
+            },
+            {
+                "text": "On the \"Adding a service\" form, it is necessary to create an invoice for payment for the service and an invoice for replenishment of the personal account."
+            },
+            {
+                "text": "Attach payment orders."
+            },
+            {
+                "text": "Accepting the terms of the contract by checking the box."
+            },
+            {
+                "text": "Sign and send an application for the service."
+            }
+        ]
+    },
+    "three": {
+        "title": "Connect service for sections: Inter Rao, 223-FZ and Commercial Procurement",
+        "items": [
+            {
+                "text": "Send the card of the company, specifying the service and section you need, to the ETP TEK-Torg e-mail <a href='mailto:help@tektorg.ru'>help@tektorg.ru</a>."
+            },
+            {
+                "text": "Get an invoice for payment."
+            },
+            {
+                "text": "Send to the ETP TEK-Torg e-mail <a href='mailto:help@tektorg.ru'>help@tektorg.ru</a> an application with an attached scanned copy of the payment order for payment for the Service under the Contract marked by the bank as accepted, and a scanned copy of the payment order for replenishment of the Client's personal account on the ETP marked by the Client's bank.."
+            }
+        ]
+    },
+    "example2": {
+        "wrapper": {
+            "name": "Price"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "9 900",
+                        "text": "rubles"
+                    },
+                    "items": [
+                        {
+                            "text": "Express crediting of money to pay the tariff"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "infoBlocks": {
+        "sideCard": {
+            "title": "Express access will help you to participate in biddings on the same day.",
+            "bg": "orange2",
+            "modalbtns": [
+                {
+                    "title": "Submit a Request",
+                    "id": "ApplicationForm3"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "Go through the simplified procedure to get the service",
+                "iconName": "checkMark2"
+            },
+            {
+                "text": "Get a customized solution to your request",
+                "iconName": "file"
+            },
+            {
+                "text": "Deposit funds within just 2 hours",
+                "iconName": "checkMark"
+            }
+        ]
+    },
+    "example4": {
+        "title": "Have you found a profitable tender, the completion date of which is already today?"
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any questions?<br> We will help!",
+                "modal": [
+                    {
+                        "title": "Ask a Question",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

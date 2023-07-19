@@ -1,0 +1,130 @@
+{
+    "lead": {
+        "title": "Quick start in Rosneft procurements",
+        "description":"Use a special tariff with an express accreditation procedure",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "ETP Sections"
+                },
+                {
+                    "text": "Procurement procedures of Rosneft",
+                    "href": "/rosneft"
+                },
+                {
+                    "text": "Services",
+                    "href": "/rosneft/service"
+                },
+                {
+                    "text": "Quick Start",
+                    "href": "/rosneft/service/tariff"
+                }
+            ]
+        },
+        "rectLink": {
+            "text": "Submit an application",
+            "id": "ApplicationForm3"
+        }
+    },
+    "bannerText": {
+        "title": "What is included in the \"Quick Start\" tariff?",
+        "text": [
+            "Only 2 hours from the moment of application and you can participate in biddings in the Rosneft section",
+            "Review of the documents will be carried out on an individual basis:",
+            "- Accelerated review of the documents for accreditation on the platform<br/>- Accelerated crediting of payment for the tariff<br/>- A guarantee of successful accreditation in the section",
+            "Tariff for one-time participation in the procedure in the Rosneft section"
+        ]
+    },
+    "infoblock":{
+        "sideCard": {
+            "title": "Why is it better to start faster?",
+            "bg": "blue"
+        },
+        "content": [
+            {
+                "text": "Participation in the procurement within 2 hours from the submission of the application",
+                "iconName": "clockArrow"
+            },
+            {
+                "text": "A simple scheme to get the service",
+                "iconName": "file"
+            },
+            {
+                "text": "The benefits of using a comprehensive tariff",
+                "iconName": "credit"
+            },
+            {
+                "text": "No additional expenses for participation",
+                "iconName": "cartMoney"
+            }
+        ]
+    },
+    "five": {
+        "title":"Only 4&nbsp;steps to connect the tariff",
+        "items": [
+            {
+                "text": "Log in to your personal account",
+                "href": "https://rn.tektorg.ru/#auth/login",
+                "isForeign": true
+            },
+            {
+                "text": "In the accreditation form, select \"Quick Start\""
+            },
+            {
+                "text": "Download the invoice and pay it"
+            },
+            {
+                "text": "Attach the payment order to a designated window"
+            }
+        ]
+    },
+    "example2": {
+        "wrapper": {
+            "name": "Price"
+        },
+        "cards": {
+            "cardsBottom": [
+                {
+                    "head": {
+                        "number": "21 600 ₽",
+                        "text": "Tariff price"
+                    },
+                    "items": [
+                        {
+                            "text": "Accelerated consideration of documents for&nbsp;accreditation, payment of the tariff, guarantee of successful accreditation in&nbsp;section and&nbsp;one-time participation in&nbsp;the procedure"
+                        }
+                    ]
+                }
+            ]
+        }
+    },"bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Any questions?<br>We will help!",
+                "modal": [
+                    {
+                        "title": "Ask a Question",
+                        "id": "ApplicationForm3"
+                    }
+                ]
+            }
+        ]
+    }
+}

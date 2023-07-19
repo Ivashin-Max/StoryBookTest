@@ -1,0 +1,262 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                  "text": "ETP Sections"
+                },
+                {
+                  "text": "Procurement procedures of Inter RAO",
+                  "href": "/inter_rao"
+                },
+                {
+                    "text": "Services",
+                    "href": "/inter_rao/service"
+                }
+            ]
+        },
+        "lineBottom": true,
+        "title": "Services for Suppliers"
+    },
+    "tags": [
+        "All",
+        "Easy Start",
+        "Assistance",
+        "Financial services"
+    ],
+    "tagsContent": {
+        "all": {
+            "colorSection": "orange2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/fast-accreditation"
+                    },
+                    "title": "Express Verification of Accreditation Documents",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/eruz"
+                    },
+                    "title": "Assistance in registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/bg"
+                    },
+                    "title": "Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        },
+        "easyStart": {
+            "colorSection": "orange2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/fast-accreditation"
+                    },
+                    "title": "Express Verification of Accreditation Documents",
+                    "text": "",
+                    "iconName": "file"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/eruz"
+                    },
+                    "title": "Assistance in registering in URPP",
+                    "text": "",
+                    "iconName": "checkMark"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/134"
+                    },
+                    "title": "Express Access to Procedures",
+                    "text": "",
+                    "iconName": "rocket"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/icwe"
+                    },
+                    "title": "Personal Consultation with an Expert",
+                    "text": "",
+                    "iconName": "icwe"
+                }
+            ]
+        },
+        "support": {
+            "colorSection": "orange2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/e-signature"
+                    },
+                    "title": "Digital Signature",
+                    "text": "",
+                    "iconName": "print"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/accompany-tenders"
+                    },
+                    "title": "Support of Tenders of Procurement Participants",
+                    "text": "",
+                    "iconName": "AcompanyTenders"
+                },
+                
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "financialServices": {
+            "colorSection": "orange2",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/factoring"
+                    },
+                    "title": "Factoring",
+                    "text": "",
+                    "iconName": "factoring"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/credit-on-contract"
+                    },
+                    "title": "Credit for the Contract Fulfillment",
+                    "text": "",
+                    "iconName": "creditOnDogovor"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/bg"
+                    },
+                    "title": "Bank/Independent Guarantee",
+                    "text": "",
+                    "iconName": "checkMark2"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/inter_rao/service/credit"
+                    },
+                    "title": "Credit for Working Capital Replenishment",
+                    "text": "",
+                    "iconName": "credit"
+                }
+            ]
+        }
+    }
+}

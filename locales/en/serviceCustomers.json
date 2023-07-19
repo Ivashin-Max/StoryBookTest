@@ -1,0 +1,161 @@
+{
+    "leadImg": {
+        "title": "Services<br>for 223-FZ Customers",
+        "background": {
+            "src": "/images/blocks/leadImg/services375.jpg",
+            "sources": [
+                {
+                    "src": "/images/blocks/leadImg/services.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/blocks/leadImg/services768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "Services"
+            },
+            {
+                "text": "For 223-FZ Customers",
+                "href": "/customers"
+            }
+        ]
+    },
+    "tags": [
+        "All",
+        "Planning",
+        "Preparation",
+        "Carrying Out",
+        "Conclusion of Contract",
+        "Analysis and Control"
+    ],
+    "tagsContent": {
+        "planning": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "https://www.youtube.com/watch?v=h7HshJA7umk",
+                        "isForeign": true
+                    },
+                    "title": "Procurement Procedure Planning Service",
+                    "text": "Advanced features when working with the procurement plan under 223-FZ",
+                    "iconName": "piece"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/customers-223-fz/nmc"
+                    },
+                    "title": "Justification of IMP",
+                    "text": "Analysis of price information on purchases, goods and services",
+                    "iconName": "conversation"
+                }
+            ]
+        },
+        "training": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/customers-223-fz/digital_helper"
+                    },
+                    "title": "Digital Assistant",
+                    "text": "Full verification of the supplier's status automatically and based on reliable sources",
+                    "iconName": "person"
+                }
+            ]
+        },
+        "holding": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3MarketCentre",
+                    "title": "Marketing Center",
+                    "text": "Ensuring the required level of competition in purchases. Communication and feedback collection from potential procurement participants",
+                    "iconName": "cart"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/customers-223-fz/outsourcing"
+                    },
+                    "title": "Procurement Outsourcing",
+                    "text": "Comprehensive support at all stages of the procurement process: from the development of documentation to the conclusion of the contract",
+                    "iconName": "timeout"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "https://vk.com/zakupo4naya",
+                        "isForeign": true
+                    },
+                    "title": "Procurement Community",
+                    "text": "An active community, which has been joined by more than 5,000 people in 1.5 years:<br/>— useful materials<br/>— news<br/>— live communication with experts and practitioners",
+                    "iconName": "commercialPurchases"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/education"
+                    },
+                    "title": "Training Center",
+                    "text": "Theory and practice from experts in the field of procurement",
+                    "iconName": "Education"
+                }
+            ]
+        },
+        "agreement": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "modalId": "ApplicationForm3ManageDogovor",
+                    "title": "Contract Management",
+                    "text": "Automated contract execution process",
+                    "iconName": "files"
+                },
+                {
+                    "link": {
+                        "text": "",
+                        "href": "/services/service-suppliers/edo"
+                    },
+                    "title": "Electronic Document Management",
+                    "text": "Send documents without duplication on&nbsp;paper to optimize costs, get documents for free",
+                    "iconName": "feedback"
+                }
+            ]
+        },
+        "analysis": {
+            "colorSection": "blue",
+            "cards": [
+                {
+                    "link": {
+                        "text": "",
+                        "href": "https://www.youtube.com/watch?v=gfTbwvvmxaE&feature=youtu.be",
+                        "isForeign": true
+                    },
+                    "title": "Accounting",
+                    "text": "Key performance indicators of your procurement activities in a high-quality visual representation",
+                    "iconName": "blank"
+                },
+                {
+                    "modalId": "ApplicationForm3NSI",
+                    "title": "Normalization of the Normative Directory of Information (NDI)",
+                    "text": "Create your own directory for working with goods, works, and services at all stages of the company's life cycle, including budgeting, procurement, accounting",
+                    "iconName": "documentFile"
+                }
+            ]
+        }
+    }
+}

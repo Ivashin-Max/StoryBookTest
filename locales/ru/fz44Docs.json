@@ -1,0 +1,37 @@
+{
+  "lead": {
+    "background": {
+      "src": "/images/pages/documents/docs-bg.jpg",
+      "sources": [
+        {
+          "src": "/images/pages/documents/docs-bg.jpg",
+          "breakpoint": "768"
+        }
+      ]
+    },
+    "title": "Документы"
+  },
+  "leadText": {
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Главная",
+          "href": "/"
+        },
+        {
+          "text": "223-ФЗ и Коммерческие закупки",
+          "href": "#"
+        },
+        {
+          "text": "Документы",
+          "href": "#"
+        }
+      ]
+    },
+    "title": "Документы"
+  },
+
+  "sidebar": {
+
+  }
+}

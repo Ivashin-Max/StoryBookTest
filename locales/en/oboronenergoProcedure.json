@@ -1,0 +1,30 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "For clients"
+                },
+                {
+                    "text": "Our customers",
+                    "href": "/clients/organizations"
+                },
+                {
+                    "text": "Oboronenergo JSC",
+                    "href": "/oboronenergo"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": "/oboronenergo"
+    },
+    "purchasesSlider": {
+        "title": "Similar procedures in&nbsp;other sections"
+    }
+}

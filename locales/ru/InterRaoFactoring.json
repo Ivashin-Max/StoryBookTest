@@ -1,0 +1,201 @@
+{
+    "leadText": {
+        "title": "Факторинг",
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Главная",
+                    "href": "/"
+                },
+                {
+                    "text": "Торговые секции"
+                },
+                {
+                    "text": "Закупки ПАО «Интер РАО»",
+                    "href": "/inter_rao"
+                },
+                {
+                    "text": "Услуги и сервисы для поставщиков",
+                    "href": "/inter_rao/service"
+                },
+                {
+                    "text": "Факторинг",
+                    "href": "/inter_rao/factoring"
+                }
+            ]
+        }
+    },
+    "bannerSlide": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/banner/bannerSlideFactoring-sm.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/banner/bannerSlideFactoring.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/banner/bannerSlideFactoring-md.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Факторинг от&nbsp;ЭТП ТЭК-Торг",
+                "text": [
+                    "Получите средства по&nbsp;текущим контрактам без отсрочек платежей. Решение за&nbsp;1&nbsp;час, по&nbsp;минимальному пакету документов"
+                ],
+                "modal": [
+                    {
+                        "title": "Получить факторинг",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            }
+        ]
+    },
+    "example2": {
+        "title": "Факторинг — инструмент для оперативного получения беззалогового финансирования",
+        "program": "<h3>При каких условиях поставщик выбирает факторинг:</h3>\r\n\r\n<p>—&nbsp;<span>Наличие отсрочек платежей в&nbsp;контрактах</span>&nbsp;</p>\r\n\r\n<p>— Затруднение в&nbsp;получении кредита</p>\r\n\r\n<p>— Недостаток оборотных средств</p>"
+    },
+    "infoBlock": {
+        "sideCard": {
+            "title": "Сервис онлайн-факторинга:",
+            "bg": "blue",
+            "modalbtns": [
+                {
+                    "title": "Получить консультацию",
+                    "id": "callBackForm"
+                }
+            ]
+        },
+        "content": [
+            {
+                "text": "Быстрое пополнение оборотных средств",
+                "iconName": "credit"
+            },
+            {
+                "text": "Ликвидация кассовых разрывов",
+                "iconName": "Msp"
+            },
+            {
+                "text": "Увеличение количества и&nbsp;объема поставок товара, работ, услуг",
+                "iconName": "Stonks"
+            },
+            {
+                "text": "Страхование риска неплатежа со&nbsp;стороны покупателя",
+                "iconName": "checkMark2"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Как работает факторинг?",
+        "text": [
+            "Ваша организация, не&nbsp;дожидаясь платежа от&nbsp;дебитора, получает финансирование за&nbsp;поставки от&nbsp;фактора после предоставления закрывающего документа, в&nbsp;течение 24&nbsp;часов.",
+            "Далее процесс происходит по&nbsp;схеме:<br/><br/>1. Поставка товара или оказание услуг с&nbsp;отсрочкой платежа<br/>2. Уступка права требования по&nbsp;поставке фактору<br/>3. Финансирование до&nbsp;90% от&nbsp;суммы поставки<br/>4. Оплата за&nbsp;поставленный товар на&nbsp;расчетный счет фактора<br/>5. Перечисление фактором платежа поставщику, за&nbsp;вычетом комиссии.<br/>"
+        ],
+        "modals": [
+            {
+                "title": "Оформить заявку",
+                "id": "ServicesFormWithTitle"
+            }
+        ]
+    },
+    "benefits": {
+        "title": "Преимущества факторинга от&nbsp;ЭТП ТЭК-Торг",
+        "cards": {
+            "cardLink": {
+                "title": "Оформление онлайн-заявки: решение за&nbsp;1&nbsp;час",
+                "fullModalCard": true,
+                "modal": [
+                    {
+                        "title": "Оформить",
+                        "id": "ServicesFormWithTitle"
+                    }
+                ]
+            },
+            "cardBottom": [
+                {
+                    "title": "Минимальный пакет документов для оформления, не&nbsp;нужно открывать счет в&nbsp;другом банке",
+                    "iconName": "case2"
+                },
+                {
+                    "title": "Без залога и&nbsp;визита в&nbsp;банк: онлайн по&nbsp;всей России",
+                    "iconName": "feedback"
+                }
+            ]
+        }
+    },
+    "numbered": {
+        "title": "Как это работает? ",
+        "items": [
+            {
+                "title": "Заявка",
+                "description": "Оставьте заявку или позвоните<br/><a href='tel:+7 495 734-81-18'>+7 495 734-81-18</a>&nbsp;доб.&nbsp;617"
+            },
+            {
+                "title": "Заполнение",
+                "description": "Заполните информацию на&nbsp;открытие лимита"
+            },
+            {
+                "title": "Документы",
+                "description": "Присылайте документы и&nbsp;первичные накладные на&nbsp;финансирование"
+            },
+            {
+                "title": "Оплата поставок",
+                "description": "Получите оплату выбранных поставок в&nbsp;течение 24&nbsp;часов"
+            }
+        ]
+    },
+    "TextWithImage": {
+        "picture": {
+            "src": "/images/banner/textImFactoring.jpg",
+            "sources": [
+                {
+                    "src": "/images/banner/textImFactoring.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        },
+        "textCard": {
+            "title": "Акция по&nbsp;факторингу для клиентов ЭТП ТЭК-Торг ставка финансирования от&nbsp;0,04% в&nbsp;день",
+            "text": [
+                "В&nbsp;рамках акции наш партнер снижает ставку факторингового финансирования для всех клиентов площадки ТЭК-Торг: без скрытых комиссий и&nbsp;переплат&nbsp;&mdash; ставка от&nbsp;0,05% годовых за&nbsp;день финансирования.",
+                "Удобно&nbsp;&mdash; процессы автоматизированы в&nbsp;Личном кабинете, персональный менеджер сопровождает на&nbsp;всех этапах работы.",
+                "Быстро, без бюрократии&nbsp;&mdash; для заявки достаточно 2&nbsp;документов (анкета и&nbsp;контракт), предварительное решение доступно в&nbsp;день обращения."
+            ],
+            "modal": [
+                {
+                    "title": "Оформить",
+                    "id": "ServicesFormWithTitle"
+                }
+            ]
+        }
+    },
+    "bannerSlider": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Есть вопросы?<br>Мы поможем!",
+                "modal": [
+                    {
+                        "title": "Задать вопрос",
+                        "id": "askQuestionForm"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "companyFull",
+            "description": "The electronic trading platform TEK-Torg",
+            "href": "#"
+        },
+        "menu": [
+            {
+                "text": "About us",
+                "href": "#",
+                "id": "tektorg",
+                "subLinks": []
+            },
+            {
+                "text": "Work with us",
+                "href": "#",
+                "id": "job",
+                "subLinks": []
+            },
+            {
+                "text": "Contacts",
+                "href": "#",
+                "id": "contacts",
+                "subLinks": []
+            },
+            {
+                "text": "News",
+                "href": "#",
+                "id": "news",
+                "subLinks": [
+                    {
+                        "text": "Purchase announcements",
+                        "href": "#"
+                    },
+                    {
+                        "text": "Press Centre",
+                        "href": "#"
+                    },
+                    {
+                        "text": "Media about us",
+                        "href": "#"
+                    }
+                ]
+            },
+            {
+                "text": "Partners",
+                "href": "#",
+                "id": "partners",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Digital assistant",
+            "image": "/images/blocks/sidebar/bg1.jpg",
+            "link": {
+                "text": "",
+                "href": "#"
+            }
+        }
+    }
+}

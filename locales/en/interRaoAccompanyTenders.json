@@ -1,0 +1,167 @@
+{
+  "leadText": {
+    "title": "Support in tenders from application submission to victory",
+    "description": "We will help you to participate in procurements under 44-FZ, 223-FZ and in commercial biddings",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+            "text": "ETP Sections"
+        },
+        {
+          "text": "Procurement procedures of Inter RAO",
+          "href": "/inter_rao"
+        },
+        {
+            "text": "Services",
+            "href": "/inter_rao/service"
+        },
+        {
+          "text": "Support of tenders of procurement participants"
+        }
+      ]
+    },
+    "rectLink": {
+      "text": "Submit a Request",
+      "id": "ApplicationForm3"
+    }
+  },
+  "bannerText": {
+    "title": "",
+    "background": {
+      "src": "/images/blocks/bannerText/blue-375.jpg",
+      "sources": [
+        {
+          "src": "/images/blocks/bannerText/2.jpg",
+          "breakpoint": "768"
+        }
+      ]
+    }
+  },
+  "example1": {
+    "title": "Stages of participation in procurement",
+    "program": "<div class=\"program_item active\">\r\n<div class=\"program-title\"><span>1. Obtainement and renewal of a digital signature.</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>According to No. 63-FZ \"On Digital Signature\", it is issued for up to 12 months and requires regular replacement.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>2. Accreditation</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Of the organization on electronic trading platforms.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>3. Monitoring and selection of tenders.</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>It is necessary not only to collect suitable tenders, but also to evaluate the conditions of participation in them, requirements for providers and suppliers, securing the application and deadlines for execution. This is a significant amount of work that requires time and resources.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>4. Granting a tender loan, assistance in obtaining a bank guarantee or a credit to participate in the tender.</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li> Getting a guarantee or a credit is much easier and faster through a trading platform than a tender broker.Getting a guarantee or a credit is much easier and faster through a trading platform than a tender broker.</li></ul>\r\n</div>\r\n</div>\r\n\r\n<div class=\"program_item\">\r\n<div class=\"program-title\"><span>5. Preparation of documentation and submission of an application for participation in the tender.</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>This is one of the most difficult stages, since a lot of documents are required, and each customer has a list containing the requirements to all certificates and seals in them. Without considering such details, this may serve as an official reason for rejecting the application. Therefore, do not forget to conduct an examination of the application before filing.</li></ul>\r\n</div>\r\n</div>\r\n<div class=\"program_item active\">\r\n<div class=\"program-title\"><span>6. Support in biddings on behalf of the organization</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>This step involves the presentation of projects, services or goods. This has its own tender specifics according to the correct customer's belief in the quality of the offered product.</li></ul>\r\n</div>\r\n</div><div class=\"program_item active\">\r\n<div class=\"program-title\"><span>7. The appeal of the results to the Federal Antimonopoly Service.</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>In case of an unsuccessful decision, it is important to correctly draft the documents for the complaint and prepare for the meeting.</li></ul>\r\n</div>\r\n</div><div class=\"program_item active\">\r\n<div class=\"program-title\"><span>8. Legal support of transactions.</span><img src=\"/themes/tektorg/images/arrow-down.svg\" /></div>\r\n\r\n<div class=\"program-desc\">\r\n<ul>\r\n\t<li>Document management, contract verification and concluding a contract with a state, municipal or commercial customer.</li></ul>\r\n</div>\r\n</div>"
+  },
+  "advBanners": {
+    "cards": {
+        "sideCard": {
+            "title": "Holistic support or One-time support",
+            "picture": {
+                "src": "/images/infoCards/2_11_375.jpg",
+                "sources": [
+                    {
+                        "src": "/images/infoCards/2_11_1920.jpg",
+                        "breakpoint": "1280"
+                    },
+                    {
+                        "src": "/images/infoCards/2_11_768.jpg",
+                        "breakpoint": "768"
+                    }
+                ]
+            }
+        },
+        "cards": [
+            {
+                "title": "Do you want to delegate and free yourself as much as possible from the tasks of participating in procurement?",
+                "modalId": "ApplicationForm3",
+                "text": "Holistic support<br/>It includes the entire cycle of participation in procurement, from the obtainment of the DS to the signing of contracts with the customer based on the results of the successful biddings"
+            },
+            {
+                "title": "Do you plan to start with one thing: search for tenders or prepare documents without errors?",
+                "modalId": "ApplicationForm3",
+                "text": "One-time support<br/>Participation of specialists in solving one or more tasks for participation in the tender only at a certain stage"
+            }
+        ]
+    }
+},
+"tariff":{
+  "wrapper": {
+      "title": "Special tariffs for fuel and energy sector participants-Auction",
+      "links": [
+          {
+              "id": "ApplicationForm3",
+              "text": "Select a tariff"
+          }
+      ]
+  },
+  "tariffs": [
+      {
+          "nid": "30",
+          "title": "YOUR OWN TARIFF",
+          "section": "rosneft",
+          "description": "Choose the services that are relevant to you"
+      },
+      {
+          "nid": "31",
+          "title": "INDIVIDUAL",
+          "section": "rosneft",
+          "description": "Commission (% of the tenders won) depending on the selected option",
+          "price_comment": "Up to 6 tender procedures",
+          "price": "from 30 000 ₽"
+      },
+      {
+          "nid": "751",
+          "title": "EASY START",
+          "section": "rosneft",
+          "description": "The price includes:Registration in the UIS and in public services (Gosuslugi). Selection of tenders on your subject for one month. Setting up a template for searching for tenders. Preparation and submission of one application on the ETP",
+          "price_comment": "Start participating in public procurement",
+          "price": "9 900 ₽"
+      }
+  ]
+},
+  "infoBlock": {
+    "sideCard": {
+      "title": "Why should one order help to participate in the biddings?",
+      "bg": "blue",
+      "modalbtns": [
+        {
+          "title": "Get a free consultation",
+          "id": "ApplicationForm3"
+        }
+      ]
+    },
+    "content": [
+      {
+        "text": "<b>Access to new sales channels</b><br/>More than 8,000 biddings a day are being added to the trading platforms. Experts will find procurements for each business segment.",
+        "iconName": "checkMark2"
+      },
+      {
+        "text": "<b>Reliability</b><br/>Protection from unscrupulous customers and awareness of all changes in legislation and tenders.",
+        "iconName": "file"
+      },
+      {
+        "text": "<b>Transparent work scheme</b><br/>Free consultation of a personal manager and a joint choice of services / optimal tariff.",
+        "iconName": "checkMark"
+      }
+    ]
+  },
+  "bannerSlider": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Any questions?<br>We will help!",
+        "links": [
+          {
+            "text": "Ask a question",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

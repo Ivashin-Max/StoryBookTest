@@ -1,0 +1,28 @@
+{
+  "lead": {
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "ETP Sections"
+        },
+        {
+          "text": "Procurement procedures of Rosneft",
+          "href": "/rosneft"
+        },
+        {
+          "text": "For foreign suppliers",
+          "href": "/rosneft/suppliers-foreign"
+        },
+        {
+          "text": "Video Materials"
+        }
+      ]
+    },
+    "lineBottom": true,
+    "title": "Video Materials"
+  }
+}

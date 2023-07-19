@@ -1,0 +1,81 @@
+{
+    "leadText": {
+        "breadcrumbs": {
+            "crumbs": [
+                {
+                    "text": "Main",
+                    "href": "/"
+                },
+                {
+                    "text": "For clients"
+                },
+                {
+                    "text": "Our customers",
+                    "href": "/clients/organizations"
+                },
+                {
+                    "text": "SPb GKU Customer Management",
+                    "href": "/upravlenie_zakazchika"
+                }
+            ]
+        }
+    },
+    "backButton": {
+        "text": "To the list of procedures",
+        "href": "/upravlenie_zakazchika"
+    },
+    "bannerSliderFirst": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/44-fz/procedures/tender-support-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/44-fz/procedures/tender-support.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/44-fz/procedures/tender-support-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Банковские гарантии",
+                "text": "Гарантии по&nbsp;форме заказчика.<br>Все операции онлайн.<br>Проект гарантии за&nbsp;30&nbsp;минут.<br>Скидка&nbsp;25%",
+                "links": [
+                    {
+                        "text": "Оформить",
+                        "href": "/44-fz/service/bg"
+                    }
+                ]
+            }
+        ]
+    },
+    "bannerSliderSecond": {
+        "items": [
+            {
+                "background": {
+                    "src": "/images/pages/44-fz/procedures/bannerSlider/financial-services-375.jpg",
+                    "sources": [
+                        {
+                            "src": "/images/pages/44-fz/procedures/bannerSlider/financial-services.jpg",
+                            "breakpoint": "1280"
+                        },
+                        {
+                            "src": "/images/pages/44-fz/procedures/bannerSlider/financial-services-768.jpg",
+                            "breakpoint": "768"
+                        }
+                    ]
+                },
+                "title": "Финансовые сервисы<br>для участников закупки",
+                "text": "Банковские гарантии. Кредитование. Факторинг.<br>Все операции онлайн.<br>Персональный менеджер 24/7<br>Скидка&nbsp;50%",
+                "links": [
+                    {
+                        "text": "Получить",
+                        "href": "https://fin.tektorg.ru"
+                    }
+                ]
+            }
+        ]
+    }
+}

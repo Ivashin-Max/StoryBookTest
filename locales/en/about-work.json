@@ -1,0 +1,41 @@
+{
+    "leadImg": {
+        "title": "Careers",
+        "textColor": "white",
+        "backgroundColor": "blue",
+        "background": {
+            "src": "/images/pages/about-work/leadImg/work-bg-375.jpg",
+            "sources": [
+                {
+                    "src": "/images/pages/about-work/leadImg/work-bg-1920.jpg",
+                    "breakpoint": "1280"
+                },
+                {
+                    "src": "/images/pages/about-work/leadImg/work-bg-768.jpg",
+                    "breakpoint": "768"
+                }
+            ]
+        }
+    },
+    "breadcrumbs": {
+        "crumbs": [
+            {
+                "text": "Main",
+                "href": "/"
+            },
+            {
+                "text": "About company"
+            },
+            {
+                "text": "Careers"
+            }
+        ]
+    },
+    "bannerText": {
+        "title": "Vacancies",
+        "text": [
+            "TEK-Torg JSC is&nbsp;the young dynamically developing company with unlimited possibilities for implementation of&nbsp;the professional potential.",
+            "We&nbsp;are interested in&nbsp;motivated, initiative, energetic and talented employees, who love their work and can work in&nbsp;a&nbsp;team."
+        ]
+    }
+}

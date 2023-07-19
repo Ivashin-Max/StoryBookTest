@@ -1,0 +1,277 @@
+{
+  "leadText": {
+    "title": "Bank/Independent guarantee for a tender with a 1.5% commission",
+    "breadcrumbs": {
+      "crumbs": [
+        {
+          "text": "Main",
+          "href": "/"
+        },
+        {
+          "text": "ETP Sections"
+        },
+        {
+          "text": "223-FZ and Commercial Procurement",
+          "href": "/223-fz"
+        },
+        {
+          "text": "Services for suppliers",
+          "href": "/223-fz/service-suppliers"
+        },
+        {
+          "text": "Bank/Independent Guarantee"
+        }
+      ]
+    }
+  },
+  "bannerText": {
+    "title": "Independent Guarantee",
+    "text": [
+      "Since January 1, 2022, an independent guarantee has replaced a bank guarantee in the procurements under 44-FZ.",
+      "Bank guarantees are issued exclusively by banks. Independent guarantees are issued not only by banks listed by the Ministry of Finance, but also by other financial organizations (paragraph 1 of Article 45 of the 44-FZ)."
+    ],
+    "modals": [
+      {
+        "title": "Get a Guarantee",
+        "id": "ServicesFormWithTitle"
+      }
+    ]
+  },
+  "bannerSlider2": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/banner/creditOnContract375.jpg",
+          "sources": [
+              {
+                  "src": "/images/banner/creditOnContract.jpg",
+                  "breakpoint": "1280"
+              },
+              {
+                  "src": "/images/banner/creditOnContract768.jpg",
+                  "breakpoint": "768"
+              }
+          ]
+      },
+        "title": "Bank/Independent guarantee for a tender with a 1.5% commission",
+        "text": [
+          "Obtaining an independent guarantee with one document from 15 minutes. All processes are available online"
+        ],
+        "modal": [
+          {
+            "title": "Get a Guarantee",
+            "id": "ServicesFormWithTitle"
+          }
+        ]
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Benefits",
+    "cards": {
+      "cardLink": {
+        "fullModalCard": true,
+        "title": "Obtaining an independent guarantee with one document from 15 minutes",
+        "modal": [{
+          "title": "Get a Guarantee",
+          "id": "ServicesFormWithTitle"
+        }]
+      },
+      "cardBottom": [
+        {
+          "title": "All processes are available online",
+          "iconName": "finger"
+        },
+        {
+          "title": "Any guarantees: 44-Fz 223-FZ, 185-FZ (615 PP RF), Commercial bidding",
+          "iconName": "checkMark2"
+        },
+        {
+          "title": "The amount of the guarantee is not limited",
+          "iconName": "bankomat"
+        },
+        {
+          "title": "Minimum commission 900 ₽",
+          "iconName": "piece"
+        },
+        {
+          "title": "We work with tough cases all over Russia",
+          "iconName": "case2"
+        }
+      ]
+    }
+  },
+  "infoBlocks": {
+    "sideCard": {
+      "title": "When is a guarantee required?",
+      "bg": "blue"
+    },
+    "content": [
+      {
+        "text": "Money is required for the fulfillment of the contract, but not for a deposit to the customer",
+        "iconName": "cartMoney"
+      },
+      {
+        "text": "The amount of collateral for the lots won exceeds the available funds",
+        "iconName": "judgesGavel"
+      },
+      {
+        "text": "The customer delays payment under the previously concluded contract",
+        "iconName": "blank"
+      },
+      {
+        "text": "An advance payment is required under the contract",
+        "iconName": "case"
+      }
+    ]
+  },
+  "bannerSlide": {
+    "items": [
+      {
+        "background": {
+          "src": "/images/blocks/bannerSlider/slide375.jpg",
+          "sources": [
+            {
+              "src": "/images/blocks/bannerSlider/slide1.jpg",
+              "breakpoint": "1280"
+            },
+            {
+              "src": "/images/blocks/bannerSlider/slide768.jpg",
+              "breakpoint": "768"
+            }
+          ]
+        },
+        "title": "Nowadays, the guarantee is issued in a few hours online.",
+        "text": [
+          "Bank/independent guarantee is an access to public procurements and commercial procurements without extracting your own funds from circulation. The availability of funds for the fulfillment of the procurement is a prerequisite for most tenders. The issuance of a bank guarantee acts as a security for the contract."
+        ],
+        "modal": [
+          {
+            "title": "Get a Consultation",
+            "id": "ServicesFormWithTitle"
+          }
+        ]
+      }
+    ]
+  },
+  "example4": {
+    "title": "Types of bank guarantees",
+    "cards": [
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/1.jpg",
+        "title": "A guarantee for the purposes of participation",
+        "text": "Securing an application for participation in the procurement in the form of an independent guarantee",
+        "textColor": "white"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/2.jpg",
+        "textColor": "white",
+        "title": "A guarantee for the purposes of contract fulfillment",
+        "text": "A written obligation under which the bank will pay the amount of damage if the contractor does not fulfill its obligations under the contract"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/3.jpg",
+        "textColor": "white",
+        "title": "A guarantee for the purposes of advance payment repayment",
+        "text": "The Bank guarantees the refund of the advance payment provided by the customer to the contractor if the contract is not fulfilled. The amount of the guarantee is equal to the amount of the advance payment received by the supplier"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/1.jpg",
+        "textColor": "white",
+        "title": "A guarantee for the purposes of the contract fulfillment",
+        "text": "It is used to secure buyer’s fulfillment of the payment obligations stipulated in the contract, covers the risk of non-payment (late payment) from the buyer's side"
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/2.jpg",
+        "textColor": "white",
+        "title": "Payment Guarantee",
+        "text": "A guarantee to secure the buyer’s fulfillment of the payment obligations stipulated in the contract. It is based on the payment terms of the contract and covers the risk of non-payment (late payment) from the buyer's side."
+      },
+      {
+        "modalId": "ServicesFormWithTitle",
+        "image": "/images/blocks/сardSet/3.jpg",
+        "textColor": "white",
+        "title": "A guarantee for the purposes of securing warranty obligations",
+        "text": "The type of security that is necessary if the customer requires the warranty period for the goods, works or services"
+      }
+    ]
+  },
+  "infolist": {
+    "title": "5 reasons why companies choose our service",
+    "items": [
+      {
+        "title": "Speed of operation",
+        "text": "You will receive a draft bank guarantee within 15 minutes, and the issuance of a scan of the guarantee is possible within an hour after payment"
+      },
+      {
+        "title": "Reliability",
+        "text": "TEK-Torg is a federal electronic platform selected and certified by the Ministry of Finance of Russia"
+      },
+      {
+        "title": "Saving of time",
+        "text": "Your personal manager independently prepares the necessary documents and sends an application to the banks"
+      },
+      {
+        "title": "Work all over Russia",
+        "text": "We provide services in each region in electronic form, without personal visits and visits to banks"
+      },
+      {
+        "title": "Favorable conditions",
+        "text": "We offer minimum rates due to the absence of intermediaries"
+      }
+    ]
+  },
+  "textWImg":{
+    "picture": {
+      "src": "/images/blocks/textWithImage/building.jpg",
+      "sources": [
+          {
+              "src": "/images/blocks/textWithImage/building.jpg",
+              "breakpoint": "768"
+          }
+      ]
+  },
+  "textCard": {
+      "title": "Fixed rate at 2.3%, up to&nbsp;5&nbsp;million. rubles",
+      "text": [
+          "Only for suppliers of the ETP TEK-Torg any bank guarantees are subject to a fixed rate of 2.3%. Up to 5 million rubles, a guarantee can only be obtained with a passport."
+      ],
+      "modal": [{
+          "title": "Get a Guarantee",
+          "id": "ServicesFormWithTitle"
+      }]
+  }
+  },
+  "bannerSlider": {
+    "items": [
+      {
+        "background": {
+        "src": "/images/blocks/bannerSlider/slide-2_375.jpg",
+        "sources": [
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_1920.jpg",
+            "breakpoint": "1280"
+          },
+          {
+            "src": "/images/blocks/bannerSlider/slide-2_768.jpg",
+            "breakpoint": "768"
+          }
+        ]
+        },
+        "title": "Any questions? We will help",
+        "text": "",
+        "modal": [
+          {
+            "title": "Ask a question",
+            "id": "askQuestionForm"
+          }
+        ]
+      }
+    ]
+  }
+}

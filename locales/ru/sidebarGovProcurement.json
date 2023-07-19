@@ -1,0 +1,62 @@
+{
+    "sidebar": {
+        "header": {
+            "logo": "govProcurement",
+            "description": "Электронная торговая площадка ТЭК-Торг<br> Секция Государственных закупок по 44-ФЗ",
+            "href": "/44-fz"
+        },
+        "menu": [
+            {
+                "text": "Преимущества для заказчиков",
+                "href": "/44-fz/pz",
+                "id": "benefits",
+                "subLinks": []
+            },
+            {
+                "text": "Закупочные процедуры",
+                "href": "/44-fz/procedures",
+                "id": "procurementProcedures",
+                "subLinks": []
+            },
+            {
+                "text": "Документы",
+                "href": "/44-fz/documents",
+                "id": "documents",
+                "subLinks": []
+            },
+            {
+                "text": "Тарифы",
+                "href": "/44-fz/tariff",
+                "id": "tariffs",
+                "subLinks": []
+            },
+            {
+                "text": "Центр поддержки",
+                "id": "support",
+                "subLinks": [
+                    {
+                        "text": "Заказчикам",
+                        "href": "/44-fz/customers/help"
+                    },
+                    {
+                        "text": "Поставщикам",
+                        "href": "/44-fz/suppliers/help"
+                    }
+                ]
+            },
+            {
+                "text": "Услуги и сервисы",
+                "href": "/44-fz/service",
+                "id": "services",
+                "subLinks": []
+            }
+        ],
+        "banner": {
+            "title": "Электронная подпись по&nbsp;льготной цене",
+            "image": "/images/headerWidgets/tradeSections1.jpg",
+            "link": {
+                "href": "/services/service-suppliers/e-signature"
+            }
+        }
+    }
+}
